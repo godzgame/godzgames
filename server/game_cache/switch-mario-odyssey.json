@@ -1,0 +1,40 @@
+{
+  "genre": {
+    "en": "Custom Genre EN",
+    "es": "Género Personalizado ES"
+  },
+  "releaseDate": {
+    "en": "October 2017",
+    "es": "Octubre de 2017"
+  },
+  "publisher": {
+    "en": "Nintendo",
+    "es": "Nintendo"
+  },
+  "developer": {
+    "en": "Nintendo EPD",
+    "es": "Nintendo EPD"
+  },
+  "size": {
+    "en": "5.6 GB",
+    "es": "5.6 GB"
+  },
+  "description": {
+    "en": "Custom English Synopsis",
+    "es": "Sinopsis personalizada en español"
+  },
+  "customCover": "https://example.com/custom-cover.jpg",
+  "customScreens": [
+    "https://example.com/screen1.jpg",
+    "https://example.com/screen2.jpg"
+  ],
+  "customLinks": [
+    "https://1fichier.com/?custom1",
+    "https://mega.nz/custom2",
+    "https://drive.google.com/custom3"
+  ],
+  "title": "Super Mario Odyssey",
+  "consoleName": "Nintendo Switch",
+  "id": "switch-mario-odyssey",
+  "lastModified": 1781747316349
+}

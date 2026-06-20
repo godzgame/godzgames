@@ -1,0 +1,26 @@
+{
+  "genre": {
+    "en": "First-Person Adventure",
+    "es": "Aventura en primera persona"
+  },
+  "releaseDate": {
+    "en": "March 2019",
+    "es": "Marzo de 2019"
+  },
+  "publisher": {
+    "en": "Ziggurat Interactive",
+    "es": "Ziggurat Interactive"
+  },
+  "developer": {
+    "en": "Gumbo Games",
+    "es": "Gumbo Games"
+  },
+  "size": {
+    "en": "450 MB",
+    "es": "450 MB"
+  },
+  "description": {
+    "en": "In ROUNDS, you take on the role of a lone explorer trapped aboard a derelict vessel lost in deep space. The game blends atmospheric horror with intelligent puzzle‑solving, as you navigate dim corridors, reprogram failed AI systems, and uncover a dark secret that could tear the ship apart. Using motion controls on the Switch, your light source becomes your most valuable ally as you delve deeper into the ship’s mysteries, balancing survival, resource management, and the ever‑present tension of unknown dangers lurking in the dark.",
+    "es": "En ROUNDS, asumes el papel de un explorador solo atrapado a bordo de una nave abandonada perdida en el espacio profundo. El juego combina horror atmosférico con puzles inteligentes, mientras navegas corredores tenebrosos, reprogramas sistemas de IA fallidos y descubres un oscuro secreto que podría arrebatar la nave. Con el uso del control de movimiento en la Switch, tu luz se convierte en tu aliado más valioso al adentrarte en los misterios de la nave, equilibrando supervivencia, gestión de recursos y la constante tensión de los peligros desconocidos que acechan en la oscuridad."
+  }
+}

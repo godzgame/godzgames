@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GodZGames</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="header container">
+      <div class="logo">
+        <img src="/logo.png" alt="GodZGames Logo" />
+      </div>
+      <!-- Header Actions (Search + Language) -->
+      <div class="header-right" style="display: flex; align-items: center; gap: 20px; flex: 1; max-width: 650px; justify-content: flex-end;">
+        <!-- Header Search Bar -->
+        <div class="header-search" style="margin-left: 0; flex: 1; max-width: 500px;">
+          <div class="search-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+          </div>
+          <input type="text" id="header-search-input" placeholder="Search games..." />
+          <button id="header-search-clear" class="clear-btn" style="display: none;" aria-label="Clear search">&times;</button>
+        </div>
+
+        <!-- Language Selector -->
+        <span class="lang-selector" style="font-family: var(--font-heading); display: inline-flex; align-items: center; gap: 2px;">
+          <button class="lang-btn active" id="lang-en">EN</button>
+          <span style="opacity: 0.3; font-weight: normal; margin: 0 2px;">/</span>
+          <button class="lang-btn" id="lang-es">ES</button>
+        </span>
+      </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="main-nav">
+      <div class="container nav-content">
+        <div class="nav-home">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+        </div>
+        <ul class="nav-links" id="nav-links">
+          <!-- Categories will be injected here -->
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Tags -->
+    <div class="tags-bar container">
+      <span class="tag-label" data-i18n="popularConsoles">Popular Consoles:</span>
+      <div class="tags-list" id="tags-list">
+        <!-- Tags injected here -->
+      </div>
+    </div>
+
+    <!-- News Flash Ticker -->
+    <div class="news-flash container">
+      <div class="news-flash-label" data-i18n="newsFlash">News Flash</div>
+      <div class="news-flash-ticker">
+        <div class="ticker-content" id="ticker-content">
+          <!-- Ticker items injected here -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container content-area">
+      <div id="home-view">
+        <!-- Featured Grid -->
+        <section class="featured-grid" id="featured-grid">
+          <!-- Featured games injected here -->
+        </section>
+
+        <!-- Popular Stories / Games -->
+        <section class="popular-games">
+          <h2 class="section-title"><span data-i18n="popularGames">Popular Games</span> <span class="line"></span></h2>
+          <div class="games-grid" id="games-grid">
+            <!-- Game cards injected here -->
+          </div>
+          <div class="pagination-controls" id="pagination-controls">
+            <!-- Pagination buttons injected here -->
+          </div>
+        </section>
+      </div>
+
+      <div id="game-view" style="display: none;">
+        <!-- Dynamic Game Details Page will be injected here -->
+      </div>
+
+      <!-- Administration View -->
+      <div id="admin-view" style="display: none; padding: 20px 0;">
+        <!-- 1. Login Card -->
+        <div id="admin-login-form" class="admin-card" style="display: block;">
+          <h2>Admin Login</h2>
+          <p class="admin-subtitle">Introduce tu contraseña de administrador para ingresar</p>
+          <div class="form-group">
+            <input type="password" id="admin-password-input" placeholder="Contraseña / Password" />
+          </div>
+          <button id="admin-login-btn" class="admin-btn">Ingresar</button>
+          <div id="admin-login-error" class="admin-error" style="display: none;"></div>
+        </div>
+
+        <!-- 2. Admin Dashboard (Games list & Search) -->
+        <div id="admin-dashboard" style="display: none;">
+          <div class="admin-header-row">
+            <h2>Panel de Administración</h2>
+            <div class="admin-header-actions" style="display: flex; gap: 10px; align-items: center;">
+              <button id="admin-add-game-btn" class="admin-btn add-game-btn">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
+                Agregar Juego
+              </button>
+              <label class="admin-btn" style="cursor: pointer; display: inline-flex; align-items: center; gap: 5px; margin: 0; background-color: var(--color-primary-dark); border-color: var(--color-primary-light);">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M5 4h14v2H5zm0 10h4v6h6v-6h4l-7-7-7 7z"/></svg>
+                Importar Excel
+                <input type="file" id="admin-import-excel" accept=".xlsx, .xls" style="display: none;" />
+              </label>
+              <button id="admin-logout-btn" class="admin-btn-secondary">Cerrar Sesión</button>
+            </div>
+          </div>
+          <div id="admin-import-status" class="admin-status-message" style="display: none; margin-bottom: 20px; padding: 12px; border-radius: var(--radius-sm);"></div>
+
+          <!-- Scraping Control Panel -->
+          <div class="scrape-panel" id="scrape-panel">
+            <div class="scrape-panel-header">
+              <div class="scrape-panel-title">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-secondary)"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>
+                Pre-carga Masiva de Sinopsis e Imágenes
+              </div>
+              <div class="scrape-panel-actions">
+                <button id="scrape-start-btn" class="admin-btn scrape-btn-start">▶ Iniciar</button>
+                <button id="scrape-stop-btn" class="admin-btn-secondary scrape-btn-stop" style="display:none;">⏹ Detener</button>
+                <button id="scrape-reset-btn" class="admin-btn-ghost" title="Eliminar archivos fallback para re-intentarlos">↺ Re-intentar fallbacks</button>
+              </div>
+            </div>
+            <div id="scrape-status-bar" class="scrape-status-bar" style="display:none;">
+              <div class="scrape-bar-track">
+                <div class="scrape-bar-fill" id="scrape-bar-fill" style="width:0%"></div>
+              </div>
+              <div class="scrape-stats-row">
+                <span id="scrape-stat-cached">0</span> cacheados &nbsp;·&nbsp;
+                <span id="scrape-stat-pending">0</span> pendientes &nbsp;·&nbsp;
+                <span class="scrape-ok">✓ <span id="scrape-stat-ok">0</span></span> &nbsp;·&nbsp;
+                <span class="scrape-err">✗ <span id="scrape-stat-err">0</span></span> &nbsp;·&nbsp;
+                <span id="scrape-stat-pct">0%</span>
+              </div>
+              <div class="scrape-current-game" id="scrape-current-game"></div>
+            </div>
+          </div>
+
+          <!-- 2a. Console Selection View -->
+          <div id="admin-console-select-view">
+            <h3 style="margin-top: 20px; margin-bottom: 15px; font-family: var(--font-heading); color: var(--color-secondary);">Selecciona una Consola para gestionar:</h3>
+            <div id="admin-console-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; margin-bottom: 30px;">
+              <!-- Console buttons will be injected here -->
+            </div>
+          </div>
+
+          <!-- 2b. Games List View (Initially hidden) -->
+          <div id="admin-games-list-view" style="display: none;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; margin-bottom: 15px; flex-wrap: wrap; gap: 10px;">
+              <h3 style="font-family: var(--font-heading); color: #fff; margin: 0;">
+                Juegos de: <span id="admin-selected-console-label" style="color: var(--color-secondary);">SWITCH</span>
+              </h3>
+              <button id="admin-change-console-btn" class="admin-btn-secondary" style="padding: 5px 12px; font-size: 0.85rem;">&larr; Cambiar Consola</button>
+            </div>
+
+            <!-- Alphabet filter bar -->
+            <div class="admin-alphabet-bar" id="admin-alphabet-bar" style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; background-color: var(--color-bg-surface); padding: 10px; border-radius: var(--radius-sm); border: 1px solid rgba(255,255,255,0.05);">
+              <!-- Alphabet letters A-Z + All injected here -->
+            </div>
+
+            <div class="admin-search-wrap" style="margin-bottom: 15px;">
+              <input type="text" id="admin-search-input" placeholder="Buscar juego en esta consola..." />
+            </div>
+            
+            <div class="admin-table-container">
+              <table class="admin-games-table">
+                <thead>
+                  <tr>
+                    <th>Título</th>
+                    <th>Consola</th>
+                    <th style="width: 120px; text-align: center;">Acciones</th>
+                  </tr>
+                </thead>
+                <tbody id="admin-games-tbody">
+                  <!-- Rows dynamically injected here -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Admin Game Editor Form -->
+        <div id="admin-editor" class="admin-card" style="display: none;">
+          <div class="admin-editor-header">
+            <button id="admin-editor-back" class="admin-btn-back">&larr; Volver</button>
+            <h2 id="admin-editor-title">Editar Detalles</h2>
+          </div>
+          <form id="admin-edit-form" onsubmit="event.preventDefault();">
+            <div class="editor-section">
+              <h3>Imágenes del Juego</h3>
+              <div class="form-grid">
+                <div class="form-group">
+                  <label for="admin-edit-cover">Carátula de Caja (Cover)</label>
+                  <div class="upload-field-wrap">
+                    <input type="text" id="admin-edit-cover" placeholder="URL o sube una imagen..." />
+                    <label class="upload-btn" for="admin-upload-cover" title="Subir imagen">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z"/></svg>
+                      Subir
+                    </label>
+                    <input type="file" id="admin-upload-cover" accept="image/jpeg,image/png,image/webp,image/gif" style="display:none;" data-target="admin-edit-cover" />
+                  </div>
+                  <div class="upload-preview-wrap" id="preview-cover"></div>
+                  <span class="upload-hint">⏩ Tamaño recomendado: <strong>400 × 600 px</strong> (ratio 2:3, carátula vertical) &mdash; Máx. 8 MB &mdash; JPG, PNG, WEBP</span>
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-screen1">Captura de Pantalla 1</label>
+                  <div class="upload-field-wrap">
+                    <input type="text" id="admin-edit-screen1" placeholder="URL o sube una imagen..." />
+                    <label class="upload-btn" for="admin-upload-screen1" title="Subir imagen">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z"/></svg>
+                      Subir
+                    </label>
+                    <input type="file" id="admin-upload-screen1" accept="image/jpeg,image/png,image/webp,image/gif" style="display:none;" data-target="admin-edit-screen1" />
+                  </div>
+                  <div class="upload-preview-wrap" id="preview-screen1"></div>
+                  <span class="upload-hint">⏩ Tamaño recomendado: <strong>800 × 450 px</strong> (ratio 16:9, captura horizontal) &mdash; Máx. 8 MB &mdash; JPG, PNG, WEBP</span>
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-screen2">Captura de Pantalla 2</label>
+                  <div class="upload-field-wrap">
+                    <input type="text" id="admin-edit-screen2" placeholder="URL o sube una imagen..." />
+                    <label class="upload-btn" for="admin-upload-screen2" title="Subir imagen">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z"/></svg>
+                      Subir
+                    </label>
+                    <input type="file" id="admin-upload-screen2" accept="image/jpeg,image/png,image/webp,image/gif" style="display:none;" data-target="admin-edit-screen2" />
+                  </div>
+                  <div class="upload-preview-wrap" id="preview-screen2"></div>
+                  <span class="upload-hint">⏩ Tamaño recomendado: <strong>800 × 450 px</strong> (ratio 16:9, captura horizontal) &mdash; Máx. 8 MB &mdash; JPG, PNG, WEBP</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="editor-section">
+              <h3>Metadatos y Ficha Técnica</h3>
+              <div class="form-grid-three">
+                <div class="form-group">
+                  <label for="admin-edit-genre-en">Género (EN)</label>
+                  <input type="text" id="admin-edit-genre-en" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-genre-es">Género (ES)</label>
+                  <input type="text" id="admin-edit-genre-es" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-size-en">Tamaño (EN)</label>
+                  <input type="text" id="admin-edit-size-en" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-size-es">Tamaño (ES)</label>
+                  <input type="text" id="admin-edit-size-es" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-dev-en">Desarrollador (EN)</label>
+                  <input type="text" id="admin-edit-dev-en" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-dev-es">Desarrollador (ES)</label>
+                  <input type="text" id="admin-edit-dev-es" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-pub-en">Distribuidor (EN)</label>
+                  <input type="text" id="admin-edit-pub-en" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-pub-es">Distribuidor (ES)</label>
+                  <input type="text" id="admin-edit-pub-es" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-date-en">Año/Fecha (EN)</label>
+                  <input type="text" id="admin-edit-date-en" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-edit-date-es">Año/Fecha (ES)</label>
+                  <input type="text" id="admin-edit-date-es" required />
+                </div>
+              </div>
+            </div>
+
+            <div class="editor-section">
+              <h3>Sinopsis y Descripción</h3>
+              <div class="form-group">
+                <label for="admin-edit-desc-en">Sinopsis (Inglés)</label>
+                <textarea id="admin-edit-desc-en" rows="4" required></textarea>
+              </div>
+              <div class="form-group">
+                <label for="admin-edit-desc-es">Sinopsis (Español)</label>
+                <textarea id="admin-edit-desc-es" rows="4" required></textarea>
+              </div>
+            </div>
+
+            <div class="editor-section">
+              <h3>Enlaces de Descarga (Mirrors)</h3>
+              <div class="form-group">
+                <label for="admin-edit-link1">Mirror 1 (1fichier Link)</label>
+                <input type="text" id="admin-edit-link1" required />
+              </div>
+              <div class="form-group">
+                <label for="admin-edit-link2">Mirror 2 (Mega Mirror)</label>
+                <input type="text" id="admin-edit-link2" required />
+              </div>
+              <div class="form-group">
+                <label for="admin-edit-link3">Mirror 3 (Google Drive Mirror)</label>
+                <input type="text" id="admin-edit-link3" required />
+              </div>
+            </div>
+
+            <button id="admin-save-btn" class="admin-btn-save">Guardar Cambios</button>
+            <div id="admin-edit-status" class="admin-status-message" style="display: none;"></div>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container footer-content" style="display: flex; justify-content: space-between; align-items: center;">
+        <p data-i18n="footer">&copy; 2026 GodZGames. All Rights Reserved.</p>
+        <a href="#/admin" style="color: var(--color-secondary); font-weight: 600; text-decoration: none; font-size: 0.9rem;">Admin Panel</a>
+      </div>
+    </footer>
+
+    <!-- News Modal -->
+    <div class="news-modal" id="news-modal" style="display: none;">
+      <div class="modal-backdrop" id="modal-backdrop"></div>
+      <div class="modal-container">
+        <button class="modal-close" id="modal-close" aria-label="Close modal">&times;</button>
+        <div class="modal-image-wrap">
+          <img id="modal-image" src="" alt="News Image" />
+        </div>
+        <div class="modal-content">
+          <span class="modal-tag" id="modal-tag">NEWS</span>
+          <h2 class="modal-title" id="modal-title">News Title</h2>
+          <div class="modal-body" id="modal-body">
+            <!-- Full content paragraphs go here -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+
+    <!-- Add Game Modal -->
+    <div id="add-game-modal" class="modal-overlay" style="display:none;" role="dialog" aria-modal="true" aria-labelledby="add-game-modal-title">
+      <div class="add-game-modal-box">
+        <div class="add-game-modal-header">
+          <h2 id="add-game-modal-title">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-secondary)"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
+            Agregar Nuevo Juego
+          </h2>
+          <button class="add-game-close-btn" id="add-game-close-btn" aria-label="Cerrar">✕</button>
+        </div>
+        <form id="add-game-form" onsubmit="event.preventDefault();">
+          <div class="form-group">
+            <label for="add-game-title">Título del Juego <span class="required-star">*</span></label>
+            <input type="text" id="add-game-title" placeholder="Ej: The Legend of Zelda Breath of the Wild" required />
+          </div>
+          <div class="form-grid" style="grid-template-columns: 1fr 1fr; gap: 16px;">
+            <div class="form-group">
+              <label for="add-game-console">Consola <span class="required-star">*</span></label>
+              <select id="add-game-console">
+                <option value="3DS">3DS</option>
+                <option value="DS">DS</option>
+                <option value="PC">PC</option>
+                <option value="PS2">PS2</option>
+                <option value="PS3">PS3</option>
+                <option value="PS4">PS4</option>
+                <option value="PS5">PS5</option>
+                <option value="PSP">PSP</option>
+                <option value="PSVITA">PSVita</option>
+                <option value="SWITCH">Switch</option>
+                <option value="WII">Wii</option>
+                <option value="WII U">Wii U</option>
+                <option value="XBOX">Xbox</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="add-game-cover">URL de Carátula</label>
+              <input type="text" id="add-game-cover" placeholder="https://... (opcional)" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="add-game-link">Enlace de Descarga</label>
+            <input type="text" id="add-game-link" placeholder="https://... (opcional)" />
+          </div>
+          <div id="add-game-error" class="admin-error" style="display:none;"></div>
+          <div class="add-game-footer">
+            <button type="button" id="add-game-cancel-btn" class="admin-btn-secondary">Cancelar</button>
+            <button type="submit" id="add-game-submit-btn" class="admin-btn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+              Guardar Juego
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "genre": {
+    "en": "Action-Adventure, Horror",
+    "es": "Aventura de acción, Horror"
+  },
+  "releaseDate": {
+    "en": "2023",
+    "es": "2023"
+  },
+  "publisher": {
+    "en": "Nintendo",
+    "es": "Nintendo"
+  },
+  "developer": {
+    "en": "Horror Tale Studio",
+    "es": "Horror Tale Studio"
+  },
+  "size": {
+    "en": "1.2 GB",
+    "es": "1,2 GB"
+  },
+  "description": {
+    "en": "Horror Tale 3: The Witch invites you into an eerie mansion steeped in supernatural legend. You assume the role of a lone wanderer who discovers the manor’s hidden secrets and the vanishing of its residents. The game blends atmospheric exploration, tactical combat, and mind‑bending puzzles. Facing demonic spirits, cursed artifacts, and elaborate traps, you must uncover the mystery behind the witch’s curse while managing scarce resources and maintaining sanity. With a hand‑drawn art style and an evolving soundtrack, every corridor feels alive, offering a tense, heart‑pounding experience that rewards curiosity and quick reflexes.",
+    "es": "Horror Tale 3: The Witch te sumerge en una mansión embrujada repleta de leyendas sobrenaturales. Asumirás el papel de un viajero solitario que descubre los secretos ocultos del manor y la desaparición de sus habitantes. El juego combina exploración atmosférica, combate táctico y puzzles que desafían la mente. Al enfrentarte a espíritus demoníacos, artefactos malditos y trampas elaboradas, tendrás que desenredar el misterio detrás de la maldición de la bruja mientras gestionas recursos escasos y mantienes la cordura. Con un estilo artístico dibujado a mano y una banda sonora evolutiva, cada pasillo cobra vida, ofreciendo una experiencia tensa y al ritmo de la adrenalina que recompensa la curiosidad y la velocidad de reacción."
+  }
+}

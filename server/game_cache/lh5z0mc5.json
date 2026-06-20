@@ -1,0 +1,26 @@
+{
+  "genre": {
+    "en": "Tactical Turn‑Based Strategy",
+    "es": "Estrategia táctica por turnos"
+  },
+  "releaseDate": {
+    "en": "January 2023",
+    "es": "Enero de 2023"
+  },
+  "publisher": {
+    "en": "VoxPopuli Games",
+    "es": "VoxPopuli Games"
+  },
+  "developer": {
+    "en": "PixelDog Studios",
+    "es": "PixelDog Studios"
+  },
+  "size": {
+    "en": "450 MB",
+    "es": "450 MB"
+  },
+  "description": {
+    "en": "Call of Sentinels lets players command elite squads across intricate battlefields, where every choice shapes the outcome. A blend of deep tactical combat and story‑driven missions, the game offers real‑time terrain adaptability and a diverse roster of heroes, each with unique skills. Strategize resource allocation, formation placement, and adaptive tactics to outmaneuver evolving foes while uncovering a compelling narrative that spans politics and hidden agendas. With polished controls and an engaging campaign, the title delivers a satisfying experience for strategy veterans and newcomers alike.",
+    "es": "Call of Sentinels permite al jugador liderar escuadras de élite en campos de batalla intricados, donde cada decisión marca la diferencia. La combinación de combate tátrico profundo y misiones impulsadas por la historia ofrece adaptabilidad del terreno en tiempo real y un conjunto diverso de héroes, cada uno con habilidades únicas. Planifica la asignación de recursos, la colocación de formaciones y tácticas adaptativas para superar enemigos en constante evolución mientras descubres una narrativa atractiva que abarca la política y los secretos ocultos. Con controles pulidos y un ímpetu cautivador, el título ofrece una experiencia gratificante tanto para veteranos del género como para principiantes."
+  }
+}
