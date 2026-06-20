@@ -137,9 +137,17 @@ const fallbackNews = [
 
 // Load current news from file or use fallback
 let currentNews = fallbackNews;
+let lastNewsUpdatedAt = 0;
 if (fs.existsSync(NEWS_FILE)) {
   try {
-    currentNews = JSON.parse(fs.readFileSync(NEWS_FILE, 'utf-8'));
+    const rawData = JSON.parse(fs.readFileSync(NEWS_FILE, 'utf-8'));
+    if (Array.isArray(rawData)) {
+      currentNews = rawData;
+      lastNewsUpdatedAt = 0; // Legacy format, force reload
+    } else {
+      currentNews = rawData.articles || fallbackNews;
+      lastNewsUpdatedAt = rawData.updatedAt || 0;
+    }
   } catch (err) {
     console.error("Error reading news file:", err.message);
   }
@@ -361,7 +369,11 @@ const generateNews = async () => {
     
     if (newsData.length >= 3) {
       currentNews = newsData;
-      fs.writeFileSync(NEWS_FILE, JSON.stringify(currentNews, null, 2));
+      lastNewsUpdatedAt = Date.now();
+      fs.writeFileSync(NEWS_FILE, JSON.stringify({
+        updatedAt: lastNewsUpdatedAt,
+        articles: currentNews
+      }, null, 2));
       console.log("Noticias bilingües de Google News actualizadas con éxito (3/3).");
     } else {
       console.warn(`Only generated ${newsData.length} news items. Keeping previous news to avoid broken layout.`);
@@ -396,19 +408,16 @@ const searchGameWebInfo = async (title, consoleName) => {
 // Stale check and updates scheduler (30-minute interval check)
 const checkAndReloadNews = () => {
   let shouldGenerate = true;
-  if (fs.existsSync(NEWS_FILE)) {
-    try {
-      const stats = fs.statSync(NEWS_FILE);
-      const ageHrs = (Date.now() - stats.mtimeMs) / (1000 * 60 * 60);
-      if (ageHrs < 6) {
-        shouldGenerate = false;
-        console.log(`[Cache] Noticias cargadas desde caché (${ageHrs.toFixed(2)} horas de antigüedad).`);
-      } else {
-        console.log(`[Stale] Noticias obsoletas (${ageHrs.toFixed(2)} horas de antigüedad). Actualizando...`);
-      }
-    } catch (err) {
-      console.error("Error checking news file stats:", err.message);
+  if (lastNewsUpdatedAt > 0) {
+    const ageHrs = (Date.now() - lastNewsUpdatedAt) / (1000 * 60 * 60);
+    if (ageHrs < 6) {
+      shouldGenerate = false;
+      console.log(`[Cache] Noticias cargadas desde caché (${ageHrs.toFixed(2)} horas de antigüedad).`);
+    } else {
+      console.log(`[Stale] Noticias obsoletas (${ageHrs.toFixed(2)} horas de antigüedad). Actualizando...`);
     }
+  } else {
+    console.log(`[No Timestamp] No hay timestamp en las noticias o es legado. Generando frescas...`);
   }
 
   if (shouldGenerate) {
