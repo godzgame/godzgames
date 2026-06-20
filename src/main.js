@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let adminSelectedLetter = 'ALL';
   const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     ? 'http://localhost:3000'
-    : 'https://api.godzgames.com'; // REPLACE with your production backend URL (e.g. Render, Railway, VPS)
+    : 'https://godzgames-backend.onrender.com';
 
   // Fisher-Yates Shuffle Algorithm
   const shuffleArray = (array) => {
