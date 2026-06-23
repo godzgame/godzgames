@@ -108,7 +108,7 @@ const downloadImageLocally = async (promptText) => {
       writer.on('finish', resolve);
       writer.on('error', reject);
     });
-    return `http://localhost:${PORT}/uploads/${filename}`;
+    return `/uploads/${filename}`;
   } catch (err) {
     console.error("Error downloading image:", err.message);
     return `https://image.pollinations.ai/prompt/${encodeURIComponent(promptText)}?width=800&height=500&nologo=true`;
@@ -771,7 +771,7 @@ app.post('/api/admin/upload-image', requireAdmin, upload.single('image'), (req, 
   if (!req.file) {
     return res.status(400).json({ error: 'No se recibió ningún archivo.' });
   }
-  const publicUrl = `http://localhost:${PORT}/uploads/${req.file.filename}`;
+  const publicUrl = `/uploads/${req.file.filename}`;
   console.log(`[Admin Upload] Image saved: ${req.file.filename}`);
   res.json({ url: publicUrl, filename: req.file.filename });
 });

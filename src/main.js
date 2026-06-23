@@ -50,8 +50,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const getFullImageUrl = (url) => {
     if (!url) return '';
-    if (url.startsWith('http://localhost:3000')) {
-      return url.replace('http://localhost:3000', API_BASE_URL);
+    // Fix any hardcoded localhost URLs (e.g. saved in news JSON on the server)
+    if (url.includes('localhost:3000') || url.includes('127.0.0.1:3000')) {
+      return url.replace(/https?:\/\/(localhost|127\.0\.0\.1):3000/g, API_BASE_URL);
     }
     if (url.startsWith('/uploads/')) {
       return `${API_BASE_URL}${url}`;
@@ -1226,16 +1227,7 @@ document.addEventListener('DOMContentLoaded', () => {
       currentLang = userLang.startsWith('es') ? 'es' : 'en';
     }
 
-    try {
-      const response = await fetch(`${API_BASE_URL}/api/news`);
-      if (response.ok) {
-        aiNews = await response.json();
-      }
-    } catch (e) {
-      console.error("Error fetching news from backend. Is the server running?", e);
-    }
-
-    // Initialize with current language
+    // Render games immediately with bundled data (no waiting for backend)
     updateLanguage(currentLang);
     renderTags();
     handleRouting();
@@ -1676,6 +1668,35 @@ document.addEventListener('DOMContentLoaded', () => {
         });
       }
     });
+
+    // === Fetch news in background (non-blocking) ===
+    // Page is already rendered. News will appear once the backend responds.
+    // A 6-second timeout prevents Render cold-starts from blocking the page.
+    (async () => {
+      try {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 6000);
+        const response = await fetch(`${API_BASE_URL}/api/news`, { signal: controller.signal });
+        clearTimeout(timeoutId);
+        if (response.ok) {
+          const fetchedNews = await response.json();
+          if (Array.isArray(fetchedNews) && fetchedNews.length > 0) {
+            aiNews = fetchedNews;
+            renderTicker();
+            const hash = window.location.hash;
+            if (!hash.startsWith('#/game/') && hash !== '#/admin') {
+              renderGames();
+            }
+          }
+        }
+      } catch (e) {
+        if (e.name === 'AbortError') {
+          console.warn('[GodZGames] News fetch timed out — server may be waking up. Page loaded without news.');
+        } else {
+          console.error('[GodZGames] Error fetching news:', e);
+        }
+      }
+    })();
   };
 
   initializeApp();
