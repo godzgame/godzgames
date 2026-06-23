@@ -185,8 +185,105 @@ document.addEventListener('DOMContentLoaded', () => {
     tagsList.innerHTML = topConsoles.map(c => `<span>#${c.toLowerCase()}</span>`).join('');
   };
 
-  // AI News Data (Will be fetched from backend)
-  let aiNews = [];
+  // ============================================================
+  // NEWS SYSTEM — Pre-translated pool (12 items) + live RSS fetch
+  // 3 random items shown immediately, updated when RSS loads
+  // ============================================================
+  const NEWS_POOL = [
+    {
+      id: 'n1', tag: 'GAMING',
+      image: 'https://image.pollinations.ai/prompt/Epic%20open%20world%20RPG%20game%20cinematic%20landscape%202025?width=800&height=500&nologo=true&seed=21',
+      link: 'https://www.ign.com/articles/best-open-world-games',
+      en: { title: 'The Best Open-World Games of 2025 Ranked', description: 'From vast deserts to futuristic cities, these open-world titles let you explore breathtaking virtual universes at your own pace.' },
+      es: { title: 'Los Mejores Juegos de Mundo Abierto de 2025', description: 'Desde vastos desiertos hasta ciudades futuristas, estos títulos de mundo abierto te permiten explorar universos virtuales a tu ritmo.' }
+    },
+    {
+      id: 'n2', tag: 'TECNOLOGÍA',
+      image: 'https://image.pollinations.ai/prompt/Next%20generation%20gaming%20GPU%20chip%20glowing%20neon?width=800&height=500&nologo=true&seed=22',
+      link: 'https://www.theverge.com/gaming',
+      en: { title: 'Next-Gen GPUs Are Revolutionizing PC Gaming in 2025', description: 'The latest graphics cards deliver ray tracing and AI upscaling that make games look more realistic than ever before.' },
+      es: { title: 'Las GPUs de Nueva Generación Revolucionan el Gaming en PC', description: 'Las últimas tarjetas gráficas ofrecen ray tracing e IA que hacen que los juegos se vean más realistas que nunca.' }
+    },
+    {
+      id: 'n3', tag: 'NINTENDO',
+      image: 'https://image.pollinations.ai/prompt/Nintendo%20Switch%202%20console%20colorful%20game%20art?width=800&height=500&nologo=true&seed=23',
+      link: 'https://www.nintendolife.com/',
+      en: { title: 'Nintendo Switch 2: Everything We Know So Far', description: 'Nintendo\'s next console is generating massive hype. Here is a complete breakdown of specs, launch titles, and release dates.' },
+      es: { title: 'Nintendo Switch 2: Todo Lo Que Sabemos', description: 'La próxima consola de Nintendo está generando enorme expectativa. Aquí un resumen completo de specs, juegos y fechas de lanzamiento.' }
+    },
+    {
+      id: 'n4', tag: 'PLAYSTATION',
+      image: 'https://image.pollinations.ai/prompt/PlayStation%205%20exclusive%20game%20cinematic%20art?width=800&height=500&nologo=true&seed=24',
+      link: 'https://blog.playstation.com/',
+      en: { title: 'PS5 Exclusives That Will Define 2025', description: 'Sony is betting big on exclusive experiences. These PlayStation 5 titles prove why the console war is still very much alive.' },
+      es: { title: 'Los Exclusivos de PS5 que Definirán el 2025', description: 'Sony apuesta fuerte por las experiencias exclusivas. Estos títulos de PlayStation 5 demuestran que la guerra de consolas sigue viva.' }
+    },
+    {
+      id: 'n5', tag: 'XBOX',
+      image: 'https://image.pollinations.ai/prompt/Xbox%20Game%20Pass%20games%20collection%20neon%20art?width=800&height=500&nologo=true&seed=25',
+      link: 'https://news.xbox.com/',
+      en: { title: 'Xbox Game Pass Adds 10 Must-Play Titles This Month', description: 'Microsoft continues to dominate value gaming with Game Pass. This month\'s additions include blockbuster RPGs, action games and more.' },
+      es: { title: 'Xbox Game Pass Agrega 10 Juegos Imprescindibles Este Mes', description: 'Microsoft sigue dominando el valor con Game Pass. Las incorporaciones de este mes incluyen RPGs de alto perfil, juegos de acción y más.' }
+    },
+    {
+      id: 'n6', tag: 'INDIE',
+      image: 'https://image.pollinations.ai/prompt/Indie%20pixel%20art%20game%20vibrant%20colors%202025?width=800&height=500&nologo=true&seed=26',
+      link: 'https://www.indiegames.com/',
+      en: { title: 'The Indie Game Revolution: Small Studios Are Winning 2025', description: 'Independent developers are creating some of the most innovative and beloved games of the year, proving budget doesn\'t equal quality.' },
+      es: { title: 'La Revolución Indie: Los Estudios Pequeños Ganan en 2025', description: 'Los desarrolladores independientes crean algunos de los juegos más innovadores del año, demostrando que el presupuesto no define la calidad.' }
+    },
+    {
+      id: 'n7', tag: 'TECNOLOGÍA',
+      image: 'https://image.pollinations.ai/prompt/AI%20artificial%20intelligence%20gaming%20NPCs%20futuristic?width=800&height=500&nologo=true&seed=27',
+      link: 'https://www.pcgamer.com/ai-in-games/',
+      en: { title: 'How AI Is Changing Game Development Forever', description: 'Artificial intelligence is no longer just for NPCs. It is reshaping how games are developed, tested, and experienced by players worldwide.' },
+      es: { title: 'Cómo la IA Está Cambiando el Desarrollo de Juegos para Siempre', description: 'La inteligencia artificial ya no es solo para los NPCs. Está transformando cómo se desarrollan, prueban y experimentan los juegos.' }
+    },
+    {
+      id: 'n8', tag: 'RETRO',
+      image: 'https://image.pollinations.ai/prompt/Retro%20classic%20gaming%20console%20nostalgia%20neon%20glow?width=800&height=500&nologo=true&seed=28',
+      link: 'https://www.eurogamer.net/',
+      en: { title: 'Classic Games Getting Stunning Remakes in 2025', description: 'Nostalgia meets modern technology as beloved classic titles receive full remakes with updated graphics, gameplay, and soundtracks.' },
+      es: { title: 'Juegos Clásicos Reciben Espectaculares Remakes en 2025', description: 'La nostalgia se une a la tecnología moderna mientras amados clásicos reciben remakes completos con gráficos y sonido actualizados.' }
+    },
+    {
+      id: 'n9', tag: 'ESPORTS',
+      image: 'https://image.pollinations.ai/prompt/Esports%20tournament%20arena%20crowd%20colorful%20lights?width=800&height=500&nologo=true&seed=29',
+      link: 'https://www.dexerto.com/',
+      en: { title: 'Esports Prize Pools Hit Record $500M in 2025', description: 'Competitive gaming continues to grow at a staggering pace. Total prize money across all esports titles has reached a new all-time high.' },
+      es: { title: 'Los Premios de Esports Alcanzan un Récord de $500M en 2025', description: 'Los juegos competitivos siguen creciendo a un ritmo asombroso. El dinero total en premios en todos los títulos de esports alcanza un nuevo máximo.' }
+    },
+    {
+      id: 'n10', tag: 'VR / AR',
+      image: 'https://image.pollinations.ai/prompt/Virtual%20reality%20headset%20futuristic%20gaming%20experience?width=800&height=500&nologo=true&seed=30',
+      link: 'https://www.roadtovr.com/',
+      en: { title: 'VR Gaming Is Finally Going Mainstream in 2025', description: 'With more affordable headsets and killer apps, virtual reality is crossing the threshold from niche hobby to mainstream gaming platform.' },
+      es: { title: 'Los Videojuegos VR Finalmente Se Vuelven Populares en 2025', description: 'Con auriculares más asequibles y aplicaciones impresionantes, la realidad virtual cruza el umbral de hobby de nicho a plataforma de gaming.' }
+    },
+    {
+      id: 'n11', tag: 'MÓVIL',
+      image: 'https://image.pollinations.ai/prompt/Mobile%20gaming%20smartphone%20colorful%20game%20art?width=800&height=500&nologo=true&seed=31',
+      link: 'https://www.pocketgamer.com/',
+      en: { title: 'Mobile Gaming Earns More Than PC and Console Combined', description: 'Smartphone games now dominate the global gaming market, generating over $100 billion annually and attracting 3 billion players worldwide.' },
+      es: { title: 'Los Juegos Móviles Ganan Más que PC y Consola Juntos', description: 'Los juegos para smartphones dominan el mercado global, generando más de $100 mil millones al año y atrayendo a 3 mil millones de jugadores.' }
+    },
+    {
+      id: 'n12', tag: 'NOTICIAS',
+      image: 'https://image.pollinations.ai/prompt/Gaming%20industry%20news%20studio%20announcement%20conference?width=800&height=500&nologo=true&seed=32',
+      link: 'https://www.gamespot.com/',
+      en: { title: 'Major Studio Acquisitions Are Reshaping the Gaming Industry', description: 'Mergers and acquisitions continue to consolidate the gaming industry. Here is how these major deals will affect your favorite games and studios.' },
+      es: { title: 'Las Adquisiciones de Estudios Están Reshapando la Industria del Gaming', description: 'Las fusiones y adquisiciones continúan consolidando la industria. Así es cómo estos grandes acuerdos afectarán tus juegos y estudios favoritos.' }
+    }
+  ];
+
+  // Pick 3 random non-repeating items from the pool each page load
+  const pickRandomNews = () => {
+    const shuffled = [...NEWS_POOL].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 3);
+  };
+
+  // Start with random selection immediately (no loading wait)
+  let aiNews = pickRandomNews();
 
   // Render News Flash (Using AI News)
   const renderTicker = () => {
@@ -1233,77 +1330,8 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // === Fetch news in background — 3-tier approach for maximum reliability ===
-    (async () => {
-      const parseRssXml = (xmlText) => {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(xmlText, 'text/xml');
-        const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
-        if (items.length === 0) throw new Error('No items in RSS');
-
-        return items.map((item, i) => {
-          let title = item.querySelector('title')?.textContent || '';
-          const lastDash = title.lastIndexOf(' - ');
-          if (lastDash !== -1) title = title.substring(0, lastDash).trim();
-
-          const link = item.querySelector('link')?.textContent || '#';
-          const desc = (item.querySelector('description')?.textContent || '')
-            .replace(/<[^>]+>/g, '').trim();
-          const shortDesc = desc.length > 150 ? desc.substring(0, 147) + '...' : desc;
-
-          const cleanForImg = title.replace(/[^a-zA-Z0-9 ]/g, '').substring(0, 60);
-          const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent('video game news article illustration: ' + cleanForImg + '. Vibrant colors, cinematic, no text')}?width=800&height=500&nologo=true&seed=${i}`;
-
-          return {
-            id: `news-${i}`,
-            tag: 'NEWS',
-            image: imageUrl,
-            link,
-            en: { title, description: shortDesc, fullContent: desc },
-            es: { title, description: shortDesc, fullContent: desc }
-          };
-        });
-      };
-
-      const applyNews = (items) => {
-        if (items.length === 0) return;
-        aiNews = items;
-        renderTicker();
-        const hash = window.location.hash;
-        if (!hash.startsWith('#/game/') && hash !== '#/admin') renderGames();
-      };
-
-      const rssTarget = 'https://news.google.com/rss/search?q=video+games&hl=en-US&gl=US&ceid=US:en';
-
-      // Tier 1: corsproxy.io
-      try {
-        const res = await fetch(`https://corsproxy.io/?url=${encodeURIComponent(rssTarget)}`);
-        if (!res.ok) throw new Error(`corsproxy ${res.status}`);
-        const xml = await res.text();
-        applyNews(parseRssXml(xml));
-        return;
-      } catch (e) {
-        console.warn('[GodZGames] Tier 1 news proxy failed:', e.message);
-      }
-
-      // Tier 2: allorigins.win
-      try {
-        const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(rssTarget)}`);
-        if (!res.ok) throw new Error(`allorigins ${res.status}`);
-        const data = await res.json();
-        applyNews(parseRssXml(data.contents));
-        return;
-      } catch (e) {
-        console.warn('[GodZGames] Tier 2 news proxy failed:', e.message);
-      }
-
-      // Tier 3: static fallback so news section is never empty
-      applyNews([
-        { id: 'news-0', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Epic%20video%20game%20battle%20scene%20cinematic?width=800&height=500&nologo=true&seed=10', link: 'https://www.ign.com/articles/best-games', en: { title: 'The Best Games of 2025 — Our Top Picks', description: 'From epic RPGs to indie gems, 2025 has been a spectacular year for gaming. Here are the must-play titles.', fullContent: '' }, es: { title: 'Los Mejores Juegos de 2025 — Nuestras Recomendaciones', description: 'Desde RPGs épicos hasta joyas indie, 2025 ha sido un año espectacular para los videojuegos.', fullContent: '' } },
-        { id: 'news-1', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Futuristic%20gaming%20setup%20neon%20lights?width=800&height=500&nologo=true&seed=11', link: 'https://www.eurogamer.net/', en: { title: 'Next-Gen Gaming: What\'s Coming in 2026', description: 'Major studios are gearing up for their biggest releases yet. Here\'s what\'s on the horizon for gamers worldwide.', fullContent: '' }, es: { title: 'Próxima Generación: Lo que Viene en 2026', description: 'Los grandes estudios se preparan para sus mayores lanzamientos. Esto es lo que viene para los jugadores.', fullContent: '' } },
-        { id: 'news-2', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Nintendo%20Switch%20gaming%20concept%20art?width=800&height=500&nologo=true&seed=12', link: 'https://www.nintendolife.com/', en: { title: 'Nintendo Reveals Exciting New Switch Titles', description: 'Nintendo continues to impress with a fresh lineup of exclusives bringing beloved franchises back to the spotlight.', fullContent: '' }, es: { title: 'Nintendo Revela Nuevos Títulos para Switch', description: 'Nintendo sigue impresionando con una nueva línea de exclusivos que traen de vuelta franquicias queridas.', fullContent: '' } }
-      ]);
-    })();
+    // News already loaded from NEWS_POOL (random 3 picked at top of file)
+    // No external API needed — instant load, bilingual, varied each visit
   };
 
   initializeApp();
