@@ -981,55 +981,6 @@ document.addEventListener('DOMContentLoaded', () => {
     showAdminLogin();
   };
 
-  const handleExcelImport = async (file) => {
-    const statusEl = document.getElementById('admin-import-status');
-    if (!statusEl) return;
-
-    const token = localStorage.getItem('godzgames-admin-token');
-    if (!token) {
-      statusEl.textContent = currentLang === 'es' ? 'Error: Sesión expirada' : 'Error: Session expired';
-      statusEl.className = 'admin-status-message error';
-      statusEl.style.display = 'block';
-      return;
-    }
-
-    statusEl.textContent = currentLang === 'es' ? 'Importando archivo Excel...' : 'Importing Excel file...';
-    statusEl.className = 'admin-status-message';
-    statusEl.style.display = 'block';
-
-    const formData = new FormData();
-    formData.append('file', file);
-
-    try {
-      const response = await fetch(`${API_BASE_URL}/api/admin/import-excel`, {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${token}`
-        },
-        body: formData
-      });
-
-      const result = await response.json();
-
-      if (response.ok) {
-        statusEl.textContent = currentLang === 'es' 
-          ? `✓ ${result.message} Nuevos: ${result.newGamesCount}, Enlaces actualizados: ${result.updatedGamesCount}` 
-          : `✓ ${result.message} New: ${result.newGamesCount}, Updated links: ${result.updatedGamesCount}`;
-        statusEl.className = 'admin-status-message success';
-        
-        setTimeout(() => {
-          window.location.reload();
-        }, 3000);
-      } else {
-        statusEl.textContent = result.error || (currentLang === 'es' ? 'Error al importar' : 'Import failed');
-        statusEl.className = 'admin-status-message error';
-      }
-    } catch (err) {
-      console.error(err);
-      statusEl.textContent = currentLang === 'es' ? 'Error al conectar con el servidor' : 'Failed to connect to the server';
-      statusEl.className = 'admin-status-message error';
-    }
-  };
 
   const showHomePage = () => {
     gameView.style.display = 'none';
@@ -1282,53 +1233,76 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // === Fetch news in background via RSS2JSON (no backend needed) ===
+    // === Fetch news in background — 3-tier approach for maximum reliability ===
     (async () => {
-      try {
-        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=video+games&hl=en-US&gl=US&ceid=US:en');
-        const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}&count=6`;
-        const response = await fetch(apiUrl);
-        if (!response.ok) throw new Error(`RSS2JSON returned ${response.status}`);
-        const feedData = await response.json();
-        if (feedData.status !== 'ok' || !feedData.items || feedData.items.length === 0) throw new Error('Empty feed');
+      const parseRssXml = (xmlText) => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(xmlText, 'text/xml');
+        const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
+        if (items.length === 0) throw new Error('No items in RSS');
 
-        const fetchedNews = feedData.items.slice(0, 3).map((item, i) => {
-          // Clean title (remove " - Source Name" suffix)
-          let cleanTitle = item.title || '';
-          const lastDash = cleanTitle.lastIndexOf(' - ');
-          if (lastDash !== -1) cleanTitle = cleanTitle.substring(0, lastDash).trim();
+        return items.map((item, i) => {
+          let title = item.querySelector('title')?.textContent || '';
+          const lastDash = title.lastIndexOf(' - ');
+          if (lastDash !== -1) title = title.substring(0, lastDash).trim();
 
-          // Use thumbnail from feed, or generate one via Pollinations
-          const cleanTitleForImage = cleanTitle.replace(/[^a-zA-Z0-9 ]/g, '').substring(0, 60);
-          const imageUrl = item.thumbnail && item.thumbnail.startsWith('http')
-            ? item.thumbnail
-            : `https://image.pollinations.ai/prompt/${encodeURIComponent('Dynamic video game concept art: ' + cleanTitleForImage + '. Vibrant colors, cinematic lighting, 8k, no text.')}?width=800&height=500&nologo=true&seed=${i}`;
+          const link = item.querySelector('link')?.textContent || '#';
+          const desc = (item.querySelector('description')?.textContent || '')
+            .replace(/<[^>]+>/g, '').trim();
+          const shortDesc = desc.length > 150 ? desc.substring(0, 147) + '...' : desc;
 
-          // Build short description
-          const strippedDesc = (item.description || '').replace(/<[^>]+>/g, '').trim();
-          const shortDesc = strippedDesc.length > 150 ? strippedDesc.substring(0, 147) + '...' : strippedDesc;
+          const cleanForImg = title.replace(/[^a-zA-Z0-9 ]/g, '').substring(0, 60);
+          const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent('video game news article illustration: ' + cleanForImg + '. Vibrant colors, cinematic, no text')}?width=800&height=500&nologo=true&seed=${i}`;
 
           return {
             id: `news-${i}`,
             tag: 'NEWS',
             image: imageUrl,
-            link: item.link || '#',
-            en: { title: cleanTitle, description: shortDesc, fullContent: strippedDesc },
-            es: { title: cleanTitle, description: shortDesc, fullContent: strippedDesc }
+            link,
+            en: { title, description: shortDesc, fullContent: desc },
+            es: { title, description: shortDesc, fullContent: desc }
           };
         });
+      };
 
-        if (fetchedNews.length > 0) {
-          aiNews = fetchedNews;
-          renderTicker();
-          const hash = window.location.hash;
-          if (!hash.startsWith('#/game/') && hash !== '#/admin') {
-            renderGames();
-          }
-        }
+      const applyNews = (items) => {
+        if (items.length === 0) return;
+        aiNews = items;
+        renderTicker();
+        const hash = window.location.hash;
+        if (!hash.startsWith('#/game/') && hash !== '#/admin') renderGames();
+      };
+
+      const rssTarget = 'https://news.google.com/rss/search?q=video+games&hl=en-US&gl=US&ceid=US:en';
+
+      // Tier 1: corsproxy.io
+      try {
+        const res = await fetch(`https://corsproxy.io/?url=${encodeURIComponent(rssTarget)}`);
+        if (!res.ok) throw new Error(`corsproxy ${res.status}`);
+        const xml = await res.text();
+        applyNews(parseRssXml(xml));
+        return;
       } catch (e) {
-        console.warn('[GodZGames] Could not load news from RSS2JSON:', e.message);
+        console.warn('[GodZGames] Tier 1 news proxy failed:', e.message);
       }
+
+      // Tier 2: allorigins.win
+      try {
+        const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(rssTarget)}`);
+        if (!res.ok) throw new Error(`allorigins ${res.status}`);
+        const data = await res.json();
+        applyNews(parseRssXml(data.contents));
+        return;
+      } catch (e) {
+        console.warn('[GodZGames] Tier 2 news proxy failed:', e.message);
+      }
+
+      // Tier 3: static fallback so news section is never empty
+      applyNews([
+        { id: 'news-0', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Epic%20video%20game%20battle%20scene%20cinematic?width=800&height=500&nologo=true&seed=10', link: 'https://www.ign.com/articles/best-games', en: { title: 'The Best Games of 2025 — Our Top Picks', description: 'From epic RPGs to indie gems, 2025 has been a spectacular year for gaming. Here are the must-play titles.', fullContent: '' }, es: { title: 'Los Mejores Juegos de 2025 — Nuestras Recomendaciones', description: 'Desde RPGs épicos hasta joyas indie, 2025 ha sido un año espectacular para los videojuegos.', fullContent: '' } },
+        { id: 'news-1', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Futuristic%20gaming%20setup%20neon%20lights?width=800&height=500&nologo=true&seed=11', link: 'https://www.eurogamer.net/', en: { title: 'Next-Gen Gaming: What\'s Coming in 2026', description: 'Major studios are gearing up for their biggest releases yet. Here\'s what\'s on the horizon for gamers worldwide.', fullContent: '' }, es: { title: 'Próxima Generación: Lo que Viene en 2026', description: 'Los grandes estudios se preparan para sus mayores lanzamientos. Esto es lo que viene para los jugadores.', fullContent: '' } },
+        { id: 'news-2', tag: 'NEWS', image: 'https://image.pollinations.ai/prompt/Nintendo%20Switch%20gaming%20concept%20art?width=800&height=500&nologo=true&seed=12', link: 'https://www.nintendolife.com/', en: { title: 'Nintendo Reveals Exciting New Switch Titles', description: 'Nintendo continues to impress with a fresh lineup of exclusives bringing beloved franchises back to the spotlight.', fullContent: '' }, es: { title: 'Nintendo Revela Nuevos Títulos para Switch', description: 'Nintendo sigue impresionando con una nueva línea de exclusivos que traen de vuelta franquicias queridas.', fullContent: '' } }
+      ]);
     })();
   };
 
