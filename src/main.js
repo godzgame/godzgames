@@ -754,7 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Static admin: verify token locally against a hashed password stored in the build
   // Admin password is hardcoded here — change it before deploying!
-  const ADMIN_PASSWORD_HASH = '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918'; // sha256 of 'admin'
+  const ADMIN_PASSWORD_HASH = '5197385424cec0b6f8eec13f9ef9a1852d7c2252ec46d5ca0a8b521311d55153'; // sha256 of admin password
 
   const hashString = async (str) => {
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
