@@ -35,30 +35,17 @@ document.addEventListener('DOMContentLoaded', () => {
   const adminSaveBtn = document.getElementById('admin-save-btn');
   const adminEditStatus = document.getElementById('admin-edit-status');
 
+
   let currentCategory = 'ALL';
   let currentLang = 'en';
   let shuffledGames = [];
   let searchQuery = '';
   let currentPage = 1;
   const gamesPerPage = 20;
-  let gamesStatusMap = {};
   let adminSelectedConsole = '';
   let adminSelectedLetter = 'ALL';
-  const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
-    ? 'http://localhost:3000'
-    : 'https://godzgames-backend.onrender.com';
+  // No backend needed — all data comes from bundled JSON, Pollinations.ai and RSS2JSON API
 
-  const getFullImageUrl = (url) => {
-    if (!url) return '';
-    // Fix any hardcoded localhost URLs (e.g. saved in news JSON on the server)
-    if (url.includes('localhost:3000') || url.includes('127.0.0.1:3000')) {
-      return url.replace(/https?:\/\/(localhost|127\.0\.0\.1):3000/g, API_BASE_URL);
-    }
-    if (url.startsWith('/uploads/')) {
-      return `${API_BASE_URL}${url}`;
-    }
-    return url;
-  };
 
   // Fisher-Yates Shuffle Algorithm
   const shuffleArray = (array) => {
@@ -227,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const openModal = (newsItem) => {
     const loc = getLocalizedNews(newsItem);
     
-    modalImage.src = getFullImageUrl(newsItem.image);
+    modalImage.src = newsItem.image || '';
     modalTag.textContent = loc.tag;
     modalTitle.textContent = loc.title;
     
@@ -256,7 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loc = getLocalizedNews(news);
     return `
       <div class="featured-item" data-id="${news.id}">
-        <img src="${getFullImageUrl(news.image)}" alt="${loc.title}" loading="lazy" />
+        <img src="${news.image || ''}" alt="${loc.title}" loading="lazy" />
         <div class="featured-overlay">
           <span class="featured-category">${loc.tag}</span>
           <h3 class="featured-title" style="margin-bottom: 5px;">${loc.title}</h3>
@@ -269,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Helper function to create a game card layout
   const createGameCard = (game) => {
     // Check if the game has a real cover from games.json, otherwise fallback to Bing image search for the real cover
-    const coverUrl = game.cover ? getFullImageUrl(game.cover) : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
+    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
     
     const imageHtml = `<img src="${coverUrl}" alt="${game.title}" loading="lazy"/>`;
 
@@ -432,34 +419,49 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
-  // Fetch Game Details dynamically using the backend proxy
+  // Fetch Game Details directly from Pollinations.ai (no backend needed)
   const fetchGameDetails = async (gameTitle, gameConsole, gameId) => {
     const cacheKey = `game-details-${gameId}`;
     const cached = localStorage.getItem(cacheKey);
     if (cached) return JSON.parse(cached);
 
-    try {
-      const url = `${API_BASE_URL}/api/game-details?title=${encodeURIComponent(gameTitle)}&consoleName=${encodeURIComponent(gameConsole)}&id=${encodeURIComponent(gameId)}`;
-      const res = await fetch(url);
-      if (!res.ok) {
-        throw new Error(`Server returned status ${res.status}`);
+    const fallback = {
+      genre: { en: 'Action / Adventure', es: 'Accion / Aventura' },
+      releaseDate: { en: 'Unknown', es: 'Desconocido' },
+      publisher: { en: 'N/A', es: 'N/A' },
+      developer: { en: 'N/A', es: 'N/A' },
+      size: { en: 'Unknown Size', es: 'Tamano Desconocido' },
+      description: {
+        en: `Download ${gameTitle} for the ${gameConsole} console. High-speed and secure download links are available below.`,
+        es: `Descarga ${gameTitle} para la consola ${gameConsole}. Enlaces de descarga segura de alta velocidad disponibles abajo.`
       }
-      const data = await res.json();
-      localStorage.setItem(cacheKey, JSON.stringify(data));
-      return data;
+    };
+
+    try {
+      const prompt = `You are a bi-lingual gaming database editor. Generate a data sheet for "${gameTitle}" on "${gameConsole}". Output ONLY valid JSON:
+{"genre":{"en":"...","es":"..."},"releaseDate":{"en":"...","es":"..."},"publisher":{"en":"...","es":"..."},"developer":{"en":"...","es":"..."},"size":{"en":"...","es":"..."},"description":{"en":"80-100 word synopsis in English.","es":"Sinopsis de 80-100 palabras en espanol."}}`;
+
+      const res = await fetch('https://text.pollinations.ai/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          messages: [{ role: 'user', content: prompt }],
+          model: 'openai',
+          jsonMode: true
+        })
+      });
+
+      if (!res.ok) throw new Error(`Pollinations returned ${res.status}`);
+      let rawText = await res.text();
+      const jsonStart = rawText.indexOf('{');
+      const jsonEnd = rawText.lastIndexOf('}') + 1;
+      if (jsonStart === -1 || jsonEnd === 0) throw new Error('No JSON in response');
+      const gameDetails = JSON.parse(rawText.substring(jsonStart, jsonEnd));
+      localStorage.setItem(cacheKey, JSON.stringify(gameDetails));
+      return gameDetails;
     } catch (e) {
-      console.error("Error fetching game details from backend:", e);
-      return {
-        genre: { en: "Action / Adventure", es: "Acción / Aventura" },
-        releaseDate: { en: "Unknown", es: "Desconocido" },
-        publisher: { en: "N/A", es: "N/A" },
-        developer: { en: "N/A", es: "N/A" },
-        size: { en: "Unknown Size", es: "Tamaño Desconocido" },
-        description: {
-          en: `Download ${gameTitle} for the ${gameConsole} console. High-speed and secure download links are available below.`,
-          es: `Descarga ${gameTitle} para la consola ${gameConsole}. Enlaces de descarga segura de alta velocidad disponibles abajo.`
-        }
-      };
+      console.error('[GodZGames] Error fetching game details:', e);
+      return fallback;
     }
   };
 
@@ -471,7 +473,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Set loading skeletons
     const t = translations[currentLang];
     const format = getFileFormat(game.console);
-    const coverUrl = game.cover ? getFullImageUrl(game.cover) : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=400`;
+    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=400`;
     
     // Screens URL
     const screenUrl1 = `https://image.pollinations.ai/prompt/High%20quality%20gameplay%20screenshot%20of%20video%20game%20${encodeURIComponent(game.title)}%20on%20${encodeURIComponent(game.console)}?width=800&height=450&nologo=true`;
@@ -576,9 +578,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const description = getField(details.description);
 
     // Apply custom overrides if defined
-    const finalCoverUrl = getFullImageUrl(details.customCover || coverUrl);
-    const finalScreenUrl1 = getFullImageUrl((details.customScreens && details.customScreens[0]) || screenUrl1);
-    const finalScreenUrl2 = getFullImageUrl((details.customScreens && details.customScreens[1]) || screenUrl2);
+    const finalCoverUrl = details.customCover || coverUrl;
+    const finalScreenUrl1 = (details.customScreens && details.customScreens[0]) || screenUrl1;
+    const finalScreenUrl2 = (details.customScreens && details.customScreens[1]) || screenUrl2;
     const finalLinks = (details.customLinks && details.customLinks.length > 0)
       ? details.customLinks
       : [game.link, game.link, game.link];
@@ -659,21 +661,9 @@ document.addEventListener('DOMContentLoaded', () => {
     adminLoginError.style.display = 'none';
   };
 
-  const fetchGamesStatus = async () => {
-    const token = localStorage.getItem('godzgames-admin-token');
-    if (!token) return;
-    try {
-      const response = await fetch(`${API_BASE_URL}/api/admin/games-status`, {
-        headers: {
-          'Authorization': `Bearer ${token}`
-        }
-      });
-      if (response.ok) {
-        gamesStatusMap = await response.json();
-      }
-    } catch (err) {
-      console.error("Error fetching games edit status map:", err);
-    }
+  // In static mode, game edit status comes from localStorage
+  const fetchGamesStatus = () => {
+    // nothing to fetch — status is inferred from localStorage keys
   };
 
   const showAdminDashboard = async () => {
@@ -762,28 +752,21 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
+  // Static admin: verify token locally against a hashed password stored in the build
+  // Admin password is hardcoded here — change it before deploying!
+  const ADMIN_PASSWORD_HASH = '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918'; // sha256 of 'admin'
+
+  const hashString = async (str) => {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  };
+
   const renderAdminPage = async () => {
     const token = localStorage.getItem('godzgames-admin-token');
-    if (!token) {
-      showAdminLogin();
-      return;
-    }
-
-    try {
-      const res = await fetch(`${API_BASE_URL}/api/admin/verify-token`, {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${token}`
-        }
-      });
-      if (res.ok) {
-        await showAdminDashboard();
-      } else {
-        localStorage.removeItem('godzgames-admin-token');
-        showAdminLogin();
-      }
-    } catch (e) {
-      console.error("Error verifying admin token:", e);
+    if (token === ADMIN_PASSWORD_HASH) {
+      await showAdminDashboard();
+    } else {
+      localStorage.removeItem('godzgames-admin-token');
       showAdminLogin();
     }
   };
@@ -831,14 +814,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     adminGamesTbody.innerHTML = listToShow.map(game => {
-      const status = gamesStatusMap[game.id] || 'pending';
+      const hasLocalEdit = !!localStorage.getItem(`game-details-${game.id}`);
       let badgeHtml = '';
-      if (status === 'manual') {
-        badgeHtml = `<span class="status-badge status-manual">${currentLang === 'es' ? 'Manual' : 'Manual'}</span>`;
-      } else if (status === 'automatic') {
-        badgeHtml = `<span class="status-badge status-automatic">${currentLang === 'es' ? 'Auto' : 'Auto'}</span>`;
-      } else {
-        badgeHtml = `<span class="status-badge status-pending">${currentLang === 'es' ? 'Pendiente' : 'Pending'}</span>`;
+      if (hasLocalEdit) {
+        badgeHtml = `<span class="status-badge status-manual">Local</span>`;
       }
 
       return `
@@ -923,16 +902,9 @@ document.addEventListener('DOMContentLoaded', () => {
     adminEditor.style.display = 'block';
   };
 
-  const saveAdminGameEdits = async () => {
+  // Save admin game edits directly to localStorage (no backend)
+  const saveAdminGameEdits = () => {
     if (!activeEditingGame) return;
-
-    const token = localStorage.getItem('godzgames-admin-token');
-    if (!token) {
-      adminEditStatus.textContent = currentLang === 'es' ? 'Error: Sesión expirada' : 'Error: Session expired';
-      adminEditStatus.className = 'admin-status-message error';
-      adminEditStatus.style.display = 'block';
-      return;
-    }
 
     const customCover = document.getElementById('admin-edit-cover').value.trim();
     const customScreens = [
@@ -946,7 +918,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('admin-edit-link3').value.trim()
     ].filter(url => url.length > 0);
 
-    const customData = {
+    const savedData = {
       genre: {
         en: document.getElementById('admin-edit-genre-en').value.trim(),
         es: document.getElementById('admin-edit-genre-es').value.trim()
@@ -976,81 +948,30 @@ document.addEventListener('DOMContentLoaded', () => {
       customLinks: customLinks.length > 0 ? customLinks : undefined
     };
 
-    adminEditStatus.textContent = currentLang === 'es' ? 'Guardando cambios...' : 'Saving changes...';
-    adminEditStatus.className = 'admin-status-message';
+    const cacheKey = `game-details-${activeEditingGame.id}`;
+    localStorage.setItem(cacheKey, JSON.stringify(savedData));
+
+    adminEditStatus.textContent = currentLang === 'es' ? 'Cambios guardados localmente' : 'Changes saved locally';
+    adminEditStatus.className = 'admin-status-message success';
     adminEditStatus.style.display = 'block';
-
-    try {
-      const res = await fetch(`${API_BASE_URL}/api/admin/save-game`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${token}`
-        },
-        body: JSON.stringify({
-          id: activeEditingGame.id,
-          title: activeEditingGame.title,
-          consoleName: activeEditingGame.console,
-          customData
-        })
-      });
-
-      if (res.ok) {
-        const result = await res.json();
-        
-        const cacheKey = `game-details-${activeEditingGame.id}`;
-        localStorage.setItem(cacheKey, JSON.stringify(result.details));
-
-        adminEditStatus.textContent = currentLang === 'es' ? 'Cambios guardados con éxito' : 'Changes saved successfully';
-        adminEditStatus.className = 'admin-status-message success';
-        adminEditStatus.style.display = 'block';
-
-        setTimeout(() => {
-          showAdminDashboard();
-        }, 1500);
-      } else {
-        const errorData = await res.json();
-        adminEditStatus.textContent = `Error: ${errorData.error || 'Server error'}`;
-        adminEditStatus.className = 'admin-status-message error';
-        adminEditStatus.style.display = 'block';
-      }
-    } catch (e) {
-      console.error(e);
-      adminEditStatus.textContent = currentLang === 'es' ? 'Error al guardar. Verifica la conexión con el servidor.' : 'Failed to save. Check server connection.';
-      adminEditStatus.className = 'admin-status-message error';
-      adminEditStatus.style.display = 'block';
-    }
+    setTimeout(() => showAdminDashboard(), 1200);
   };
 
+  // Static admin login: hash password client-side and compare
   const handleAdminLogin = async () => {
     const password = adminPasswordInput.value.trim();
     if (!password) {
-      adminLoginError.textContent = currentLang === 'es' ? 'Por favor ingrese la contraseña' : 'Please enter the password';
+      adminLoginError.textContent = currentLang === 'es' ? 'Por favor ingrese la contrasena' : 'Please enter the password';
       adminLoginError.style.display = 'block';
       return;
     }
 
-    try {
-      const res = await fetch(`${API_BASE_URL}/api/admin/login`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ password })
-      });
-
-      if (res.ok) {
-        const data = await res.json();
-        localStorage.setItem('godzgames-admin-token', data.token);
-        showAdminDashboard();
-      } else {
-        const err = await res.json();
-        adminLoginError.textContent = err.error || (currentLang === 'es' ? 'Contraseña incorrecta' : 'Incorrect password');
-        adminLoginError.style.display = 'block';
-      }
-    } catch (e) {
-      console.error(e);
-      adminLoginError.textContent = currentLang === 'es' ? 'Error al conectar con el servidor' : 'Failed to connect to the server';
+    const hash = await hashString(password);
+    if (hash === ADMIN_PASSWORD_HASH) {
+      localStorage.setItem('godzgames-admin-token', hash);
+      showAdminDashboard();
+    } else {
+      adminLoginError.textContent = currentLang === 'es' ? 'Contrasena incorrecta' : 'Incorrect password';
       adminLoginError.style.display = 'block';
     }
   };
@@ -1323,340 +1244,14 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    const adminImportExcelInput = document.getElementById('admin-import-excel');
-    if (adminImportExcelInput) {
-      adminImportExcelInput.addEventListener('change', (e) => {
-        const file = e.target.files[0];
-        if (file) {
-          handleExcelImport(file);
-        }
-      });
-    }
-
-    // === Scraping Panel Logic ===
-    let scrapePollingInterval = null;
-
-    const updateScrapeUI = (state) => {
-      const statusBar = document.getElementById('scrape-status-bar');
-      const barFill = document.getElementById('scrape-bar-fill');
-      const statCached = document.getElementById('scrape-stat-cached');
-      const statPending = document.getElementById('scrape-stat-pending');
-      const statOk = document.getElementById('scrape-stat-ok');
-      const statErr = document.getElementById('scrape-stat-err');
-      const statPct = document.getElementById('scrape-stat-pct');
-      const currentGame = document.getElementById('scrape-current-game');
-      const startBtn = document.getElementById('scrape-start-btn');
-      const stopBtn = document.getElementById('scrape-stop-btn');
-
-      if (!statusBar) return;
-
-      const total = state.totalGames || 0;
-      const cached = state.cachedCount || 0;
-      const pct = total > 0 ? Math.round((cached / total) * 100) : 0;
-
-      statusBar.style.display = 'block';
-      if (barFill) barFill.style.width = `${pct}%`;
-      if (statCached) statCached.textContent = cached;
-      if (statPending) statPending.textContent = state.pendingCount || 0;
-      if (statOk) statOk.textContent = state.succeeded || 0;
-      if (statErr) statErr.textContent = state.failed || 0;
-      if (statPct) statPct.textContent = `${pct}%`;
-
-      if (state.running && state.currentGame) {
-        if (currentGame) currentGame.textContent = `⏳ Procesando: ${state.currentGame}`;
-      } else if (!state.running && state.stoppedAt) {
-        if (currentGame) currentGame.textContent = pct >= 100
-          ? '✅ Pre-carga completada para todos los juegos.'
-          : '⏹ Pre-carga detenida. Pulsa Iniciar para continuar.';
-      } else {
-        if (currentGame) currentGame.textContent = '';
-      }
-
-      // Toggle Start/Stop buttons
-      if (startBtn) startBtn.style.display = state.running ? 'none' : 'inline-flex';
-      if (stopBtn) stopBtn.style.display = state.running ? 'inline-flex' : 'none';
-
-      // Stop polling if no longer running
-      if (!state.running && scrapePollingInterval) {
-        clearInterval(scrapePollingInterval);
-        scrapePollingInterval = null;
-      }
-    };
-
-    const fetchScrapeStatus = async () => {
-      const token = localStorage.getItem('godzgames-admin-token');
-      if (!token) return;
-      try {
-        const res = await fetch(`${API_BASE_URL}/api/admin/scrape/status`, {
-          headers: { 'Authorization': `Bearer ${token}` }
-        });
-        if (res.ok) {
-          const state = await res.json();
-          updateScrapeUI(state);
-        }
-      } catch (_) { /* ignore network errors during polling */ }
-    };
-
-    const startScrapePolling = () => {
-      if (scrapePollingInterval) clearInterval(scrapePollingInterval);
-      scrapePollingInterval = setInterval(fetchScrapeStatus, 3000);
-      fetchScrapeStatus(); // immediate first fetch
-    };
-
-    const scrapeStartBtn = document.getElementById('scrape-start-btn');
-    const scrapeStopBtn = document.getElementById('scrape-stop-btn');
-    const scrapeResetBtn = document.getElementById('scrape-reset-btn');
-
-    if (scrapeStartBtn) {
-      scrapeStartBtn.addEventListener('click', async () => {
-        const token = localStorage.getItem('godzgames-admin-token');
-        if (!token) return;
-        try {
-          scrapeStartBtn.disabled = true;
-          scrapeStartBtn.textContent = 'Iniciando...';
-          const res = await fetch(`${API_BASE_URL}/api/admin/scrape/start`, {
-            method: 'POST',
-            headers: { 'Authorization': `Bearer ${token}` }
-          });
-          if (res.ok) {
-            startScrapePolling();
-          } else {
-            alert('Error al iniciar el scraping.');
-          }
-        } catch (e) {
-          alert('Error de conexión con el servidor.');
-        } finally {
-          scrapeStartBtn.disabled = false;
-          scrapeStartBtn.textContent = '▶ Iniciar';
-        }
-      });
-    }
-
-    if (scrapeStopBtn) {
-      scrapeStopBtn.addEventListener('click', async () => {
-        const token = localStorage.getItem('godzgames-admin-token');
-        if (!token) return;
-        try {
-          await fetch(`${API_BASE_URL}/api/admin/scrape/stop`, {
-            method: 'POST',
-            headers: { 'Authorization': `Bearer ${token}` }
-          });
-          await fetchScrapeStatus();
-        } catch (e) { /* ignore */ }
-      });
-    }
-
-    if (scrapeResetBtn) {
-      scrapeResetBtn.addEventListener('click', async () => {
-        const token = localStorage.getItem('godzgames-admin-token');
-        if (!token) return;
-        if (!confirm('¿Eliminar archivos fallback para que se re-intenten en el próximo scraping?')) return;
-        try {
-          const res = await fetch(`${API_BASE_URL}/api/admin/scrape/reset-fallbacks`, {
-            method: 'POST',
-            headers: { 'Authorization': `Bearer ${token}` }
-          });
-          if (res.ok) {
-            const data = await res.json();
-            alert(data.message);
-            await fetchScrapeStatus();
-          }
-        } catch (e) { /* ignore */ }
-      });
-    }
-
-    // Auto-fetch status when dashboard is shown (to show already-cached count)
-    fetchScrapeStatus();
-
-    // === Add Game Modal Logic ===
-    const addGameModal = document.getElementById('add-game-modal');
-    const addGameOpenBtn = document.getElementById('admin-add-game-btn');
-    const addGameCloseBtn = document.getElementById('add-game-close-btn');
-    const addGameCancelBtn = document.getElementById('add-game-cancel-btn');
-    const addGameForm = document.getElementById('add-game-form');
-    const addGameSubmitBtn = document.getElementById('add-game-submit-btn');
-    const addGameError = document.getElementById('add-game-error');
-
-    const openAddGameModal = () => {
-      if (addGameModal) {
-        addGameModal.style.display = 'flex';
-        document.getElementById('add-game-title').value = '';
-        document.getElementById('add-game-link').value = '';
-        document.getElementById('add-game-cover').value = '';
-        if (addGameError) addGameError.style.display = 'none';
-        // Focus title field
-        setTimeout(() => document.getElementById('add-game-title')?.focus(), 100);
-      }
-    };
-
-    const closeAddGameModal = () => {
-      if (addGameModal) addGameModal.style.display = 'none';
-    };
-
-    if (addGameOpenBtn) addGameOpenBtn.addEventListener('click', openAddGameModal);
-    if (addGameCloseBtn) addGameCloseBtn.addEventListener('click', closeAddGameModal);
-    if (addGameCancelBtn) addGameCancelBtn.addEventListener('click', closeAddGameModal);
-
-    // Close on overlay click
-    if (addGameModal) {
-      addGameModal.addEventListener('click', (e) => {
-        if (e.target === addGameModal) closeAddGameModal();
-      });
-    }
-
-    // Submit new game
-    if (addGameForm) {
-      addGameForm.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        const token = localStorage.getItem('godzgames-admin-token');
-        if (!token) { alert('Sesión expirada.'); return; }
-
-        const title = document.getElementById('add-game-title').value.trim();
-        const consoleName = document.getElementById('add-game-console').value;
-        const link = document.getElementById('add-game-link').value.trim();
-        const cover = document.getElementById('add-game-cover').value.trim();
-
-        if (!title) {
-          if (addGameError) {
-            addGameError.textContent = 'El título es obligatorio.';
-            addGameError.style.display = 'block';
-          }
-          return;
-        }
-
-        try {
-          addGameSubmitBtn.disabled = true;
-          addGameSubmitBtn.textContent = 'Guardando...';
-          if (addGameError) addGameError.style.display = 'none';
-
-          const res = await fetch(`${API_BASE_URL}/api/admin/add-game`, {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              'Authorization': `Bearer ${token}`
-            },
-            body: JSON.stringify({ title, console: consoleName, link, cover })
-          });
-
-          const data = await res.json();
-
-          if (res.ok) {
-            closeAddGameModal();
-            // Re-fetch games list to show the new game
-            try {
-              const gamesRes = await fetch('/src/data/games.json');
-              if (gamesRes.ok) {
-                const gamesData = await gamesRes.json();
-                renderAdminGamesList(gamesData.games);
-              }
-            } catch (_) { /* If can't refresh, user can reload manually */ }
-            alert(`✅ Juego "${data.game.title}" agregado correctamente.`);
-          } else {
-            if (addGameError) {
-              addGameError.textContent = data.error || 'Error desconocido.';
-              addGameError.style.display = 'block';
-            }
-          }
-        } catch (err) {
-          if (addGameError) {
-            addGameError.textContent = 'Error de conexión con el servidor.';
-            addGameError.style.display = 'block';
-          }
-        } finally {
-          addGameSubmitBtn.disabled = false;
-          addGameSubmitBtn.innerHTML = `
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-            Guardar Juego
-          `;
-        }
-      });
-    }
-
-    // === Image Upload Listeners ===
-
-    const uploadImageToServer = async (file, targetInputId, previewId, labelEl) => {
-      const token = localStorage.getItem('godzgames-admin-token');
-      if (!token) {
-        alert('Sesión expirada. Por favor inicia sesión nuevamente.');
-        return;
-      }
-
-      // Show loading state on button
-      labelEl.classList.add('uploading');
-      labelEl.querySelector('svg') && (labelEl.querySelector('svg').style.display = 'none');
-      const originalText = labelEl.textContent.trim();
-      labelEl.textContent = 'Subiendo...';
-
-      try {
-        const formData = new FormData();
-        formData.append('image', file);
-
-        const res = await fetch(`${API_BASE_URL}/api/admin/upload-image`, {
-          method: 'POST',
-          headers: { 'Authorization': `Bearer ${token}` },
-          body: formData
-        });
-
-        if (res.ok) {
-          const data = await res.json();
-          // Put the returned URL into the text input
-          const targetInput = document.getElementById(targetInputId);
-          if (targetInput) targetInput.value = data.url;
-
-          // Show preview thumbnail
-          const previewWrap = document.getElementById(previewId);
-          if (previewWrap) {
-            previewWrap.innerHTML = `
-              <img src="${data.url}" alt="Preview" />
-              <span class="upload-success-tag">
-                <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-                Imagen guardada correctamente
-              </span>
-            `;
-          }
-        } else {
-          const err = await res.json();
-          alert(`Error al subir: ${err.error || 'Error desconocido'}`);
-        }
-      } catch (e) {
-        console.error('Upload error:', e);
-        alert('Error de conexión al subir la imagen.');
-      } finally {
-        labelEl.classList.remove('uploading');
-        labelEl.textContent = '';
-        const svgIcon = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-        svgIcon.setAttribute('width', '16'); svgIcon.setAttribute('height', '16');
-        svgIcon.setAttribute('viewBox', '0 0 24 24'); svgIcon.setAttribute('fill', 'currentColor');
-        svgIcon.innerHTML = '<path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z"/>';
-        labelEl.appendChild(svgIcon);
-        labelEl.appendChild(document.createTextNode(' Subir'));
-      }
-    };
-
-    // Attach upload listeners to the three file inputs
-    [
-      { fileId: 'admin-upload-cover',   targetId: 'admin-edit-cover',   previewId: 'preview-cover' },
-      { fileId: 'admin-upload-screen1', targetId: 'admin-edit-screen1', previewId: 'preview-screen1' },
-      { fileId: 'admin-upload-screen2', targetId: 'admin-edit-screen2', previewId: 'preview-screen2' }
-    ].forEach(({ fileId, targetId, previewId }) => {
-      const fileInput = document.getElementById(fileId);
-      if (fileInput) {
-        fileInput.addEventListener('change', (e) => {
-          const file = e.target.files[0];
-          if (!file) return;
-          // Find the label button next to the text input
-          const labelEl = document.querySelector(`label[for="${fileId}"]`);
-          uploadImageToServer(file, targetId, previewId, labelEl);
-          // Reset so the same file can be re-selected if needed
-          fileInput.value = '';
-        });
-      }
-    });
-
-    // Also clear preview when user types a URL manually
+    // === Image URL preview (no upload to server — user pastes URL directly) ===
     ['admin-edit-cover', 'admin-edit-screen1', 'admin-edit-screen2'].forEach((id, i) => {
       const input = document.getElementById(id);
       const previewId = ['preview-cover', 'preview-screen1', 'preview-screen2'][i];
+      // Hide upload buttons since there's no server to upload to
+      const fileId = ['admin-upload-cover', 'admin-upload-screen1', 'admin-upload-screen2'][i];
+      const uploadLabel = document.querySelector(`label[for="${fileId}"]`);
+      if (uploadLabel) uploadLabel.style.display = 'none';
       if (input) {
         input.addEventListener('input', () => {
           const previewWrap = document.getElementById(previewId);
@@ -1669,32 +1264,70 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // === Fetch news in background (non-blocking) ===
-    // Page is already rendered. News will appear once the backend responds.
-    // A 6-second timeout prevents Render cold-starts from blocking the page.
+    // Hide scraping panel (no backend)
+    const scrapePanel = document.getElementById('scrape-panel');
+    if (scrapePanel) scrapePanel.style.display = 'none';
+
+    // Hide Excel import (no backend)
+    const excelImportLabel = document.querySelector('label[for="admin-import-excel"]');
+    if (excelImportLabel) excelImportLabel.style.display = 'none';
+
+    // Add Game modal — static version: just shows instruction
+    const addGameOpenBtn = document.getElementById('admin-add-game-btn');
+    if (addGameOpenBtn) {
+      addGameOpenBtn.addEventListener('click', () => {
+        alert(currentLang === 'es'
+          ? 'Para agregar juegos, edita el archivo src/data/games.json y sube los cambios al servidor via FTP.'
+          : 'To add games, edit src/data/games.json and upload the updated file to your server via FTP.');
+      });
+    }
+
+    // === Fetch news in background via RSS2JSON (no backend needed) ===
     (async () => {
       try {
-        const controller = new AbortController();
-        const timeoutId = setTimeout(() => controller.abort(), 6000);
-        const response = await fetch(`${API_BASE_URL}/api/news`, { signal: controller.signal });
-        clearTimeout(timeoutId);
-        if (response.ok) {
-          const fetchedNews = await response.json();
-          if (Array.isArray(fetchedNews) && fetchedNews.length > 0) {
-            aiNews = fetchedNews;
-            renderTicker();
-            const hash = window.location.hash;
-            if (!hash.startsWith('#/game/') && hash !== '#/admin') {
-              renderGames();
-            }
+        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=video+games&hl=en-US&gl=US&ceid=US:en');
+        const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}&count=6`;
+        const response = await fetch(apiUrl);
+        if (!response.ok) throw new Error(`RSS2JSON returned ${response.status}`);
+        const feedData = await response.json();
+        if (feedData.status !== 'ok' || !feedData.items || feedData.items.length === 0) throw new Error('Empty feed');
+
+        const fetchedNews = feedData.items.slice(0, 3).map((item, i) => {
+          // Clean title (remove " - Source Name" suffix)
+          let cleanTitle = item.title || '';
+          const lastDash = cleanTitle.lastIndexOf(' - ');
+          if (lastDash !== -1) cleanTitle = cleanTitle.substring(0, lastDash).trim();
+
+          // Use thumbnail from feed, or generate one via Pollinations
+          const cleanTitleForImage = cleanTitle.replace(/[^a-zA-Z0-9 ]/g, '').substring(0, 60);
+          const imageUrl = item.thumbnail && item.thumbnail.startsWith('http')
+            ? item.thumbnail
+            : `https://image.pollinations.ai/prompt/${encodeURIComponent('Dynamic video game concept art: ' + cleanTitleForImage + '. Vibrant colors, cinematic lighting, 8k, no text.')}?width=800&height=500&nologo=true&seed=${i}`;
+
+          // Build short description
+          const strippedDesc = (item.description || '').replace(/<[^>]+>/g, '').trim();
+          const shortDesc = strippedDesc.length > 150 ? strippedDesc.substring(0, 147) + '...' : strippedDesc;
+
+          return {
+            id: `news-${i}`,
+            tag: 'NEWS',
+            image: imageUrl,
+            link: item.link || '#',
+            en: { title: cleanTitle, description: shortDesc, fullContent: strippedDesc },
+            es: { title: cleanTitle, description: shortDesc, fullContent: strippedDesc }
+          };
+        });
+
+        if (fetchedNews.length > 0) {
+          aiNews = fetchedNews;
+          renderTicker();
+          const hash = window.location.hash;
+          if (!hash.startsWith('#/game/') && hash !== '#/admin') {
+            renderGames();
           }
         }
       } catch (e) {
-        if (e.name === 'AbortError') {
-          console.warn('[GodZGames] News fetch timed out — server may be waking up. Page loaded without news.');
-        } else {
-          console.error('[GodZGames] Error fetching news:', e);
-        }
+        console.warn('[GodZGames] Could not load news from RSS2JSON:', e.message);
       }
     })();
   };

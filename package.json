@@ -1,31 +1,18 @@
 {
   "name": "godzgames",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "GodZGames - Static site, no backend required",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && npm run sitemap",
-    "sitemap": "node scripts/generate_sitemap.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "vite": "^8.0.16"
-  },
-  "dependencies": {
-    "axios": "^1.18.0",
-    "cheerio": "^1.2.0",
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "multer": "^2.2.0",
-    "node-cron": "^4.2.1",
-    "openai": "^6.42.0",
-    "rss-parser": "^3.13.0",
-    "xlsx": "^0.18.5"
   }
 }
+
