@@ -48,6 +48,17 @@ document.addEventListener('DOMContentLoaded', () => {
     ? 'http://localhost:3000'
     : 'https://godzgames-backend.onrender.com';
 
+  const getFullImageUrl = (url) => {
+    if (!url) return '';
+    if (url.startsWith('http://localhost:3000')) {
+      return url.replace('http://localhost:3000', API_BASE_URL);
+    }
+    if (url.startsWith('/uploads/')) {
+      return `${API_BASE_URL}${url}`;
+    }
+    return url;
+  };
+
   // Fisher-Yates Shuffle Algorithm
   const shuffleArray = (array) => {
     const arr = [...array];
@@ -215,7 +226,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const openModal = (newsItem) => {
     const loc = getLocalizedNews(newsItem);
     
-    modalImage.src = newsItem.image;
+    modalImage.src = getFullImageUrl(newsItem.image);
     modalTag.textContent = loc.tag;
     modalTitle.textContent = loc.title;
     
@@ -244,7 +255,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loc = getLocalizedNews(news);
     return `
       <div class="featured-item" data-id="${news.id}">
-        <img src="${news.image}" alt="${loc.title}" loading="lazy" />
+        <img src="${getFullImageUrl(news.image)}" alt="${loc.title}" loading="lazy" />
         <div class="featured-overlay">
           <span class="featured-category">${loc.tag}</span>
           <h3 class="featured-title" style="margin-bottom: 5px;">${loc.title}</h3>
@@ -257,7 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Helper function to create a game card layout
   const createGameCard = (game) => {
     // Check if the game has a real cover from games.json, otherwise fallback to Bing image search for the real cover
-    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
+    const coverUrl = game.cover ? getFullImageUrl(game.cover) : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
     
     const imageHtml = `<img src="${coverUrl}" alt="${game.title}" loading="lazy"/>`;
 
@@ -459,7 +470,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Set loading skeletons
     const t = translations[currentLang];
     const format = getFileFormat(game.console);
-    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=400`;
+    const coverUrl = game.cover ? getFullImageUrl(game.cover) : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=400`;
     
     // Screens URL
     const screenUrl1 = `https://image.pollinations.ai/prompt/High%20quality%20gameplay%20screenshot%20of%20video%20game%20${encodeURIComponent(game.title)}%20on%20${encodeURIComponent(game.console)}?width=800&height=450&nologo=true`;
@@ -564,9 +575,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const description = getField(details.description);
 
     // Apply custom overrides if defined
-    const finalCoverUrl = details.customCover || coverUrl;
-    const finalScreenUrl1 = (details.customScreens && details.customScreens[0]) || screenUrl1;
-    const finalScreenUrl2 = (details.customScreens && details.customScreens[1]) || screenUrl2;
+    const finalCoverUrl = getFullImageUrl(details.customCover || coverUrl);
+    const finalScreenUrl1 = getFullImageUrl((details.customScreens && details.customScreens[0]) || screenUrl1);
+    const finalScreenUrl2 = getFullImageUrl((details.customScreens && details.customScreens[1]) || screenUrl2);
     const finalLinks = (details.customLinks && details.customLinks.length > 0)
       ? details.customLinks
       : [game.link, game.link, game.link];
