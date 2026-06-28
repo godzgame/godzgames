@@ -1,0 +1,37 @@
+name: Update News Automatically
+
+on:
+  schedule:
+    # Ejecutar cada 12 horas (a las 00:00 y 12:00 UTC)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub si quieres
+
+permissions:
+  contents: write # Permiso para que el bot pueda guardar los cambios en el repo
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Generate New AI News
+        run: node scripts/update_news.cjs
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/latest_news.json
+          git add public/uploads/
+          git commit -m "Auto-update: Noticias generadas por IA [skip ci]" || echo "No changes to commit"
+          git push

@@ -633,18 +633,38 @@ app.post('/api/admin/import-excel', requireAdmin, excelUpload.single('file'), (r
 
     rows.forEach(row => {
       const keys = Object.keys(row);
-      if (keys.length === 0) return;
-
-      let title = row[keys[0]];
-      let link = '';
+      let title = '';
+      let links = [];
+      let trailer = '';
+      let sinopsis = '';
 
       for (const key of keys) {
         const lowerKey = key.toLowerCase();
-        if (lowerKey.includes('link') || lowerKey.includes('url') || lowerKey.includes('acortador')) {
-          link = row[key];
-        }
         if (lowerKey.includes('título') || lowerKey.includes('titulo') || lowerKey.includes('name') || lowerKey.includes('juego')) {
           title = row[key];
+        }
+        if (lowerKey.includes('sinopsis') || lowerKey.includes('descripcion') || lowerKey.includes('description')) {
+          const sin = row[key];
+          if (typeof sin === 'string' && sin.toLowerCase() !== 'no disponible' && sin.toLowerCase() !== 'n/a') {
+            sinopsis = sin.trim();
+          }
+        }
+
+        const val = row[key];
+        if (typeof val === 'string' && val.includes('http')) {
+          const urls = val.match(/https?:\/\/[^\s,]+/g);
+          if (urls) {
+            for (const u of urls) {
+              if (u.includes('downloadgameps3') || u.includes('downloadgamepsp') || u.includes('dlxbgame.com') || u.includes('dlpsgame.com') || u.includes('gamepciso.com') || u.includes('nswgame.com') || u.includes('docs.google.com/spreadsheets')) {
+                continue;
+              }
+              if (u.includes('youtube.com') || u.includes('youtu.be')) {
+                trailer = u;
+              } else {
+                links.push(u);
+              }
+            }
+          }
         }
       }
 
@@ -652,12 +672,20 @@ app.post('/api/admin/import-excel', requireAdmin, excelUpload.single('file'), (r
 
       const trimmedTitle = title.trim();
       const key = `${trimmedTitle.toLowerCase()}_${consoleName.toLowerCase()}`;
+      links = [...new Set(links)];
 
       if (existingGamesMap.has(key)) {
         const existing = existingGamesMap.get(key);
-        if (link && (link || '').trim() !== existing.link) {
-          existing.link = (link || '').trim();
+        if (links.length > 0 && JSON.stringify(existing.links) !== JSON.stringify(links)) {
+          existing.links = links;
+          existing.link = links[0];
           updatedGamesCount++;
+        }
+        if (trailer && existing.trailer !== trailer) {
+          existing.trailer = trailer;
+        }
+        if (sinopsis && existing.sinopsis !== sinopsis) {
+          existing.sinopsis = sinopsis;
         }
       } else {
         const newId = getDeterministicId(trimmedTitle, consoleName);
@@ -665,7 +693,10 @@ app.post('/api/admin/import-excel', requireAdmin, excelUpload.single('file'), (r
           id: newId,
           title: trimmedTitle,
           console: consoleName,
-          link: (link || '').trim() || '#',
+          links: links,
+          link: links.length > 0 ? links[0] : '#',
+          trailer: trailer,
+          sinopsis: sinopsis,
           cover: ''
         };
         dbData.games.push(newGame);
