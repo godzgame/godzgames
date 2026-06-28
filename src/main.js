@@ -1192,6 +1192,20 @@ document.addEventListener('DOMContentLoaded', () => {
       currentLang = userLang.startsWith('es') ? 'es' : 'en';
     }
 
+    // Try to fetch the absolute latest news live from GitHub, bypassing static bundle
+    try {
+      const liveNewsRes = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/latest_news.json?t=' + Date.now());
+      if (liveNewsRes.ok) {
+        const liveNewsData = await liveNewsRes.json();
+        if (liveNewsData && liveNewsData.articles) {
+          aiNews = liveNewsData.articles;
+        }
+      }
+    } catch (err) {
+      console.warn("Could not fetch live news, using bundled fallback.");
+    }
+
+
     // Render games immediately with bundled data (no waiting for backend)
     updateLanguage(currentLang);
     renderTags();

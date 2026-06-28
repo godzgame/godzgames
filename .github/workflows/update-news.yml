@@ -2,8 +2,8 @@ name: Update News Automatically
 
 on:
   schedule:
-    # Ejecutar cada 12 horas (a las 00:00 y 12:00 UTC)
-    - cron: '0 0,12 * * *'
+    # Ejecutar cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub si quieres
 
 permissions:
