@@ -1,10 +1,18 @@
 {
+<<<<<<< Updated upstream
   "updatedAt": 1782663785619,
+=======
+  "updatedAt": 1782674031819,
+>>>>>>> Stashed changes
   "articles": [
     {
       "id": "news-0",
       "tag": "NEWS",
+<<<<<<< Updated upstream
       "image": "/uploads/news_1782663763022_47.jpg",
+=======
+      "image": "/uploads/news_1782674006943_624.jpg",
+>>>>>>> Stashed changes
       "link": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
       "en": {
         "title": "Mewgenics Is a Mischievous Game About Breeding Cats",
@@ -36,6 +44,7 @@
     {
       "id": "news-2",
       "tag": "NEWS",
+<<<<<<< Updated upstream
       "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20General%20Intuitions%2023B%20bet%20that%20video%20games%20can%20train%20AI%20age.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
       "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "en": {
@@ -47,6 +56,19 @@
         "title": "La apuesta de 2.300 millones de dólares de General Intuition a que los videojuegos pueden entrenar agentes de IA para el mundo real",
         "description": "Tan pronto como entré al piso de I+D de General Intuition en su oficina de Nueva York, el cofundador y director ejecutivo de la compañía, Pim de Wi...",
         "fullContent": "Tan pronto como entré al piso de I+D de General Intuition en su oficina de Nueva York, el cofundador y director ejecutivo de la compañía, Pim de Witte, de 31 años, dirigió mi atención hacia un monitor colocado sobre un escritorio de pie. Alguien parecía estar jugando algo así como Fortnite. No era una persona.\n\n“Nuestro agente ha estado jugando durante 100 horas seguidas”, dijo radiante Kent Rollins, director de productos de la compañía.\n\nAntes de que pudiera absorberme en el espectáculo de una IA navegando por el entorno virtual del juego, escuché los pasos electrónicos de un gran robot cuadrúpedo que se acercaba.\n\n“El mismo cerebro que impulsa al agente que juega está impulsando al robot”, me dijo de Witte.\n\nJosh Duplantis, un analista de datos que llevaba una computadora portátil que transmitía una transmisión en vivo desde la única cámara del robot, intervino para explicar que el modo predeterminado del robot era \"exploración\".\n\nConfiando en esa cámara, su ojo singular, el robot gigante parecido a un insecto se acercó a mí, me rodeó y continuó hacia la oficina. De vez en cuando golpeaba las patas de las sillas o chocaba con un contenedor de basura errante, como un niño pequeño que aún no ha aprendido cómo se relaciona su cuerpo con el mundo que lo rodea. Duplantis dijo que se necesitaron sólo ocho minutos de datos robóticos del mundo real para afinar un modelo de IA para cuadrúpedos. Es más, esos datos se recopilaron en la calle, no dentro de la oficina donde el robot navegaba actualmente."
+=======
+      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Secret%20Level%20Officially%20Returns%20With%20Bigger%20Games%20on%20Prime%20V.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
+      "link": "https://www.imdb.com/news/ni65904641/?ref_=nm_nwr_1",
+      "en": {
+        "title": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video",
+        "description": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video  IMDb",
+        "fullContent": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video  IMDb"
+      },
+      "es": {
+        "title": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video",
+        "description": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb",
+        "fullContent": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb"
+>>>>>>> Stashed changes
       }
     }
   ]
