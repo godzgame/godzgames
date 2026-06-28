@@ -1326,8 +1326,18 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // News already loaded from NEWS_POOL (random 3 picked at top of file)
-    // No external API needed — instant load, bilingual, varied each visit
+    // Check for deep link to open a specific news article
+    const urlParams = new URLSearchParams(window.location.search);
+    const newsIdParam = urlParams.get('newsId');
+    if (newsIdParam) {
+      const targetNews = aiNews.find(n => n.id === newsIdParam);
+      if (targetNews) {
+        // Use a slight delay to ensure modal transitions smoothly on page load
+        setTimeout(() => {
+          openModal(targetNews);
+        }, 300);
+      }
+    }
   };
 
   initializeApp();
