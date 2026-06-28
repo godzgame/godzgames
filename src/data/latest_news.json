@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1782674718595,
+  "updatedAt": 1782676016044,
   "articles": [
     {
       "id": "news-0",
       "tag": "NEWS",
-      "image": "/uploads/news_1782674694123_106.jpg",
+      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Mewgenics%20Is%20a%20Mischievous%20Game%20About%20Breeding%20Cats.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
       "link": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
       "en": {
         "title": "Mewgenics Is a Mischievous Game About Breeding Cats",
@@ -20,7 +20,7 @@
     {
       "id": "news-1",
       "tag": "NEWS",
-      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20The%20Video%20Games%20You%20Should%20Play%20This%20Weekend%20%20June%2026%202026.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/26/04511052/starfoxcompare.jpg.webp",
       "link": "https://gameinformer.com/opinion/2026/06/26/the-video-games-you-should-play-this-weekend-june-26-2026",
       "en": {
         "title": "The Video Games You Should Play This Weekend – June 26, 2026",

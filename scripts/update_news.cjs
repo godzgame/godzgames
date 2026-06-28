@@ -102,7 +102,7 @@ const getArticleUrl = async (googleRssUrl) => {
   }
 };
 
-const scrapeArticleText = async (url) => {
+const scrapeArticleTextAndImage = async (url) => {
   try {
     const { data } = await axios.get(url, {
       headers: {
@@ -128,10 +128,12 @@ const scrapeArticleText = async (url) => {
       }
     }
     
-    return paragraphs.slice(0, 6).join('\n\n');
+    const imageUrl = $('meta[property="og:image"]').attr('content') || $('meta[name="twitter:image"]').attr('content') || '';
+    
+    return { text: paragraphs.slice(0, 6).join('\n\n'), imageUrl };
   } catch (error) {
     console.error(`Error scraping URL ${url}:`, error.message);
-    return '';
+    return { text: '', imageUrl: '' };
   }
 };
 
@@ -183,7 +185,7 @@ const generateNews = async () => {
       try {
         console.log(`Processing: ${cleanTitle}`);
         const resolvedUrl = await getArticleUrl(item.link);
-        const originalText = await scrapeArticleText(resolvedUrl);
+        const { text: originalText, imageUrl: scrapedImageUrl } = await scrapeArticleTextAndImage(resolvedUrl);
         const textToRewrite = originalText || item.contentSnippet || item.content || '';
         
         if (!textToRewrite || textToRewrite.trim().length < 50) continue;
@@ -191,9 +193,12 @@ const generateNews = async () => {
         const rewritten = await rewriteArticleBilingual(cleanTitle, textToRewrite);
         if (!rewritten.en.body || !rewritten.es.body || rewritten.en.body.trim().length < 50) continue;
         
-        const cleanTitleForImage = rewritten.en.title.replace(/[^a-zA-Z0-9 ]/g, "").substring(0, 60);
-        const imagePrompt = `Epic, striking, dynamic video game concept art representing the news: ${cleanTitleForImage}. Vibrant colors, dramatic cinematic lighting, 8k resolution, highly detailed masterpiece. No text.`;
-        const localImageUrl = await downloadImageLocally(imagePrompt);
+        let finalImageUrl = scrapedImageUrl;
+        if (!finalImageUrl) {
+          const cleanTitleForImage = rewritten.en.title.replace(/[^a-zA-Z0-9 ]/g, "").substring(0, 60);
+          const imagePrompt = `Epic, striking, dynamic video game concept art representing the news: ${cleanTitleForImage}. Vibrant colors, dramatic cinematic lighting, 8k resolution, highly detailed masterpiece. No text.`;
+          finalImageUrl = await downloadImageLocally(imagePrompt);
+        }
         
         let enDesc = rewritten.en.body.split('\n')[0] || '';
         if (enDesc.length > 150) enDesc = enDesc.substring(0, 147) + '...';
@@ -204,7 +209,7 @@ const generateNews = async () => {
         newsData.push({
           id: `news-${newsData.length}`,
           tag: 'NEWS',
-          image: localImageUrl,
+          image: finalImageUrl,
           link: resolvedUrl,
           en: { title: rewritten.en.title, description: enDesc, fullContent: rewritten.en.body },
           es: { title: rewritten.es.title, description: esDesc, fullContent: rewritten.es.body }
