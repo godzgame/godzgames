@@ -48,7 +48,7 @@ const downloadImageLocally = async (promptText) => {
       writer.on('finish', resolve);
       writer.on('error', reject);
     });
-    return `/uploads/${filename}`;
+    return `https://www.godzgames.com/uploads/${filename}`;
   } catch (err) {
     console.error("Error downloading image:", err.message);
     return `https://image.pollinations.ai/prompt/${encodeURIComponent(promptText)}?width=800&height=500&nologo=true`;
@@ -128,7 +128,11 @@ const scrapeArticleTextAndImage = async (url) => {
       }
     }
     
-    const imageUrl = $('meta[property="og:image"]').attr('content') || $('meta[name="twitter:image"]').attr('content') || '';
+    let imageUrl = $('meta[property="og:image"]').attr('content') || $('meta[name="twitter:image"]').attr('content') || '';
+    if (imageUrl && imageUrl.startsWith('/')) {
+      const urlObj = new URL(url);
+      imageUrl = `${urlObj.protocol}//${urlObj.host}${imageUrl}`;
+    }
     
     return { text: paragraphs.slice(0, 6).join('\n\n'), imageUrl };
   } catch (error) {
