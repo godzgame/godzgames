@@ -190,6 +190,13 @@ const generateNews = async () => {
         console.log(`Processing: ${cleanTitle}`);
         const resolvedUrl = await getArticleUrl(item.link);
         const { text: originalText, imageUrl: scrapedImageUrl } = await scrapeArticleTextAndImage(resolvedUrl);
+        
+        // If we couldn't scrape enough text (e.g. paywall, bot protection), skip this article to maintain quality
+        if (!originalText || originalText.length < 200) {
+          console.log(`Skipping article (too short/blocked): ${cleanTitle}`);
+          continue;
+        }
+
         const textToRewrite = originalText || item.contentSnippet || item.content || '';
         
         if (!textToRewrite || textToRewrite.trim().length < 50) continue;
