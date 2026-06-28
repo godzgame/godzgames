@@ -355,12 +355,12 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       // Render Featured News (Fetched from backend)
-      if (aiNews.length >= 3) {
-        featuredGrid.innerHTML = `
-          ${createNewsCard(aiNews[0], true)}
-          ${createNewsCard(aiNews[1], false)}
-          ${createNewsCard(aiNews[2], false)}
-        `;
+      if (aiNews.length > 0) {
+        let html = '';
+        for (let i = 0; i < Math.min(aiNews.length, 5); i++) {
+          html += createNewsCard(aiNews[i], i === 0);
+        }
+        featuredGrid.innerHTML = html;
 
         // Attach click event listeners to open the modal
         featuredGrid.querySelectorAll('.featured-item').forEach(el => {

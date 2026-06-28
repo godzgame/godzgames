@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1782680790683,
+  "updatedAt": 1782682189747,
   "articles": [
     {
       "id": "news-0",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782680767687_424.jpg",
+      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Mewgenics%20Is%20a%20Mischievous%20Game%20About%20Breeding%20Cats.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
       "link": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
       "en": {
         "title": "Mewgenics Is a Mischievous Game About Breeding Cats",
@@ -36,6 +36,22 @@
     {
       "id": "news-2",
       "tag": "NEWS",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Comp-GTA-6.jpg?quality=75&strip=all&w=1200",
+      "link": "https://nypost.com/2026/06/28/us-news/grand-theft-auto-vi-fans-rage-over-greedy-paywalls-100-price-tag-for-new-game/",
+      "en": {
+        "title": "Grand Theft Auto VI fans rage over ‘greedy’ paywalls, $100 price tag for new game",
+        "description": "Fans of Grand Theft Auto are fuming over the “greedy” pricing and paywalls set for the highly anticipated latest installment of the popular video g...",
+        "fullContent": "Fans of Grand Theft Auto are fuming over the “greedy” pricing and paywalls set for the highly anticipated latest installment of the popular video game series.\n\nRockstar Games, developers of “Grand Theft Auto VI,” surprised gamers with two versions of the upcoming game last week when it finally allowed pre-orders ahead of its Nov. 19 release.\n\nThe standard edition of the game, retailing at $80 — already $10 more than the industry standard — disappointed longtime fans by locking tons of story content, including access to stores, cars, vehicle modifications, clothes, tattoos, guns, and missions and more behind the $100 “ultimate edition” of the game.\n\n“They clearly wanted to charge $100 for the game but were scared of the backlash,” said Andrew Duran, a PC gamer and longtime GTA fan who purchased a $600 PlayStation just to play the title in November, as there is no PC release pending.\n\n“There’s no other reason they would paywall a bunch of story content and shops throughout the in-game world,” he added.\n\nOther gamers agreed, and said that Rockstar games was being “greedy.”"
+      },
+      "es": {
+        "title": "Los fanáticos de Grand Theft Auto VI se enfurecen por los muros de pago “codiciosos” y el precio de $ 100 por un nuevo juego",
+        "description": "Los fanáticos de Grand Theft Auto están furiosos por los precios “codiciosos” y los muros de pago establecidos para la muy esperada última entrega ...",
+        "fullContent": "Los fanáticos de Grand Theft Auto están furiosos por los precios “codiciosos” y los muros de pago establecidos para la muy esperada última entrega de la popular serie de videojuegos.\n\nRockstar Games, desarrolladores de “Grand Theft Auto VI”, sorprendieron a los jugadores con dos versiones del próximo juego la semana pasada cuando finalmente permitieron pedidos anticipados antes de su lanzamiento el 19 de noviembre.\n\nLa edición estándar del juego, que se vende a $ 80 (ya $ 10 más que el estándar de la industria), decepcionó a los fanáticos de toda la vida al bloquear toneladas de contenido de la historia, incluido el acceso a tiendas, autos, modificaciones de vehículos, ropa, tatuajes, armas y misiones y más detrás de la “edición definitiva” del juego de $ 100.\n\n“Claramente querían cobrar 100 dólares por el juego, pero tenían miedo de las reacciones negativas”, dijo Andrew Duran, un jugador de PC y fanático de GTA desde hace mucho tiempo que compró una PlayStation de 600 dólares sólo para jugar el título en noviembre, ya que no hay ningún lanzamiento para PC pendiente.\n\n\"No hay otra razón por la que pagarían un montón de contenido de historias y tiendas en todo el mundo del juego\", agregó.\n\nOtros jugadores estuvieron de acuerdo y dijeron que Rockstar Games estaba siendo \"codicioso\"."
+      }
+    },
+    {
+      "id": "news-3",
+      "tag": "NEWS",
       "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Secret%20Level%20Officially%20Returns%20With%20Bigger%20Games%20on%20Prime%20V.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
       "link": "https://www.imdb.com/news/ni65904641/?ref_=nm_nwr_1",
       "en": {
@@ -47,6 +63,22 @@
         "title": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video",
         "description": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb",
         "fullContent": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb"
+      }
+    },
+    {
+      "id": "news-4",
+      "tag": "NEWS",
+      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20A%20balanced%20diet%20of%20video%20games%20is%20associated%20with%20greater%20st.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
+      "link": "https://www.psypost.org/a-balanced-diet-of-video-games-is-associated-with-greater-stoicism-and-less-isolation/",
+      "en": {
+        "title": "A balanced diet of video games is associated with greater stoicism and less isolation",
+        "description": "A balanced diet of video games is associated with greater stoicism and less isolation  PsyPost",
+        "fullContent": "A balanced diet of video games is associated with greater stoicism and less isolation  PsyPost"
+      },
+      "es": {
+        "title": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento",
+        "description": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento PsyPost",
+        "fullContent": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento PsyPost"
       }
     }
   ]

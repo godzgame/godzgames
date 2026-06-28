@@ -176,7 +176,7 @@ const generateNews = async () => {
     const titlesSet = new Set();
     
     for (const item of feed.items) {
-      if (newsData.length === 3) break;
+      if (newsData.length === 5) break;
       
       let cleanTitle = item.title;
       const lastDash = cleanTitle.lastIndexOf(' - ');
