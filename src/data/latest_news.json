@@ -1,24 +1,8 @@
 {
-  "updatedAt": 1782682189747,
+  "updatedAt": 1782682654073,
   "articles": [
     {
       "id": "news-0",
-      "tag": "NEWS",
-      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Mewgenics%20Is%20a%20Mischievous%20Game%20About%20Breeding%20Cats.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
-      "link": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
-      "en": {
-        "title": "Mewgenics Is a Mischievous Game About Breeding Cats",
-        "description": "Mewgenics Is a Mischievous Game About Breeding Cats  The New York Times",
-        "fullContent": "Mewgenics Is a Mischievous Game About Breeding Cats  The New York Times"
-      },
-      "es": {
-        "title": "Mewgenics es un juego travieso sobre la cría de gatos",
-        "description": "Mewgenics es un juego travieso sobre la cría de gatos The New York Times",
-        "fullContent": "Mewgenics es un juego travieso sobre la cría de gatos The New York Times"
-      }
-    },
-    {
-      "id": "news-1",
       "tag": "NEWS",
       "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/26/04511052/starfoxcompare.jpg.webp",
       "link": "https://gameinformer.com/opinion/2026/06/26/the-video-games-you-should-play-this-weekend-june-26-2026",
@@ -34,7 +18,7 @@
       }
     },
     {
-      "id": "news-2",
+      "id": "news-1",
       "tag": "NEWS",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Comp-GTA-6.jpg?quality=75&strip=all&w=1200",
       "link": "https://nypost.com/2026/06/28/us-news/grand-theft-auto-vi-fans-rage-over-greedy-paywalls-100-price-tag-for-new-game/",
@@ -50,35 +34,51 @@
       }
     },
     {
-      "id": "news-3",
+      "id": "news-2",
       "tag": "NEWS",
-      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20Secret%20Level%20Officially%20Returns%20With%20Bigger%20Games%20on%20Prime%20V.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
-      "link": "https://www.imdb.com/news/ni65904641/?ref_=nm_nwr_1",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/667316a2a2ff94060a6ee109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/erikkain/2026/06/28/ps-plus-july-2026-predictions-leaks-reveal/",
       "en": {
-        "title": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video",
-        "description": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video  IMDb",
-        "fullContent": "‘Secret Level’ Officially Returns With Bigger Games on Prime Video  IMDb"
+        "title": "PlayStation Plus Free Games July 2026: Predictions, Rumors, Leaks And More",
+        "description": "July is almost here and with it another slate of free PS Plus games for Sony fans. We’ve had some quality months in 2026, so hopefully the trend co...",
+        "fullContent": "July is almost here and with it another slate of free PS Plus games for Sony fans. We’ve had some quality months in 2026, so hopefully the trend continues.\n\nRead on for everything you need to know about July’s PlayStation Plus lineup of Essential titles, including leaks, rumors, reveal time and release date.\n\nIt’s been a pretty good year for PS Plus subscribers so far, with games like Monster Hunter Rise releasing in March and Subnautica: Below Zero in February. Race car gaming fans got Need for Speed: Unbound in January.Lords of the Fallen dropped in April and Wuchang: Fallen Feathers in May. Grounded (Fully Yoked Edition), Nickelodeon All-Star Brawl 2, and Warhammer 40,000: Darktide all released in June and can still be downloaded for a little over a week from the time of publication.\n\nJuly’s lineup hasn’t been revealed yet, though we often see leaks just before the games are officially revealed. I’ll update this post if that happens.\n\n(See below for every PS Plus Essential game released in 2026 so far).\n\nDefinitely give the puzzle-climbing / post-apocalyptic game Jusant a try if you get a chance. It’s really good."
       },
       "es": {
-        "title": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video",
-        "description": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb",
-        "fullContent": "'Secret Level' regresa oficialmente con juegos más grandes en Prime Video  IMDb"
+        "title": "Juegos gratuitos de PlayStation Plus de julio de 2026: predicciones, rumores, filtraciones y más",
+        "description": "Julio ya casi está aquí y con él otra serie de juegos gratuitos de PS Plus para los fanáticos de Sony. Hemos tenido algunos meses de calidad en 202...",
+        "fullContent": "Julio ya casi está aquí y con él otra serie de juegos gratuitos de PS Plus para los fanáticos de Sony. Hemos tenido algunos meses de calidad en 2026, por lo que es de esperar que la tendencia continúe.\n\nContinúe leyendo para conocer todo lo que necesita saber sobre la línea de títulos Essential de PlayStation Plus de julio, incluidas filtraciones, rumores, hora de revelación y fecha de lanzamiento.\n\nHasta ahora ha sido un año bastante bueno para los suscriptores de PS Plus, con juegos como Monster Hunter Rise lanzados en marzo y Subnautica: Below Zero en febrero. Los fanáticos de los juegos de autos de carrera obtuvieron Need for Speed: Unbound en enero. Lords of the Fallen se lanzó en abril y Wuchang: Fallen Feathers en mayo. Grounded (Fully Yoked Edition), Nickelodeon All-Star Brawl 2 y Warhammer 40,000: Darktide se lanzaron en junio y aún se pueden descargar durante poco más de una semana desde el momento de la publicación.\n\nLa programación de julio aún no se ha revelado, aunque a menudo vemos filtraciones justo antes de que los juegos se revelen oficialmente. Actualizaré esta publicación si eso sucede.\n\n(Consulte a continuación todos los juegos de PS Plus Essential lanzados en 2026 hasta ahora).\n\nDefinitivamente prueba el juego post-apocalíptico de escalada de rompecabezas Jusant si tienes la oportunidad. Es realmente bueno."
+      }
+    },
+    {
+      "id": "news-3",
+      "tag": "NEWS",
+      "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blta90ccd47da05fa31/6a3ab58e9e876999289c1ccd/assassins-creed-black-flag-remake.jpg",
+      "link": "https://www.gamingbible.com/news/video-games-coming-ps5-xbox-pc-july-2026-852494-20260623",
+      "en": {
+        "title": "The Biggest Video Games Coming To PS5, Xbox, And PC In July 2026",
+        "description": "From highly-anticipated sequels to long-awaited remakes, July has it all.",
+        "fullContent": "From highly-anticipated sequels to long-awaited remakes, July has it all.\n\nThere's a Resident Evil or The Last of Us feel to looter shooter No Such Place.\n\nWith new open-world encounters, improved locations, and overhauled traversal, there's plenty to make RDR2 feel totally brand new here.\n\nResident Evil 2 features a rather unexpected cameo from a Fallout actor."
+      },
+      "es": {
+        "title": "Los videojuegos más importantes que llegarán a PS5, Xbox y PC en julio de 2026",
+        "description": "Desde secuelas muy esperadas hasta remakes muy esperados, julio lo tiene todo.",
+        "fullContent": "Desde secuelas muy esperadas hasta remakes muy esperados, julio lo tiene todo.\n\nHay una sensación de Resident Evil o The Last of Us en el shooter saqueador No Such Place.\n\nCon nuevos encuentros en mundo abierto, ubicaciones mejoradas y recorridos renovados, hay mucho para que RDR2 parezca totalmente nuevo aquí.\n\nResident Evil 2 presenta un cameo bastante inesperado de un actor de Fallout."
       }
     },
     {
       "id": "news-4",
       "tag": "NEWS",
-      "image": "https://image.pollinations.ai/prompt/Epic%2C%20striking%2C%20dynamic%20video%20game%20concept%20art%20representing%20the%20news%3A%20A%20balanced%20diet%20of%20video%20games%20is%20associated%20with%20greater%20st.%20Vibrant%20colors%2C%20dramatic%20cinematic%20lighting%2C%208k%20resolution%2C%20highly%20detailed%20masterpiece.%20No%20text.?width=800&height=500&nologo=true",
-      "link": "https://www.psypost.org/a-balanced-diet-of-video-games-is-associated-with-greater-stoicism-and-less-isolation/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/MixCollage-26-Jun-2026-10-04-AM-2101-1920x1080.jpg",
+      "link": "https://wccftech.com/nintendo-switch-2-drove-us-video-game-growth-ps5-xbox-recorded-worst-may-in-history/",
       "en": {
-        "title": "A balanced diet of video games is associated with greater stoicism and less isolation",
-        "description": "A balanced diet of video games is associated with greater stoicism and less isolation  PsyPost",
-        "fullContent": "A balanced diet of video games is associated with greater stoicism and less isolation  PsyPost"
+        "title": "The Nintendo Switch 2 Helped Drive US Video Game Spending Growth in May 2026, while PlayStation and Xbox had their Worst May in Over Two Decades",
+        "description": "Circana senior director and veteran video game industry analyst Mat Piscatella has just shared the latest monthly sales numbers for the video game ...",
+        "fullContent": "Circana senior director and veteran video game industry analyst Mat Piscatella has just shared the latest monthly sales numbers for the video game industry in the US for the month of May 2026. Usually, the big topic from these reports comes down to which games are at the top of the charts, and while that's still significant here, the bigger topic is what happened with hardware sales. While the Nintendo Switch 2 continued to sell and helped drive spending growth in the US video game industry for May 2026 compared to May 2025, the PS5 and PlayStation overall saw its worst May for hardware units sold in 26 years, and Xbox had its worst May in its entire history.\n\nNow, things weren't so bad for PlayStation that more Xbox Series consoles (which are going up in price again) sold than PS5 consoles. The ranking order for which platform sold more units is still just Nintendo and PlayStation in first and second place, positions they just swap between on a monthly basis, while Xbox sometimes doesn't even make it into third.\n\nBut it was so bad that PlayStation saw a 43% drop in hardware spending and a 58% drop in PS5 units sold compared to May 2025. Spending on video game hardware in the US was still up by 38% overall compared to last May, but that's because the price of each console continues to rise. As a reminder, the Switch 2 price hike isn't live yet, but PlayStation's last one went into effect as of this past April. The last Series X/S price hike before the one going into effect on August 1, 2026, also helped Xbox find spending growth despite lower unit sales.\n\nHardware - May 2026 hardware spending grew 38% versus a year ago, to $249M. Nintendo Switch 2 offset a 43% drop in PlayStation 5 spending (and a 58% dip in unit sales) driven by recent price increases. Xbox Series hardware spending grew 7% versus a year ago, units fell by 12%.\n\nSpeaking of Xbox hardware unit sales, if we hadn't gotten so used to Xbox consoles selling less and less all the time, then perhaps it would be more notable that Xbox recorded its lowest number of units sold for the month of May ever. Both PlayStation and Xbox recorded all-time lows in hardware sales for May, but only one of those feels like an outlier, while the other seems to be business as usual.\n\nBefore digging into the top-selling games for May 2026, the last notable bit on hardware is that the Switch 2 officially reached 5.9M units sold in the US for its first 12 months on the market. It's the second-fastest-selling Nintendo console in the US in the company's history, right behind the GameBoy Advance, which hit 6.5M units sold in its first 12 months."
       },
       "es": {
-        "title": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento",
-        "description": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento PsyPost",
-        "fullContent": "Una dieta equilibrada de videojuegos se asocia con mayor estoicismo y menor aislamiento PsyPost"
+        "title": "Nintendo Switch 2 ayudó a impulsar el crecimiento del gasto en videojuegos en EE. UU. en mayo de 2026, mientras que PlayStation y Xbox tuvieron su peor mayo en más de dos décadas",
+        "description": "El director senior de Circana y analista veterano de la industria de los videojuegos, Mat Piscatella, acaba de compartir las últimas cifras de vent...",
+        "fullContent": "El director senior de Circana y analista veterano de la industria de los videojuegos, Mat Piscatella, acaba de compartir las últimas cifras de ventas mensuales de la industria de los videojuegos en los EE. UU. para el mes de mayo de 2026. Por lo general, el gran tema de estos informes se reduce a qué juegos están en la cima de las listas y, si bien eso sigue siendo importante aquí, el tema más importante es lo que sucedió con las ventas de hardware. Si bien Nintendo Switch 2 continuó vendiéndose y ayudó a impulsar el crecimiento del gasto en la industria de los videojuegos de EE. UU. para mayo de 2026 en comparación con mayo de 2025, la PS5 y PlayStation en general experimentaron su peor mayo en unidades de hardware vendidas en 26 años, y Xbox tuvo su peor mayo en toda su historia.\n\nAhora bien, las cosas no fueron tan malas para PlayStation como para que se vendieran más consolas de la serie Xbox (que están subiendo de precio nuevamente) que consolas PS5. El orden de clasificación de qué plataforma vendió más unidades sigue siendo solo Nintendo y PlayStation en el primer y segundo lugar, posiciones que simplemente intercambian mensualmente, mientras que Xbox a veces ni siquiera llega al tercer lugar.\n\nPero fue tan malo que PlayStation experimentó una caída del 43% en el gasto en hardware y una caída del 58% en las unidades de PS5 vendidas en comparación con mayo de 2025. El gasto en hardware de videojuegos en los EE. UU. todavía aumentó un 38% en general en comparación con el pasado mes de mayo, pero eso se debe a que el precio de cada consola continúa aumentando. Como recordatorio, el aumento de precio de Switch 2 aún no está disponible, pero el último de PlayStation entró en vigor en abril pasado. El último aumento de precios de la Serie X/S antes de que entrara en vigor el 1 de agosto de 2026 también ayudó a Xbox a encontrar un crecimiento en el gasto a pesar de las menores ventas de unidades.\n\nHardware: el gasto en hardware en mayo de 2026 creció un 38% respecto al año anterior, a 249 millones de dólares. Nintendo Switch 2 compensó una caída del 43% en el gasto en PlayStation 5 (y una caída del 58% en las ventas de unidades) impulsada por los recientes aumentos de precios. El gasto en hardware de la serie Xbox creció un 7% respecto al año anterior, las unidades cayeron un 12%.\n\nHablando de ventas de unidades de hardware de Xbox, si no nos hubiéramos acostumbrado tanto a que las consolas Xbox se vendieran cada vez menos, entonces quizás sería más notable que Xbox registrara el número más bajo de unidades vendidas en el mes de mayo. Tanto PlayStation como Xbox registraron mínimos históricos en ventas de hardware en mayo, pero solo uno de ellos parece un caso atípico, mientras que el otro parece seguir funcionando como de costumbre.\n\nAntes de profundizar en los juegos más vendidos en mayo de 2026, lo último notable sobre el hardware es que el Switch 2 alcanzó oficialmente 5,9 millones de unidades vendidas en los EE. UU. durante sus primeros 12 meses en el mercado. Es la segunda consola Nintendo más vendida en los EE. UU. en la historia de la compañía, justo detrás de GameBoy Advance, que alcanzó 6,5 millones de unidades vendidas en sus primeros 12 meses."
       }
     }
   ]
