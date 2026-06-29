@@ -1,9 +1,10 @@
 import './style.css';
-import gamesData from './data/games.json';
 import latestNewsData from './data/latest_news.json';
+import fallbackGamesData from './data/games.json';
 
-document.addEventListener('DOMContentLoaded', () => {
-  const { consoles, games } = gamesData;
+document.addEventListener('DOMContentLoaded', async () => {
+  let consoles = fallbackGamesData.consoles;
+  let games = fallbackGamesData.games;
   const news = latestNewsData;
   
   // DOM Elements
@@ -633,24 +634,26 @@ Output ONLY valid JSON:
       return fieldVal;
     };
 
-    const genre = getField(details.genre);
-    const releaseDate = getField(details.releaseDate);
-    const developer = getField(details.developer);
-    const publisher = getField(details.publisher);
-    const size = getField(details.size);
-    let description = getField(details.description);
+    const genre = getField(game.genre || details.genre);
+    const releaseDate = getField(game.releaseDate || details.releaseDate);
+    const developer = getField(game.developer || details.developer);
+    const publisher = getField(game.publisher || details.publisher);
+    const size = getField(game.size || details.size);
+    let description = getField(game.description || details.description);
 
     if (game.sinopsis && game.sinopsis.trim() !== '') {
       description = game.sinopsis;
     }
 
-    // Apply custom overrides if defined
-    const finalCoverUrl = details.customCover || coverUrl;
-    const finalScreenUrl1 = (details.customScreens && details.customScreens[0]) || screenUrl1;
-    const finalScreenUrl2 = (details.customScreens && details.customScreens[1]) || screenUrl2;
-    const finalLinks = (details.customLinks && details.customLinks.length > 0)
-      ? details.customLinks
-      : (game.links && game.links.length > 0 ? game.links : (game.link ? [game.link] : []));
+    // Apply custom overrides if defined globally in game or locally in details
+    const finalCoverUrl = game.customCover || details.customCover || coverUrl;
+    const finalScreenUrl1 = (game.customScreens && game.customScreens[0]) || (details.customScreens && details.customScreens[0]) || screenUrl1;
+    const finalScreenUrl2 = (game.customScreens && game.customScreens[1]) || (details.customScreens && details.customScreens[1]) || screenUrl2;
+    const finalLinks = (game.customLinks && game.customLinks.length > 0)
+      ? game.customLinks
+      : (details.customLinks && details.customLinks.length > 0)
+        ? details.customLinks
+        : (game.links && game.links.length > 0 ? game.links : (game.link ? [game.link] : []));
 
     // Inject retrieved details into page and remove skeletons
     const sidebar = gameView.querySelector('.game-sidebar');
@@ -1000,8 +1003,8 @@ Output ONLY valid JSON:
     adminEditor.style.display = 'block';
   };
 
-  // Save admin game edits directly to localStorage (no backend)
-  const saveAdminGameEdits = () => {
+  // Save admin game edits directly to localStorage or GitHub
+  const saveAdminGameEdits = async () => {
     if (!activeEditingGame) return;
 
     const customCover = document.getElementById('admin-edit-cover').value.trim();
@@ -1046,13 +1049,70 @@ Output ONLY valid JSON:
       customLinks: customLinks.length > 0 ? customLinks : undefined
     };
 
-    const cacheKey = `game-details-${activeEditingGame.id}`;
+    // 1. Save to LocalStorage as fallback/cache
+    const cacheKey = `gamedb_v2_${activeEditingGame.title}_${activeEditingGame.console}`;
     localStorage.setItem(cacheKey, JSON.stringify(savedData));
 
-    adminEditStatus.textContent = currentLang === 'es' ? 'Cambios guardados localmente' : 'Changes saved locally';
-    adminEditStatus.className = 'admin-status-message success';
+    // 2. Try to save to GitHub globally
+    const githubToken = document.getElementById('admin-github-token-input') ? document.getElementById('admin-github-token-input').value.trim() : '';
+    
+    if (githubToken) {
+      adminEditStatus.textContent = currentLang === 'es' ? 'Guardando en GitHub...' : 'Saving to GitHub...';
+      adminEditStatus.className = 'admin-status-message';
+      adminEditStatus.style.display = 'block';
+      
+      try {
+        // Update the active game in the games array
+        const gameIndex = games.findIndex(g => g.id === activeEditingGame.id);
+        if (gameIndex !== -1) {
+          games[gameIndex] = { ...games[gameIndex], ...savedData };
+        }
+
+        const repoUrl = 'https://api.github.com/repos/godzgame/godzgames/contents/src/data/games.json';
+        
+        // 1. Get current file sha
+        const getRes = await fetch(repoUrl);
+        const getJson = await getRes.json();
+        const fileSha = getJson.sha;
+
+        // 2. Upload new content
+        const newContent = JSON.stringify({ consoles, games }, null, 2);
+        // Encode to base64 safely (utf-8 compatible)
+        const base64Content = btoa(unescape(encodeURIComponent(newContent)));
+
+        const putRes = await fetch(repoUrl, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${githubToken}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: `Admin: Update game details for ${activeEditingGame.title}`,
+            content: base64Content,
+            sha: fileSha
+          })
+        });
+
+        if (!putRes.ok) {
+          throw new Error('Error de permisos en GitHub');
+        }
+
+        adminEditStatus.textContent = currentLang === 'es' ? 'Cambios guardados globalmente en GitHub!' : 'Changes saved globally to GitHub!';
+        adminEditStatus.className = 'admin-status-message success';
+      } catch (e) {
+        console.error(e);
+        adminEditStatus.textContent = currentLang === 'es' ? 'Error al guardar en GitHub (Revisa tu Token)' : 'Error saving to GitHub (Check Token)';
+        adminEditStatus.className = 'admin-status-message error';
+        setTimeout(() => adminEditStatus.style.display = 'none', 3000);
+        return;
+      }
+    } else {
+      adminEditStatus.textContent = currentLang === 'es' ? 'Guardado LOCAL (Falta GitHub Token para global)' : 'Saved LOCALLY (Missing GitHub Token)';
+      adminEditStatus.className = 'admin-status-message success';
+    }
+
     adminEditStatus.style.display = 'block';
-    setTimeout(() => showAdminDashboard(), 1200);
+    setTimeout(() => showAdminDashboard(), 2000);
   };
 
   // Static admin login: hash password client-side and compare
@@ -1210,6 +1270,18 @@ Output ONLY valid JSON:
       console.warn("Could not fetch live news, using bundled fallback.");
     }
 
+    try {
+      const liveGamesRes = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/games.json?t=' + Date.now());
+      if (liveGamesRes.ok) {
+        const liveGamesData = await liveGamesRes.json();
+        if (liveGamesData && liveGamesData.games) {
+          games = liveGamesData.games;
+          consoles = liveGamesData.consoles;
+        }
+      }
+    } catch (err) {
+      console.warn("Could not fetch live games, using bundled fallback.");
+    }
 
     // Render games immediately with bundled data (no waiting for backend)
     updateLanguage(currentLang);
