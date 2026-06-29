@@ -852,7 +852,7 @@ Output ONLY valid JSON:
 
   // Static admin: verify token locally against a hashed password stored in the build
   // Admin password is hardcoded here — change it before deploying!
-  const ADMIN_PASSWORD_HASH = '5197385424cec0b6f8eec13f9ef9a1852d7c2252ec46d5ca0a8b521311d55153'; // sha256 of admin password
+  const ADMIN_PASSWORD_HASH = '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'; // sha256 of 'admin123'
 
   const hashString = async (str) => {
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
