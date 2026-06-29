@@ -1054,7 +1054,8 @@ Output ONLY valid JSON:
     localStorage.setItem(cacheKey, JSON.stringify(savedData));
 
     // 2. Try to save to GitHub globally
-    const githubToken = document.getElementById('admin-github-token-input') ? document.getElementById('admin-github-token-input').value.trim() : '';
+    const tokenInput = document.getElementById('admin-github-token-input');
+    const githubToken = (tokenInput && tokenInput.value.trim()) ? tokenInput.value.trim() : localStorage.getItem('godzgames-github-token') || '';
     
     if (githubToken) {
       adminEditStatus.textContent = currentLang === 'es' ? 'Guardando en GitHub...' : 'Saving to GitHub...';
@@ -1117,6 +1118,9 @@ Output ONLY valid JSON:
 
   // Static admin login: hash password client-side and compare
   const handleAdminLogin = async () => {
+    const adminPasswordInput = document.getElementById('admin-password-input');
+    const githubTokenInput = document.getElementById('admin-github-token-input');
+    
     const password = adminPasswordInput.value.trim();
     if (!password) {
       adminLoginError.textContent = currentLang === 'es' ? 'Por favor ingrese la contrasena' : 'Please enter the password';
@@ -1127,6 +1131,9 @@ Output ONLY valid JSON:
     const hash = await hashString(password);
     if (hash === ADMIN_PASSWORD_HASH) {
       localStorage.setItem('godzgames-admin-token', hash);
+      if (githubTokenInput && githubTokenInput.value.trim()) {
+        localStorage.setItem('godzgames-github-token', githubTokenInput.value.trim());
+      }
       showAdminDashboard();
     } else {
       adminLoginError.textContent = currentLang === 'es' ? 'Contrasena incorrecta' : 'Incorrect password';
