@@ -476,7 +476,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Fetch Game Details directly from Pollinations.ai (no backend needed)
   const fetchGameDetails = async (gameTitle, gameConsole, gameId) => {
-    const cacheKey = `game-details-${gameId}`;
+    // Use v2 to bust cache for users who have old, bad descriptions saved
+    const cacheKey = `gamedb_v2_${gameTitle}_${gameConsole}`;
     const cached = localStorage.getItem(cacheKey);
     if (cached) return JSON.parse(cached);
 
@@ -493,8 +494,12 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     try {
-      const prompt = `You are a bi-lingual gaming database editor. Generate a data sheet for "${gameTitle}" on "${gameConsole}". Output ONLY valid JSON:
-{"genre":{"en":"...","es":"..."},"releaseDate":{"en":"...","es":"..."},"publisher":{"en":"...","es":"..."},"developer":{"en":"...","es":"..."},"size":{"en":"...","es":"..."},"description":{"en":"80-100 word synopsis in English.","es":"Sinopsis de 80-100 palabras en espanol."}}`;
+      const prompt = `You are a video game database editor. I am giving you a raw filename/title: "${gameTitle}" for the "${gameConsole}". 
+Identify the actual video game name (ignore version numbers, release groups like ElAmigos, languages, DLC info, or hosters like Mediafire).
+Generate a data sheet for that specific video game. 
+CRITICAL: The description MUST focus ONLY on the game's story, characters, and gameplay. DO NOT mention version numbers, download links, DLCs, file sizes, or languages in the description!
+Output ONLY valid JSON:
+{"genre":{"en":"...","es":"..."},"releaseDate":{"en":"...","es":"..."},"publisher":{"en":"...","es":"..."},"developer":{"en":"...","es":"..."},"size":{"en":"...","es":"..."},"description":{"en":"80-100 word synopsis of the game's story and gameplay.","es":"Sinopsis de 80-100 palabras de la historia y jugabilidad del juego."}}`;
 
       const res = await fetch('https://text.pollinations.ai/', {
         method: 'POST',
