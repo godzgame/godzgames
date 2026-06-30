@@ -33,12 +33,24 @@ const translateToSpanish = async (text) => {
 const downloadImageLocally = async (promptText) => {
   try {
     const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(promptText)}?width=800&height=500&nologo=true&seed=${Math.floor(Math.random() * 10000)}`;
-    console.log(`Downloading AI image locally: "${promptText.substring(0, 30)}..."`);
+    return await downloadAnyImageLocally(imageUrl);
+  } catch (err) {
+    console.error("Error downloading AI image:", err.message);
+    return `https://image.pollinations.ai/prompt/${encodeURIComponent(promptText)}?width=800&height=500&nologo=true`;
+  }
+};
+
+const downloadAnyImageLocally = async (imageUrl) => {
+  try {
+    console.log(`Downloading image locally: "${imageUrl.substring(0, 60)}..."`);
     const res = await axios({
       url: imageUrl,
       method: 'GET',
       responseType: 'stream',
-      timeout: 20000
+      timeout: 20000,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' // bypass some basic bot blocks
+      }
     });
     const filename = `news_${Date.now()}_${Math.floor(Math.random() * 1000)}.jpg`;
     const destPath = path.join(UPLOADS_DIR, filename);
@@ -51,7 +63,7 @@ const downloadImageLocally = async (promptText) => {
     return `https://www.godzgames.com/uploads/${filename}`;
   } catch (err) {
     console.error("Error downloading image:", err.message);
-    return `https://image.pollinations.ai/prompt/${encodeURIComponent(promptText)}?width=800&height=500&nologo=true`;
+    return null;
   }
 };
 
@@ -204,7 +216,11 @@ const generateNews = async () => {
         const rewritten = await rewriteArticleBilingual(cleanTitle, textToRewrite);
         if (!rewritten.en.body || !rewritten.es.body || rewritten.en.body.trim().length < 50) continue;
         
-        let finalImageUrl = scrapedImageUrl;
+        let finalImageUrl = null;
+        if (scrapedImageUrl) {
+          finalImageUrl = await downloadAnyImageLocally(scrapedImageUrl);
+        }
+        
         if (!finalImageUrl) {
           const cleanTitleForImage = rewritten.en.title.replace(/[^a-zA-Z0-9 ]/g, "").substring(0, 60);
           const imagePrompt = `Epic, striking, dynamic video game concept art representing the news: ${cleanTitleForImage}. Vibrant colors, dramatic cinematic lighting, 8k resolution, highly detailed masterpiece. No text.`;
