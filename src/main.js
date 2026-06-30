@@ -618,10 +618,39 @@ Output ONLY valid JSON:
               })()}
             </div>
           </div>
+
+          <!-- Comments Section -->
+          <div class="game-comments-section" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border-color);">
+            <h3 style="margin-bottom: 20px;">${currentLang === 'es' ? 'Comentarios' : 'Comments'}</h3>
+            <div id="disqus_thread"></div>
+          </div>
         </div>
       </div>
     `;
 
+    // Initialize or reset Disqus for the current game
+    const disqus_shortname = 'godzgames'; // The user MUST use this shortname!
+    const pageUrl = window.location.href;
+    const pageIdentifier = game.id;
+
+    if (window.DISQUS) {
+      window.DISQUS.reset({
+        reload: true,
+        config: function () {  
+          this.page.identifier = pageIdentifier;  
+          this.page.url = pageUrl;
+        }
+      });
+    } else {
+      window.disqus_config = function () {
+        this.page.url = pageUrl;
+        this.page.identifier = pageIdentifier;
+      };
+      const d = document, s = d.createElement('script');
+      s.src = `https://${disqus_shortname}.disqus.com/embed.js`;
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    }
     // Fetch details asynchronously
     const details = await fetchGameDetails(game.title, game.console, game.id);
     
