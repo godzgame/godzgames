@@ -60,7 +60,7 @@ const downloadAnyImageLocally = async (imageUrl) => {
       writer.on('finish', resolve);
       writer.on('error', reject);
     });
-    return `https://www.godzgames.com/uploads/${filename}`;
+    return `https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/${filename}`;
   } catch (err) {
     console.error("Error downloading image:", err.message);
     return null;

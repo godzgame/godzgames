@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1782850718962,
+  "updatedAt": 1782851061964,
   "articles": [
     {
       "id": "news-0",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782850702515_824.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1782851045683_238.jpg",
       "link": "https://www.forbes.com/sites/paultassi/2026/06/30/concern-mounts-about-rumored-state-of-decay-3-cancellation-at-xbox/",
       "en": {
         "title": "Concern Mounts About Rumored ‘State Of Decay 3’ Cancellation At Xbox",
@@ -20,7 +20,7 @@
     {
       "id": "news-1",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782850709562_460.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1782851052078_961.jpg",
       "link": "https://www.theguardian.com/politics/2026/jun/30/grand-theft-auto-workers-seek-union-recognition-rockstar-games",
       "en": {
         "title": "Grand Theft Auto workers seek union recognition after mass firings",
@@ -36,7 +36,7 @@
     {
       "id": "news-2",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782850712408_202.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1782851054150_516.jpg",
       "link": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/",
       "en": {
         "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar’s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro",
@@ -52,7 +52,7 @@
     {
       "id": "news-3",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782850715835_56.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1782851058355_921.jpg",
       "link": "https://www.forbes.com/sites/paultassi/2026/06/29/a-two-sentence-insider-report-on-why-destiny-2-died/",
       "en": {
         "title": "A Two-Sentence Insider Report On Why ‘Destiny 2’ Died",
@@ -68,7 +68,7 @@
     {
       "id": "news-4",
       "tag": "NEWS",
-      "image": "https://www.godzgames.com/uploads/news_1782850718906_237.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1782851061917_843.jpg",
       "link": "https://www.mercurynews.com/2026/06/30/best-2026-video-games-in-june/",
       "en": {
         "title": "The 7 best video games of 2026 so far",
