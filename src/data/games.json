@@ -6938,7 +6938,36 @@
       "link": "https://drive.google.com/drive/folders/0B72rVC77a81gSXVnUmUtQmNWY2s?usp=sharing",
       "trailer": "https://www.youtube.com/embed/6vLamGGSav8",
       "sinopsis": "",
-      "cover": ""
+      "cover": "",
+      "genre": {
+        "en": "",
+        "es": ""
+      },
+      "size": {
+        "en": "",
+        "es": ""
+      },
+      "developer": {
+        "en": "",
+        "es": ""
+      },
+      "publisher": {
+        "en": "",
+        "es": ""
+      },
+      "releaseDate": {
+        "en": "",
+        "es": ""
+      },
+      "description": {
+        "en": "(Released in 2013 in Japan for Nintendo 3DS) is a popular music and rhythm game. It is notable for its deep integration with MIDI technology and for allowing players to create their own characters, act as Vocaloid producers, and compose or download a massive catalog of songs.",
+        "es": "(lanzado en 2013 en Japón para Nintendo 3DS) es un popular juego musical y rítmico. Destaca por su profunda integración con tecnología MIDI y por permitir a los jugadores crear sus propios personajes, actuar como productores de Vocaloid, y componer o descargar un catálogo masivo de canciones."
+      },
+      "customLinks": [
+        "https://drive.google.com/drive/folders/0B72rVC77a81gSXVnUmUtQmNWY2s?usp=sharing",
+        "https://drive.google.com/drive/folders/0B72rVC77a81gSXVnUmUtQmNWY2s?usp=sharing",
+        "https://drive.google.com/drive/folders/0B72rVC77a81gSXVnUmUtQmNWY2s?usp=sharing"
+      ]
     },
     {
       "id": "2f172bed",
