@@ -128,7 +128,7 @@ const scrapeArticleTextAndImage = async (url) => {
       }
     }
     
-    let imageUrl = $('meta[property="og:image"]').attr('content') || $('meta[name="twitter:image"]').attr('content') || '';
+    let imageUrl = ($('meta[property="og:image"]').attr('content') || $('meta[name="twitter:image"]').attr('content') || '').trim();
     if (imageUrl && imageUrl.startsWith('/')) {
       const urlObj = new URL(url);
       imageUrl = `${urlObj.protocol}//${urlObj.host}${imageUrl}`;
