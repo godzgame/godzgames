@@ -1415,14 +1415,18 @@ Output ONLY valid JSON:
       });
     }
 
-    // === Image URL preview (no upload to server — user pastes URL directly) ===
+    // === Image URL preview & GitHub Upload ===
     ['admin-edit-cover', 'admin-edit-screen1', 'admin-edit-screen2'].forEach((id, i) => {
       const input = document.getElementById(id);
       const previewId = ['preview-cover', 'preview-screen1', 'preview-screen2'][i];
-      // Hide upload buttons since there's no server to upload to
       const fileId = ['admin-upload-cover', 'admin-upload-screen1', 'admin-upload-screen2'][i];
+      const fileInput = document.getElementById(fileId);
       const uploadLabel = document.querySelector(`label[for="${fileId}"]`);
-      if (uploadLabel) uploadLabel.style.display = 'none';
+      
+      // Make sure the upload label is visible now!
+      if (uploadLabel) uploadLabel.style.display = 'inline-flex';
+
+      // Handle preview on text input change
       if (input) {
         input.addEventListener('input', () => {
           const previewWrap = document.getElementById(previewId);
@@ -1430,6 +1434,72 @@ Output ONLY valid JSON:
             previewWrap.innerHTML = `<img src="${input.value.trim()}" alt="Preview" onerror="this.style.display='none'" />`;
           } else if (previewWrap) {
             previewWrap.innerHTML = '';
+          }
+        });
+      }
+
+      // Handle file upload via GitHub API
+      if (fileInput) {
+        fileInput.addEventListener('change', async (e) => {
+          const file = e.target.files[0];
+          if (!file) return;
+
+          const githubToken = document.getElementById('admin-github-token-input')?.value.trim();
+          if (!githubToken) {
+            alert('Para subir imágenes directamente, necesitas ingresar tu "GitHub Token" en la pantalla de acceso del administrador.');
+            fileInput.value = '';
+            return;
+          }
+
+          const originalText = uploadLabel.innerHTML;
+          uploadLabel.innerHTML = 'Subiendo...';
+          uploadLabel.style.opacity = '0.7';
+          uploadLabel.style.pointerEvents = 'none';
+
+          try {
+            // Convert to Base64
+            const reader = new FileReader();
+            reader.readAsDataURL(file);
+            await new Promise((resolve) => reader.onload = () => resolve());
+            const base64Content = reader.result.split(',')[1];
+
+            // Clean filename and add timestamp
+            const ext = file.name.split('.').pop();
+            const safeName = file.name.replace(/[^a-zA-Z0-9]/g, '_').toLowerCase();
+            const filename = `img_${Date.now()}_${safeName}.${ext}`;
+            const path = `public/uploads/games/${filename}`;
+
+            const res = await fetch(`https://api.github.com/repos/godzgame/godzgames/contents/${path}`, {
+              method: 'PUT',
+              headers: {
+                'Authorization': `token ${githubToken}`,
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({
+                message: `Upload game image: ${filename}`,
+                content: base64Content
+              })
+            });
+
+            if (!res.ok) {
+              const errData = await res.json();
+              throw new Error(errData.message || 'Error al subir a GitHub');
+            }
+
+            // Successfully uploaded, set the URL to raw.githubusercontent
+            const rawUrl = `https://raw.githubusercontent.com/godzgame/godzgames/main/${path}`;
+            if (input) {
+              input.value = rawUrl;
+              // Trigger preview
+              input.dispatchEvent(new Event('input'));
+            }
+          } catch (err) {
+            alert(`Hubo un error al subir la imagen: ${err.message}`);
+          } finally {
+            uploadLabel.innerHTML = originalText;
+            uploadLabel.style.opacity = '1';
+            uploadLabel.style.pointerEvents = 'auto';
+            fileInput.value = '';
           }
         });
       }
