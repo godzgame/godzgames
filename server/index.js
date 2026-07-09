@@ -346,7 +346,7 @@ const generateNews = async () => {
         if (esDesc.length > 150) esDesc = esDesc.substring(0, 147) + '...';
         
         newsData.push({
-          id: `news-${newsData.length}`,
+          id: crypto.createHash('md5').update(resolvedUrl).digest('hex'),
           tag: 'NEWS',
           image: localImageUrl,
           link: resolvedUrl,
@@ -805,6 +805,51 @@ app.post('/api/admin/upload-image', requireAdmin, upload.single('image'), (req, 
   const publicUrl = `/uploads/${req.file.filename}`;
   console.log(`[Admin Upload] Image saved: ${req.file.filename}`);
   res.json({ url: publicUrl, filename: req.file.filename });
+});
+
+// Admin TikTok Script Generator endpoint (Using Pollinations Free API)
+app.post('/api/admin/generate-tiktok', requireAdmin, async (req, res) => {
+  const { title, feature } = req.body;
+  if (!title) return res.status(400).json({ error: 'Falta el título del juego' });
+
+  const aiPrompt = `Actúa como un creador de contenido experto en videos verticales virales (TikTok/Shorts) sobre videojuegos. Escribe un guión de 15 a 20 segundos optimizado para retención total sobre el juego "${title}".
+
+El juego se destaca principalmente por: "${feature || 'ser increíblemente entretenido'}".
+
+RESTRICCIONES Y ESTILO ANTI-IA (¡MUY IMPORTANTE!):
+* PROHIBIDO USAR las siguientes palabras o frases de IA: "adéntrate en", "sumérgete", "en conclusión", "descubre un mundo", "revolucionario", "es importante destacar", "épica aventura", "paisaje digital", "sin embargo", "además".
+* No uses introducciones de bienvenida (como 'Hola a todos').
+* Habla como un streamer de Twitch, tiktoker gamer o youtuber irreverente. Lenguaje coloquial, frases cortas, dinámico y muy directo al punto. Cero lenguaje corporativo.
+
+El guión debe seguir estrictamente esta estructura dividida por escenas:
+
+1. [Gancho 0-3s]: Una frase muy llamativa que detenga el scroll (No digas el nombre del juego aquí, genera misterio). Debe incluir una orden visual de texto en pantalla (CapCut style).
+2. [Desarrollo 3-12s]: Explica brevemente por qué este juego es increíble o qué se puede hacer en él. Usa un tono enérgico y directo.
+3. [CTA 12-15s]: Explica al usuario que puede conseguirlo y descargarlo yendo al enlace de nuestro perfil. Di textualmente: 'Consíguelo buscando ${title} en el link de mi perfil'.
+
+Además, agrega al final:
+4. [Entonación de Voz]: Instrucciones de cómo debe ser la voz (tono, velocidad, emoción).
+5. [Ideas de B-Roll / Video]: 3 ideas exactas de qué tipo de clips de YouTube buscar para poner de fondo mientras suena el audio.
+
+Devuelve la respuesta en formato de lista limpia, separando el Audio (Voz en off) y el Texto que debe ir pegado en el video, como en este ejemplo:
+[Gancho 0-3s]
+Voz en off: "Este es el juego de peleas anime que Nintendo no quiere que conozcas..."
+Texto en pantalla: "¡EL JUEGO PROHIBIDO DE ANIME! 🚨"`;
+
+  try {
+    const aiResponse = await axios.post('https://text.pollinations.ai/', {
+      messages: [{ role: 'user', content: aiPrompt }],
+      model: 'openai'
+    }, {
+      headers: { 'Content-Type': 'application/json' },
+      timeout: 30000
+    });
+
+    res.json({ script: aiResponse.data });
+  } catch (error) {
+    console.error('[Admin] Error generating TikTok script:', error.message);
+    res.status(500).json({ error: 'Error generando el script con IA' });
+  }
 });
 
 // ============================================================

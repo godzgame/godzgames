@@ -1008,6 +1008,9 @@ Output ONLY valid JSON:
     document.getElementById('admin-edit-desc-en').value = getVal(details.description, 'en');
     document.getElementById('admin-edit-desc-es').value = getVal(details.description, 'es');
     
+    document.getElementById('admin-edit-tiktok-feature').value = details.tiktokFeature || '';
+    document.getElementById('admin-edit-tiktok-script').value = details.tiktokScript || '';
+    
     const customLinks = details.customLinks || [];
     document.getElementById('admin-edit-link1').value = customLinks[0] || game.link || '';
     document.getElementById('admin-edit-link2').value = customLinks[1] || game.link || '';
@@ -1073,6 +1076,8 @@ Output ONLY valid JSON:
         en: document.getElementById('admin-edit-desc-en').value.trim(),
         es: document.getElementById('admin-edit-desc-es').value.trim()
       },
+      tiktokFeature: document.getElementById('admin-edit-tiktok-feature').value.trim(),
+      tiktokScript: document.getElementById('admin-edit-tiktok-script').value.trim(),
       customCover: customCover || undefined,
       customScreens: customScreens.length > 0 ? customScreens : undefined,
       customLinks: customLinks.length > 0 ? customLinks : undefined
@@ -1412,6 +1417,65 @@ Output ONLY valid JSON:
       adminChangeConsoleBtn.addEventListener('click', (e) => {
         e.preventDefault();
         showAdminDashboard();
+      });
+    }
+
+    const adminGenerateTiktokBtn = document.getElementById('admin-generate-tiktok-btn');
+    if (adminGenerateTiktokBtn) {
+      adminGenerateTiktokBtn.addEventListener('click', async (e) => {
+        e.preventDefault();
+        const feature = document.getElementById('admin-edit-tiktok-feature').value.trim();
+        const statusEl = document.getElementById('admin-tiktok-status');
+        const scriptEl = document.getElementById('admin-edit-tiktok-script');
+        
+        if (!activeEditingGame) return;
+        
+        statusEl.style.display = 'block';
+        statusEl.className = 'admin-status-message';
+        statusEl.textContent = '⏳ Generando guion viral con IA... (Esto puede tomar 10-20 segundos)';
+        
+        const aiPrompt = \`Actúa como un creador de contenido experto en videos verticales virales (TikTok/Shorts) sobre videojuegos. Escribe un guión de 15 a 20 segundos optimizado para retención total sobre el juego "\${activeEditingGame.title}".
+
+El juego se destaca principalmente por: "\${feature || 'ser increíblemente entretenido'}".
+
+RESTRICCIONES Y ESTILO ANTI-IA (¡MUY IMPORTANTE!):
+* PROHIBIDO USAR las siguientes palabras o frases de IA: "adéntrate en", "sumérgete", "en conclusión", "descubre un mundo", "revolucionario", "es importante destacar", "épica aventura", "paisaje digital", "sin embargo", "además".
+* No uses introducciones de bienvenida (como 'Hola a todos').
+* Habla como un streamer de Twitch, tiktoker gamer o youtuber irreverente. Lenguaje coloquial, frases cortas, dinámico y muy directo al punto. Cero lenguaje corporativo.
+
+El guión debe seguir estrictamente esta estructura dividida por escenas:
+
+1. [Gancho 0-3s]: Una frase muy llamativa que detenga el scroll (No digas el nombre del juego aquí, genera misterio). Debe incluir una orden visual de texto en pantalla (CapCut style).
+2. [Desarrollo 3-12s]: Explica brevemente por qué este juego es increíble o qué se puede hacer en él. Usa un tono enérgico y directo.
+3. [CTA 12-15s]: Explica al usuario que puede conseguirlo y descargarlo yendo al enlace de nuestro perfil. Di textualmente: 'Consíguelo buscando \${activeEditingGame.title} en el link de mi perfil'.
+
+Además, agrega al final:
+4. [Entonación de Voz]: Instrucciones de cómo debe ser la voz (tono, velocidad, emoción).
+5. [Ideas de B-Roll / Video]: 3 ideas exactas de qué tipo de clips de YouTube buscar para poner de fondo mientras suena el audio.
+
+Devuelve la respuesta en formato de lista limpia, separando el Audio (Voz en off) y el Texto que debe ir pegado en el video.\`;
+
+        try {
+          const res = await fetch('https://text.pollinations.ai/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              messages: [{ role: 'user', content: aiPrompt }],
+              model: 'openai'
+            })
+          });
+          
+          if (!res.ok) throw new Error('Error al generar el guion');
+          const aiResponseText = await res.text();
+          
+          scriptEl.value = aiResponseText;
+          statusEl.className = 'admin-status-message success';
+          statusEl.textContent = '✅ ¡Guion generado exitosamente!';
+        } catch (err) {
+          statusEl.className = 'admin-status-message error';
+          statusEl.textContent = '❌ Hubo un error al generar el guion.';
+          console.error(err);
+        }
       });
     }
 

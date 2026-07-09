@@ -3,6 +3,7 @@ const path = require('path');
 const Parser = require('rss-parser');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const crypto = require('crypto');
 
 const parser = new Parser();
 
@@ -234,7 +235,7 @@ const generateNews = async () => {
         if (esDesc.length > 150) esDesc = esDesc.substring(0, 147) + '...';
         
         newsData.push({
-          id: `news-${newsData.length}`,
+          id: crypto.createHash('md5').update(resolvedUrl).digest('hex'),
           tag: 'NEWS',
           image: finalImageUrl,
           link: resolvedUrl,

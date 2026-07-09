@@ -6,6 +6,25 @@
     <title>GodZGames</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/favicon.png" />
+    <!-- SEO & Social Media Meta Tags -->
+    <meta name="description" content="Descarga los mejores videojuegos para todas las consolas. Switch, PS5, PC, retro y más. ¡Encuentra tu próximo juego favorito en GodZGames!" />
+    <meta name="keywords" content="videojuegos, descargar juegos, juegos gratis, switch, ps5, pc, emuladores, roms" />
+    <meta name="author" content="GodZGames" />
+    
+    <!-- Open Graph (Facebook, WhatsApp, Discord) -->
+    <meta property="og:title" content="GodZGames - Descarga los mejores videojuegos" />
+    <meta property="og:description" content="Encuentra y descarga los mejores videojuegos para PC, Switch, PlayStation y consolas retro. ¡Totalmente gratis!" />
+    <meta property="og:image" content="https://www.godzgames.com/logo.png" />
+    <meta property="og:url" content="https://www.godzgames.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="GodZGames" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="GodZGames - Descarga los mejores videojuegos" />
+    <meta name="twitter:description" content="Encuentra y descarga los mejores videojuegos para PC, Switch, PlayStation y consolas retro." />
+    <meta name="twitter:image" content="https://www.godzgames.com/logo.png" />
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Inter:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/src/style.css" />
@@ -308,6 +327,24 @@
               <div class="form-group">
                 <label for="admin-edit-desc-es">Sinopsis (Español)</label>
                 <textarea id="admin-edit-desc-es" rows="4" required></textarea>
+              </div>
+            </div>
+
+            <div class="editor-section" style="border: 1px solid var(--color-primary); padding: 15px; border-radius: 8px;">
+              <h3 style="color: var(--color-primary-light);">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 5px;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>
+                Generador Viral (TikTok / Shorts) Anti-IA
+              </h3>
+              <div class="form-group">
+                <label for="admin-edit-tiktok-feature">Característica Principal del Juego (Ej: "juego prohibido", "gráficos realistas")</label>
+                <input type="text" id="admin-edit-tiktok-feature" placeholder="Ej: Juego de peleas definitivo para celulares de gama baja" />
+              </div>
+              <button type="button" id="admin-generate-tiktok-btn" class="admin-btn" style="margin-bottom: 15px;">✨ Generar Guion Viral</button>
+              <div id="admin-tiktok-status" class="admin-status-message" style="display: none; margin-bottom: 10px;"></div>
+              
+              <div class="form-group">
+                <label for="admin-edit-tiktok-script">Guion Generado y Recomendaciones B-Roll</label>
+                <textarea id="admin-edit-tiktok-script" rows="10" placeholder="El guion generado aparecerá aquí. Puedes editarlo antes de guardarlo..."></textarea>
               </div>
             </div>
 
