@@ -1443,17 +1443,30 @@ RESTRICCIONES Y ESTILO ANTI-IA (¡MUY IMPORTANTE!):
 * No uses introducciones de bienvenida (como 'Hola a todos').
 * Habla como un streamer de Twitch, tiktoker gamer o youtuber irreverente. Lenguaje coloquial, frases cortas, dinámico y muy directo al punto. Cero lenguaje corporativo.
 
-El guión debe seguir estrictamente esta estructura dividida por escenas:
+FORMATO ESTRICTO:
+Debes devolver la respuesta EXACTAMENTE con este formato, sin añadir texto extra al principio ni al final. Solo rellena los textos:
 
-1. [Gancho 0-3s]: Una frase muy llamativa que detenga el scroll (No digas el nombre del juego aquí, genera misterio). Debe incluir una orden visual de texto en pantalla (CapCut style).
-2. [Desarrollo 3-12s]: Explica brevemente por qué este juego es increíble o qué se puede hacer en él. Usa un tono enérgico y directo.
-3. [CTA 12-15s]: Explica al usuario que puede conseguirlo y descargarlo yendo al enlace de nuestro perfil. Di textualmente: 'Consíguelo buscando ${activeEditingGame.title} en el link de mi perfil'.
+[Gancho 0-3s]
+Voz en off: "(Escribe aquí una frase muy llamativa que detenga el scroll sin decir el nombre del juego)"
+Texto en pantalla: "(Orden visual CapCut style)"
 
-Además, agrega al final:
-4. [Entonación de Voz]: Instrucciones de cómo debe ser la voz (tono, velocidad, emoción).
-5. [Ideas de B-Roll / Video]: 3 ideas exactas de qué tipo de clips de YouTube buscar para poner de fondo mientras suena el audio.
+[Desarrollo 3-12s]
+Voz en off: "(Explica por qué es increíble con tono enérgico)"
+Texto en pantalla: "(Texto corto para pantalla)"
 
-Devuelve la respuesta en formato de lista limpia, separando el Audio (Voz en off) y el Texto que debe ir pegado en el video.`;
+[CTA 12-15s]
+Voz en off: "Consíguelo buscando ${activeEditingGame.title} en el link de mi perfil."
+Texto en pantalla: "DESCARGA EN EL LINK DEL PERFIL 📥"
+
+[Entonación de Voz]
+- Tono: (Tu instrucción)
+- Velocidad: (Tu instrucción)
+- Emoción: (Tu instrucción)
+
+[Ideas de B-Roll / Video]
+1. (Idea 1 de qué clip de YouTube buscar)
+2. (Idea 2)
+3. (Idea 3)`;
 
         try {
           const res = await fetch('https://text.pollinations.ai/', {
