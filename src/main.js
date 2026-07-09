@@ -1434,9 +1434,9 @@ Output ONLY valid JSON:
         statusEl.className = 'admin-status-message';
         statusEl.textContent = '⏳ Generando guion viral con IA... (Esto puede tomar 10-20 segundos)';
         
-        const aiPrompt = \`Actúa como un creador de contenido experto en videos verticales virales (TikTok/Shorts) sobre videojuegos. Escribe un guión de 15 a 20 segundos optimizado para retención total sobre el juego "\${activeEditingGame.title}".
+        const aiPrompt = `Actúa como un creador de contenido experto en videos verticales virales (TikTok/Shorts) sobre videojuegos. Escribe un guión de 15 a 20 segundos optimizado para retención total sobre el juego "${activeEditingGame.title}".
 
-El juego se destaca principalmente por: "\${feature || 'ser increíblemente entretenido'}".
+El juego se destaca principalmente por: "${feature || 'ser increíblemente entretenido'}".
 
 RESTRICCIONES Y ESTILO ANTI-IA (¡MUY IMPORTANTE!):
 * PROHIBIDO USAR las siguientes palabras o frases de IA: "adéntrate en", "sumérgete", "en conclusión", "descubre un mundo", "revolucionario", "es importante destacar", "épica aventura", "paisaje digital", "sin embargo", "además".
@@ -1447,13 +1447,13 @@ El guión debe seguir estrictamente esta estructura dividida por escenas:
 
 1. [Gancho 0-3s]: Una frase muy llamativa que detenga el scroll (No digas el nombre del juego aquí, genera misterio). Debe incluir una orden visual de texto en pantalla (CapCut style).
 2. [Desarrollo 3-12s]: Explica brevemente por qué este juego es increíble o qué se puede hacer en él. Usa un tono enérgico y directo.
-3. [CTA 12-15s]: Explica al usuario que puede conseguirlo y descargarlo yendo al enlace de nuestro perfil. Di textualmente: 'Consíguelo buscando \${activeEditingGame.title} en el link de mi perfil'.
+3. [CTA 12-15s]: Explica al usuario que puede conseguirlo y descargarlo yendo al enlace de nuestro perfil. Di textualmente: 'Consíguelo buscando ${activeEditingGame.title} en el link de mi perfil'.
 
 Además, agrega al final:
 4. [Entonación de Voz]: Instrucciones de cómo debe ser la voz (tono, velocidad, emoción).
 5. [Ideas de B-Roll / Video]: 3 ideas exactas de qué tipo de clips de YouTube buscar para poner de fondo mientras suena el audio.
 
-Devuelve la respuesta en formato de lista limpia, separando el Audio (Voz en off) y el Texto que debe ir pegado en el video.\`;
+Devuelve la respuesta en formato de lista limpia, separando el Audio (Voz en off) y el Texto que debe ir pegado en el video.`;
 
         try {
           const res = await fetch('https://text.pollinations.ai/', {
