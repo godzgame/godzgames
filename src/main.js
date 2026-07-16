@@ -3,6 +3,21 @@ import latestNewsData from './data/latest_news.json';
 import fallbackGamesData from './data/games.json';
 
 document.addEventListener('DOMContentLoaded', async () => {
+  window.setCanonical = (url) => {
+    let link = document.querySelector("link[rel='canonical']");
+    if (!link) {
+      link = document.createElement("link");
+      link.setAttribute("rel", "canonical");
+      document.head.appendChild(link);
+    }
+    link.setAttribute("href", url);
+  };
+
+  window.navigateTo = (e, path) => {
+    if (e) e.preventDefault();
+    window.history.pushState(null, '', path);
+    window.dispatchEvent(new Event('popstate'));
+  };
   let consoles = fallbackGamesData.consoles;
   let games = fallbackGamesData.games;
   const news = latestNewsData;
@@ -206,7 +221,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.querySelectorAll('.nav-item').forEach(el => {
       el.addEventListener('click', (e) => {
         e.preventDefault();
-        window.location.hash = ''; // Return to home on category click
+        if (window.location.search || window.location.hash) {
+          window.history.pushState(null, '', '/');
+          window.dispatchEvent(new Event('popstate'));
+        }
         document.querySelectorAll('.nav-item').forEach(nav => nav.classList.remove('active'));
         e.target.classList.add('active');
         currentCategory = e.target.dataset.cat;
@@ -303,13 +321,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     const btnText = translations[currentLang].getLink;
     return `
       <div class="game-card">
-        <div class="card-img-wrap" onclick="window.location.hash='#/game/${game.id}'">
+        <div class="card-img-wrap" onclick="window.navigateTo(event, '/?game=${game.id}')">
           <span class="card-category">${game.console}</span>
           ${imageHtml}
         </div>
         <div class="card-content">
-          <h3 class="card-title" onclick="window.location.hash='#/game/${game.id}'" style="cursor:pointer;">${game.title}</h3>
-          <a href="#/game/${game.id}" class="card-btn">${btnText}</a>
+          <h3 class="card-title" onclick="window.navigateTo(event, '/?game=${game.id}')" style="cursor:pointer;">${game.title}</h3>
+          <a href="/?game=${game.id}" class="card-btn" onclick="window.navigateTo(event, '/?game=${game.id}')">${btnText}</a>
         </div>
       </div>
     `;
@@ -777,8 +795,12 @@ Output ONLY valid JSON:
       }
     });
 
-    window.location.hash = ''; // Triggers routing to show home view
-    renderGames(); // Renders with ALL category
+    if (window.location.search || window.location.hash) {
+      window.history.pushState(null, '', '/');
+      window.dispatchEvent(new Event('popstate'));
+    } else {
+      renderGames();
+    }
   };
 
   let activeEditingGame = null;
@@ -1189,17 +1211,28 @@ Output ONLY valid JSON:
 
   // Basic client-side router
   const handleRouting = () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const gameId = urlParams.get('game');
     const hash = window.location.hash;
+
+    // Backward compatibility for old hash links
     if (hash.startsWith('#/game/')) {
+      const oldGameId = hash.replace('#/game/', '');
+      window.location.replace(`/?game=${oldGameId}`);
+      return;
+    }
+
+    if (gameId) {
       adminView.style.display = 'none';
       homeView.style.display = 'none';
       gameView.style.display = 'block';
-      const gameId = hash.replace('#/game/', '');
       const game = games.find(g => g.id === gameId);
       if (game) {
+        if (typeof window.setCanonical === 'function') window.setCanonical(`https://godzgames.com/?game=${gameId}`);
         renderGamePage(game);
       } else {
-        window.location.hash = '';
+        window.history.pushState(null, '', '/');
+        window.dispatchEvent(new Event('popstate'));
       }
     } else if (hash === '#/admin') {
       homeView.style.display = 'none';
@@ -1207,12 +1240,14 @@ Output ONLY valid JSON:
       adminView.style.display = 'block';
       renderAdminPage();
     } else {
+      if (typeof window.setCanonical === 'function') window.setCanonical('https://godzgames.com/');
       adminView.style.display = 'none';
       showHomePage();
       renderGames();
     }
   };
 
+  window.addEventListener('popstate', handleRouting);
   window.addEventListener('hashchange', handleRouting);
 
   // Translate all DOM elements and re-render
@@ -1357,8 +1392,9 @@ Output ONLY valid JSON:
         }
 
         // Return to home if on a game details page or admin page
-        if ((window.location.hash.startsWith('#/game/') || window.location.hash === '#/admin') && searchQuery.trim().length > 0) {
-          window.location.hash = ''; // Triggers routing to show homepage
+        if ((window.location.search.includes('?game=') || window.location.hash.startsWith('#/game/') || window.location.hash === '#/admin') && searchQuery.trim().length > 0) {
+          window.history.pushState(null, '', '/');
+          window.dispatchEvent(new Event('popstate'));
         } else {
           renderGames();
         }

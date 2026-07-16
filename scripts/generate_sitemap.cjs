@@ -18,12 +18,9 @@ const distDir = path.join(__dirname, '../dist');
 // 3. Fallback por defecto: https://godzgames.com
 const siteUrl = process.argv[2] || process.env.SITE_URL || 'https://godzgames.com';
 
-// Determinar el estilo de rutas: con hash (/#/game/id) o limpia (/game/id)
-// Por defecto se genera con Hash ya que es el enrutador actual del frontend
-const useHashRouting = process.env.USE_HASH_ROUTING !== 'false';
-
+// Enrutamiento con parámetros de consulta para SEO
 console.log(`[Sitemap Generator] Usando dominio: ${siteUrl}`);
-console.log(`[Sitemap Generator] Enrutamiento: ${useHashRouting ? 'Rutas con Hash (/#/game/id)' : 'Rutas limpias (/game/id)'}`);
+console.log(`[Sitemap Generator] Enrutamiento: Rutas con query parameters (/?game=id)`);
 
 // Función para formatear la fecha actual en YYYY-MM-DD
 const getTodayDate = () => {
@@ -70,7 +67,7 @@ const generateSitemap = () => {
     if (!game.id) return;
     
     // Crear la ruta según el tipo de enrutador
-    const gamePath = useHashRouting ? `/#/game/${game.id}` : `/game/${game.id}`;
+    const gamePath = `/?game=${game.id}`;
     const fullUrl = `${cleanUrl}${gamePath}`;
 
     xml += '  <url>\n';
