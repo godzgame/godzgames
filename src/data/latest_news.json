@@ -1,10 +1,26 @@
 {
-  "updatedAt": 1784164742358,
+  "updatedAt": 1784187489073,
   "articles": [
+    {
+      "id": "5bb1081b648af571ca6eb95b749e04c4",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784187473003_391.jpg",
+      "link": "https://www.videogameschronicle.com/news/fromsoftwares-the-duskbloods-gets-a-network-test-this-august/",
+      "en": {
+        "title": "FromSoftware’s The Duskbloods confirms Network Test dates",
+        "description": "The Duskbloods Network Test is happening this August, with sign ups starting this month.",
+        "fullContent": "The Duskbloods Network Test is happening this August, with sign ups starting this month.\n\nFromSoftware’s Nintendo Switch 2 exclusive, The Duskbloods, will kick off its Network Test on August 21, it’s confirmed.\n\nNintendo announced the news via a post on X (formerly Twitter). The Duskbloods Network Test will take place between August 21 and August 24, 2026.\n\nPlayers eager to go hands-on with the game during the Network Test can apply from July 22. A Nintendo Switch Online subscription is required.\n\nWe’ve listed the times that the Network Test will be active below:\n\nThe Duskbloods Network Test was first announced during the June 2026 Nintendo Direct, where a new trailer was showcased."
+      },
+      "es": {
+        "title": "The Duskbloods de FromSoftware confirma las fechas de la prueba de red",
+        "description": "La prueba de Duskbloods Network se llevará a cabo en agosto y las inscripciones comenzarán este mes.",
+        "fullContent": "La prueba de Duskbloods Network se llevará a cabo en agosto y las inscripciones comenzarán este mes.\n\nSe ha confirmado que The Duskbloods, exclusivo de FromSoftware para Nintendo Switch 2, iniciará su prueba de red el 21 de agosto.\n\nNintendo anunció la noticia a través de una publicación en X (anteriormente Twitter). La prueba de Duskbloods Network se llevará a cabo entre el 21 y el 24 de agosto de 2026.\n\nLos jugadores que deseen probar el juego durante la prueba de red pueden presentar su solicitud a partir del 22 de julio. Se requiere una suscripción a Nintendo Switch Online.\n\nA continuación enumeramos los horarios en los que la prueba de red estará activa:\n\nLa prueba de Duskbloods Network se anunció por primera vez durante el Nintendo Direct de junio de 2026, donde se mostró un nuevo avance."
+      }
+    },
     {
       "id": "0d36a2a42501dd7041f7262d02440fdb",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784164729224_234.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784187473834_813.jpg",
       "link": "https://www.ign.com/articles/game-own-ver-why-owning-your-video-games-has-become-more-important-than-ever",
       "en": {
         "title": "I Think PlayStation’s All-Digital Future Makes It Clear: Owning Your Video Games Has Never Been More Important",
@@ -20,7 +36,7 @@
     {
       "id": "6ed89b3d2276595c53bf8e4e63ef4a71",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784164732632_92.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784187475764_502.jpg",
       "link": "https://www.bbc.com/news/articles/c932eynvq1do",
       "en": {
         "title": "Xbox layoffs: What's next for the video game giant?",
@@ -36,7 +52,7 @@
     {
       "id": "576f426fcd3302b9ab8ed33a0dce3801",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784164736729_56.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784187479090_952.jpg",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/pc-gamer-turns-steam-games-into-cartridges-with-ingenious-2-5-inch-ssd-system-games-are-stored-on-128gb-drives-alongside-a-script-to-auto-start-the-title-once-plugged-in",
       "en": {
         "title": "PC gamer turns Steam games into cartridges with ingenious 2.5-inch SSD system — games are stored on 128GB drives alongside a script to auto-start the title once plugged in",
@@ -50,25 +66,9 @@
       }
     },
     {
-      "id": "bac1cab1a74f405627de68f7577c6e74",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784164739602_548.jpg",
-      "link": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
-      "en": {
-        "title": "Dead Space Creator Glen Schofield Announces Retirement From \"Day to Day\" Work of the Gaming Industry",
-        "description": "Dead Space creator Glen Schofield has announced his retirement from the \"day to day work\" of the gaming industry.",
-        "fullContent": "Dead Space creator Glen Schofield has announced his retirement from the \"day to day work\" of the gaming industry.\n\nSchofield took to LinkedIn to break the news with an emotional video, thanking his fans, colleagues, and the industry for supporting him throughout his career. He also took a moment to acknowledge that, although the industry is experiencing a lot of hardships right now, there are still great minds making great games.\n\nSchofield didn't give an explicit reason for his retirement, but he has had a successful 35-year run in the industry. After beginning as an artist, Schofield climbed the ranks before becoming a producer at EA, where he contributed to James Bond and Lord of the Rings games. After his work on Bond, EA gave him the freedom to create a brand-new IP: Dead Space. With the team at Visceral Games, Schofield built one of the scariest video games ever created, and its impact has had a lasting ripple effect. Although it took inspiration from titles like Resident Evil, it was fresh, unique, and most importantly, utterly terrifying.\n\nFollowing the game's success, Activision recruited Schofield to co-found Sledgehammer Games with his Visceral Games colleague, Michael Condrey. The two worked on a third-person Call of Duty game set in Vietnam for six months before eventually being asked to help co-develop Call of Duty: Modern Warfare 3 after Infinity Ward imploded in 2010. Despite being very new to the franchise as a creative, Sledgehammer Games helped Infinity Ward deliver a highly successful trilogy capper that also solidified Sledgehammer as one of the core Call of Duty teams.\n\nSchofield went on to lead the development on the innovative, though notably divisive Call of Duty: Advanced Warfare before taking the franchise back to its roots with Call of Duty: WWII in 2017. Schofield eventually departed from Sledgehammer and went back to his own roots with The Callisto Protocol, a Dead Space-inspired sci-fi horror game. It was the last game Schofield helmed, though he made efforts to pitch a fourth Dead Space game to EA around the time of the 2023 remake of the first game.\n\nSchofield contributed a lot to the gaming industry through not only his games, but also his desire to let creativity triumph. His contributions will be missed, but his impact will be felt for years to come."
-      },
-      "es": {
-        "title": "El creador de Dead Space, Glen Schofield, anuncia su retiro del trabajo \"día a día\" de la industria del juego",
-        "description": "El creador de Dead Space, Glen Schofield, ha anunciado su retiro del \"trabajo diario\" de la industria del juego.",
-        "fullContent": "El creador de Dead Space, Glen Schofield, ha anunciado su retiro del \"trabajo diario\" de la industria del juego.\n\nSchofield recurrió a LinkedIn para dar la noticia con un emotivo vídeo, agradeciendo a sus fans, colegas y a la industria por apoyarlo a lo largo de su carrera. También se tomó un momento para reconocer que, aunque la industria está atravesando muchas dificultades en este momento, todavía hay grandes mentes que crean grandes juegos.\n\nSchofield no dio una razón explícita para su retiro, pero ha tenido una trayectoria exitosa de 35 años en la industria. Después de comenzar como artista, Schofield ascendió de rango antes de convertirse en productor en EA, donde contribuyó a los juegos de James Bond y El Señor de los Anillos. Después de su trabajo en Bond, EA le dio la libertad de crear una nueva IP: Dead Space. Con el equipo de Visceral Games, Schofield creó uno de los videojuegos más aterradores jamás creados y su impacto ha tenido un efecto dominó duradero. Aunque se inspiró en títulos como Resident Evil, era fresco, único y, lo más importante, absolutamente aterrador.\n\nTras el éxito del juego, Activision reclutó a Schofield para cofundar Sledgehammer Games con su colega de Visceral Games, Michael Condrey. Los dos trabajaron en un juego Call of Duty en tercera persona ambientado en Vietnam durante seis meses antes de que finalmente se les pidiera que ayudaran a codesarrollar Call of Duty: Modern Warfare 3 después de la implosión de Infinity Ward en 2010. A pesar de ser muy nuevo en la franquicia como creativo, Sledgehammer Games ayudó a Infinity Ward a entregar una trilogía de gran éxito que también solidificó a Sledgehammer como uno de los equipos principales de Call of Duty.\n\nSchofield pasó a liderar el desarrollo del innovador, aunque notablemente divisivo, Call of Duty: Advanced Warfare antes de llevar la franquicia a sus raíces con Call of Duty: WWII en 2017. Schofield finalmente se separó de Sledgehammer y volvió a sus propias raíces con The Callisto Protocol, un juego de terror de ciencia ficción inspirado en Dead Space. Fue el último juego que dirigió Schofield, aunque se esforzó por presentar un cuarto juego de Dead Space a EA en el momento de la nueva versión de 2023 del primer juego.\n\nSchofield contribuyó mucho a la industria del juego no solo a través de sus juegos, sino también con su deseo de dejar triunfar la creatividad. Echaremos de menos sus contribuciones, pero su impacto se sentirá en los años venideros."
-      }
-    },
-    {
       "id": "b4dbc847ca302467f86fdeaceb679039",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784164742121_81.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784187489025_483.jpg",
       "link": "https://www.gamesindustry.biz/i-had-a-front-row-seat-to-one-of-the-greatest-creative-explosions-in-history-glen-schofield-announces-retirement",
       "en": {
         "title": "\"I had a front row seat to one of the greatest creative explosions in history\" – Glen Schofield announces retirement",
