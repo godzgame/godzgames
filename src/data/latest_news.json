@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1784604005647,
+  "updatedAt": 1784623046215,
   "articles": [
     {
       "id": "ef0b056474bc410d31f918525bf9ed3f",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604001075_962.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784623041544_917.jpg",
       "link": "https://www.videogameschronicle.com/news/we-are-committed-to-making-this-clearer-xbox-exec-says-its-not-obvious-to-players-which-games-will-be-exclusive/",
       "en": {
         "title": "‘We are committed to making this clearer’: Xbox exec says it’s ‘not obvious’ to players which games will be exclusive",
@@ -18,25 +18,9 @@
       }
     },
     {
-      "id": "ab3b024838471eb2d279053351a917a4",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604002381_492.jpg",
-      "link": "https://www.creativebloq.com/3d/video-game-design/forget-ea-sports-fc-27-heres-how-to-make-your-own-football-game-for-free-in-godot-engine",
-      "en": {
-        "title": "Forget EA Sports FC 27, here's how to make your own football game for free in Godot Engine",
-        "description": "Create a retro arcade-style game with this free beginner-friendly tutorial course.",
-        "fullContent": "Create a retro arcade-style game with this free beginner-friendly tutorial course.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nThe EA Sports FC 27 release date is believed to be set for 25 September, with Electronic Arts' annual football simulation video game expected to be available for PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch and Switch 2.\n\nBut after disappointment over the bugs, mechanics and aggressive microtransactions in last year's installment, how about making your own football game instead?\n\nFree and open-source Godot Engine is one of our picks as the best game development software, and it's becoming increasingly popular with indie developers. A comprehensive free course available on YouTube could help you get a game on to the pitch after just 12-hours of study time, and all the assets are provided for free, making this a timely opportunity to learn how to build video games (you might want one of the best laptops for game development).\n\nWe've mentioned the GameDev Tavern before for their free Dungeon Crawler 3D game Godot tutorials. Their Arcade Soccer Tutorial is just as comprehensive, and, best of all, it's suitable for beginners, making it perfect for anyone inspired by the FIFA World Cup final as Argentina take on Spain tomorrow"
-      },
-      "es": {
-        "title": "Olvídate de EA Sports FC 27, aquí te explicamos cómo crear tu propio juego de fútbol gratis en Godot Engine",
-        "description": "Crea un juego de estilo arcade retro con este curso tutorial gratuito para principiantes.",
-        "fullContent": "Crea un juego de estilo arcade retro con este curso tutorial gratuito para principiantes.\n\nCuando compra a través de enlaces en nuestro sitio, podemos ganar una comisión de afiliado. Así es como funciona.\n\nSe cree que la fecha de lanzamiento de EA Sports FC 27 está fijada para el 25 de septiembre, y se espera que el videojuego de simulación de fútbol anual de Electronic Arts esté disponible para PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch y Switch 2.\n\nPero después de la decepción por los errores, la mecánica y las microtransacciones agresivas de la entrega del año pasado, ¿qué tal si creas tu propio juego de fútbol?\n\nGodot Engine, gratuito y de código abierto, es una de nuestras elecciones como mejor software de desarrollo de juegos y se está volviendo cada vez más popular entre los desarrolladores independientes. Un curso completo gratuito disponible en YouTube podría ayudarte a llevar un juego al campo después de solo 12 horas de estudio, y todos los recursos se proporcionan de forma gratuita, lo que hace que esta sea una oportunidad oportuna para aprender a crear videojuegos (es posible que desees una de las mejores computadoras portátiles para el desarrollo de juegos).\n\nHemos mencionado GameDev Tavern antes por sus tutoriales gratuitos de Godot del juego Dungeon Crawler 3D. Su tutorial de Arcade Soccer es igual de completo y, lo mejor de todo, es adecuado para principiantes, lo que lo hace perfecto para cualquiera que esté inspirado en la final de la Copa Mundial de la FIFA cuando Argentina se enfrente a España mañana."
-      }
-    },
-    {
       "id": "7521bfe1b5d3112775ca0a86d4755242",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604002918_603.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784623042135_617.jpg",
       "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/",
       "en": {
         "title": "AI is shrinking video game development teams to one",
@@ -50,9 +34,25 @@
       }
     },
     {
+      "id": "523e729ae9c811ef6626f2031c90c2f1",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784623042809_706.jpg",
+      "link": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
+      "en": {
+        "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
+        "description": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.",
+        "fullContent": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.\n\nNetflix has lauded two of its latest video game releases and praised the impact of its kid-friendly 'Netflix Playground' platform.\n\nAs noted in its latest fiscal report, Netflix said FIFA World Cup: Launch Edition and Unhinged delivered its \"most successful cloud game debuts.\" It's unclear what that means in terms of engagement, with Netflix neglecting to share gameplay hours.\n\nFIFA, in particular, appears to have succeeded (in Netflix's estimations) despite being branded a \"massive missed opportunity\" by FourFourTwo and a \"modern hellscape\" by Aftermath.\n\nThe streamer also noted that Netflix Playground, a dedicated application for child-friendly games, has grown significantly since launching earlier this year.\n\n\"Netflix Playground, our app for kids games, has experienced 3x growth in daily players since its launch in April, and has fueled growth in our kids mobile games engagement, which is up 600 percent year over year,\" reads the company's fiscal report. \"While off a small base, these early signals give us increasing confidence that we are building a foundation with exciting future growth potential.\""
+      },
+      "es": {
+        "title": "Netflix dice que su videojuego de la Copa Mundial de la FIFA, criticado por la crítica, tuvo un desempeño de \"primer nivel\"",
+        "description": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.",
+        "fullContent": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.\n\nNetflix ha elogiado dos de sus últimos lanzamientos de videojuegos y elogió el impacto de su plataforma 'Netflix Playground' para niños.\n\nComo se señaló en su último informe fiscal, Netflix dijo que FIFA World Cup: Launch Edition y Unhinged realizaron sus \"debuts de juegos en la nube más exitosos\". No está claro qué significa eso en términos de participación, ya que Netflix se niega a compartir las horas de juego.\n\nLa FIFA, en particular, parece haber tenido éxito (según las estimaciones de Netflix) a pesar de que FourFourTwo la calificó como una \"gran oportunidad perdida\" y Aftermath un \"infierno moderno\".\n\nEl transmisor también señaló que Netflix Playground, una aplicación dedicada a juegos para niños, ha crecido significativamente desde su lanzamiento a principios de este año.\n\n\"Netflix Playground, nuestra aplicación para juegos infantiles, ha experimentado un crecimiento tres veces mayor en jugadores diarios desde su lanzamiento en abril, y ha impulsado el crecimiento en la participación de nuestros niños en los juegos móviles, que ha aumentado un 600 por ciento año tras año\", se lee en el informe fiscal de la compañía. \"Aunque se trata de una base pequeña, estas primeras señales nos dan una confianza cada vez mayor en que estamos construyendo una base con un potencial de crecimiento futuro apasionante\"."
+      }
+    },
+    {
       "id": "335fa9b720a35fa3b6620addb51135c7",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604003685_126.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784623043740_563.jpg",
       "link": "https://www.gamesindustry.biz/the-market-is-becoming-much-more-diverse-will-the-proliferation-of-football-video-games-last",
       "en": {
         "title": "\"The market is becoming much more diverse\" – Will the proliferation of football video games last?",
@@ -66,19 +66,19 @@
       }
     },
     {
-      "id": "523e729ae9c811ef6626f2031c90c2f1",
+      "id": "c8a4c068ab201064f25f176b80bbc7d1",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604005636_427.jpg",
-      "link": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784623046214_922.jpg",
+      "link": "https://gameinformer.com/2026/07/20/clair-obscur-actor-jennifer-english-steps-away-from-tides-of-annihilation-protagonist",
       "en": {
-        "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
-        "description": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.",
-        "fullContent": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.\n\nNetflix has lauded two of its latest video game releases and praised the impact of its kid-friendly 'Netflix Playground' platform.\n\nAs noted in its latest fiscal report, Netflix said FIFA World Cup: Launch Edition and Unhinged delivered its \"most successful cloud game debuts.\" It's unclear what that means in terms of engagement, with Netflix neglecting to share gameplay hours.\n\nFIFA, in particular, appears to have succeeded (in Netflix's estimations) despite being branded a \"massive missed opportunity\" by FourFourTwo and a \"modern hellscape\" by Aftermath.\n\nThe streamer also noted that Netflix Playground, a dedicated application for child-friendly games, has grown significantly since launching earlier this year.\n\n\"Netflix Playground, our app for kids games, has experienced 3x growth in daily players since its launch in April, and has fueled growth in our kids mobile games engagement, which is up 600 percent year over year,\" reads the company's fiscal report. \"While off a small base, these early signals give us increasing confidence that we are building a foundation with exciting future growth potential.\""
+        "title": "Clair Obscur Actor Jennifer English Steps Away From Tides Of Annihilation Protagonist Role",
+        "description": "Jennifer English, the award-winning voice actor of Maelle in Clair Obscur: Expedition 33, has stepped away from voicing protagonist Gwendolyn in th...",
+        "fullContent": "Jennifer English, the award-winning voice actor of Maelle in Clair Obscur: Expedition 33, has stepped away from voicing protagonist Gwendolyn in the upcoming action game, Tides of Annihilation. The game’s development team, Eclipse Glow Games, states that this is due to personal health reasons.\n\nThe official Tides of Annihilation X account shared a lengthy post announcing the news, stating that in early June, English informed them she would be unable to continue providing the English-language voice of Gwendolyn. “While we were, of course, saddened by her decision, we completely understood and respected Jennifer in prioritizing her well-being,” reads the post. “We are also deeply grateful for the care and responsibility she showed throughout this process.”\n\nEnglish will continue to be involved in Tides of Annihilation’s production in an advisory role, according to the post. In fact, with English’s help and recommendation, Gwendolyn’s English-language voice performer has already been recast. The team does not reveal the new actor’s identity, only stating “Her recent work in video games left a strong impression on both Jennifer and our team—not only for the performance itself, but for the remarkable care and dedication she showed in understanding the character—and we're excited for players to experience her interpretation of Gwendolyn.”\n\nThe new voice actor has already recorded lines that will appear in Tides of Annihilation’s upcoming Gamescom demo next month, so attendees will be the first to hear the new performance. Eclipse Glow Games also confirms that it will announce Gwendolyn’s new actor during this period.\n\nTides of Annihilation was first revealed in February 2025 and is a stylish action-adventure game based on Arthurian legend. Gwendolyn is a warrior and the last surviving person in London after an invasion by otherworldly forces. She must defeat this threat using the power of 10 legendary, colossal knights she encounters along the way. Tides of Annihilation has no release window, but it’s slated to launch on PlayStation 5, Xbox Series X/S, and PC."
       },
       "es": {
-        "title": "Netflix dice que su videojuego de la Copa Mundial de la FIFA, criticado por la crítica, tuvo un desempeño de \"primer nivel\"",
-        "description": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.",
-        "fullContent": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.\n\nNetflix ha elogiado dos de sus últimos lanzamientos de videojuegos y elogió el impacto de su plataforma 'Netflix Playground' para niños.\n\nComo se señaló en su último informe fiscal, Netflix dijo que FIFA World Cup: Launch Edition y Unhinged realizaron sus \"debuts de juegos en la nube más exitosos\". No está claro qué significa eso en términos de participación, ya que Netflix se niega a compartir las horas de juego.\n\nLa FIFA, en particular, parece haber tenido éxito (según las estimaciones de Netflix) a pesar de que FourFourTwo la calificó como una \"gran oportunidad perdida\" y Aftermath un \"infierno moderno\".\n\nEl transmisor también señaló que Netflix Playground, una aplicación dedicada a juegos para niños, ha crecido significativamente desde su lanzamiento a principios de este año.\n\n\"Netflix Playground, nuestra aplicación para juegos infantiles, ha experimentado un crecimiento tres veces mayor en jugadores diarios desde su lanzamiento en abril, y ha impulsado el crecimiento en la participación de nuestros niños en los juegos móviles, que ha aumentado un 600 por ciento año tras año\", se lee en el informe fiscal de la compañía. \"Aunque se trata de una base pequeña, estas primeras señales nos dan una confianza cada vez mayor en que estamos construyendo una base con un potencial de crecimiento futuro apasionante\"."
+        "title": "La actriz de Clair Obscur, Jennifer English, se aleja del papel protagonista de Tides Of Annihilation",
+        "description": "Jennifer English, la galardonada actriz de doblaje de Maelle en Clair Obscur: Expedition 33, dejó de interpretar a la protagonista Gwendolyn en el ...",
+        "fullContent": "Jennifer English, la galardonada actriz de doblaje de Maelle en Clair Obscur: Expedition 33, dejó de interpretar a la protagonista Gwendolyn en el próximo juego de acción, Tides of Annihilation. El equipo de desarrollo del juego, Eclipse Glow Games, afirma que esto se debe a motivos de salud personal.\n\nLa cuenta oficial de Tides of Annihilation X compartió una publicación extensa anunciando la noticia, afirmando que a principios de junio, English les informó que no podría continuar brindando la voz en inglés de Gwendolyn. “Si bien, por supuesto, nos entristeció su decisión, comprendimos y respetamos completamente a Jennifer al priorizar su bienestar”, se lee en la publicación. \"También estamos profundamente agradecidos por el cuidado y la responsabilidad que mostró durante todo este proceso\".\n\nEnglish seguirá involucrado en la producción de Tides of Annihilation en calidad de asesor, según la publicación. De hecho, con la ayuda y recomendación de English, la voz de Gwendolyn en inglés ya ha sido refundida. El equipo no revela la identidad del nuevo actor, solo afirma: \"Su trabajo reciente en videojuegos dejó una fuerte impresión tanto en Jennifer como en nuestro equipo, no solo por la actuación en sí, sino por el extraordinario cuidado y dedicación que mostró al comprender al personaje, y estamos entusiasmados de que los jugadores experimenten su interpretación de Gwendolyn\".\n\nEl nuevo actor de voz ya ha grabado líneas que aparecerán en la próxima demostración de Gamescom de Tides of Annihilation el próximo mes, por lo que los asistentes serán los primeros en escuchar la nueva interpretación. Eclipse Glow Games también confirma que anunciará al nuevo actor de Gwendolyn durante este período.\n\nTides of Annihilation se reveló por primera vez en febrero de 2025 y es un elegante juego de acción y aventuras basado en la leyenda artúrica. Gwendolyn es una guerrera y la última persona superviviente en Londres después de una invasión de fuerzas de otro mundo. Debe derrotar esta amenaza utilizando el poder de 10 caballeros colosales y legendarios que encontrará en el camino. Tides of Annihilation no tiene ventana de lanzamiento, pero está programado para lanzarse en PlayStation 5, Xbox Series X/S y PC."
       }
     }
   ]
