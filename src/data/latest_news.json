@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1784584316199,
+  "updatedAt": 1784604005647,
   "articles": [
     {
       "id": "ef0b056474bc410d31f918525bf9ed3f",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784584308337_873.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604001075_962.jpg",
       "link": "https://www.videogameschronicle.com/news/we-are-committed-to-making-this-clearer-xbox-exec-says-its-not-obvious-to-players-which-games-will-be-exclusive/",
       "en": {
         "title": "‘We are committed to making this clearer’: Xbox exec says it’s ‘not obvious’ to players which games will be exclusive",
@@ -20,7 +20,7 @@
     {
       "id": "ab3b024838471eb2d279053351a917a4",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784584310378_944.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604002381_492.jpg",
       "link": "https://www.creativebloq.com/3d/video-game-design/forget-ea-sports-fc-27-heres-how-to-make-your-own-football-game-for-free-in-godot-engine",
       "en": {
         "title": "Forget EA Sports FC 27, here's how to make your own football game for free in Godot Engine",
@@ -34,25 +34,9 @@
       }
     },
     {
-      "id": "2f24b069ec66344beaedf1bced8b7737",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784584312208_478.jpg",
-      "link": "https://www.cnet.com/tech/gaming/ps-plus-july-2026-games/",
-      "en": {
-        "title": "PS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia",
-        "description": "Avatar: Frontiers of Pandora, Dying Light and Psi-Ops join the PS Plus catalog in July.",
-        "fullContent": "Avatar: Frontiers of Pandora, Dying Light and Psi-Ops join the PS Plus catalog in July.\n\nIt’s officially the second half of 2026, which is going to be all about Grand Theft Auto 6. Until then, Sony has a new selection of games coming to PS Plus in July that includes Avatar: Frontier of Pandora, Dying Light and a couple of classic PlayStation 2 games.\n\nPS Plus, which is Sony’s version of Xbox Game Pass, offers a large, constantly expanding library of games. Subscribers can choose from the Essential, Extra and Premium tiers, each with unique perks and benefits. Starting at $11 a month, the plans give subscribers access to games and rewards, and each month, all subscribers can play a handful of new games at no additional charge.\n\nIf you’re a PlayStation Plus Extra or Premium subscriber, you can grab these games starting July 21.\n\nAvatar: Frontiers of Pandora came out in 2023, a year after Avatar: The Way of Water released in theaters. Developed by Massive Entertainment – a division of Ubisoft – the open-world action-adventure puts players in the role of a Na’vi raised by the Resources Development Administration, or RDA, before returning to defend Pandora. Set in the previously unseen Western Frontier, the game emphasizes exploration, aerial traversal on an ikran and combat using both traditional Na’vi weapons and human firearms. While its gameplay shares many similarities with the Far Cry series, its lush environments and faithful recreation of Pandora earned praise from critics.\n\nAvatar: Frontiers of Pandora will be available for PS Plus Extra and Premium subscribers starting July 21."
-      },
-      "es": {
-        "title": "Los juegos de PS Plus de julio de 2026 están llenos de zombis, extraterrestres y nostalgia",
-        "description": "Avatar: Frontiers of Pandora, Dying Light y Psi-Ops se unen al catálogo de PS Plus en julio.",
-        "fullContent": "Avatar: Frontiers of Pandora, Dying Light y Psi-Ops se unen al catálogo de PS Plus en julio.\n\nEs oficialmente la segunda mitad de 2026, que se centrará exclusivamente en Grand Theft Auto 6. Hasta entonces, Sony tiene una nueva selección de juegos que llegarán a PS Plus en julio que incluye Avatar: Frontier of Pandora, Dying Light y un par de juegos clásicos de PlayStation 2.\n\nPS Plus, que es la versión de Sony de Xbox Game Pass, ofrece una biblioteca de juegos grande y en constante expansión. Los suscriptores pueden elegir entre los niveles Essential, Extra y Premium, cada uno con ventajas y beneficios únicos. A partir de $11 al mes, los planes brindan a los suscriptores acceso a juegos y recompensas, y cada mes, todos los suscriptores pueden jugar un puñado de juegos nuevos sin cargo adicional.\n\nSi eres suscriptor de PlayStation Plus Extra o Premium, puedes conseguir estos juegos a partir del 21 de julio.\n\nAvatar: Fronteras de Pandora salió en 2023, un año después de que Avatar: El Camino del Agua se estrenara en los cines. Desarrollado por Massive Entertainment, una división de Ubisoft, la aventura de acción de mundo abierto coloca a los jugadores en el papel de un Na'vi criado por la Administración de Desarrollo de Recursos, o RDA, antes de regresar para defender Pandora. Ambientado en la Frontera Occidental nunca antes vista, el juego enfatiza la exploración, el recorrido aéreo en un ikran y el combate utilizando tanto armas tradicionales Na'vi como armas de fuego humanas. Si bien su modo de juego comparte muchas similitudes con la serie Far Cry, sus entornos exuberantes y su fiel recreación de Pandora obtuvieron elogios de la crítica.\n\nAvatar: Frontiers of Pandora estará disponible para los suscriptores de PS Plus Extra y Premium a partir del 21 de julio."
-      }
-    },
-    {
       "id": "7521bfe1b5d3112775ca0a86d4755242",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784584312958_343.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604002918_603.jpg",
       "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/",
       "en": {
         "title": "AI is shrinking video game development teams to one",
@@ -66,19 +50,35 @@
       }
     },
     {
-      "id": "2d55ceeb8785070a123ec3b4e120abc1",
+      "id": "335fa9b720a35fa3b6620addb51135c7",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784584316183_737.jpg",
-      "link": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-director-185716131.html",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604003685_126.jpg",
+      "link": "https://www.gamesindustry.biz/the-market-is-becoming-much-more-diverse-will-the-proliferation-of-football-video-games-last",
       "en": {
-        "title": "Spider-Man: Brand New Day director says the Insomniac games were a \"great inspiration\" for certain stunts i...",
-        "description": "When you buy through links on our articles, Future and its syndication partners may earn a commission.",
-        "fullContent": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\n\nSpider-Man: Brand New Day director Destin Daniel Cretton says Insomniac's Spider-Man games inspired some of the stunts in the new movie.\n\n\"I am not a gamer, but I've played the game, but I surrounded myself with people who were obsessive gamers,\" Cretton told Polygon, when asked if he referenced Insomniac's Spider-Man video games while making the film. \"So a lot of the people in our stunt department loved playing those video games. So they would do screen grabs of their play and bring it in and say like, 'Can we pull this move off?' So that was a great inspiration for things.\"\n\nMarvel's Spider-Man is a video game franchise created by Insomniac Games and published by Sony Interactive for PlayStation and Windows. The incredibly popular and well-received games include Marvel's Spider-Man, Marvel's Spider-Man: Miles Morales, and Marvel's Spider-Man 2... and they're fun as heck, too.\n\nIt doesn't surprise me that some of the wildest shots from the games would serve as inspiration for the new film. In the games, Spidey can launch himself like a slingshot, nose-dive from a skyscraper before activating his web, slingshot between sections of a collapsing bridge, and launch himself through a glass window. Given that Peter has some new, uh, abilities in Spider-Man: Brand New Day, we're ready for some brand new moves.\n\nThe new movie sees a down-on-his-luck Peter Parker wrestle with his new abilities while taking on a new, seemingly invincible threat while still being forgotten by his best friends and the world at large."
+        "title": "\"The market is becoming much more diverse\" – Will the proliferation of football video games last?",
+        "description": "After years in which Electronic Arts' soccer series was almost the only game in town, the competition is hotting up as the market explores models o...",
+        "fullContent": "After years in which Electronic Arts' soccer series was almost the only game in town, the competition is hotting up as the market explores models other than annual premium titles\n\nSince 2022, when FIFA and Electronic Arts ended their almost 30-year partnership, a wide range of new football video games have emerged, including the free-to-play title UFL and the Netflix exclusive FIFA World Cup: Launch Edition from Delphi Interactive.\n\n\"There is a trend toward offering more choice for fans. In other words, offering more games for more gamers,\" says Delphi founder and CEO Casper Daugaard.\n\n\"We’re also seeing games that are buoyed by trusted licenses continue to resonate well with players, and that games without licenses are struggling to get off the ground.\"\n\nEugene Nashilov, the CEO of UFL maker Strikerz, says that the sector is in its \"most active phase in years\".\n\n\"The market is becoming much more diverse,\" he says. \"We now have a few full simulation games, arcade football, social football, mobile-first products, manager and fantasy games, and experimental platform-based experiences."
       },
       "es": {
-        "title": "El director de Spider-Man: Brand New Day dice que los juegos de Insomniac fueron una \"gran inspiración\" para ciertas acrobacias...",
-        "description": "Cuando compra a través de enlaces en nuestros artículos, Future y sus socios de distribución pueden ganar una comisión.",
-        "fullContent": "Cuando compra a través de enlaces en nuestros artículos, Future y sus socios de distribución pueden ganar una comisión.\n\nEl director de Spider-Man: Brand New Day, Destin Daniel Cretton, dice que los juegos de Spider-Man de Insomniac inspiraron algunas de las acrobacias de la nueva película.\n\n\"No soy un jugador, pero he jugado, pero me rodeé de personas que eran jugadores obsesivos\", dijo Cretton a Polygon, cuando se le preguntó si hizo referencia a los videojuegos Spider-Man de Insomniac mientras hacía la película. \"Así que a mucha gente de nuestro departamento de especialistas le encantaba jugar esos videojuegos. Entonces hacían capturas de pantalla de su juego y las traían y decían: '¿Podemos lograr este movimiento?' Así que eso fue una gran inspiración para las cosas\".\n\nMarvel's Spider-Man es una franquicia de videojuegos creada por Insomniac Games y publicada por Sony Interactive para PlayStation y Windows. Los juegos increíblemente populares y bien recibidos incluyen Marvel's Spider-Man, Marvel's Spider-Man: Miles Morales y Marvel's Spider-Man 2... y también son increíblemente divertidos.\n\nNo me sorprende que algunas de las tomas más locas de los juegos sirvan de inspiración para la nueva película. En los juegos, Spidey puede lanzarse como una honda, lanzarse en picada desde un rascacielos antes de activar su red, lanzarse entre secciones de un puente que se derrumba y lanzarse a través de una ventana de vidrio. Dado que Peter tiene algunas habilidades nuevas en Spider-Man: Brand New Day, estamos listos para algunos movimientos completamente nuevos.\n\nLa nueva película muestra a un Peter Parker con mala suerte luchando con sus nuevas habilidades mientras asume una nueva amenaza aparentemente invencible mientras sigue siendo olvidado por sus mejores amigos y el mundo en general."
+        "title": "\"El mercado es cada vez más diverso\" – ¿Durará la proliferación de los videojuegos de fútbol?",
+        "description": "Después de años en los que la serie de fútbol de Electronic Arts era casi el único juego en la ciudad, la competencia se está intensificando a medi...",
+        "fullContent": "Después de años en los que la serie de fútbol de Electronic Arts era casi el único juego en la ciudad, la competencia se está intensificando a medida que el mercado explora modelos distintos a los títulos premium anuales.\n\nDesde 2022, cuando FIFA y Electronic Arts pusieron fin a su asociación de casi 30 años, ha surgido una amplia gama de nuevos videojuegos de fútbol, incluido el título gratuito UFL y la Copa Mundial de la FIFA exclusiva de Netflix: Edición de lanzamiento de Delphi Interactive.\n\n\"Existe una tendencia a ofrecer más opciones a los fans. En otras palabras, ofrecer más juegos para más jugadores\", afirma el fundador y director ejecutivo de Delphi, Casper Daugaard.\n\n\"También estamos viendo que los juegos impulsados ​​por licencias confiables continúan teniendo una buena resonancia entre los jugadores, y que los juegos sin licencias tienen dificultades para despegar\".\n\nEugene Nashilov, director general del fabricante de UFL Strikerz, afirma que el sector se encuentra en su \"fase más activa en años\".\n\n\"El mercado es cada vez más diverso\", afirma. \"Ahora tenemos algunos juegos de simulación completos, fútbol arcade, fútbol social, productos móviles, juegos de gestión y de fantasía, y experiencias experimentales basadas en plataformas."
+      }
+    },
+    {
+      "id": "523e729ae9c811ef6626f2031c90c2f1",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784604005636_427.jpg",
+      "link": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
+      "en": {
+        "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
+        "description": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.",
+        "fullContent": "The streamer said the soccer sim delivered one of its 'most successful cloud game debuts' after launching on June 11.\n\nNetflix has lauded two of its latest video game releases and praised the impact of its kid-friendly 'Netflix Playground' platform.\n\nAs noted in its latest fiscal report, Netflix said FIFA World Cup: Launch Edition and Unhinged delivered its \"most successful cloud game debuts.\" It's unclear what that means in terms of engagement, with Netflix neglecting to share gameplay hours.\n\nFIFA, in particular, appears to have succeeded (in Netflix's estimations) despite being branded a \"massive missed opportunity\" by FourFourTwo and a \"modern hellscape\" by Aftermath.\n\nThe streamer also noted that Netflix Playground, a dedicated application for child-friendly games, has grown significantly since launching earlier this year.\n\n\"Netflix Playground, our app for kids games, has experienced 3x growth in daily players since its launch in April, and has fueled growth in our kids mobile games engagement, which is up 600 percent year over year,\" reads the company's fiscal report. \"While off a small base, these early signals give us increasing confidence that we are building a foundation with exciting future growth potential.\""
+      },
+      "es": {
+        "title": "Netflix dice que su videojuego de la Copa Mundial de la FIFA, criticado por la crítica, tuvo un desempeño de \"primer nivel\"",
+        "description": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.",
+        "fullContent": "El transmisor dijo que el simulador de fútbol realizó uno de sus \"debuts en juegos en la nube más exitosos\" después de su lanzamiento el 11 de junio.\n\nNetflix ha elogiado dos de sus últimos lanzamientos de videojuegos y elogió el impacto de su plataforma 'Netflix Playground' para niños.\n\nComo se señaló en su último informe fiscal, Netflix dijo que FIFA World Cup: Launch Edition y Unhinged realizaron sus \"debuts de juegos en la nube más exitosos\". No está claro qué significa eso en términos de participación, ya que Netflix se niega a compartir las horas de juego.\n\nLa FIFA, en particular, parece haber tenido éxito (según las estimaciones de Netflix) a pesar de que FourFourTwo la calificó como una \"gran oportunidad perdida\" y Aftermath un \"infierno moderno\".\n\nEl transmisor también señaló que Netflix Playground, una aplicación dedicada a juegos para niños, ha crecido significativamente desde su lanzamiento a principios de este año.\n\n\"Netflix Playground, nuestra aplicación para juegos infantiles, ha experimentado un crecimiento tres veces mayor en jugadores diarios desde su lanzamiento en abril, y ha impulsado el crecimiento en la participación de nuestros niños en los juegos móviles, que ha aumentado un 600 por ciento año tras año\", se lee en el informe fiscal de la compañía. \"Aunque se trata de una base pequeña, estas primeras señales nos dan una confianza cada vez mayor en que estamos construyendo una base con un potencial de crecimiento futuro apasionante\"."
       }
     }
   ]
