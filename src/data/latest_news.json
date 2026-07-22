@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1784729336556,
+  "updatedAt": 1784748903641,
   "articles": [
     {
       "id": "012c0a9764461d3dfaaebff0e41bf1de",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784729329266_963.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784748895860_617.jpg",
       "link": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
       "en": {
         "title": "The best games of 2026 so far, picked by NPR's staff",
@@ -18,9 +18,25 @@
       }
     },
     {
+      "id": "b71c4c731ebe3a9f2fe35c9835f4d94f",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784748899061_70.jpg",
+      "link": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
+      "en": {
+        "title": "Hasbro records $56M write down after scrapping 'several' video games",
+        "description": "The company said it is doubling down on projects with 'franchise potential and meaningful opportunities beyond the initial game.'",
+        "fullContent": "The company said it is doubling down on projects with 'franchise potential and meaningful opportunities beyond the initial game.'\n\nHasbro has recorded a $56 million non-cash write down after cancelling several video games scheduled for 2028 and beyond. The D&D and Magic The Gathering purveyor confirmed the news in its latest earnings call for the second quarter ended June 28, 2026.\n\nSpeaking to investors, Hasbro CEO Chris Cocks didn't specify which projects were scrapped—although we know a D&D title in development at Giant Skull was cancelled earlier this year—but said the decision reflects the standard the company is applying to its digital portfolio.\n\n\"We are focusing our digital investment behind the franchises, platforms, and partners where we see the clearest upside and where Hasbro has the strongest right to win. Four priorities will guide our digital strategy: focus, cost discipline, ownable platforms and partnership,\" said Cocks.\n\n\"Our digital investment will center on trading card games and role-playing games, with brands that can become a significant digital franchise and expand across media over time. We already have strong proof points. Magic: The Gathering Arena is one of the most successful digital TCGs of all time. Baldur's Gate 3 is one of the biggest and most awarded role-playing games of the last decade.\"\n\nRelated:A Kinect game that debuted in 2013 has been revived in the year of our lord 2026"
+      },
+      "es": {
+        "title": "Hasbro registra una amortización de 56 millones de dólares tras desechar \"varios\" videojuegos",
+        "description": "La compañía dijo que está redoblando su apuesta por proyectos con \"potencial de franquicia y oportunidades significativas más allá del juego inicial\".",
+        "fullContent": "La compañía dijo que está redoblando su apuesta por proyectos con \"potencial de franquicia y oportunidades significativas más allá del juego inicial\".\n\nHasbro ha registrado una amortización no monetaria de 56 millones de dólares después de cancelar varios videojuegos programados para 2028 y más allá. El proveedor de D&D y Magic The Gathering confirmó la noticia en su última convocatoria de resultados para el segundo trimestre que finalizó el 28 de junio de 2026.\n\nEn declaraciones a los inversores, el director ejecutivo de Hasbro, Chris Cocks, no especificó qué proyectos se descartaron (aunque sabemos que un título de D&D en desarrollo en Giant Skull fue cancelado a principios de este año), pero dijo que la decisión refleja el estándar que la compañía está aplicando a su cartera digital.\n\n\"Estamos enfocando nuestra inversión digital detrás de las franquicias, plataformas y socios donde vemos las ventajas más claras y donde Hasbro tiene el mayor derecho a ganar. Cuatro prioridades guiarán nuestra estrategia digital: enfoque, disciplina de costos, plataformas propias y asociación\", dijo Cocks.\n\n\"Nuestra inversión digital se centrará en juegos de cartas coleccionables y juegos de rol, con marcas que pueden convertirse en una importante franquicia digital y expandirse a través de los medios con el tiempo. Ya tenemos puntos de prueba sólidos. Magic: The Gathering Arena es uno de los TCG digitales más exitosos de todos los tiempos. Baldur's Gate 3 es uno de los juegos de rol más grandes y premiados de la última década\".\n\nRelacionado:Un juego de Kinect que debutó en 2013 ha sido revivido en el año de nuestro señor 2026."
+      }
+    },
+    {
       "id": "3c6d75b73039e5245398f81c5f4a6b2c",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784729330011_527.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784748899895_334.jpg",
       "link": "https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018",
       "en": {
         "title": "Hasbro's Big Video Game Push Is Already Struggling",
@@ -34,25 +50,9 @@
       }
     },
     {
-      "id": "6a118933948886b07c28fee5fce5b5f0",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784729332629_456.jpg",
-      "link": "https://www.pcgamer.com/gaming-industry/hasbro-takes-usd56-million-hit-over-multiple-game-cancellations-but-its-still-talking-about-how-baldurs-gate-3-is-key-to-its-future-success/",
-      "en": {
-        "title": "Hasbro takes $56 million hit over multiple game cancellations, but it's still talking about how Baldur's Gate 3 is key to its future success",
-        "description": "Just a few years after going big on videogames, Hasbro is pulling an Xbox by narrowing its focus on its biggest brands and franchises.",
-        "fullContent": "Just a few years after going big on videogames, Hasbro is pulling an Xbox by narrowing its focus on its biggest brands and franchises.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nTwo years after boasting about how hard it was going on videogames, Hasbro has recorded a \"$56 million non-cash impairment\" in its second-quarter financial report, arising from the cancellation of several games in development that were expected to release \"in 2028 and beyond.\"\n\nFirst things first: As PC Gamer's Joshua Wolens explained when Sony took a staggering $766 million impairment against Bungie, that $56 million figure isn't a direct loss. Rather, it's an unexpected decrease in value of an asset compared to its book value, separate from standard depreciation.\n\nJust a few years ago, inspired by the massive success of Baldur's Gate 3, Hasbro was going hard on videogames. In 2022 it had a half-dozen game studios working on different projects in its stable; two years later Dan Ayoub, head of digital product development at Hasbro-owned Wizards of the Coast, put a number on that effort, saying \"we've got over $1 billion in games right now being developed,\" and adding that \"videogames are an integral part of Hasbro's strategy going into the next 100 years.\"\n\nBut it hasn't gone especially smoothly since then. A big-budget GI Joe game announced in 2021 is in trouble, and the deal for a new D&D game from Stig Asmussen's Giant Skull studio was cancelled earlier this year. Hanging over all of it is the ghost of Baldur's Gate 3: Three years after the game's 1.0 release, with tens of thousands of people still playing, Hasbro has yet to announce any kind of follow-up—a whiff that PC Gamer's Harvey Randall says is emblematic of deeper-seated problems at the company."
-      },
-      "es": {
-        "title": "Hasbro recibe un golpe de 56 millones de dólares por múltiples cancelaciones de juegos, pero todavía habla de cómo Baldur's Gate 3 es clave para su éxito futuro",
-        "description": "Apenas unos años después de triunfar en los videojuegos, Hasbro está sacando una Xbox al centrarse en sus marcas y franquicias más importantes.",
-        "fullContent": "Apenas unos años después de triunfar en los videojuegos, Hasbro está sacando una Xbox al centrarse en sus marcas y franquicias más importantes.\n\nCuando compra a través de enlaces en nuestro sitio, podemos ganar una comisión de afiliado. Así es como funciona.\n\nDos años después de alardear de lo difícil que le estaba yendo a los videojuegos, Hasbro registró un \"deterioro no monetario de 56 millones de dólares\" en su informe financiero del segundo trimestre, derivado de la cancelación de varios juegos en desarrollo que se esperaba que se lanzaran \"en 2028 y más allá\".\n\nLo primero es lo primero: como explicó Joshua Wolens de PC Gamer cuando Sony tomó un asombroso deterioro de 766 millones de dólares contra Bungie, esa cifra de 56 millones de dólares no es una pérdida directa. Más bien, es una disminución inesperada en el valor de un activo en comparación con su valor en libros, separada de la depreciación estándar.\n\nHace apenas unos años, inspirado por el éxito masivo de Baldur's Gate 3, Hasbro se esforzó mucho en los videojuegos. En 2022, tenía media docena de estudios de juegos trabajando en diferentes proyectos en su grupo; dos años más tarde, Dan Ayoub, jefe de desarrollo de productos digitales en Wizards of the Coast, propiedad de Hasbro, puso una cifra a ese esfuerzo, diciendo \"tenemos más de mil millones de dólares en juegos en desarrollo en este momento\" y agregó que \"los videojuegos son una parte integral de la estrategia de Hasbro para los próximos 100 años\".\n\nPero desde entonces las cosas no han ido especialmente bien. Un juego de GI Joe de gran presupuesto anunciado en 2021 está en problemas, y el acuerdo para un nuevo juego de D&D del estudio Giant Skull de Stig Asmussen se canceló a principios de este año. Sobre todo esto se cierne el fantasma de Baldur's Gate 3: Tres años después del lanzamiento 1.0 del juego, con decenas de miles de personas todavía jugando, Hasbro aún no ha anunciado ningún tipo de seguimiento, un tufillo que, según Harvey Randall de PC Gamer, es emblemático de problemas más profundos en la compañía."
-      }
-    },
-    {
       "id": "4993681cdddb0a6ca778ef456ead60a4",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784729334179_894.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784748901049_356.jpg",
       "link": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
       "en": {
         "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
@@ -66,19 +66,19 @@
       }
     },
     {
-      "id": "91c93007485be16380c15fd459496f6d",
+      "id": "5444b74b2167c03ca01eb70ff4a80ad0",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784729336540_888.jpg",
-      "link": "https://www.fox13seattle.com/news/jimothy-mania-tattoos-merch-games",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1784748903629_682.jpg",
+      "link": "https://www.gamesindustry.biz/games-for-change-aims-to-ground-parental-gaming-concerns-in-evidence-rather-than-fear",
       "en": {
-        "title": "'Jimothy' the Seattle raccoon goes viral",
-        "description": "A peculiar little raccoon has taken the internet by storm, and now he's become an unlikely celebrity in Seattle. FOX 13's Lauren Donovan shows how ...",
-        "fullContent": "A peculiar little raccoon has taken the internet by storm, and now he's become an unlikely celebrity in Seattle. FOX 13's Lauren Donovan shows how \"Jimothy\" is winning hearts, and even giving back to the community.\n\nSEATTLE - From Etsy shops to video game renderings, Jimothy, the short-spined raccoon that went viral last week, seems to be scurrying around every corner of the internet.\n\nKeep reading to see some of the creative ways people across the internet have adopted Jimothy into their digital and personal lives.\n\nSeattle's YMCA hops on the Jimothy trend  (@YMCASeattle via Instagram)\n\nThe University of Washington posted a photo on Facebook of their newest honorary doctorate: Dr. Jimothy.\n\nUW Facebook post of Jimothy as an honorary graduate.  (University of Washington via Facebook)"
+        "title": "Games for Change report aims to ground parental gaming concerns in \"evidence rather than fear\"",
+        "description": "Raising Good Gamers white paper offers roadmap to better support families playing video games",
+        "fullContent": "Raising Good Gamers white paper offers roadmap to better support families playing video games\n\nNon-profit organisation Games for Change has published a white paper exploring how parents approach video games, and how to shift their focus away from \"fear-driven narratives focused on addiction, violence, and excessive screen time.\"\n\nAuthored by G4C research director Dr Rachel Kowert and supported by Tencent Games, 'Raising Good Gamers: What Families Need to Know About Video Games and Well-Being' seeks to highlight how parents can positively engage with their children playing video games.\n\nAs Kowert summarised, the paper's goal is \"not to eliminate parental concerns, but to ground them in evidence rather than fear.\"\n\n\"Parents are often not concerned about the right things,\" Kowert told GamesIndustry.biz. \"So let's talk about what we don't have to be worried about so we can focus our energy more efficiently.\"\n\n\"We're focusing on parents because they are an underserved group in this ecosystem. The same applies to educators; we could all collaborate more effectively. Importantly, research should be translated into clear, accessible language.\""
       },
       "es": {
-        "title": "'Jimothy' el mapache de Seattle se vuelve viral",
-        "description": "Un pequeño mapache peculiar ha arrasado en Internet y ahora se ha convertido en una celebridad poco común en Seattle. Lauren Donovan de FOX 13 mues...",
-        "fullContent": "Un pequeño mapache peculiar ha arrasado en Internet y ahora se ha convertido en una celebridad poco común en Seattle. Lauren Donovan de FOX 13 muestra cómo \"Jimothy\" se está ganando corazones e incluso está contribuyendo a la comunidad.\n\nSEATTLE - Desde tiendas de Etsy hasta representaciones de videojuegos, Jimothy, el mapache de espina corta que se volvió viral la semana pasada, parece estar corriendo por todos los rincones de Internet.\n\nContinúe leyendo para ver algunas de las formas creativas en que las personas en Internet han adoptado a Jimothy en sus vidas digitales y personales.\n\nLa YMCA de Seattle se suma a la tendencia Jimothy (@YMCASEattle a través de Instagram)\n\nLa Universidad de Washington publicó una foto en Facebook de su nuevo doctorado honoris causa: el Dr. Jimothy.\n\nPublicación en Facebook de la Universidad de Washington sobre Jimothy como graduado honorario.  (Universidad de Washington vía Facebook)"
+        "title": "El informe de Games for Change tiene como objetivo fundamentar las preocupaciones de los padres sobre los juegos en \"evidencia en lugar de miedo\"",
+        "description": "El documento técnico Raising Good Gamers ofrece una hoja de ruta para apoyar mejor a las familias que juegan videojuegos",
+        "fullContent": "El documento técnico Raising Good Gamers ofrece una hoja de ruta para apoyar mejor a las familias que juegan videojuegos\n\nLa organización sin fines de lucro Games for Change ha publicado un documento técnico que explora cómo los padres abordan los videojuegos y cómo desviar su atención de las \"narrativas impulsadas por el miedo centradas en la adicción, la violencia y el tiempo excesivo frente a la pantalla\".\n\nEscrito por la Dra. Rachel Kowert, directora de investigación de G4C, y con el apoyo de Tencent Games, 'Raising Good Gamers: What Families Need to Know About Video Games and Well-Being' busca resaltar cómo los padres pueden interactuar positivamente con sus hijos mientras juegan videojuegos.\n\nComo resumió Kowert, el objetivo del artículo \"no es eliminar las preocupaciones de los padres, sino basarlas en evidencia y no en miedo\".\n\n\"Los padres a menudo no se preocupan por las cosas correctas\", dijo Kowert a GamesIndustry.biz. \"Así que hablemos de aquello de lo que no debemos preocuparnos para que podamos concentrar nuestra energía de manera más eficiente\".\n\n\"Nos estamos centrando en los padres porque son un grupo desatendido en este ecosistema. Lo mismo se aplica a los educadores; todos podríamos colaborar de manera más efectiva. Es importante destacar que la investigación debe traducirse a un lenguaje claro y accesible\"."
       }
     }
   ]
