@@ -88950,7 +88950,43 @@
       "link": "https://send.now/14umo5mixcgc",
       "trailer": "",
       "sinopsis": "",
-      "cover": ""
+      "cover": "",
+      "genre": {
+        "en": "Action / Adventure",
+        "es": "Accion / Aventura"
+      },
+      "size": {
+        "en": "Unknown Size",
+        "es": "Tamano Desconocido"
+      },
+      "developer": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "publisher": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "description": {
+        "en": "Download Hades Uprising for the SWITCH console. High-speed and secure download links are available below.",
+        "es": "Hades es un aclamado videojuego de acción de tipo roguelike (mazmorras dinámicas) en el que controlas a Zagreo (Zagreus), el príncipe inmortal del Inframundo e hijo del dios de los muertos."
+      },
+      "tiktokFeature": "",
+      "tiktokScript": "",
+      "customCover": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785010343003_hadesu_jpg.jpg",
+      "customScreens": [
+        "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785010516815_hades_captura1_png.png",
+        "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785010530770_hades_captura2_jpeg.jpeg"
+      ],
+      "customLinks": [
+        "https://send.now/14umo5mixcgc",
+        "https://send.now/14umo5mixcgc",
+        "https://send.now/14umo5mixcgc"
+      ]
     },
     {
       "id": "4a14209b",
