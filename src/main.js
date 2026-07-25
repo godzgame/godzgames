@@ -314,7 +314,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Helper function to create a game card layout
   const createGameCard = (game) => {
     // Check if the game has a real cover from games.json, otherwise fallback to Bing image search for the real cover
-    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
+    const defaultCoverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
+    const coverUrl = game.customCover || defaultCoverUrl;
     
     const imageHtml = `<img src="${coverUrl}" alt="${game.title}" loading="lazy"/>`;
 
