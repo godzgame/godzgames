@@ -1177,6 +1177,7 @@ Output ONLY valid JSON:
   const handleAdminLogin = async () => {
     const adminPasswordInput = document.getElementById('admin-password-input');
     const githubTokenInput = document.getElementById('admin-github-token-input');
+    const groqKeyInput = document.getElementById('admin-groq-key-input');
     
     const password = adminPasswordInput.value.trim();
     if (!password) {
@@ -1190,6 +1191,9 @@ Output ONLY valid JSON:
       localStorage.setItem('godzgames-admin-token', hash);
       if (githubTokenInput && githubTokenInput.value.trim()) {
         localStorage.setItem('godzgames-github-token', githubTokenInput.value.trim());
+      }
+      if (groqKeyInput && groqKeyInput.value.trim()) {
+        localStorage.setItem('godzgames-groq-key', groqKeyInput.value.trim());
       }
       showAdminDashboard();
     } else {
@@ -1506,24 +1510,34 @@ Texto en pantalla: "DESCARGA EN EL LINK DEL PERFIL 📥"
 3. (Idea 3)`;
 
         try {
-          const res = await fetch('https://text.pollinations.ai/', {
+          const groqKey = localStorage.getItem('godzgames-groq-key');
+          if (!groqKey) {
+             throw new Error('No se encontró la clave de Groq API. Inicia sesión en el panel admin nuevamente e ingrésala.');
+          }
+
+          const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: { 
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${groqKey}`
+            },
             body: JSON.stringify({
               messages: [{ role: 'user', content: aiPrompt }],
-              model: 'openai'
+              model: 'llama3-8b-8192',
+              temperature: 0.7
             })
           });
           
-          if (!res.ok) throw new Error('Error al generar el guion');
-          const aiResponseText = await res.text();
+          if (!res.ok) throw new Error('Error de conexión o token inválido con Groq');
+          const data = await res.json();
+          const aiResponseText = data.choices[0].message.content;
           
           scriptEl.value = aiResponseText;
           statusEl.className = 'admin-status-message success';
           statusEl.textContent = '✅ ¡Guion generado exitosamente!';
         } catch (err) {
           statusEl.className = 'admin-status-message error';
-          statusEl.textContent = '❌ Hubo un error al generar el guion.';
+          statusEl.textContent = '❌ ' + (err.message || 'Hubo un error al generar el guion.');
           console.error(err);
         }
       });
