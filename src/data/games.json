@@ -7855,7 +7855,43 @@
       "link": "https://1drv.ms/f/s!AkjmdHE2ovKLaZltRV00o-bomSc",
       "trailer": "https://www.youtube.com/embed/-TUq4tRwpdU",
       "sinopsis": "",
-      "cover": ""
+      "cover": "",
+      "genre": {
+        "en": "Action / Adventure",
+        "es": "Accion / Aventura"
+      },
+      "size": {
+        "en": "Unknown Size",
+        "es": "Tamano Desconocido"
+      },
+      "developer": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "publisher": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "description": {
+        "en": "Minecraft: New Nintendo 3DS Edition is a portable adaptation of the famous survival and building game—exclusive to the New Nintendo 3DS family of consoles—that includes Creative and Survival modes, along with touchscreen inventory management.",
+        "es": "Minecraft: New Nintendo 3DS Edition es una adaptación portátil del famoso juego de supervivencia y construcción, exclusiva para la familia de consolas New Nintendo 3DS, que incluye los modos Creativo y Supervivencia junto con la gestión de inventario en la pantalla táctil"
+      },
+      "tiktokFeature": "",
+      "tiktokScript": "",
+      "customCover": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785102061537_minecraft3dse_cover_jpg.jpg",
+      "customScreens": [
+        "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785102069100_minecraft_cap1_webp.webp",
+        "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/games/img_1785102077060_minecraft_cap2_webp.webp"
+      ],
+      "customLinks": [
+        "https://1drv.ms/f/s!AkjmdHE2ovKLaZltRV00o-bomSc",
+        "https://1drv.ms/f/s!AkjmdHE2ovKLaZltRV00o-bomSc",
+        "https://1drv.ms/f/s!AkjmdHE2ovKLaZltRV00o-bomSc"
+      ]
     },
     {
       "id": "323ce832",
