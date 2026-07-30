@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1785379665849,
+  "updatedAt": 1785400627521,
   "articles": [
     {
       "id": "2852bfb929e0684dc9d5d6b561455402",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785379660929_484.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400619327_728.jpg",
       "link": "https://www.theguardian.com/games/2026/jul/28/after-40-years-aliens-still-shapes-the-way-we-play-games",
       "en": {
         "title": "After 40 years, Aliens is still shaping the way video games are made",
@@ -20,7 +20,7 @@
     {
       "id": "f45f2568ad4460764c186e4b50a3c3ab",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785379661743_280.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400621145_959.jpg",
       "link": "https://www.videogameschronicle.com/news/splatoon-raiders-is-currently-the-7th-greatest-game-of-all-time-on-metacritic-according-to-user-score/",
       "en": {
         "title": "Splatoon Raiders is currently the 7th greatest game of all time on Metacritic, according to User Score",
@@ -34,25 +34,9 @@
       }
     },
     {
-      "id": "82d9093abc9dfe6990332ffb7d1eb1d9",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785379663359_5.jpg",
-      "link": "https://www.fox13news.com/news/death-game-discs-sony-sets-2028-end-date",
-      "en": {
-        "title": "The death of game discs? Sony sets 2028 end date",
-        "description": "PINELLAS PARK, Fla. - Video game enthusiasts in Pinellas Park are expressing frustration as Sony prepares to phase out physical PlayStation discs i...",
-        "fullContent": "PINELLAS PARK, Fla. - Video game enthusiasts in Pinellas Park are expressing frustration as Sony prepares to phase out physical PlayStation discs in January 2028.\n\nAt Unlimited Video Games in Pinellas Park, shop co-owner Gregg Lonkey reported purely negative reactions from local customers regarding the upcoming shift.\n\n\"No one's happy about it,\" Lonkey said. \"I have had zero people come in here and mention it with a positive vibe on it.\"\n\nUnlike digital downloads, physical game discs give players the ability to trade, resell and collect their favorite titles.\n\nUnlimited Video Games stocks over 35,000 retro and modern physical devices, ranging from classic Atari and Game Boy models to Wii, Xbox and PlayStation consoles. Lonkey noted that while younger shoppers grew up downloading media, holding a tangible product creates a completely different experience.\n\n\"They've never owned anything,\" Lonkey said. \"When they come in here and hold it in their hand, it feels different.\""
-      },
-      "es": {
-        "title": "¿La muerte de los discos de juegos? Sony fija la fecha de finalización en 2028",
-        "description": "PINELLAS PARK, Fla. - Los entusiastas de los videojuegos en Pinellas Park están expresando su frustración mientras Sony se prepara para eliminar gr...",
-        "fullContent": "PINELLAS PARK, Fla. - Los entusiastas de los videojuegos en Pinellas Park están expresando su frustración mientras Sony se prepara para eliminar gradualmente los discos físicos de PlayStation en enero de 2028.\n\nEn Unlimited Video Games en Pinellas Park, el copropietario de la tienda, Gregg Lonkey, informó reacciones puramente negativas de los clientes locales con respecto al próximo turno.\n\n\"Nadie está contento con eso\", dijo Lonkey. \"No he tenido ninguna gente que haya venido aquí y lo haya mencionado con una vibra positiva\".\n\nA diferencia de las descargas digitales, los discos de juegos físicos brindan a los jugadores la posibilidad de intercambiar, revender y coleccionar sus títulos favoritos.\n\nUnlimited Video Games cuenta con más de 35.000 dispositivos físicos retro y modernos, desde modelos clásicos de Atari y Game Boy hasta consolas Wii, Xbox y PlayStation. Lonkey señaló que, si bien los compradores más jóvenes crecieron descargando medios, tener un producto tangible crea una experiencia completamente diferente.\n\n\"Nunca han tenido nada\", dijo Lonkey. \"Cuando vienen aquí y lo sostienen en la mano, se siente diferente\"."
-      }
-    },
-    {
       "id": "a2fa733da01244a3fed56d7460a07ea8",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785379664217_356.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400623983_383.jpg",
       "link": "https://www.theatlantic.com/family/2026/07/roblox-kids-gaming-mechanics-gambling/688095/",
       "en": {
         "title": "Why Kids Can’t Quit Roblox",
@@ -68,7 +52,7 @@
     {
       "id": "be3db65fe92281c610e3185c74925564",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785379665720_856.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400625052_867.jpg",
       "link": "https://sports.yahoo.com/nfl/article/josh-allen-myles-garrett-jamarr-chase-headline-madden-nfl-27-video-games-99-club-160653483.html",
       "en": {
         "title": "Josh Allen, Myles Garrett, Ja'Marr Chase headline 'Madden NFL 27' video game's 99 Club",
@@ -79,6 +63,22 @@
         "title": "Josh Allen, Myles Garrett y Ja'Marr Chase encabezan el 99 Club del videojuego 'Madden NFL 27'",
         "description": "EA Sports anunció el lunes las seis estrellas de la NFL que contarán con una calificación de 99, la calificación más alta posible para un jugador, ...",
         "fullContent": "EA Sports anunció el lunes las seis estrellas de la NFL que contarán con una calificación de 99, la calificación más alta posible para un jugador, en el próximo videojuego \"Madden NFL 27\".\n\nEl mariscal de campo de los Buffalo Bills, Josh Allen, el mariscal de campo de Los Angeles Rams (y actual MVP de la NFL) Matthew Stafford, el ala defensiva de los Rams, Myles Garrett, el receptor de los Cincinnati Bengals, Ja'Marr Chase, el receptor de los Seattle Seahawks, Jaxon Smith-Njigba, y el ala cerrada de los Arizona Cardinals, Trey McBride, son los miembros del Club 99 de esta temporada.\n\nAllen, Chase y Garrett están en el Club 99 por segunda temporada consecutiva. (Para Garrett, esta es su tercera calificación de 99 en general). Stafford, Smith-Njigba y McBride obtuvieron una calificación de 99 en el juego por primera vez.\n\nJuega al nuevo juego College Fantasy Football de Yahoo: ¡crea o únete a una liga ahora!\n\nSmith-Njigba ganó el premio al Jugador Ofensivo del Año de la AP por sumar 116 recepciones para 1,793 yardas con 10 touchdowns, líder de la liga, para los campeones del Super Bowl, Seahawks, la temporada pasada.\n\nStafford puede ser la incorporación más notable al Club 99, obteniendo la calificación en su temporada número 18 en la NFL después de ganar su primer premio MVP para la campaña 2025-26. Lideró la liga con 4,707 yardas aéreas y 46 touchdowns para un equipo de los Rams que terminó 12-5 y avanzó al juego de campeonato de la NFC antes de perder ante los eventuales campeones del Super Bowl, los Seahawks."
+      }
+    },
+    {
+      "id": "b7f4d36c8f2d658f4c545719693dc25f",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400627498_665.jpg",
+      "link": "https://deadline.com/2026/07/tormented-souls-film-tv-rights-1237012405/",
+      "en": {
+        "title": "'Tormented Souls': ZQ, Prime Universe & Longevity Acquire Film Rights",
+        "description": "EXCLUSIVE: ZQ Entertainment, Hitman feature franchise producer Prime Universe Films, and Longevity Pictures have taken the exclusive motion picture...",
+        "fullContent": "EXCLUSIVE: ZQ Entertainment, Hitman feature franchise producer Prime Universe Films, and Longevity Pictures have taken the exclusive motion picture and television rights to indie video game developer, Dual Effect’s survival horror franchise Tormented Souls.\n\nZQ is financing the development and co-Financing the production. The project will be produced by Prime Universe’s Adrian Askarieh, ZQ’s Ara Keshishian and Petr Jakl, and Longevity’s Majd Nassif.\n\nGabriel Araneda Quijada and Germán Araneda Quijada of Dual Effect will serve as EPs. Pure Imagination Studios’ Josh Wexler will also be onboard as an EP.\n\nTormented Souls was originally released on Steam by developer Dual Effect and publisher PQube Games. It then expanded onto PlayStation, Xbox and Nintendo Switch, spawning the sequel Tormented Souls 2. The video game is set inside the decaying halls of the abandoned Wildberger Hospital. Tormented Souls follow Caroline Walker as the search for two missing twin girls pulls her into a nightmare of grotesque experiments, supernatural forces, ancient evil and terrifying secrets buried beneath the hospital’s walls.\n\n“The game creates genuine dread while telling a compelling emotional story. Our goal is to honor everything fans love while delivering a terrifying cinematic experience worthy of the franchise,” said ZQ’s Ara Keshishian and Petr Jakl.\n\n“Tormented Souls is exactly the kind of intellectual property we love pursuing,” said Adrian Askarieh, President of Prime Universe Films, “The game has grown from its indie roots to now boasting a passionate worldwide audience. We believe this is the beginning of a major horror franchise.”"
+      },
+      "es": {
+        "title": "'Tormented Souls': ZQ, Prime Universe y Longevity adquieren los derechos cinematográficos",
+        "description": "EXCLUSIVO: ZQ Entertainment, el productor de la franquicia Hitman, Prime Universe Films, y Longevity Pictures han adquirido los derechos cinematogr...",
+        "fullContent": "EXCLUSIVO: ZQ Entertainment, el productor de la franquicia Hitman, Prime Universe Films, y Longevity Pictures han adquirido los derechos cinematográficos y televisivos exclusivos del desarrollador de videojuegos independiente, la franquicia de terror de supervivencia Tormented Souls de Dual Effect.\n\nZQ financia el desarrollo y cofinancia la producción. El proyecto será producido por Adrian Askarieh de Prime Universe, Ara Keshishian y Petr Jakl de ZQ y Majd Nassif de Longevity.\n\nGabriel Araneda Quijada y Germán Araneda Quijada de Dual Effect fungirán como EP. Josh Wexler de Pure Imagination Studios también estará a bordo como EP.\n\nTormented Souls fue lanzado originalmente en Steam por el desarrollador Dual Effect y el editor PQube Games. Luego se expandió a PlayStation, Xbox y Nintendo Switch, generando la secuela Tormented Souls 2. El videojuego se desarrolla dentro de los decadentes pasillos del abandonado Wildberger Hospital. Tormented Souls sigue a Caroline Walker mientras la búsqueda de dos gemelas desaparecidas la lleva a una pesadilla de experimentos grotescos, fuerzas sobrenaturales, maldad ancestral y secretos aterradores enterrados bajo los muros del hospital.\n\n\"El juego crea un miedo genuino al mismo tiempo que cuenta una historia emocional convincente. Nuestro objetivo es honrar todo lo que los fans aman y al mismo tiempo ofrecer una experiencia cinematográfica aterradora digna de la franquicia\", dijeron Ara Keshishian y Petr Jakl de ZQ.\n\n\"Tormented Souls es exactamente el tipo de propiedad intelectual que nos encanta desarrollar\", dijo Adrian Askarieh, presidente de Prime Universe Films, \"el juego ha crecido desde sus raíces independientes hasta contar ahora con una audiencia apasionada en todo el mundo. Creemos que este es el comienzo de una importante franquicia de terror\"."
       }
     }
   ]
