@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1785400627521,
+  "updatedAt": 1785421004175,
   "articles": [
     {
       "id": "2852bfb929e0684dc9d5d6b561455402",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400619327_728.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785421000377_939.jpg",
       "link": "https://www.theguardian.com/games/2026/jul/28/after-40-years-aliens-still-shapes-the-way-we-play-games",
       "en": {
         "title": "After 40 years, Aliens is still shaping the way video games are made",
@@ -20,7 +20,7 @@
     {
       "id": "f45f2568ad4460764c186e4b50a3c3ab",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400621145_959.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785421000890_986.jpg",
       "link": "https://www.videogameschronicle.com/news/splatoon-raiders-is-currently-the-7th-greatest-game-of-all-time-on-metacritic-according-to-user-score/",
       "en": {
         "title": "Splatoon Raiders is currently the 7th greatest game of all time on Metacritic, according to User Score",
@@ -34,9 +34,25 @@
       }
     },
     {
+      "id": "4da5a666e7779d967e9115ab0ef3917c",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785421002757_382.jpg",
+      "link": "https://www.yahoo.com/lifestyle/articles/austin-convention-celebrates-final-fantasy-121134977.html",
+      "en": {
+        "title": "New Austin convention celebrates Final Fantasy fandom",
+        "description": "AUSTIN (KXAN) – A brand-new convention in Austin is bringing fans of Final Fantasy together like never before in Central Texas.",
+        "fullContent": "AUSTIN (KXAN) – A brand-new convention in Austin is bringing fans of Final Fantasy together like never before in Central Texas.\n\nAustin City: Limit Break is a fan-driven event celebrating all things Final Fantasy XIV, the massively multiplayer online role-playing game, or MMORPG for short.\n\nThe convention is the first of its kind in Austin, as most of the conventions held for this particular game are mostly held on the East or West Coast, according to co-organizers Nell Fitch and Anastasia Marston, who also play the game.\n\n\"We've seen a lot of things that we like, a lot of things that we would do better,\" the organizers said. \"We really wanted to bring the sort of feeling that official fan fest meant to a more local scale.\"\n\nA man walks into the games department where Final Fantasy XVI – the latest version of the video game franchise developed and published by Square Enix – went on sale at an electronics store in central Tokyo on June 22, 2023. The eagerly awaited new game in the top-selling Final Fantasy franchise was released on June 22, with fans hailing its high-spec action graphics and grown-up storyline. (Photo by Richard A. Brooks / AFP) (Photo by RICHARD A. BROOKS/AFP via Getty Images)\n\nA man rides an escalator past an advertisement for Final Fantasy XVI – the latest version of the video game franchise developed and published by Square Enix – as it went on sale at an electronics store in central Tokyo on June 22, 2023. The eagerly awaited new game in the top-selling Final Fantasy franchise was released on June 22, with fans hailing its high-spec action graphics and grown-up storyline. (Photo by Richard A. Brooks / AFP) (Photo by RICHARD A. BROOKS/AFP via Getty Images)"
+      },
+      "es": {
+        "title": "Nueva convención de Austin celebra el fandom de Final Fantasy",
+        "description": "AUSTIN (KXAN) – Una nueva convención en Austin reunirá a los fanáticos de Final Fantasy como nunca antes en el centro de Texas.",
+        "fullContent": "AUSTIN (KXAN) – Una nueva convención en Austin reunirá a los fanáticos de Final Fantasy como nunca antes en el centro de Texas.\n\nAustin City: Limit Break es un evento impulsado por fanáticos que celebra todo lo relacionado con Final Fantasy XIV, el juego de rol multijugador masivo en línea, o MMORPG para abreviar.\n\nLa convención es la primera de su tipo en Austin, ya que la mayoría de las convenciones celebradas para este juego en particular se llevan a cabo principalmente en la costa este o oeste, según las coorganizadoras Nell Fitch y Anastasia Marston, quienes también juegan.\n\n\"Hemos visto muchas cosas que nos gustan, muchas cosas que haríamos mejor\", dijeron los organizadores. \"Realmente queríamos llevar el tipo de sentimiento que significa el fan fest oficial a una escala más local\".\n\nUn hombre entra al departamento de juegos donde Final Fantasy XVI, la última versión de la franquicia de videojuegos desarrollada y publicada por Square Enix, salió a la venta en una tienda de electrónica en el centro de Tokio el 22 de junio de 2023. El nuevo juego tan esperado de la franquicia más vendida de Final Fantasy se lanzó el 22 de junio y los fanáticos elogiaron sus gráficos de acción de alta especificación y su historia adulta. (Foto de Richard A. Brooks/AFP) (Foto de RICHARD A. BROOKS/AFP vía Getty Images)\n\nUn hombre pasa por una escalera mecánica junto a un anuncio de Final Fantasy XVI, la última versión de la franquicia de videojuegos desarrollada y publicada por Square Enix, cuando salió a la venta en una tienda de electrónica en el centro de Tokio el 22 de junio de 2023. El nuevo juego tan esperado de la franquicia más vendida de Final Fantasy se lanzó el 22 de junio y los fanáticos elogiaron sus gráficos de acción de alta especificación y su historia adulta. (Foto de Richard A. Brooks/AFP) (Foto de RICHARD A. BROOKS/AFP vía Getty Images)"
+      }
+    },
+    {
       "id": "a2fa733da01244a3fed56d7460a07ea8",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400623983_383.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785421003412_686.jpg",
       "link": "https://www.theatlantic.com/family/2026/07/roblox-kids-gaming-mechanics-gambling/688095/",
       "en": {
         "title": "Why Kids Can’t Quit Roblox",
@@ -50,35 +66,19 @@
       }
     },
     {
-      "id": "be3db65fe92281c610e3185c74925564",
+      "id": "6101d513a2dbb0e55f590287b6590fd6",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400625052_867.jpg",
-      "link": "https://sports.yahoo.com/nfl/article/josh-allen-myles-garrett-jamarr-chase-headline-madden-nfl-27-video-games-99-club-160653483.html",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785421004168_507.jpg",
+      "link": "https://www.foxnews.com/outkick-sports/nintendo-64-turning-30-years-old-impactful-games-all-time",
       "en": {
-        "title": "Josh Allen, Myles Garrett, Ja'Marr Chase headline 'Madden NFL 27' video game's 99 Club",
-        "description": "EA Sports announced the six NFL stars who will boast a 99 rating, the highest possible rating for a player, in the upcoming \"Madden NFL 27\" video g...",
-        "fullContent": "EA Sports announced the six NFL stars who will boast a 99 rating, the highest possible rating for a player, in the upcoming \"Madden NFL 27\" video game on Monday.\n\nBuffalo Bills quarterback Josh Allen, Los Angeles Rams QB (and reigning NFL MVP) Matthew Stafford, Rams defensive end Myles Garrett, Cincinnati Bengals receiver Ja'Marr Chase, Seattle Seahawks receiver Jaxon Smith-Njigba and Arizona Cardinals tight end Trey McBride are the members of this season's 99 Club.\n\nAllen, Chase and Garrett are in the 99 Club for the second consecutive season. (For Garrett, this is his third 99 rating overall.) Stafford, Smith-Njigba and McBride drew a 99 rating in the game for the first time.\n\nPlay Yahoo's new College Fantasy Football game: Create or join a league now!\n\nSmith-Njigba won the AP Offensive Player of the Year award for tallying 116 receptions for a league-leading 1,793 yards with 10 touchdowns for the Super Bowl champion Seahawks last season.\n\nStafford may be the most notable addition to the 99 Club, earning the rating in his 18th NFL season after winning his first MVP award for the 2025-26 campaign. He led the league with 4,707 passing yards and 46 touchdowns for a Rams team that finished 12-5 and advanced to the NFC championship game before losing to the eventual Super Bowl champion Seahawks."
+        "title": "The Nintendo 64 is turning 30 years old, here are some of its most impactful games of all time",
+        "description": "YouTuber Bordeaux discusses EA Sports adding microtransactions to College Football 27 and the fallout among the gaming community with Fox News Digi...",
+        "fullContent": "YouTuber Bordeaux discusses EA Sports adding microtransactions to College Football 27 and the fallout among the gaming community with Fox News Digital/OutKick.\n\nIf you don't want to feel old, I'd suggest you click away from this article now, but the Nintendo 64 is celebrating its 30th birthday this summer (I warned you).\n\nThe console that helped usher 3D gaming into homes everywhere and catapulted us into the fifth generation of gaming has had plenty of legacy-defining games attached to its name.\n\nToday, I want to honor the N64 turning the big 3-0 by looking at some of the most impactful games that were ever released on the console.\n\nSome of my favorite and most-played N64 games might not make the list, and there might be a game or two on here that I don't necessarily love.\n\n'HALO' COMPOSER RUNNING FOR CONGRESS DRAWS PARALLELS TO DECLINE OF WOKENESS IN GAMING TO TRUMP'S RE-ELECTION"
       },
       "es": {
-        "title": "Josh Allen, Myles Garrett y Ja'Marr Chase encabezan el 99 Club del videojuego 'Madden NFL 27'",
-        "description": "EA Sports anunció el lunes las seis estrellas de la NFL que contarán con una calificación de 99, la calificación más alta posible para un jugador, ...",
-        "fullContent": "EA Sports anunció el lunes las seis estrellas de la NFL que contarán con una calificación de 99, la calificación más alta posible para un jugador, en el próximo videojuego \"Madden NFL 27\".\n\nEl mariscal de campo de los Buffalo Bills, Josh Allen, el mariscal de campo de Los Angeles Rams (y actual MVP de la NFL) Matthew Stafford, el ala defensiva de los Rams, Myles Garrett, el receptor de los Cincinnati Bengals, Ja'Marr Chase, el receptor de los Seattle Seahawks, Jaxon Smith-Njigba, y el ala cerrada de los Arizona Cardinals, Trey McBride, son los miembros del Club 99 de esta temporada.\n\nAllen, Chase y Garrett están en el Club 99 por segunda temporada consecutiva. (Para Garrett, esta es su tercera calificación de 99 en general). Stafford, Smith-Njigba y McBride obtuvieron una calificación de 99 en el juego por primera vez.\n\nJuega al nuevo juego College Fantasy Football de Yahoo: ¡crea o únete a una liga ahora!\n\nSmith-Njigba ganó el premio al Jugador Ofensivo del Año de la AP por sumar 116 recepciones para 1,793 yardas con 10 touchdowns, líder de la liga, para los campeones del Super Bowl, Seahawks, la temporada pasada.\n\nStafford puede ser la incorporación más notable al Club 99, obteniendo la calificación en su temporada número 18 en la NFL después de ganar su primer premio MVP para la campaña 2025-26. Lideró la liga con 4,707 yardas aéreas y 46 touchdowns para un equipo de los Rams que terminó 12-5 y avanzó al juego de campeonato de la NFC antes de perder ante los eventuales campeones del Super Bowl, los Seahawks."
-      }
-    },
-    {
-      "id": "b7f4d36c8f2d658f4c545719693dc25f",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785400627498_665.jpg",
-      "link": "https://deadline.com/2026/07/tormented-souls-film-tv-rights-1237012405/",
-      "en": {
-        "title": "'Tormented Souls': ZQ, Prime Universe & Longevity Acquire Film Rights",
-        "description": "EXCLUSIVE: ZQ Entertainment, Hitman feature franchise producer Prime Universe Films, and Longevity Pictures have taken the exclusive motion picture...",
-        "fullContent": "EXCLUSIVE: ZQ Entertainment, Hitman feature franchise producer Prime Universe Films, and Longevity Pictures have taken the exclusive motion picture and television rights to indie video game developer, Dual Effect’s survival horror franchise Tormented Souls.\n\nZQ is financing the development and co-Financing the production. The project will be produced by Prime Universe’s Adrian Askarieh, ZQ’s Ara Keshishian and Petr Jakl, and Longevity’s Majd Nassif.\n\nGabriel Araneda Quijada and Germán Araneda Quijada of Dual Effect will serve as EPs. Pure Imagination Studios’ Josh Wexler will also be onboard as an EP.\n\nTormented Souls was originally released on Steam by developer Dual Effect and publisher PQube Games. It then expanded onto PlayStation, Xbox and Nintendo Switch, spawning the sequel Tormented Souls 2. The video game is set inside the decaying halls of the abandoned Wildberger Hospital. Tormented Souls follow Caroline Walker as the search for two missing twin girls pulls her into a nightmare of grotesque experiments, supernatural forces, ancient evil and terrifying secrets buried beneath the hospital’s walls.\n\n“The game creates genuine dread while telling a compelling emotional story. Our goal is to honor everything fans love while delivering a terrifying cinematic experience worthy of the franchise,” said ZQ’s Ara Keshishian and Petr Jakl.\n\n“Tormented Souls is exactly the kind of intellectual property we love pursuing,” said Adrian Askarieh, President of Prime Universe Films, “The game has grown from its indie roots to now boasting a passionate worldwide audience. We believe this is the beginning of a major horror franchise.”"
-      },
-      "es": {
-        "title": "'Tormented Souls': ZQ, Prime Universe y Longevity adquieren los derechos cinematográficos",
-        "description": "EXCLUSIVO: ZQ Entertainment, el productor de la franquicia Hitman, Prime Universe Films, y Longevity Pictures han adquirido los derechos cinematogr...",
-        "fullContent": "EXCLUSIVO: ZQ Entertainment, el productor de la franquicia Hitman, Prime Universe Films, y Longevity Pictures han adquirido los derechos cinematográficos y televisivos exclusivos del desarrollador de videojuegos independiente, la franquicia de terror de supervivencia Tormented Souls de Dual Effect.\n\nZQ financia el desarrollo y cofinancia la producción. El proyecto será producido por Adrian Askarieh de Prime Universe, Ara Keshishian y Petr Jakl de ZQ y Majd Nassif de Longevity.\n\nGabriel Araneda Quijada y Germán Araneda Quijada de Dual Effect fungirán como EP. Josh Wexler de Pure Imagination Studios también estará a bordo como EP.\n\nTormented Souls fue lanzado originalmente en Steam por el desarrollador Dual Effect y el editor PQube Games. Luego se expandió a PlayStation, Xbox y Nintendo Switch, generando la secuela Tormented Souls 2. El videojuego se desarrolla dentro de los decadentes pasillos del abandonado Wildberger Hospital. Tormented Souls sigue a Caroline Walker mientras la búsqueda de dos gemelas desaparecidas la lleva a una pesadilla de experimentos grotescos, fuerzas sobrenaturales, maldad ancestral y secretos aterradores enterrados bajo los muros del hospital.\n\n\"El juego crea un miedo genuino al mismo tiempo que cuenta una historia emocional convincente. Nuestro objetivo es honrar todo lo que los fans aman y al mismo tiempo ofrecer una experiencia cinematográfica aterradora digna de la franquicia\", dijeron Ara Keshishian y Petr Jakl de ZQ.\n\n\"Tormented Souls es exactamente el tipo de propiedad intelectual que nos encanta desarrollar\", dijo Adrian Askarieh, presidente de Prime Universe Films, \"el juego ha crecido desde sus raíces independientes hasta contar ahora con una audiencia apasionada en todo el mundo. Creemos que este es el comienzo de una importante franquicia de terror\"."
+        "title": "La Nintendo 64 cumple 30 años, aquí están algunos de sus juegos más impactantes de todos los tiempos",
+        "description": "YouTuber Bordeaux habla sobre la incorporación de microtransacciones de EA Sports a College Football 27 y las consecuencias entre la comunidad de j...",
+        "fullContent": "YouTuber Bordeaux habla sobre la incorporación de microtransacciones de EA Sports a College Football 27 y las consecuencias entre la comunidad de jugadores con Fox News Digital/OutKick.\n\nSi no quieres sentirte viejo, te sugiero que hagas clic fuera de este artículo ahora, pero la Nintendo 64 celebrará su 30 cumpleaños este verano (te lo advertí).\n\nLa consola que ayudó a introducir los juegos 3D en los hogares de todo el mundo y nos catapultó a la quinta generación de juegos tiene muchos juegos que definen el legado asociados a su nombre.\n\nHoy, quiero honrar el gran 3-0 del N64 analizando algunos de los juegos más impactantes que jamás se hayan lanzado para la consola.\n\nEs posible que algunos de mis juegos N64 favoritos y más jugados no estén en la lista, y puede que haya uno o dos juegos aquí que no necesariamente me gusten.\n\nEL COMPOSITOR DE 'HALO' QUE SE PRESENTA AL CONGRESO ESTABLECE PARALELOS CON LA DISMINUCIÓN DEL DESPIERTO EN LOS JUEGOS HACIA LA REELECCIÓN DE TRUMP"
       }
     }
   ]
