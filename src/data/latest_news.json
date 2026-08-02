@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1785659472463,
+  "updatedAt": 1785678012948,
   "articles": [
     {
       "id": "46ef2ba624198dd696a31b02efedc5e7",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785659466055_885.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785678004483_605.jpg",
       "link": "https://gameinformer.com/opinion/2026/07/31/the-video-games-and-more-you-should-play-this-weekend-july-31-2026",
       "en": {
         "title": "The Video Games And More You Should Play This Weekend – July 31, 2026",
@@ -20,7 +20,7 @@
     {
       "id": "eaf52de4094851b85c8d74473e9a4f45",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785659466860_2.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785678007845_190.jpg",
       "link": "https://www.theguardian.com/games/2026/jul/31/charity-shop-video-games-singstar-take-that",
       "en": {
         "title": "SingStar Take That anyone? The strange joy of charity shop video games",
@@ -34,9 +34,25 @@
       }
     },
     {
+      "id": "7a71f794a3dfaa4fb854c42f01175025",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785678009640_743.jpg",
+      "link": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
+      "en": {
+        "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
+        "description": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
+        "fullContent": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nWhile Hardspace: Shipbreaker does an excellent job of capturing the dystopian perils of unchecked hypercapitalism, the real fun in this space game comes from carving up massive capital ships with space lasers and explosives.\n\nFloating in zero gravity, players slice derelict spacecraft into salvageable chunks, while also contending with unruly physics, pressure, and profit margins. It's a compelling fantasy: orbital blue-collar labor, where yesterday's spacecraft become tomorrow's raw materials.\n\nAs satisfying as the simulation is, the real-world challenge of space debris removal is both more constrained and more urgent.\n\nChristian Steimle is the Project Manager of the European Space Agency's (ESA) ClearSpace-1 mission, the first ever aimed at removing a piece of debris (in this case, a satellite called PROBA-1) from low-Earth orbit.\n\nWe spoke to him to get a sense of how actual space junk removal will happen in the future, and how it stacks up to the representations we see in sci-fi games like Shipbreaker."
+      },
+      "es": {
+        "title": "Del Hardspace al Clearspace: cómo se comparan los juegos de rescate espacial con la eliminación de escombros reales",
+        "description": "Cuando compra a través de enlaces en nuestro sitio, podemos ganar una comisión de afiliado. Así es como funciona.",
+        "fullContent": "Cuando compra a través de enlaces en nuestro sitio, podemos ganar una comisión de afiliado. Así es como funciona.\n\nSi bien Hardspace: Shipbreaker hace un excelente trabajo al capturar los peligros distópicos del hipercapitalismo desenfrenado, la verdadera diversión en este juego espacial proviene de dividir enormes naves capitales con láseres espaciales y explosivos.\n\nFlotando en gravedad cero, los jugadores cortan naves espaciales abandonadas en pedazos recuperables, mientras luchan contra la física rebelde, la presión y los márgenes de ganancia. Es una fantasía convincente: trabajo manual orbital, donde las naves espaciales de ayer se convierten en las materias primas del mañana.\n\nPor muy satisfactoria que sea la simulación, el desafío del mundo real de la eliminación de desechos espaciales es más limitado y más urgente.\n\nChristian Steimle es el director de proyecto de la misión ClearSpace-1 de la Agencia Espacial Europea (ESA), la primera destinada a retirar un fragmento de escombros (en este caso, un satélite llamado PROBA-1) de la órbita terrestre baja.\n\nHablamos con él para tener una idea de cómo se llevará a cabo la eliminación real de basura espacial en el futuro y cómo se compara con las representaciones que vemos en juegos de ciencia ficción como Shipbreaker."
+      }
+    },
+    {
       "id": "38137608de599fad1f5117b79b2833e9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785659467450_225.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785678010597_359.jpg",
       "link": "https://www.wmur.com/article/pembroke-teen-video-game/73322449",
       "en": {
         "title": "'I was this close': NH teen's video game makes over $1 million overseas, but he can't keep it",
@@ -50,35 +66,19 @@
       }
     },
     {
-      "id": "090d98d9ad8ceab0c5b39951758c8754",
+      "id": "877c5d3f68ff0f0e09d03f49917d77ea",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785659470293_680.jpg",
-      "link": "https://www.cnn.com/2026/08/01/entertainment/video/hollywood-entertainment-video-games-master-chief-cortana-halo-campaign-evolved",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785678012937_674.jpg",
+      "link": "https://www.ign.com/articles/ai-is-making-games-worse-and-for-what",
       "en": {
-        "title": "Game On: ‘Halo: Campaign Evolved’",
-        "description": "Master Chief takes on the Covenant in a modernization of the classic action game. Rick Damigella reports.",
-        "fullContent": "Master Chief takes on the Covenant in a modernization of the classic action game. Rick Damigella reports.\n\n© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.\n\nScan the QR code to download the CNN app from the Apple Store."
+        "title": "AI Keeps Making Gaming Worse and More Expensive, and the Worse Part is That It's Not Slowing Down Any Time Soon",
+        "description": "We’re eight or nine months into the RAM crisis, depending on when you start counting, and it doesn’t look like gaming is going to get more affordab...",
+        "fullContent": "We’re eight or nine months into the RAM crisis, depending on when you start counting, and it doesn’t look like gaming is going to get more affordable any time soon. Instead, the opposite is happening. Nvidia and AMD have both reportedly raised prices on graphics cards just this week, and the problem isn’t exclusive to PC gaming the way it’s been in the past.\n\nJust looking back at previous hardware crunches, usually at the feet of cryptocurrency miners, one or two types of components would see big price jumps, just due to retail models selling out. The AI crunch is different. This time around, AI companies have made promises of future deals with Samsung, Micron and SK Hynix, promising to buy up memory chips before they even existed, according to Reuters.\n\nAnd now, even after plenty of those lofty non-contracts have fallen through, the memory manufacturers are still funneling a huge portion of their capacity to AI and datacenters. It’s little wonder that there’s a class action lawsuit looking to rein in the memory companies, alleging price fixing, but it’s likely that case will take years to see any kind of resolution, if there’s even a positive resolution to come out of it.\n\nRight now, every single little device that uses memory, from the PS5 to your car, is going up in price in order to expand AI capability as far as it can possibly stretch. But has any of it been worth it?\n\nLooking back to the beginning of 2024, I was even a little optimistic about what AI could do for gaming. At CES that year, I spent a lot of time talking with Intel, AMD and Nvidia about what AI could do for video games. They all painted these utopian visions of NPCs that you could talk to naturally and inventory systems that managed themselves. But fast forward two and a half years and we mostly just have the constant need to check Steam store pages to see if developers used generative AI to add ugly art to their worlds.\n\nAnd it’s not like we haven’t got anything useful out of AI. After all, Nvidia launched the RTX 2080 with DLSS, or deep learning super sampling (yeah, that’s AI), all the way back in 2018. And, yeah, that tech had a bit of a rough start – but at least in a vacuum, I still think it’s been a net positive for PC gaming. AMD, Intel and even Sony have followed up with their own AI upscaling tech in the years since, and I will never say that making games easier to run is a bad thing."
       },
       "es": {
-        "title": "Juego encendido: 'Halo: Campaña Evolucionada'",
-        "description": "Master Chief se enfrenta al Covenant en una modernización del clásico juego de acción. Rick Damigella informa.",
-        "fullContent": "Master Chief se enfrenta al Covenant en una modernización del clásico juego de acción. Rick Damigella informa.\n\n© 2026 Red de noticias por cable. Una empresa de descubrimiento de Warner Bros. Reservados todos los derechos.  CNN Sans™ y © 2016 Cable News Network.\n\nEscanee el código QR para descargar la aplicación CNN desde Apple Store."
-      }
-    },
-    {
-      "id": "0134a72098a5e9509ffa309c2b252ec1",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1785659472422_91.jpg",
-      "link": "https://hackaday.com/2026/08/01/bike-trainers-as-video-game-controllers/",
-      "en": {
-        "title": "Bike Trainers As Video Game Controllers",
-        "description": "While we’ve largely settled on analog sticks and digital buttons for controlling video games, there’s all sorts of projects to create truly esoteri...",
-        "fullContent": "While we’ve largely settled on analog sticks and digital buttons for controlling video games, there’s all sorts of projects to create truly esoteric controllers that allow playing games in unique ways. This one from [sukolupo] lets you use data from standard bike trainers to get your virtual character moving.\n\nCalled Deck de France, it maps the data coming from one of the supported bike trainers to a virtual controller which can then be “plugged in” to a gaming console of choice, in this case a Steam Deck mounted to the trainer’s handlebars. Although a bike trainer doesn’t have the same number of inputs as a modern gaming controller, it does have enough to play games like Rocket League. As you might expect, it’s also perfect for biking titles such as the Tour de France series.\n\nAs far as unique controllers for video games go, this one is surely up in the rankings with a real trombone or a controller purpose-built for riding virtual horses. It’s also a great way for those who are getting a bit bored of riding their trainers to breathe some new life into their exercise routine. We’ve also seen some open-source alternatives for modern bike trainer software as well, which is another great way to get excited about exercise equipment too.\n\nI know it seems like a good idea but too much cycling is actually bad for you.\n\nWell I’ve been told they have been replaced with plastic anyway, so I’m gonna risk it"
-      },
-      "es": {
-        "title": "Entrenadores de bicicletas como controladores de videojuegos",
-        "description": "Si bien nos hemos decidido en gran medida por joysticks analógicos y botones digitales para controlar videojuegos, existen todo tipo de proyectos p...",
-        "fullContent": "Si bien nos hemos decidido en gran medida por joysticks analógicos y botones digitales para controlar videojuegos, existen todo tipo de proyectos para crear controladores verdaderamente esotéricos que permitan jugar de maneras únicas. Este de [sukolupo] te permite utilizar datos de entrenadores de bicicletas estándar para que tu personaje virtual se mueva.\n\nLlamado Deck de France, asigna los datos provenientes de uno de los entrenadores de bicicleta compatibles a un controlador virtual que luego se puede \"conectar\" a una consola de juegos de su elección, en este caso una Steam Deck montada en el manillar del entrenador. Aunque un entrenador de bicicleta no tiene la misma cantidad de entradas que un controlador de juegos moderno, tiene suficientes para jugar juegos como Rocket League. Como era de esperar, también es perfecto para títulos de ciclismo como el Tour de Francia.\n\nEn lo que respecta a controladores únicos para videojuegos, este seguramente está arriba en la clasificación con un trombón real o un controlador diseñado específicamente para montar caballos virtuales. También es una excelente manera para aquellos que se están aburriendo un poco de usar sus zapatillas de deporte para darle nueva vida a su rutina de ejercicios. También hemos visto algunas alternativas de código abierto para el software moderno de entrenamiento de bicicletas, que también es otra excelente manera de entusiasmarse con los equipos de ejercicio.\n\nSé que parece una buena idea, pero andar demasiado en bicicleta es realmente malo para ti.\n\nBueno, me han dicho que de todos modos han sido reemplazados por plástico, así que me arriesgaré."
+        "title": "La IA sigue haciendo que los juegos sean peores y más caros, y lo peor es que no disminuirá en el corto plazo",
+        "description": "Llevamos ocho o nueve meses en la crisis de la RAM, dependiendo de cuándo empieces a contar, y no parece que los juegos vayan a ser más asequibles ...",
+        "fullContent": "Llevamos ocho o nueve meses en la crisis de la RAM, dependiendo de cuándo empieces a contar, y no parece que los juegos vayan a ser más asequibles en el corto plazo. Más bien, está sucediendo lo contrario. Según se informa, Nvidia y AMD han aumentado los precios de las tarjetas gráficas esta semana, y el problema no es exclusivo de los juegos de PC como lo ha sido en el pasado.\n\nSi echamos un vistazo atrás a crisis de hardware anteriores, normalmente a causa de los mineros de criptomonedas, uno o dos tipos de componentes experimentarían grandes saltos de precios, simplemente debido a que los modelos minoristas se agotaron. La crisis de la IA es diferente. Esta vez, las empresas de inteligencia artificial han hecho promesas de futuros acuerdos con Samsung, Micron y SK Hynix, prometiendo comprar chips de memoria incluso antes de que existieran, según Reuters.\n\nY ahora, incluso después de que muchos de esos elevados no contratos hayan fracasado, los fabricantes de memorias siguen canalizando una gran parte de su capacidad hacia la inteligencia artificial y los centros de datos. No es de extrañar que haya una demanda colectiva que busca controlar a las empresas de memoria, alegando fijación de precios, pero es probable que ese caso tarde años en ver algún tipo de resolución, si es que se puede llegar a una resolución positiva.\n\nEn este momento, cada pequeño dispositivo que usa memoria, desde la PS5 hasta su automóvil, está subiendo de precio para expandir la capacidad de IA tanto como sea posible. ¿Pero algo de esto ha valido la pena?\n\nMirando hacia atrás, a principios de 2024, me sentía incluso un poco optimista sobre lo que la IA podría hacer por los juegos. Ese año, en el CES, pasé mucho tiempo hablando con Intel, AMD y Nvidia sobre lo que la IA podría hacer por los videojuegos. Todos pintaron estas visiones utópicas de NPC con los que se podía hablar de forma natural y sistemas de inventario que se gestionaban solos. Pero después de dos años y medio, tenemos la necesidad constante de revisar las páginas de la tienda Steam para ver si los desarrolladores usaron IA generativa para agregar arte feo a sus mundos.\n\nY no es que no hayamos obtenido nada útil de la IA. Después de todo, Nvidia lanzó el RTX 2080 con DLSS, o súper muestreo de aprendizaje profundo (sí, eso es IA), allá por 2018. Y, sí, esa tecnología tuvo un comienzo un poco difícil, pero al menos en el vacío, sigo pensando que ha sido un beneficio neto para los juegos de PC. AMD, Intel e incluso Sony han seguido con su propia tecnología de mejora de la IA en los años posteriores, y nunca diré que hacer que los juegos sean más fáciles de ejecutar sea algo malo."
       }
     }
   ]
