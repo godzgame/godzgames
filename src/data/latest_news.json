@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1786129465589,
+  "updatedAt": 1786154360812,
   "articles": [
     {
       "id": "fcace98183a4556958880dc465830b97",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786129461828_983.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786154356050_328.jpg",
       "link": "https://www.theguardian.com/games/2026/aug/06/metroid-at-40-samus-aran-nintendo-video-game-heroine",
       "en": {
         "title": "Metroid at 40: happy birthday to Samus Aran, gaming’s greatest badass and my personal heroine",
@@ -18,25 +18,9 @@
       }
     },
     {
-      "id": "3cd7547c08fc0112790cb47a93a8beac",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786129462287_959.jpg",
-      "link": "https://variety.com/2026/gaming/news/warrior-cats-video-game-1236828691/",
-      "en": {
-        "title": "‘Warrior Cats’ Video Game Set Based on Hit Novel Series",
-        "description": "Trailmark Games and the Coolabi Group announced “Warrior Cats: Clans of the Forest,” a turn-based RPG inspired by the “Warrior Cats” novel series.",
-        "fullContent": "Trailmark Games and the Coolabi Group announced “Warrior Cats: Clans of the Forest,” a turn-based RPG inspired by the “Warrior Cats” novel series.\n\nPlayers hunt prey, hone skills and defend their home against rival warriors to rise through the ranks of their Clan and discover the secrets of the StarClan.\n\nThe game features four story campaigns shaped around the four clans: ThunderClan, RiverClan, ShadowClan and WindClan. Each campaign features unique prophecies, rivalries, characters and challenges.\n\nBefore launching into the “Warrior Cats” universe, players personalize their own Warrior Cat with unique colors, markings and more details. Each cat’s den and combat style are also customizable.\n\nThe game spans forests, marshes, moorlands and sacred landmarks drawn from the world of “Warrior Cats.” Players can encounter legendary cats from the books alongside an original cast for the game’s story.\n\nGameplay shapes the relationships, rivalries and reputations within the Clans. Players help grow their Clan, strengthen allegiances and embark on a personal journey that is unique on each playthrough."
-      },
-      "es": {
-        "title": "Videojuego 'Warrior Cats' basado en una exitosa serie de novelas",
-        "description": "Trailmark Games y Coolabi Group anunciaron “Warrior Cats: Clans of the Forest”, un juego de rol por turnos inspirado en la serie de novelas “Warrio...",
-        "fullContent": "Trailmark Games y Coolabi Group anunciaron “Warrior Cats: Clans of the Forest”, un juego de rol por turnos inspirado en la serie de novelas “Warrior Cats”.\n\nLos jugadores cazan presas, perfeccionan sus habilidades y defienden su hogar contra guerreros rivales para ascender en las filas de su Clan y descubrir los secretos del StarClan.\n\nEl juego presenta cuatro campañas de historia en torno a los cuatro clanes: ThunderClan, RiverClan, ShadowClan y WindClan. Cada campaña presenta profecías, rivalidades, personajes y desafíos únicos.\n\nAntes de lanzarse al universo de “Warrior Cats”, los jugadores personalizan su propio Warrior Cat con colores, marcas y más detalles únicos. La guarida y el estilo de combate de cada gato también son personalizables.\n\nEl juego abarca bosques, marismas, páramos y lugares sagrados extraídos del mundo de “Warrior Cats”. Los jugadores pueden encontrar gatos legendarios de los libros junto con un elenco original de la historia del juego.\n\nEl juego da forma a las relaciones, rivalidades y reputaciones dentro de los clanes. Los jugadores ayudan a hacer crecer su clan, fortalecer alianzas y embarcarse en un viaje personal que es único en cada partida."
-      }
-    },
-    {
       "id": "a91475a24e0bd6e78e434e0b1df13a9c",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786129463772_961.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786154357205_966.jpg",
       "link": "https://variety.com/2026/tv/news/grand-theft-auto-vi-netflix-partnership-1236830098/",
       "en": {
         "title": "What Rockstar Games’ Netflix Pact for ‘GTA 6’ Reveal Signals About Hollywood’s Growing Relationship With Gaming",
@@ -52,7 +36,7 @@
     {
       "id": "a967e5e8187b4725fc2990a4a7ec5ad0",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786129464610_389.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786154358092_676.jpg",
       "link": "https://mashable.com/entertainment/grand-theft-auto-6-pre-order-sales-huge",
       "en": {
         "title": "'GTA VI' pre-orders hit eye-watering levels for Take-Two Interactive",
@@ -66,19 +50,35 @@
       }
     },
     {
-      "id": "8b17486a5683239c92ad803d66b3e76d",
+      "id": "a5e17144defb7b77e80be0661cafde69",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786129465578_899.jpg",
-      "link": "https://www.foxnews.com/outkick-sports/five-most-unstoppable-players-ea-sports-college-football-video-games",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786154359617_763.jpg",
+      "link": "https://www.knkx.org/arts-culture/2026-08-06/seattle-raccoon-jimothy-video-game-ai",
       "en": {
-        "title": "These are five of the most unstoppable players from the EA Sports college football video games",
-        "description": "YouTuber Bordeaux discusses EA Sports adding microtransactions to College Football 27 and the fallout among the gaming community with Fox News Digi...",
-        "fullContent": "YouTuber Bordeaux discusses EA Sports adding microtransactions to College Football 27 and the fallout among the gaming community with Fox News Digital/OutKick.\n\nVideo games just aren't what they used to be, and that includes sports video games.\n\nNowadays, all the creativity and ingenuity has been sucked out in favor of cheap roster updates to increase profits, but it wasn't always this way.\n\nThe college football series by EA Sports in particular used to be so universally beloved that its release day in mid-July was almost a national holiday.\n\nWith the college football offseason starting to wind down, I thought it would be fun to relive some of the best players the game ever had to offer.\n\nAnd I'm not talking \"oh yeah, that guy was pretty good,\" either."
+        "title": "Art, tattoos and now a video game for Jimothy",
+        "description": "By now, you have probably heard of Jimothy, a raccoon with a spinal condition who lives in Seattle's Ballard neighborhood.",
+        "fullContent": "By now, you have probably heard of Jimothy, a raccoon with a spinal condition who lives in Seattle's Ballard neighborhood.\n\nVideos of this short-spined raccoon have been shared millions of times online. That has inspired a flurry of art, tattoos and clothing. The Seattle Mariners are even handing out Jimothy t-shirts.\n\nNow, an Issaquah man has created an arcade-style video game where you can play as Jimothy. The goal is to get him safely to his den. Adventures include crossing busy streets, avoiding paparazzi in the park and knocking over trash bins for food.\n\n\"The internet's having fun,” said Chris Pirillo, who designed the game.\n\nPirillo was interested in making a Jimothy game because “we get to project a personality onto this critter.”\n\n\"We get to be creative, and create stories and worlds,” he said. “I think that's what's got a lot of the creatives motivated, right?”"
       },
       "es": {
-        "title": "Estos son cinco de los jugadores más imparables de los videojuegos de fútbol americano universitario de EA Sports",
-        "description": "YouTuber Bordeaux habla sobre la incorporación de microtransacciones de EA Sports a College Football 27 y las consecuencias entre la comunidad de j...",
-        "fullContent": "YouTuber Bordeaux habla sobre la incorporación de microtransacciones de EA Sports a College Football 27 y las consecuencias entre la comunidad de jugadores con Fox News Digital/OutKick.\n\nLos videojuegos ya no son lo que solían ser, y eso incluye los videojuegos de deportes.\n\nHoy en día, toda la creatividad y el ingenio se han desperdiciado en favor de actualizaciones económicas de la plantilla para aumentar las ganancias, pero no siempre fue así.\n\nLa serie de fútbol universitario de EA Sports en particular solía ser tan querida en todo el mundo que su día de lanzamiento a mediados de julio era casi un feriado nacional.\n\nCon la temporada baja de fútbol universitario comenzando a terminar, pensé que sería divertido revivir a algunos de los mejores jugadores que el juego jamás haya tenido para ofrecer.\n\nY tampoco estoy hablando de \"oh, sí, ese tipo era bastante bueno\"."
+        "title": "Arte, tatuajes y ahora un videojuego para Jimothy",
+        "description": "Probablemente ya hayas oído hablar de Jimothy, un mapache con una enfermedad de la columna que vive en el barrio Ballard de Seattle.",
+        "fullContent": "Probablemente ya hayas oído hablar de Jimothy, un mapache con una enfermedad de la columna que vive en el barrio Ballard de Seattle.\n\nLos vídeos de este mapache de espina corta se han compartido millones de veces en línea. Eso ha inspirado una avalancha de arte, tatuajes y ropa. Los Marineros de Seattle incluso están repartiendo camisetas de Jimothy.\n\nAhora, un hombre de Issaquah ha creado un videojuego estilo arcade en el que puedes jugar como Jimothy. El objetivo es llevarlo sano y salvo a su guarida. Las aventuras incluyen cruzar calles concurridas, evitar a los paparazzi en el parque y derribar contenedores de basura para conseguir comida.\n\n\"Internet se está divirtiendo\", dijo Chris Pirillo, quien diseñó el juego.\n\nPirillo estaba interesado en hacer un juego de Jimothy porque \"podemos proyectar una personalidad en esta criatura\".\n\n\"Podemos ser creativos y crear historias y mundos\", dijo. \"Creo que eso es lo que motiva a muchos creativos, ¿verdad?\""
+      }
+    },
+    {
+      "id": "1c95a90dbfa48841d31d1213cf4b57b8",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786154360800_416.jpg",
+      "link": "https://www.vox.com/culture/498216/power-play-video-games-george-e-osborn-interview",
+      "en": {
+        "title": "How video games can make young men feel less alone",
+        "description": "Young American men are in trouble. They are the loneliest demographic in the Western world. Their social circles are shrinking. At all ages, they a...",
+        "fullContent": "Young American men are in trouble. They are the loneliest demographic in the Western world. Their social circles are shrinking. At all ages, they are significantly more likely to die by suicide than their female peers.\n\nBut if there’s one place where young American men are likely to congregate, regardless of race or political beliefs, it’s the world of video games. According to a 2017 Pew study, 72 percent of men under 30 say they play video games often or sometimes. The gaming world is a place they feel safe — which means it is full of untapped potential for building community, says video game expert George E. Osborn.\n\nOsborn is the founder of Half-Space Consulting, which advises governments and NGOs on the social impact of video games. In his new book Power Play: Video Games, Politics, and the Battle for Global Influence, Osborn shows that anti-democratic powers and violent actors have been exploiting the video games space for decades.\n\nMost visibly in the US, a large community of gamers rallied together in 2014 to harass prominent female game developers and gaming journalists. They forced multiple women into hiding while claiming that they were fighting for ethics in gaming journalism. The campaign, which became known as Gamergate, made so much noise that it attracted the attention of Steve Bannon, who organized supportive coverage on Breitbart and treated it as a recruiting ground for the racist, misogynistic, and anti-democratic alt-right movement. As Osborn documents in Power Play, the communities that sprang up to organize Gamergate became pipelines to the communities that organized the deadly “Unite the Right” rally in Charlottesville in 2017.\n\n“Bannon’s intuitive understanding of the power of toxic gamer communities created the digital-activist base, the tactical playbook and the strategic approach necessary for ‘mainstreaming’ populist far-right ideas within the online media ecosystem,” Osborn writes in Power Play.\n\nYet Osborn also writes that there is a vast potential for good within gaming communities. He shows that gaming can help people understand pandemics and autocracies and climate change; that it can connect people to one another and make people less lonely."
+      },
+      "es": {
+        "title": "Cómo los videojuegos pueden hacer que los jóvenes se sientan menos solos",
+        "description": "Los jóvenes estadounidenses están en problemas. Son el grupo demográfico más solitario del mundo occidental. Sus círculos sociales se están reducie...",
+        "fullContent": "Los jóvenes estadounidenses están en problemas. Son el grupo demográfico más solitario del mundo occidental. Sus círculos sociales se están reduciendo. En todas las edades, tienen significativamente más probabilidades de suicidarse que sus pares femeninas.\n\nPero si hay un lugar donde es probable que se reúnan los jóvenes estadounidenses, independientemente de su raza o creencias políticas, es el mundo de los videojuegos. Según un estudio de Pew de 2017, el 72 por ciento de los hombres menores de 30 años dicen que juegan videojuegos con frecuencia o algunas veces. El mundo de los videojuegos es un lugar en el que se sienten seguros, lo que significa que está lleno de potencial sin explotar para construir una comunidad, dice el experto en videojuegos George E. Osborn.\n\nOsborn es el fundador de Half-Space Consulting, que asesora a gobiernos y ONG sobre el impacto social de los videojuegos. En su nuevo libro Power Play: Video Games, Politics, and the Battle for Global Influence, Osborn muestra que los poderes antidemocráticos y los actores violentos han estado explotando el espacio de los videojuegos durante décadas.\n\nDe manera más visible en los EE. UU., una gran comunidad de jugadores se unió en 2014 para acosar a destacadas desarrolladoras de juegos y periodistas de juegos. Obligaron a varias mujeres a esconderse mientras afirmaban que luchaban por la ética en el periodismo de juegos. La campaña, que pasó a ser conocida como Gamergate, hizo tanto ruido que atrajo la atención de Steve Bannon, quien organizó una cobertura de apoyo a Breitbart y lo trató como un terreno de reclutamiento para el movimiento racista, misógino y antidemocrático de extrema derecha. Como documenta Osborn en Power Play, las comunidades que surgieron para organizar Gamergate se convirtieron en conductos hacia las comunidades que organizaron la letal manifestación “Unite the Right” en Charlottesville en 2017.\n\n\"La comprensión intuitiva de Bannon del poder de las comunidades de jugadores tóxicos creó la base de activistas digitales, el manual táctico y el enfoque estratégico necesarios para 'integrar' las ideas populistas de extrema derecha dentro del ecosistema de medios en línea\", escribe Osborn en Power Play.\n\nSin embargo, Osborn también escribe que existe un enorme potencial para el bien dentro de las comunidades de jugadores. Demuestra que los juegos pueden ayudar a las personas a comprender las pandemias, las autocracias y el cambio climático; que puede conectar a las personas entre sí y hacerlas menos solitarias."
       }
     }
   ]
