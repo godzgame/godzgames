@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1786280526850,
+  "updatedAt": 1786301401435,
   "articles": [
     {
       "id": "a3dfc3bf234acdd1aaf330000ce78c1e",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786280512570_942.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786301388328_422.jpg",
       "link": "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/",
       "en": {
         "title": "THQ Nordic says it has 12 unannounced games in development",
@@ -20,7 +20,7 @@
     {
       "id": "6225b6e9740edda43fcbbb0b124bf567",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786280522168_554.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786301397865_161.jpg",
       "link": "https://www.svg.com/2229434/best-video-games-like-hollow-knight/",
       "en": {
         "title": "5 Best Video Games Like Hollow Knight",
@@ -34,25 +34,25 @@
       }
     },
     {
-      "id": "a5e17144defb7b77e80be0661cafde69",
+      "id": "eb3b48615c4ec18244aa67eb26e470ff",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786280523835_743.jpg",
-      "link": "https://www.knkx.org/arts-culture/2026-08-06/seattle-raccoon-jimothy-video-game-ai",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786301399567_922.jpg",
+      "link": "https://www.engadget.com/2230761/switch-to-digital-games-pros-cons/",
       "en": {
-        "title": "Art, tattoos and now a video game for Jimothy",
-        "description": "By now, you have probably heard of Jimothy, a raccoon with a spinal condition who lives in Seattle's Ballard neighborhood.",
-        "fullContent": "By now, you have probably heard of Jimothy, a raccoon with a spinal condition who lives in Seattle's Ballard neighborhood.\n\nVideos of this short-spined raccoon have been shared millions of times online. That has inspired a flurry of art, tattoos and clothing. The Seattle Mariners are even handing out Jimothy t-shirts.\n\nNow, an Issaquah man has created an arcade-style video game where you can play as Jimothy. The goal is to get him safely to his den. Adventures include crossing busy streets, avoiding paparazzi in the park and knocking over trash bins for food.\n\n\"The internet's having fun,” said Chris Pirillo, who designed the game.\n\nPirillo was interested in making a Jimothy game because “we get to project a personality onto this critter.”\n\n\"We get to be creative, and create stories and worlds,” he said. “I think that's what's got a lot of the creatives motivated, right?”"
+        "title": "The Pros And Cons Of The Switch To Digital Games",
+        "description": "While the gaming industry isn't all-digital yet, it's been heading in that direction for a while. Sony's recently announced plans to discontinue Pl...",
+        "fullContent": "While the gaming industry isn't all-digital yet, it's been heading in that direction for a while. Sony's recently announced plans to discontinue PlayStation discs in 2028 are the latest step in this shift. In the last several years, we've also seen the PS5 Pro require a separate purchase for a disc drive, the Xbox Series S lacking disc support and Nintendo Switch 2 game-key cards that don't contain any actual data.\n\nWhile digital releases have lots of advantages, physical media is still important. As gaming companies push us into their vision for the future, you should know what this entails—especially as the options for physical purchases become fewer. No matter which format you prefer, it's a shift you should be aware of.\n\nThis primarily applies to console gaming, since the PC ecosystem has been effectively digital-only for a long time. However, there are key differences between the two, as we'll see later.\n\nYour library going digital comes with real perks. One of the most immediate is not having to switch discs or cartridges to play different titles. It's annoying to get up and swap the disc between your current single-player adventure and a multiplayer shooter you play with friends, for instance. And carrying cartridges around with your Switch 2 adds extra bulk to your suitcase or backpack. Similarly, a lack of physical media means your collection doesn't take up space on your shelf. There's also no chance of them being damaged or misplaced.\n\nDigital games allow you to \"gameshare,\" which means sharing your entire library with a friend. On Xbox and PlayStation, this involves each of you setting the other person's console to their \"home system\" so you can play what they've purchased using your own account. On Nintendo Switch and Switch 2, you can lend virtual game cards to family members in your Nintendo account instead.\n\nThe convenience of digital releases extends to the purchasing process. You can buy anything from the console's online store and start playing as soon as it downloads. There's no worry of your delivery being delayed or having to pay extra for shipping. While these are all positives, it's important to note that these advantages have been inherent to digital games for years and aren't amplified by the industry phasing out physical titles."
       },
       "es": {
-        "title": "Arte, tatuajes y ahora un videojuego para Jimothy",
-        "description": "Probablemente ya hayas oído hablar de Jimothy, un mapache con una enfermedad de la columna que vive en el barrio Ballard de Seattle.",
-        "fullContent": "Probablemente ya hayas oído hablar de Jimothy, un mapache con una enfermedad de la columna que vive en el barrio Ballard de Seattle.\n\nLos vídeos de este mapache de espina corta se han compartido millones de veces en línea. Eso ha inspirado una avalancha de arte, tatuajes y ropa. Los Marineros de Seattle incluso están repartiendo camisetas de Jimothy.\n\nAhora, un hombre de Issaquah ha creado un videojuego estilo arcade en el que puedes jugar como Jimothy. El objetivo es llevarlo sano y salvo a su guarida. Las aventuras incluyen cruzar calles concurridas, evitar a los paparazzi en el parque y derribar contenedores de basura para conseguir comida.\n\n\"Internet se está divirtiendo\", dijo Chris Pirillo, quien diseñó el juego.\n\nPirillo estaba interesado en hacer un juego de Jimothy porque \"podemos proyectar una personalidad en esta criatura\".\n\n\"Podemos ser creativos y crear historias y mundos\", dijo. \"Creo que eso es lo que motiva a muchos creativos, ¿verdad?\""
+        "title": "Los pros y los contras del cambio a los juegos digitales",
+        "description": "Si bien la industria del juego aún no es totalmente digital, lleva un tiempo avanzando en esa dirección. Los planes recientemente anunciados por So...",
+        "fullContent": "Si bien la industria del juego aún no es totalmente digital, lleva un tiempo avanzando en esa dirección. Los planes recientemente anunciados por Sony de descontinuar los discos de PlayStation en 2028 son el último paso en este cambio. En los últimos años, también hemos visto que la PS5 Pro requiere una compra por separado para una unidad de disco, la Xbox Series S carece de soporte para discos y las tarjetas de clave de juego de Nintendo Switch 2 que no contienen ningún dato real.\n\nSi bien los lanzamientos digitales tienen muchas ventajas, los medios físicos siguen siendo importantes. A medida que las empresas de juegos nos empujan hacia su visión del futuro, usted debe saber lo que esto implica, especialmente porque las opciones para compras físicas son cada vez menores. No importa qué formato prefieras, es un cambio que debes tener en cuenta.\n\nEsto se aplica principalmente a los juegos de consola, ya que el ecosistema de PC ha sido efectivamente exclusivamente digital durante mucho tiempo. Sin embargo, existen diferencias clave entre los dos, como veremos más adelante.\n\nLa digitalización de su biblioteca conlleva ventajas reales. Uno de los más inmediatos es no tener que cambiar de disco o cartucho para reproducir diferentes títulos. Es molesto levantarse e intercambiar el disco entre tu aventura actual para un jugador y un juego de disparos multijugador que juegas con amigos, por ejemplo. Y llevar cartuchos con tu Switch 2 agrega volumen extra a tu maleta o mochila. De manera similar, la falta de medios físicos significa que su colección no ocupa espacio en su estante. Tampoco hay posibilidad de que se dañen o se extravíen.\n\nLos juegos digitales te permiten \"compartir juegos\", lo que significa compartir toda tu biblioteca con un amigo. En Xbox y PlayStation, esto implica que cada uno de ustedes configure la consola de la otra persona en su \"sistema doméstico\" para que pueda jugar lo que compró usando su propia cuenta. En Nintendo Switch y Switch 2, puedes prestar tarjetas de juegos virtuales a miembros de tu familia en tu cuenta Nintendo.\n\nLa conveniencia de los lanzamientos digitales se extiende al proceso de compra. Puedes comprar cualquier cosa en la tienda online de la consola y empezar a jugar tan pronto como se descargue. No hay que preocuparse de que su entrega se retrase o de tener que pagar más por el envío. Si bien todos estos son aspectos positivos, es importante tener en cuenta que estas ventajas han sido inherentes a los juegos digitales durante años y no se ven amplificadas por la eliminación gradual de los títulos físicos por parte de la industria."
       }
     },
     {
       "id": "bcfeafb3873cbf385260858e4e7d1bc5",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786280525635_208.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786301400652_110.jpg",
       "link": "https://www.tomshardware.com/video-games/retro-gaming/after-24-years-return-to-castle-wolfenstein-is-finally-distributed-uncut-in-germany-game-was-censored-due-to-strict-laws-regarding-nazi-symbolism",
       "en": {
         "title": "After 24 years, Return to Castle Wolfenstein is finally distributed uncut in Germany — game was censored due to strict laws regarding Nazi symbolism",
@@ -68,7 +68,7 @@
     {
       "id": "24ea428f06552977e4135c9dc0245195",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786280526848_994.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786301401434_850.jpg",
       "link": "https://gameinformer.com/opinion/2026/08/07/the-video-games-and-more-you-should-play-this-weekend-august-7-2026",
       "en": {
         "title": "The Video Games And More You Should Play This Weekend – August 7, 2026",
