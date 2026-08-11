@@ -1,26 +1,10 @@
 {
-  "updatedAt": 1786413976827,
+  "updatedAt": 1786432586344,
   "articles": [
-    {
-      "id": "285261da3563ca7e8677166aa8363268",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786413971475_321.jpg",
-      "link": "https://www.videogameschronicle.com/news/i-am-truly-grateful-hello-games-ceo-sean-murray-thanks-players-on-no-mans-skys-10th-anniversary/",
-      "en": {
-        "title": "‘I am truly grateful’: Hello Games CEO Sean Murray thanks players on No Man’s Sky’s 10th anniversary",
-        "description": "After a decade, players have still discovered less than 1% of the game’s planets, he says",
-        "fullContent": "After a decade, players have still discovered less than 1% of the game’s planets, he says\n\nHello Games co-founder and CEO Sean Murray has thanked players for their support on the 10th anniversary of No Man’s Sky.\n\nThe procedural action-adventure survival game was released on PS4 on August 9 in North America and August 10 in Europe, with subsequent releases over the years on PC, Xbox One, Xbox Series X/S, PS5, Switch and Switch 2.\n\nNo Man’s Sky has been considered one of the biggest turnarounds in video games, given the reception to the game when it was released.\n\nWhen it initially launched in 2016, reception was mixed as many of the features players were expecting weren’t present on day one.\n\nSince then, developer Hello Games has been continually releasing free content updates – around 40 major updates to date – to the extent that the game as it stands in 2026 is vastly superior to what was available in 2016."
-      },
-      "es": {
-        "title": "\"Estoy realmente agradecido\": el director ejecutivo de Hello Games, Sean Murray, agradece a los jugadores en el décimo aniversario de No Man's Sky",
-        "description": "Después de una década, los jugadores aún han descubierto menos del 1% de los planetas del juego, afirma.",
-        "fullContent": "Después de una década, los jugadores aún han descubierto menos del 1% de los planetas del juego, afirma.\n\nEl cofundador y director ejecutivo de Hello Games, Sean Murray, agradeció a los jugadores por su apoyo en el décimo aniversario de No Man's Sky.\n\nEl juego procedimental de acción y aventuras se lanzó para PS4 el 9 de agosto en Norteamérica y el 10 de agosto en Europa, con lanzamientos posteriores a lo largo de los años en PC, Xbox One, Xbox Series X/S, PS5, Switch y Switch 2.\n\nNo Man's Sky ha sido considerado uno de los mayores cambios en los videojuegos, dada la recepción que tuvo el juego cuando se lanzó.\n\nCuando se lanzó inicialmente en 2016, la recepción fue mixta ya que muchas de las funciones que los jugadores esperaban no estaban presentes el primer día.\n\nDesde entonces, el desarrollador Hello Games ha estado lanzando continuamente actualizaciones de contenido gratuitas (alrededor de 40 actualizaciones importantes hasta la fecha) hasta el punto de que el juego tal como está en 2026 es muy superior a lo que estaba disponible en 2016."
-      }
-    },
     {
       "id": "c7524a476e13ac34f17b85cf525536bb",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786413972202_623.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786432582312_567.jpg",
       "link": "https://abcnews.com/US/100-nintendo-cartridges-found-wisconsin-game-shop/story?id=135515667",
       "en": {
         "title": "Nearly 100 never-before-seen Nintendo cartridges found in Wisconsin game shop - ABC News",
@@ -34,9 +18,25 @@
       }
     },
     {
+      "id": "c1f7e3f584cb8b7e6db693132a8d85b4",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786432583511_885.jpg",
+      "link": "https://www.videogameschronicle.com/news/halloween-the-game-has-been-banned-in-australia-and-new-zealand-because-players-can-smoke-weed-in-it/",
+      "en": {
+        "title": "Halloween The Game has been banned in Australia and New Zealand because players can smoke weed in it",
+        "description": "It was denied a rating due to “the presence of a controlled substance”, IllFonic says",
+        "fullContent": "It was denied a rating due to “the presence of a controlled substance”, IllFonic says\n\nThe upcoming video game adaptation of Halloween has been banned in Australia and New Zealand, developer IllFonic has confirmed.\n\nBased on the original 1978 film by John Carpenter, Halloween: The Game is set for release on September 8, and will be available on PS5, Xbox Series X/S and PC.\n\nTwo places it won’t be legally available, however, are Australia and New Zealand, after the studio confirmed to one follower on X that the game has been banned in those countries.\n\nWhen the official Halloween: The Game account on X posted a new trailer for the game marking 30 days until its release, one user asked where the PS5 version was in Australia (presumably because they weren’t able to find it for pre-order).\n\n“Despite every effort on our part, the Australian Classifications Board has denied Halloween: The Game a rating,” the account replied."
+      },
+      "es": {
+        "title": "Halloween The Game ha sido prohibido en Australia y Nueva Zelanda porque los jugadores pueden fumar marihuana en él.",
+        "description": "Se le negó la calificación debido a “la presencia de una sustancia controlada”, dice IllFonic",
+        "fullContent": "Se le negó la calificación debido a “la presencia de una sustancia controlada”, dice IllFonic\n\nLa próxima adaptación del videojuego de Halloween ha sido prohibida en Australia y Nueva Zelanda, confirmó el desarrollador IllFonic.\n\nBasado en la película original de 1978 de John Carpenter, Halloween: The Game se lanzará el 8 de septiembre y estará disponible en PS5, Xbox Series X/S y PC.\n\nSin embargo, dos lugares donde no estará disponible legalmente son Australia y Nueva Zelanda, luego de que el estudio confirmara a un seguidor de X que el juego ha sido prohibido en esos países.\n\nCuando la cuenta oficial de Halloween: The Game en X publicó un nuevo avance del juego marcando 30 días hasta su lanzamiento, un usuario preguntó dónde estaba la versión de PS5 en Australia (presumiblemente porque no pudieron encontrarla para reservarla).\n\n“A pesar de todos los esfuerzos de nuestra parte, la Junta de Clasificaciones de Australia le ha negado una calificación a Halloween: The Game”, respondió la cuenta."
+      }
+    },
+    {
       "id": "c5587a90084c3597d0e07aab90d802d5",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786413973569_957.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786432584229_568.jpg",
       "link": "https://www.wfmz.com/news/area/southeastern-pa/upper-bucks-county/local-video-game-store-levels-up-with-new-arcade-featuring-over-30-retro-and-modern/article_25c7d209-01bd-4dd2-bac3-64b6be8970cc.html",
       "en": {
         "title": "Local video game store levels up with new arcade, featuring over 30 retro and modern games",
@@ -52,7 +52,7 @@
     {
       "id": "0cd8892e7bde66d0d9d757f8f229b2e6",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786413975288_646.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786432585170_274.jpg",
       "link": "https://www.abc.net.au/news/2026-08-11/pro-jank-footy-arcade-aussie-rules-game/106941272",
       "en": {
         "title": "The absurdity of Aussie rules football inspires new comedy video game",
@@ -68,7 +68,7 @@
     {
       "id": "efdc8660f9f3d6e98aee5db57f9902cc",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786413976826_718.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786432586343_272.jpg",
       "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
       "en": {
         "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
