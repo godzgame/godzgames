@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1786798057836,
+  "updatedAt": 1786819016174,
   "articles": [
     {
       "id": "cb9d14e1853cefd2fb61481157a41c5c",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786798051231_513.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786819011036_522.jpg",
       "link": "https://gameinformer.com/opinion/2026/08/14/the-video-games-and-more-you-should-play-this-weekend-august-14-2026",
       "en": {
         "title": "The Video Games And More You Should Play This Weekend – August 14, 2026",
@@ -20,7 +20,7 @@
     {
       "id": "a5f5d0708e77a21da3f90b519139e06d",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786798052932_382.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786819012658_160.jpg",
       "link": "https://kotaku.com/best-video-games-2002-gta-kingdom-hearts-pokemon-2000724528",
       "en": {
         "title": "The 12 Best Video Games Of 2002",
@@ -34,9 +34,25 @@
       }
     },
     {
+      "id": "ce0faebe4d174bf80065d6e1dfae2659",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786819013832_995.jpg",
+      "link": "https://thewaltdisneycompany.com/news/kingdom-hearts-tv-series/",
+      "en": {
+        "title": "‘Kingdom Hearts’ Greenlit for First-Ever Original TV Series on Disney Channel and Disney+",
+        "description": "Kingdom Hearts (working title), an original anime series inspired by the globally beloved video game franchise, has been greenlit for Disney Channe...",
+        "fullContent": "Kingdom Hearts (working title), an original anime series inspired by the globally beloved video game franchise, has been greenlit for Disney Channel and Disney+. Developed in partnership with video game creator Tetsuya Nomura and the creative team at SQUARE ENIX, the series reimagines the iconic adventure with a brand-new story that will expand on the universe of Kingdom Hearts while celebrating the characters that have captured the hearts of millions of fans around the world. The news was announced tonight at D23: The Ultimate Disney Fan Event.\n\n“Kingdom Hearts has captivated gamers everywhere with its unique blend of adventure and imagination,” said Ayo Davis, president, Disney Kids & Family. “There’s something really exciting about taking a world fans have spent years exploring through the games and bringing it to life in a completely new way. And with a creative team that is working closely with the legendary Tetsuya Nomura, our new series will be unmistakably Kingdom Hearts, while giving fans a whole new way to experience the world they love.”\n\nKingdom Hearts (WT) joins the growing slate of original animated series for Disney+, alongside series that include Dragon Striker, Phineas and Ferb, Big City Greens, and the upcoming Messi and the Giants, Warrior Cats, and Journey. The series reflects the platform’s continued focus on creating stories filled with magic, wonder, adventure and heart for a new generation of kids and families."
+      },
+      "es": {
+        "title": "'Kingdom Hearts' recibió luz verde para su primera serie de televisión original en Disney Channel y Disney+",
+        "description": "Kingdom Hearts (título provisional), una serie de anime original inspirada en la franquicia de videojuegos mundialmente querida, recibió luz verde ...",
+        "fullContent": "Kingdom Hearts (título provisional), una serie de anime original inspirada en la franquicia de videojuegos mundialmente querida, recibió luz verde para Disney Channel y Disney+. Desarrollada en asociación con el creador de videojuegos Tetsuya Nomura y el equipo creativo de SQUARE ENIX, la serie reinventa la aventura icónica con una historia completamente nueva que expandirá el universo de Kingdom Hearts mientras celebra a los personajes que han capturado los corazones de millones de fanáticos en todo el mundo. La noticia se anunció esta noche en D23: The Ultimate Disney Fan Event.\n\n\"Kingdom Hearts ha cautivado a los jugadores de todo el mundo con su combinación única de aventura e imaginación\", dijo Ayo Davis, presidente de Disney Kids & Family. \"Hay algo realmente emocionante en tomar un mundo que los fanáticos han pasado años explorando a través de los juegos y darle vida de una manera completamente nueva. Y con un equipo creativo que está trabajando estrechamente con el legendario Tetsuya Nomura, nuestra nueva serie será inconfundiblemente Kingdom Hearts, al mismo tiempo que brindará a los fanáticos una forma completamente nueva de experimentar el mundo que aman\".\n\nKingdom Hearts (WT) se une a la creciente lista de series animadas originales para Disney+, junto con series que incluyen Dragon Striker, Phineas y Ferb, Big City Greens y las próximas Messi and the Giants, Warrior Cats y Journey. La serie refleja el enfoque continuo de la plataforma en crear historias llenas de magia, maravillas, aventuras y corazón para una nueva generación de niños y familias."
+      }
+    },
+    {
       "id": "9a98b3bcbb7064f2cd6730bf8556a5c5",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786798054727_896.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786819014918_530.jpg",
       "link": "https://variety.com/2026/tv/news/kingdom-hearts-anime-series-disney-plus-1236835104/",
       "en": {
         "title": "‘Kingdom Hearts’ Anime Series Based on Video Game Set for Disney+ and Disney Channel",
@@ -50,35 +66,19 @@
       }
     },
     {
-      "id": "534e7c8263d68a4447896e7a7ef873d3",
+      "id": "810296ef8a22b254b6a40ef0fe463847",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786798056681_320.jpg",
-      "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786819016168_198.jpg",
+      "link": "https://mashable.com/entertainment/kingdom-hearts-anime-tv-series-disney-plus-announced-d23",
       "en": {
-        "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-        "description": "This week, Ars hosted a live discussion with Ross Scott about the Stop Killing Games movement and its ongoing efforts to ensure that games remain p...",
-        "fullContent": "This week, Ars hosted a live discussion with Ross Scott about the Stop Killing Games movement and its ongoing efforts to ensure that games remain playable even after the original publisher shuts down the online servers undergirding them.\n\nScott talked with Ars Technica Senior Gaming Editor Kyle Orland, saying said he felt the situation around long-term game access was already “intolerable a decade and a half ago” and that he “kept hoping someone else would kick this off, [someone] more experienced or knowledgeable, but it felt like nothing was happening.” Scott said he felt making the effort to organize a movement against the practice was like “[drawing] the short straw on this, essentially.”\n\nDuring the conversation, Scott noted how the standard practice of shutting down game access for any reason, at any time, with minimal notice, would seem ludicrous in other areas of life:\n\nLet’s say… the plan was to shut down [a game] in five years if it didn’t do well. That needs to be communicated then, if you want to go down that road, because this manner of things doesn’t really apply to other goods and services. Compared to, let’s say you got… a warranty for a product, and it doesn’t tell you a year or two; it just tells you, ‘Well, we’ll tell you when it expires.’ Or an insurance policy: ‘Yeah, we’ll tell you when your insurance policy expires.’ Like that would trip up other laws than that.\n\nFrom the technical side, Scott said that when a publisher plans ahead for the end of an online game, the costs to transition to third-party servers can often be minimal:\n\nI think many developers will back me up on this, that if you’re planning for this from the beginning, where that’s an established requirement, we need to have some way to run this game at end of life, while you’re designing it. As I understand it, the cost can be extremely low then because it comes down to developing the game differently rather than having to have all these additional costs."
+        "title": "Kingdom Hearts' first-ever anime TV series coming to Disney+",
+        "description": "The next time Kingdom Hearts is on your television screen, you might not be playing it as a video game but watching it as an anime TV series.",
+        "fullContent": "The next time Kingdom Hearts is on your television screen, you might not be playing it as a video game but watching it as an anime TV series.\n\nA slew of Disney-related movies and TV shows have been announced over the past 24 hours as part of D23, the company's annual fan event, which is currently taking place in Anaheim, California. Disney announced that an anime TV series based on the Kingdom Hearts video game franchise will debut soon on Disney+'s streaming platform and the Disney Channel.\n\nKingdom Hearts is a massively popular video game series by Square Enix, the gaming developer behind hit franchises such as Final Fantasy and Dragon Quest. The series follows a young boy named Sora as he goes on adventures alongside Donald Duck and Goofy. Numerous Disney characters have recurring roles and make appearances throughout the game series, including Mickey Mouse and various Disney Villains.\n\nAccording to Disney, the anime series \"reimagines the iconic adventure with a brand-new story that will expand on the universe of Kingdom Hearts while celebrating the characters that have captured the hearts of millions of fans around the world.\"\n\nThe show will be developed by Disney in partnership with video game creator Tetsuya Nomura and Square Enix.\n\n“Kingdom Hearts has captivated gamers everywhere with its unique blend of adventure and imagination,” said President of Disney Kids & Family Ayo Davis. “There’s something really exciting about taking a world fans have spent years exploring through the games and bringing it to life in a completely new way. And with a creative team that is working closely with the legendary Tetsuya Nomura, our new series will be unmistakably Kingdom Hearts, while giving fans a whole new way to experience the world they love.”"
       },
       "es": {
-        "title": "Resumen de Ars Live: ¿Cómo podemos evitar que los editores eliminen sus propios juegos?",
-        "description": "Esta semana, Ars organizó una discusión en vivo con Ross Scott sobre el movimiento Stop Killing Games y sus esfuerzos continuos para garantizar que...",
-        "fullContent": "Esta semana, Ars organizó una discusión en vivo con Ross Scott sobre el movimiento Stop Killing Games y sus esfuerzos continuos para garantizar que los juegos sigan siendo jugables incluso después de que el editor original cierre los servidores en línea que los respaldan.\n\nScott habló con el editor senior de juegos de Ars Technica, Kyle Orland, y dijo que sentía que la situación en torno al acceso a juegos a largo plazo ya era \"intolerable hace una década y media\" y que \"seguía esperando que alguien más iniciara esto, [alguien] con más experiencia o conocimientos, pero parecía que no estaba pasando nada\". Scott dijo que sentía que hacer el esfuerzo de organizar un movimiento contra la práctica era como “[sacar] la pajita más corta de esto, esencialmente”.\n\nDurante la conversación, Scott notó cómo la práctica estándar de cerrar el acceso al juego por cualquier motivo, en cualquier momento, con el mínimo aviso, parecería ridícula en otras áreas de la vida:\n\nDigamos… el plan era cerrar [un juego] en cinco años si no funcionaba bien. Eso hay que comunicarlo entonces, si se quiere seguir ese camino, porque este tipo de cosas no se aplican realmente a otros bienes y servicios. En comparación con, digamos que usted tiene... una garantía para un producto, y no le indica uno o dos años; simplemente te dice: “Bueno, te diremos cuando venza”. O una póliza de seguro: “Sí, te diremos cuando venza tu póliza de seguro”. Como si eso hiciera tropezar otras leyes además de esa.\n\nDesde el punto de vista técnico, Scott dijo que cuando un editor planifica con anticipación el final de un juego en línea, los costos de transición a servidores de terceros a menudo pueden ser mínimos:\n\nCreo que muchos desarrolladores me respaldarán en esto, que si estás planeando esto desde el principio, donde es un requisito establecido, necesitamos tener alguna forma de ejecutar este juego al final de su vida útil, mientras lo diseñas. Según tengo entendido, el costo puede ser extremadamente bajo porque se trata de desarrollar el juego de manera diferente en lugar de tener que tener todos estos costos adicionales."
-      }
-    },
-    {
-      "id": "213a1d9047d9de88352d365e34b6508f",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1786798057792_674.jpg",
-      "link": "https://www.wpr.org/news/auction-rare-untouched-nintendo-video-game-cartridges-super-mario-brothers-duck-hunt-waukesha-shop",
-      "en": {
-        "title": "Auction starts for rare, untouched Nintendo video game cartridges found in Waukesha video game shop",
-        "description": "Video game collector Jason Ganos was helping to fix a pinball machine at a Waukesha game and collectable shop when the owner mentioned he had a box...",
-        "fullContent": "Video game collector Jason Ganos was helping to fix a pinball machine at a Waukesha game and collectable shop when the owner mentioned he had a box of old Nintendo games in a storage unit behind the store.\n\n“I start panicking, like, ‘What is this thing? Oh my God! I’ve been a game collector for 20 years, I need to see this box,’” Ganos said.\n\nKevin Braun, owner of the OneStopWonders shop, bought the box from a man who stopped in about two years before looking to sell. The man said the box belonged to his grandfather who owned a metal scrapping business.\n\nWPR’s “Wisconsin Today” newsletter keeps you connected to the state you love without feeling overwhelmed. No paywall. No agenda. No corporate filter.\n\nBraun brought Ganos to check out the contents of the box. Inside, he found what was — to a game collector — a treasure.\n\nThere were 97 untouched cartridges of Super Mario Brothers Duck Hunt. Each copy was wrapped in plastic and had its own manual. Their condition was pristine."
-      },
-      "es": {
-        "title": "Comienza la subasta de cartuchos de videojuegos de Nintendo raros e intactos encontrados en una tienda de videojuegos de Waukesha",
-        "description": "El coleccionista de videojuegos Jason Ganos estaba ayudando a arreglar una máquina de pinball en una tienda de juegos y coleccionables de Waukesha ...",
-        "fullContent": "El coleccionista de videojuegos Jason Ganos estaba ayudando a arreglar una máquina de pinball en una tienda de juegos y coleccionables de Waukesha cuando el propietario mencionó que tenía una caja de juegos antiguos de Nintendo en una unidad de almacenamiento detrás de la tienda.\n\n\"Empiezo a entrar en pánico, como, '¿Qué es esto? ¡Dios mío! He sido coleccionista de juegos durante 20 años, necesito ver esta caja'\", dijo Ganos.\n\nKevin Braun, propietario de la tienda OneStopWonders, le compró la caja a un hombre que se detuvo unos dos años antes de intentar venderla. El hombre dijo que la caja pertenecía a su abuelo, que era dueño de un negocio de chatarra.\n\nEl boletín informativo \"Wisconsin Today\" de WPR lo mantiene conectado con el estado que ama sin sentirse abrumado. Sin muro de pago. Sin agenda. Sin filtro corporativo.\n\nBraun llevó a Ganos para que revisara el contenido de la caja. En el interior, encontró lo que era, para un coleccionista de juegos, un tesoro.\n\nHabía 97 cartuchos intactos de Super Mario Brothers Duck Hunt. Cada ejemplar estaba envuelto en plástico y tenía su propio manual. Su condición era prístina."
+        "title": "La primera serie de televisión anime de Kingdom Hearts llegará a Disney+",
+        "description": "La próxima vez que Kingdom Hearts esté en la pantalla de tu televisor, es posible que no lo juegues como un videojuego sino que lo veas como una se...",
+        "fullContent": "La próxima vez que Kingdom Hearts esté en la pantalla de tu televisor, es posible que no lo juegues como un videojuego sino que lo veas como una serie de televisión de anime.\n\nEn las últimas 24 horas se han anunciado una gran cantidad de películas y programas de televisión relacionados con Disney como parte del D23, el evento anual para fanáticos de la compañía, que se lleva a cabo actualmente en Anaheim, California. Disney anunció que una serie de televisión de anime basada en la franquicia de videojuegos Kingdom Hearts debutará pronto en la plataforma de transmisión de Disney+ y en Disney Channel.\n\nKingdom Hearts es una serie de videojuegos muy popular de Square Enix, el desarrollador de juegos detrás de exitosas franquicias como Final Fantasy y Dragon Quest. La serie sigue a un joven llamado Sora que emprende aventuras junto al Pato Donald y Goofy. Numerosos personajes de Disney tienen papeles recurrentes y aparecen a lo largo de la serie del juego, incluidos Mickey Mouse y varios villanos de Disney.\n\nSegún Disney, la serie de anime \"reimagina la aventura icónica con una historia completamente nueva que expandirá el universo de Kingdom Hearts mientras celebra a los personajes que han capturado los corazones de millones de fanáticos en todo el mundo\".\n\nEl programa será desarrollado por Disney en asociación con el creador de videojuegos Tetsuya Nomura y Square Enix.\n\n\"Kingdom Hearts ha cautivado a los jugadores de todo el mundo con su combinación única de aventura e imaginación\", dijo el presidente de Disney Kids & Family, Ayo Davis. \"Hay algo realmente emocionante en tomar un mundo que los fanáticos han pasado años explorando a través de los juegos y darle vida de una manera completamente nueva. Y con un equipo creativo que está trabajando estrechamente con el legendario Tetsuya Nomura, nuestra nueva serie será inconfundiblemente Kingdom Hearts, al mismo tiempo que brindará a los fanáticos una forma completamente nueva de experimentar el mundo que aman\"."
       }
     }
   ]
