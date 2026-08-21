@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1787295337717,
+  "updatedAt": 1787317082751,
   "articles": [
     {
       "id": "5dc9b2cf39b5ce364c545965ac1c2a32",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787295333029_179.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787317076220_592.jpg",
       "link": "https://www.vox.com/good-medicine-newsletter/499861/video-games-healthcare-anesthesia-borderlands-science",
       "en": {
         "title": "The future of medicine is video games",
@@ -18,9 +18,41 @@
       }
     },
     {
+      "id": "5e027116dc3d4a3de37ee600ead67cdf",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787317078505_518.jpg",
+      "link": "https://www.videogameschronicle.com/review/metal-gear-solid-master-collection-vol-2-review-come-for-metal-gear-solid-4-stay-for-two-handheld-classics/",
+      "en": {
+        "title": "Metal Gear Solid: Master Collection Vol. 2 review: Come for Metal Gear Solid 4, stay for two handheld classics",
+        "description": "The long overdue return of one of PS3’s best is joined by two handheld legends",
+        "fullContent": "The long overdue return of one of PS3’s best is joined by two handheld legends\n\nThere are some for whom Metal Gear Solid: Master Collection Vol. 2 would have been worth the price purely for the return of MGS 4, a game legendary for being landlocked on the PS3. But by grouping the game with Metal Gear Solid: Peace Walker and Metal Gear Solid: Ghost Babel, the Metal Gear Solid: Master Collection Vol. 2 ends up being, pound for pound, one of the highest-quality collections of games ever.\n\nI’ll start with Metal Gear Solid 4: Guns of the Patriots, as most fans likely will when booting up the collection. It is incredibly novel to see the game on another platform. Like so many PlayStation 3 games so hamstrung by the Cell processor that they’re doomed to live on that machine forever, it felt like Metal Gear Solid 4: Guns of the Patriots would never be set free.\n\nDue to it being relatively annoying to play compared to every other mainline entry in the series, the game has enjoyed a mystical reputation among fans. While it blew players and critics away at launch, and perhaps represents the most concentrated dunt of Hideo Kojima eccentricity in a Metal Gear game, does it hold up? Largely, yes.\n\nThere’s still a frightening number of cutscenes, and while I understand that Kojima was trying to land a 25-year-long plane journey of lore with MGS 4, new players will find themselves astonished at just how long some of these epics circle the runway. From a gameplay perspective, MGS 4 feels dated when compared to Metal Gear Solid 5, and latterly, Metal Gear Solid Delta.\n\nThere’s a very clear before and after moment in the MGS franchise with 5, when the series stepped away from bizarre input layouts and mimicked more western popular fare. You can change the controller settings in MGS 4, but it won’t ever feel quite as snappy as MGS 5, or Delta."
+      },
+      "es": {
+        "title": "Metal Gear Solid: Colección maestra vol. 2 revisión: Ven a Metal Gear Solid 4, quédate con dos clásicos portátiles",
+        "description": "Al tan esperado regreso de uno de los mejores juegos de PS3 se unen dos leyendas de la consola portátil",
+        "fullContent": "Al tan esperado regreso de uno de los mejores juegos de PS3 se unen dos leyendas de la consola portátil\n\nHay algunos para quienes Metal Gear Solid: Master Collection Vol. 2 habría valido la pena el precio simplemente por el regreso de MGS 4, un juego legendario por no tener salida al mar en la PS3. Pero al agrupar el juego con Metal Gear Solid: Peace Walker y Metal Gear Solid: Ghost Babel, Metal Gear Solid: Master Collection Vol. 2 termina siendo, libra por libra, una de las colecciones de juegos de mayor calidad de la historia.\n\nComenzaré con Metal Gear Solid 4: Guns of the Patriots, como probablemente lo harán la mayoría de los fanáticos al iniciar la colección. Es increíblemente novedoso ver el juego en otra plataforma. Como tantos juegos de PlayStation 3 tan paralizados por el procesador Cell que están condenados a vivir en esa máquina para siempre, parecía que Metal Gear Solid 4: Guns of the Patriots nunca sería liberado.\n\nDebido a que es relativamente molesto jugar en comparación con cualquier otra entrada principal de la serie, el juego ha disfrutado de una reputación mística entre los fanáticos. Si bien sorprendió a los jugadores y críticos en el lanzamiento, y quizás representa la excentricidad más concentrada de Hideo Kojima en un juego de Metal Gear, ¿se sostiene? En gran medida, sí.\n\nTodavía hay una cantidad aterradora de escenas, y aunque entiendo que Kojima estaba tratando de realizar un viaje en avión de 25 años de duración con MGS 4, los nuevos jugadores se sorprenderán de cuánto tiempo algunas de estas epopeyas recorren la pista. Desde una perspectiva de juego, MGS 4 parece anticuado en comparación con Metal Gear Solid 5 y, más recientemente, Metal Gear Solid Delta.\n\nHay un antes y un después muy claro en la franquicia MGS con 5, cuando la serie se alejó de los diseños de entrada extraños e imitó la comida popular más occidental. Puedes cambiar la configuración del controlador en MGS 4, pero nunca será tan ágil como MGS 5 o Delta."
+      }
+    },
+    {
+      "id": "069a12c64c45e080d763a2918554c8fe",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787317080809_637.jpg",
+      "link": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
+      "en": {
+        "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak",
+        "description": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warni...",
+        "fullContent": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warning other publishers that “no one is safe” from similar breaches.\n\nRockstar Games, the company behind the blockbuster “GTA” franchise, is known for tightly guarding unreleased material. But this week, multiple gameplay clips and what appears to be the entire “GTA VI” map surfaced online.\n\nRockstar and Take-Two Interactive, its parent company, did not immediately respond to requests for comment. Neither has issued a public statement regarding the purported hack.\n\nIn recent days, multiple social media posts that have shared the apparent leaks have been removed from platforms including X and Reddit.\n\nBut the hacker, an individual or group calling itself Cyberleek, continues to release updates. In a post that circulated online on Thursday, Cyberleek framed the security breach as a protest against the gaming industry’s shift toward all-digital releases, a trend that has sparked backlash among players.\n\n“Publishers sell licenses and call them purchases. They ship unfinished games and call them living services. They lock content on discs and call it DLC,” Cyberleek wrote in a public post. “They kill games and keep the money. Every year anti-consumerism tightens its grip, and every year gamers get less for what they pay.”"
+      },
+      "es": {
+        "title": "Un hacker apunta a 'Grand Theft Auto VI' en una aparente filtración",
+        "description": "El mundo de los videojuegos se ha visto sacudido por lo que parece ser una filtración importante del muy esperado \"Grand Theft Auto VI\", y el presu...",
+        "fullContent": "El mundo de los videojuegos se ha visto sacudido por lo que parece ser una filtración importante del muy esperado \"Grand Theft Auto VI\", y el presunto hacker advirtió a otros editores que \"nadie está a salvo\" de infracciones similares.\n\nRockstar Games, la compañía detrás de la exitosa franquicia “GTA”, es conocida por proteger estrictamente el material inédito. Pero esta semana, aparecieron en línea varios clips de juego y lo que parece ser el mapa completo de “GTA VI”.\n\nRockstar y Take-Two Interactive, su empresa matriz, no respondieron de inmediato a las solicitudes de comentarios. Ninguno de los dos ha emitido una declaración pública sobre el supuesto hackeo.\n\nEn los últimos días, se eliminaron varias publicaciones en las redes sociales que compartían las aparentes filtraciones de plataformas como X y Reddit.\n\nPero el hacker, un individuo o grupo que se hace llamar Cyberleek, continúa publicando actualizaciones. En una publicación que circuló en línea el jueves, Cyberleek enmarcó la violación de seguridad como una protesta contra el cambio de la industria del juego hacia lanzamientos totalmente digitales, una tendencia que ha provocado una reacción violenta entre los jugadores.\n\n\"Los editores venden licencias y las llaman compras. Envían juegos sin terminar y los llaman servicios vivos. Bloquean el contenido en los discos y lo llaman DLC\", escribió Cyberleek en una publicación pública. \"Eliminan los juegos y se quedan con el dinero. Cada año el anticonsumismo se intensifica y cada año los jugadores obtienen menos por lo que pagan\"."
+      }
+    },
+    {
       "id": "50a742035644499cd6e2f46d1b27690b",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787295334126_170.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787317081799_76.jpg",
       "link": "https://www.thegamebusiness.com/p/the-video-games-most-at-risk-from",
       "en": {
         "title": "The video games most at risk from PlayStation’s physical switch-off",
@@ -36,7 +68,7 @@
     {
       "id": "3eacc55164af5433b3bc8ee558e48bfa",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787295334997_894.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787317082728_917.jpg",
       "link": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
       "en": {
         "title": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts",
@@ -47,38 +79,6 @@
         "title": "Las ventas de juegos físicos en EE. UU. caen al total mensual más bajo desde 1995 | Gráficos mensuales de EE. UU.",
         "description": "El gasto en hardware también disminuyó un 29 % a 282 millones de dólares, el total de julio más bajo desde 2020.",
         "fullContent": "El gasto en hardware también disminuyó un 29 % a 282 millones de dólares, el total de julio más bajo desde 2020.\n\nLas ventas físicas de software en Estados Unidos cayeron a 85 millones de dólares en julio, el total mensual más bajo desde que Circana comenzó a realizar seguimiento en 1995.\n\nAunque Sony dejará de producir software físico para juegos nuevos a partir de enero de 2028, PlayStation representó el 32% del gasto de los consumidores en juegos físicos nuevos. Las plataformas de Nintendo representaron el 63% del gasto en juegos físicos.\n\nMat Piscatella de Circana informó anteriormente que siete juegos de PlayStation han vendido cada uno más de 100.000 unidades físicas en los EE. UU. hasta la fecha, pero sólo dos juegos superaron las 10.000 unidades vendidas durante la semana que finalizó el 11 de julio.\n\nEl gasto en hardware disminuyó un 29% año tras año a 282 millones de dólares, el total de julio más bajo desde 2020, cuando alcanzó los 163 millones de dólares.\n\nLas ventas totales de unidades de hardware cayeron un 39 % año tras año, mientras que el precio de venta promedio aumentó un 16 % a 542 dólares debido a los aumentos de precios de las consolas PlayStation, Xbox y Nintendo Switch."
-      }
-    },
-    {
-      "id": "600407ad9edf382372bf5cb937a94ecb",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787295336358_360.jpg",
-      "link": "https://www.videogameschronicle.com/news/launching-ps6-and-xbox-helix-at-1000-could-lead-to-a-nearly-40-drop-in-sales-over-five-years-analyst-warns/",
-      "en": {
-        "title": "Launching PS6 and Xbox Helix at $1,000 could lead to a nearly 40% drop in sales over five years, analyst warns",
-        "description": "Ampere Analysis has identified three ways Sony and Microsoft could keep prices lower",
-        "fullContent": "Ampere Analysis has identified three ways Sony and Microsoft could keep prices lower\n\nIf PlayStation 6 or Xbox’s Project Helix launch at $1,000, it could lead to a large drop in next-gen adoption.\n\nThat’s according to Ampere Analysis, which has produced a new report suggesting that if Sony and Microsoft decide to launch “conventionally designed, incrementally improved next-generation consoles” in 2028 at a price of $1,000, the rate at which players will buy those consoles will drop considerably compared to this generation.\n\nSpecifically, its scenario forecast suggests that the combined number of PS6 and Xbox Helix consoles sold after the first five years could be up to 38% lower than the combined sales of PS5 and Xbox Series X/S over the same period.\n\nThis would also lead to an impact on consumer spending, with Ampere estimating that, by 2031, the console games and services market across PlayStation and Xbox would be $3.4 billion (12%) lower than if the consoles were sold for $700.\n\nThe price of PlayStation, Xbox and Nintendo hardware has been rising in recent times, due to a combination of the continued global component shortage and trade wars."
-      },
-      "es": {
-        "title": "Lanzar PS6 y Xbox Helix a 1.000 dólares podría provocar una caída de casi el 40% en las ventas en cinco años, advierte un analista",
-        "description": "Ampere Analysis ha identificado tres formas en que Sony y Microsoft podrían mantener los precios más bajos",
-        "fullContent": "Ampere Analysis ha identificado tres formas en que Sony y Microsoft podrían mantener los precios más bajos\n\nSi PlayStation 6 o Project Helix de Xbox se lanzan a $ 1,000, podría provocar una gran caída en la adopción de la próxima generación.\n\nEsto es según Ampere Analysis, que ha elaborado un nuevo informe que sugiere que si Sony y Microsoft deciden lanzar “consolas de próxima generación diseñadas convencionalmente y mejoradas progresivamente” en 2028 a un precio de 1.000 dólares, el ritmo al que los jugadores comprarán esas consolas disminuirá considerablemente en comparación con esta generación.\n\nEspecíficamente, su pronóstico de escenario sugiere que la cantidad combinada de consolas PS6 y Xbox Helix vendidas después de los primeros cinco años podría ser hasta un 38% menor que las ventas combinadas de PS5 y Xbox Series X/S durante el mismo período.\n\nEsto también tendría un impacto en el gasto de los consumidores, ya que Ampere estima que, para 2031, el mercado de juegos y servicios de consola en PlayStation y Xbox sería 3.400 millones de dólares (12%) menos que si las consolas se vendieran por 700 dólares.\n\nEl precio del hardware de PlayStation, Xbox y Nintendo ha aumentado en los últimos tiempos, debido a una combinación de la continua escasez global de componentes y las guerras comerciales."
-      }
-    },
-    {
-      "id": "069a12c64c45e080d763a2918554c8fe",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787295337652_921.jpg",
-      "link": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
-      "en": {
-        "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak",
-        "description": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warni...",
-        "fullContent": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warning other publishers that “no one is safe” from similar breaches.\n\nRockstar Games, the company behind the blockbuster “GTA” franchise, is known for tightly guarding unreleased material. But this week, multiple gameplay clips and what appears to be the entire “GTA VI” map surfaced online.\n\nRockstar and Take-Two Interactive, its parent company, did not immediately respond to requests for comment. Neither has issued a public statement regarding the purported hack.\n\nIn recent days, multiple social media posts that have shared the apparent leaks have been removed from platforms including X and Reddit.\n\nBut the hacker, an individual or group calling itself Cyberleek, continues to release updates. In a post that circulated online on Thursday, Cyberleek framed the security breach as a protest against the gaming industry’s shift toward all-digital releases, a trend that has sparked backlash among players.\n\n“Publishers sell licenses and call them purchases. They ship unfinished games and call them living services. They lock content on discs and call it DLC,” Cyberleek wrote in a public post. “They kill games and keep the money. Every year anti-consumerism tightens its grip, and every year gamers get less for what they pay.”"
-      },
-      "es": {
-        "title": "Un hacker apunta a 'Grand Theft Auto VI' en una aparente filtración",
-        "description": "El mundo de los videojuegos se ha visto sacudido por lo que parece ser una filtración importante del muy esperado \"Grand Theft Auto VI\", y el presu...",
-        "fullContent": "El mundo de los videojuegos se ha visto sacudido por lo que parece ser una filtración importante del muy esperado \"Grand Theft Auto VI\", y el presunto hacker advirtió a otros editores que \"nadie está a salvo\" de infracciones similares.\n\nRockstar Games, la compañía detrás de la exitosa franquicia “GTA”, es conocida por proteger estrictamente el material inédito. Pero esta semana, aparecieron en línea varios clips de juego y lo que parece ser el mapa completo de “GTA VI”.\n\nRockstar y Take-Two Interactive, su empresa matriz, no respondieron de inmediato a las solicitudes de comentarios. Ninguno de los dos ha emitido una declaración pública sobre el supuesto hackeo.\n\nEn los últimos días, se eliminaron varias publicaciones en las redes sociales que compartían las aparentes filtraciones de plataformas como X y Reddit.\n\nPero el hacker, un individuo o grupo que se hace llamar Cyberleek, continúa publicando actualizaciones. En una publicación que circuló en línea el jueves, Cyberleek enmarcó la violación de seguridad como una protesta contra el cambio de la industria del juego hacia lanzamientos totalmente digitales, una tendencia que ha provocado una reacción violenta entre los jugadores.\n\n\"Los editores venden licencias y las llaman compras. Envían juegos sin terminar y los llaman servicios vivos. Bloquean el contenido en los discos y lo llaman DLC\", escribió Cyberleek en una publicación pública. \"Eliminan los juegos y se quedan con el dinero. Cada año el anticonsumismo se intensifica y cada año los jugadores obtienen menos por lo que pagan\"."
       }
     }
   ]
