@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1787467818429,
+  "updatedAt": 1787489442897,
   "articles": [
     {
       "id": "2141bb1ebb68e9520923469a03f33001",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787467813554_276.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787489428441_560.jpg",
       "link": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
       "en": {
         "title": "What the Hell Is Indie Slop? How the Video Game Insult Found Indie Film",
@@ -20,7 +20,7 @@
     {
       "id": "b71956c7a01543c666c8c6cd37351b41",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787467814982_135.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787489429624_188.jpg",
       "link": "https://gameinformer.com/opinion/2026/08/21/the-video-games-you-should-play-this-weekend-august-21-2026",
       "en": {
         "title": "The Video Games You Should Play This Weekend – August 21, 2026",
@@ -34,41 +34,25 @@
       }
     },
     {
-      "id": "637e31d00a00acf2a92c53edb1c9246b",
+      "id": "808e8be8d3f40a3e1effdffa2803c2a6",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787467816367_822.jpg",
-      "link": "https://www.bbc.com/news/articles/c1d19egdleno",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787489439555_168.jpg",
+      "link": "https://www.creativebloq.com/entertainment/gaming/what-to-expect-from-gamescom-opening-night-live-2026-and-how-to-watch-it",
       "en": {
-        "title": "Witham racing driver says video games got him into motorsports",
-        "description": "A 21-year-old racing driver has spoken of his \"unconventional\" route into motor-racing - which began with computer games during the Covid-19 lockdown.",
-        "fullContent": "A 21-year-old racing driver has spoken of his \"unconventional\" route into motor-racing - which began with computer games during the Covid-19 lockdown.\n\nWill Redford, a race winner at the GT Challenge de las Américas last month, said it was his dad that got him into the sport in the first place.\n\nHe said: \"My dad had always been really into racing sims and stuff like that and he bought me a subscription to a programme called iRacing and there was nothing else to do, I got right into it.\"\n\nAfter getting to grips with virtual racing he looked to get behind the wheel of a real car - getting his breakthrough in a scholarship competition.\n\nRedford, originally from Warrington, told Ian Puckey on BBC Essex's Sport Extra show that his journey in the sport has been \"interesting\" but \"amazing\".\n\n\"I took a bit of an unconventional route into motorsport. I started sim racing... so playing computer games and that was during the first COVID lockdown."
+        "title": "What to expect from Gamescom Opening Night Live 2026 – and how to watch it",
+        "description": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surpris...",
+        "fullContent": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surprises too.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nNext week, the picturesque German city of Cologne will become the centre of the world as far as gamers are concerned. It’s time to brace yourself for 2026’s instalment of Gamescom, which, since the demise of Los Angeles’ E3, has become comfortably the biggest and most significant videogames show on the calendar.\n\nGamescom will take place between 26 and 30 August with, as is customary, Wednesday 26 being reserved for trade admissions only, while the public will be admitted between Thursday 27 and Sunday 30 August. If you’re going to be in the vicinity of Cologne during that time, general admission tickets are still available.\n\nBut the show’s traditional curtain-raiser, Opening Night Live – hosted by the ubiquitous American Geoff Keighley, as has been the case for the past eight years – takes place on August 25. It will kick off at 7 pm BST, with a half-hour pre-show build-up starting at 6.30 pm, and you’ll be able to stream the show.\n\nIn a pre-briefing given by Keighley and various members of the show’s top brass, Keighley confirmed that, among other games, this year’s ONL will showcase the likes of Gears of War E-Day, Final Fantasy VII Revelation (whose director, Naoki Hamaguchi, will make a stage appearance), The Witcher 3’s new Songs of the Past expansion and Metro 2039. He added that ONL will include a live performance of the music from Mewgenics, and there will no doubt be a welter of other games making their first public appearances."
       },
       "es": {
-        "title": "Witham racing driver says video games got him into motorsports",
-        "description": "A 21-year-old racing driver has spoken of his \"unconventional\" route into motor-racing - which began with computer games during the Covid-19 lockdown.",
-        "fullContent": "A 21-year-old racing driver has spoken of his \"unconventional\" route into motor-racing - which began with computer games during the Covid-19 lockdown.\n\nWill Redford, a race winner at the GT Challenge de las Américas last month, said it was his dad that got him into the sport in the first place.\n\nHe said: \"My dad had always been really into racing sims and stuff like that and he bought me a subscription to a programme called iRacing and there was nothing else to do, I got right into it.\"\n\nAfter getting to grips with virtual racing he looked to get behind the wheel of a real car - getting his breakthrough in a scholarship competition.\n\nRedford, originally from Warrington, told Ian Puckey on BBC Essex's Sport Extra show that his journey in the sport has been \"interesting\" but \"amazing\".\n\n\"I took a bit of an unconventional route into motorsport. I started sim racing... so playing computer games and that was during the first COVID lockdown."
-      }
-    },
-    {
-      "id": "378f41dc1ca636fe5b8c97ae7d1c9611",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787467817301_23.jpg",
-      "link": "https://mashable.com/entertainment/gta-6-file-size-unknown-at-the-moment",
-      "en": {
-        "title": "'GTA 6' file size: How large will the game be?",
-        "description": "Grand Theft Auto VI is barreling toward its Nov. 19 release with a Netflix-exclusive gameplay reveal later this month (not to mention a very active...",
-        "fullContent": "Grand Theft Auto VI is barreling toward its Nov. 19 release with a Netflix-exclusive gameplay reveal later this month (not to mention a very active leaker). But one basic detail remains a mystery: how big will the game's file size be?\n\nThe short answer: nobody knows. Rockstar hasn't confirmed a file size for Grand Theft Auto VI, and there are no credible leaks or rumors pointing to a specific number. The only figures floating around come from fan speculation on Reddit, where estimates generally land somewhere between 100GB and 250GB.\n\nThat's a guess based on the scale of the game and recent open-world trends, not anything sourced from Rockstar or its parent company Take-Two.\n\nThere's been plenty of comparisons to Call of Duty: Black Ops 6's roughly 300GB install size, but those numbers don't really hold up either. Mostly because that file size is inflated by the fact that a single Call of Duty install typically bundles multiple separate games, including Warzone, traditional multiplayer, and campaign content. Also, because Infinity Ward and co. don't compress their games really well.\n\nPart of the speculation also stems from GTA VI's being digital-only with no physical release. GTA VI's will get a physical box release that will have a code to redeem online, though some fans have speculated that the game's sheer size is a factor in Rockstar's decision to skip discs altogether.\n\nMulti-disc games were once common, especially in the PS2 era, with titles like Metal Gear Solid, The Legend of Dragoon, and the OG Final Fantasy VII relying on multiple discs to fit their content, and the practice has resurfaced recently too. Horizon Forbidden West: Complete Edition became the first PS5 game to ship on two discs, and Final Fantasy VII Rebirth launched as a two-disc release at around 145GB. Generally, though, most games don't exceed 100GB."
-      },
-      "es": {
-        "title": "'GTA 6' file size: How large will the game be?",
-        "description": "Grand Theft Auto VI is barreling toward its Nov. 19 release with a Netflix-exclusive gameplay reveal later this month (not to mention a very active...",
-        "fullContent": "Grand Theft Auto VI is barreling toward its Nov. 19 release with a Netflix-exclusive gameplay reveal later this month (not to mention a very active leaker). But one basic detail remains a mystery: how big will the game's file size be?\n\nThe short answer: nobody knows. Rockstar hasn't confirmed a file size for Grand Theft Auto VI, and there are no credible leaks or rumors pointing to a specific number. The only figures floating around come from fan speculation on Reddit, where estimates generally land somewhere between 100GB and 250GB.\n\nThat's a guess based on the scale of the game and recent open-world trends, not anything sourced from Rockstar or its parent company Take-Two.\n\nThere's been plenty of comparisons to Call of Duty: Black Ops 6's roughly 300GB install size, but those numbers don't really hold up either. Mostly because that file size is inflated by the fact that a single Call of Duty install typically bundles multiple separate games, including Warzone, traditional multiplayer, and campaign content. Also, because Infinity Ward and co. don't compress their games really well.\n\nPart of the speculation also stems from GTA VI's being digital-only with no physical release. GTA VI's will get a physical box release that will have a code to redeem online, though some fans have speculated that the game's sheer size is a factor in Rockstar's decision to skip discs altogether.\n\nMulti-disc games were once common, especially in the PS2 era, with titles like Metal Gear Solid, The Legend of Dragoon, and the OG Final Fantasy VII relying on multiple discs to fit their content, and the practice has resurfaced recently too. Horizon Forbidden West: Complete Edition became the first PS5 game to ship on two discs, and Final Fantasy VII Rebirth launched as a two-disc release at around 145GB. Generally, though, most games don't exceed 100GB."
+        "title": "What to expect from Gamescom Opening Night Live 2026 – and how to watch it",
+        "description": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surpris...",
+        "fullContent": "Final Fantasy VII Revelation, Gears of War: E-Day, The Witcher 3 and Metro 2039 are among the games already confirmed, but expect plenty of surprises too.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nNext week, the picturesque German city of Cologne will become the centre of the world as far as gamers are concerned. It’s time to brace yourself for 2026’s instalment of Gamescom, which, since the demise of Los Angeles’ E3, has become comfortably the biggest and most significant videogames show on the calendar.\n\nGamescom will take place between 26 and 30 August with, as is customary, Wednesday 26 being reserved for trade admissions only, while the public will be admitted between Thursday 27 and Sunday 30 August. If you’re going to be in the vicinity of Cologne during that time, general admission tickets are still available.\n\nBut the show’s traditional curtain-raiser, Opening Night Live – hosted by the ubiquitous American Geoff Keighley, as has been the case for the past eight years – takes place on August 25. It will kick off at 7 pm BST, with a half-hour pre-show build-up starting at 6.30 pm, and you’ll be able to stream the show.\n\nIn a pre-briefing given by Keighley and various members of the show’s top brass, Keighley confirmed that, among other games, this year’s ONL will showcase the likes of Gears of War E-Day, Final Fantasy VII Revelation (whose director, Naoki Hamaguchi, will make a stage appearance), The Witcher 3’s new Songs of the Past expansion and Metro 2039. He added that ONL will include a live performance of the music from Mewgenics, and there will no doubt be a welter of other games making their first public appearances."
       }
     },
     {
       "id": "ddb6b1159e564a50f142081f1a3e94a9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787467818424_868.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787489441616_222.jpg",
       "link": "https://www.jpost.com/international/article-906263",
       "en": {
         "title": "US Army offer four-day pass to play GTA VI for at least two more years of service - report",
@@ -79,6 +63,22 @@
         "title": "US Army offer four-day pass to play GTA VI for at least two more years of service - report",
         "description": "A US Army unit in Georgia is offering active duty service members a four-day pass to play the highly anticipated Grand Theft Auto VI video game in ...",
         "fullContent": "A US Army unit in Georgia is offering active duty service members a four-day pass to play the highly anticipated Grand Theft Auto VI video game in exchange for at least two more years of service, CBS News reported Wednesday.\n\nThe report cited a memo that first appeared on US Army WTF! Moments, which says any soldier who signs a reenlistment contract between Aug. 1 and Nov. 14 will be authorized for a special four-day pass designated to coincide with \"the highly anticipated release of the video game Grand Theft Auto VI (GTA 6).\"\n\nIn exchange for the four-day playing pass, active duty soldiers would reenlist for a minimum of two years and up to six years.\n\nTask & Purpose and Military.com were the first to authenticate the memo, the report said.\n\nThe offer was proposed exclusively for one battalion in Georgia, but the program could be expanded across the military.\n\nTwenty soldiers at Fort Stewart in Georgia in the Army's 9th Brigade Engineering Battalion, part of the 3rd Infantry Division, have already agreed to the incentive, and approximately 130 soldiers are currently eligible for the offer."
+      }
+    },
+    {
+      "id": "381d5748d6806b44e17495124878c3b1",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1787489442884_83.jpg",
+      "link": "https://mashable.com/entertainment/latest-gta6-leaks-reveal-strip-club-setting-and-new-slow-motion-camera",
+      "en": {
+        "title": "Latest 'GTA 6' leaks reveal strip club setting and new slow-motion camera",
+        "description": "Grand Theft Auto VI is being plagued by more leaks than a sinking ship, beginning with the trailer three years ago, and continuing into this week w...",
+        "fullContent": "Grand Theft Auto VI is being plagued by more leaks than a sinking ship, beginning with the trailer three years ago, and continuing into this week with a gameplay release that sees the protagonist, Jason Duval, robbing a gas station convenience store, escaping in a car, suffering a slow-motion car crash, and then escaping into a strip club.\n\nSome of these gameplay elements will definitely be familiar to long-time fans of the series, but the slow-motion camera interrupting the regular game speed is definitely a novelty, and probably something Rockstar Games wanted to keep secret, given that Rockstar still hasn't revealed actual gameplay.\n\nIn fact, they've been saving the biggest reveal for a Netflix launch on Thursday, Aug. 27th at 3 p.m. ET, which is itself an unprecedented move for a game release.\n\nBehind the scenes, Rockstar Games and parent company Take-Two are working hard to discover the source of the leaks, reportedly even having been granted subpoenas for GitHub, Microsoft, and Discord server records by a federal court, which they allege will help them uncover the culprits.\n\nEven Xbox CTO Scott Van Vliet has weighed in on the issue, promising to support efforts to stop the theft, saying in a post on X that \"[Xbox] are working closely with Take-Two and Rockstar Games to support efforts to protect creative works and intellectual property.\"\n\nThe main leaker, using the alias Cyberleeks, is so confident in his IP theft that he's now charging up to $165,000 (in cryptocurrency) to anyone wanting to advertise in his leaked footage, according to Yahoo Tech."
+      },
+      "es": {
+        "title": "Latest 'GTA 6' leaks reveal strip club setting and new slow-motion camera",
+        "description": "Grand Theft Auto VI is being plagued by more leaks than a sinking ship, beginning with the trailer three years ago, and continuing into this week w...",
+        "fullContent": "Grand Theft Auto VI is being plagued by more leaks than a sinking ship, beginning with the trailer three years ago, and continuing into this week with a gameplay release that sees the protagonist, Jason Duval, robbing a gas station convenience store, escaping in a car, suffering a slow-motion car crash, and then escaping into a strip club.\n\nSome of these gameplay elements will definitely be familiar to long-time fans of the series, but the slow-motion camera interrupting the regular game speed is definitely a novelty, and probably something Rockstar Games wanted to keep secret, given that Rockstar still hasn't revealed actual gameplay.\n\nIn fact, they've been saving the biggest reveal for a Netflix launch on Thursday, Aug. 27th at 3 p.m. ET, which is itself an unprecedented move for a game release.\n\nBehind the scenes, Rockstar Games and parent company Take-Two are working hard to discover the source of the leaks, reportedly even having been granted subpoenas for GitHub, Microsoft, and Discord server records by a federal court, which they allege will help them uncover the culprits.\n\nEven Xbox CTO Scott Van Vliet has weighed in on the issue, promising to support efforts to stop the theft, saying in a post on X that \"[Xbox] are working closely with Take-Two and Rockstar Games to support efforts to protect creative works and intellectual property.\"\n\nThe main leaker, using the alias Cyberleeks, is so confident in his IP theft that he's now charging up to $165,000 (in cryptocurrency) to anyone wanting to advertise in his leaked footage, according to Yahoo Tech."
       }
     }
   ]
