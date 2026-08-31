@@ -1,26 +1,10 @@
 {
-  "updatedAt": 1788152057027,
+  "updatedAt": 1788182179044,
   "articles": [
-    {
-      "id": "d52cd4fe1e0f92377a23f2e993c43c3f",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788152050205_754.jpg",
-      "link": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
-      "en": {
-        "title": "The Wildest Video Game Budgets Can't Hold A Candle To GTA 6",
-        "description": "The latest Grand Theft Auto is thought to be the most expensive entertainment product ever made.",
-        "fullContent": "The latest Grand Theft Auto is thought to be the most expensive entertainment product ever made.\n\nWhen you think about the most expensive entertainment productions ever created, video games are likely not the first thing that comes to mind. Hollywood studios routinely spend hundreds of millions of dollars on a single movie that can have a multi-year production schedule. But video games have actually become just as expensive to produce of late, sometimes even surpassing major films. Case in point: Grand Theft Auto VI looks set to become the most expensive game ever created.\n\nWhile Rockstar Games hasn't publicly disclosed how much it has spent so far, analysts peg the estimated budget at well over $1 billion, with some putting the current figure at around $1.5 billion. That puts GTA VI in rarefied territory, as it outpaces the known budgets of both major theatrical releases and other AAA games. So what has caused video game development to become so expensive and why is GTA VI's budget in particular eclipsing other big names?\n\nA billion-dollar video game budget may seem surprising at first glance, but it starts to make sense once you consider that a modern game often has just as many moving pieces as a Hollywood production. You need actors, writers, programmers, animators, designers and composers among others to make an expansive open-world game. And short of a few outliers like the Avatar series, movies are typically in active production for a couple of years. GTA VI has been in active development for closer to a decade. Once a game is nearing completion, it usually goes through a rigorous testing process that requires yet another team.\n\nApart from a handful of indie breakthroughs, it's common for game budgets to quickly spiral into the double or triple-digit millions these days. Game development can also take several years, with hundreds of employees dedicated to a single project.\n\nDevelopment costs and timelines have been steadily rising, though. In 2023, court documents revealed that Sony Interactive Entertainment had spent $212 million on Horizon Forbidden West and $220 million on The Last of Us: Part II."
-      },
-      "es": {
-        "title": "The Wildest Video Game Budgets Can't Hold A Candle To GTA 6",
-        "description": "The latest Grand Theft Auto is thought to be the most expensive entertainment product ever made.",
-        "fullContent": "The latest Grand Theft Auto is thought to be the most expensive entertainment product ever made.\n\nWhen you think about the most expensive entertainment productions ever created, video games are likely not the first thing that comes to mind. Hollywood studios routinely spend hundreds of millions of dollars on a single movie that can have a multi-year production schedule. But video games have actually become just as expensive to produce of late, sometimes even surpassing major films. Case in point: Grand Theft Auto VI looks set to become the most expensive game ever created.\n\nWhile Rockstar Games hasn't publicly disclosed how much it has spent so far, analysts peg the estimated budget at well over $1 billion, with some putting the current figure at around $1.5 billion. That puts GTA VI in rarefied territory, as it outpaces the known budgets of both major theatrical releases and other AAA games. So what has caused video game development to become so expensive and why is GTA VI's budget in particular eclipsing other big names?\n\nA billion-dollar video game budget may seem surprising at first glance, but it starts to make sense once you consider that a modern game often has just as many moving pieces as a Hollywood production. You need actors, writers, programmers, animators, designers and composers among others to make an expansive open-world game. And short of a few outliers like the Avatar series, movies are typically in active production for a couple of years. GTA VI has been in active development for closer to a decade. Once a game is nearing completion, it usually goes through a rigorous testing process that requires yet another team.\n\nApart from a handful of indie breakthroughs, it's common for game budgets to quickly spiral into the double or triple-digit millions these days. Game development can also take several years, with hundreds of employees dedicated to a single project.\n\nDevelopment costs and timelines have been steadily rising, though. In 2023, court documents revealed that Sony Interactive Entertainment had spent $212 million on Horizon Forbidden West and $220 million on The Last of Us: Part II."
-      }
-    },
     {
       "id": "9a624a865add2a54bfd66eb4af820c61",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788152052304_594.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788182171313_464.jpg",
       "link": "https://www.theguardian.com/games/ng-interactive/2026/aug/31/the-biggest-video-games-for-autumn-2026-gta-vi",
       "en": {
         "title": "Gems, ghosts and GTA VI: the biggest video games for autumn 2026",
@@ -34,9 +18,25 @@
       }
     },
     {
+      "id": "19fd1352aef1d46a1e27424a723c37ad",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788182173247_258.jpg",
+      "link": "https://www.videogameschronicle.com/news/take-two-says-its-investigation-into-the-gta-6-leaker-is-rapidly-evolving-as-it-requests-another-discord-subpoena/",
+      "en": {
+        "title": "Take-Two says its investigation into the GTA 6 leaker is ‘rapidly evolving’ as it requests another Discord subpoena",
+        "description": "It’s also asked for the details to be kept secret so it doesn’t “tip off the alleged infringers”",
+        "fullContent": "It’s also asked for the details to be kept secret so it doesn’t “tip off the alleged infringers”\n\nTake-Two has said its investigation into identifying the person or people who leaked Grand Theft Auto 6 footage is “rapidly evolving”.\n\nEarlier this month, a group known as ‘Cyberleek’ started posting what appeared to be authentic gameplay clips from Grand Theft Auto 6, days before its official Netflix reveal.\n\nRe-uploads of the leak across social media channels racked up millions of views, and Take-Two said it was issuing subpoenas petitioning Microsoft and Discord for information that could point them to the leaker. It then followed this with subsequent subpoena requests for X and YouTube.\n\nAt the time, Discord marketing director Ryan Rigney said that it had yet to be served with the subpoena, but that it would “evaluate the validity and scope before responding” when it did arrive.\n\nNow, as reported by TorrentFreak, Take-Two has posted a new court filing requesting a second subpoena to be sent to Discord, but this time with its details kept private."
+      },
+      "es": {
+        "title": "Take-Two says its investigation into the GTA 6 leaker is ‘rapidly evolving’ as it requests another Discord subpoena",
+        "description": "It’s also asked for the details to be kept secret so it doesn’t “tip off the alleged infringers”",
+        "fullContent": "It’s also asked for the details to be kept secret so it doesn’t “tip off the alleged infringers”\n\nTake-Two has said its investigation into identifying the person or people who leaked Grand Theft Auto 6 footage is “rapidly evolving”.\n\nEarlier this month, a group known as ‘Cyberleek’ started posting what appeared to be authentic gameplay clips from Grand Theft Auto 6, days before its official Netflix reveal.\n\nRe-uploads of the leak across social media channels racked up millions of views, and Take-Two said it was issuing subpoenas petitioning Microsoft and Discord for information that could point them to the leaker. It then followed this with subsequent subpoena requests for X and YouTube.\n\nAt the time, Discord marketing director Ryan Rigney said that it had yet to be served with the subpoena, but that it would “evaluate the validity and scope before responding” when it did arrive.\n\nNow, as reported by TorrentFreak, Take-Two has posted a new court filing requesting a second subpoena to be sent to Discord, but this time with its details kept private."
+      }
+    },
+    {
       "id": "b4ac8189de279a29da0edef413cf21c0",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788152053906_605.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788182175703_34.jpg",
       "link": "https://www.svg.com/2243564/best-super-mario-video-games-ranked/",
       "en": {
         "title": "5 Best Super Mario Video Games Of All Time, Ranked",
@@ -50,25 +50,9 @@
       }
     },
     {
-      "id": "b628a9e7c6e87e847eb93c1abb40c851",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788152055400_593.jpg",
-      "link": "https://bleacherreport.com/articles/25494532-nba-2k27-review-gameplay-impressions-videos-and-top-features",
-      "en": {
-        "title": "NBA 2K27 Review, Gameplay Impressions, Videos and Top Features",
-        "description": "NBA 2K27 from developer Visual Concepts is another effort in the series aimed at walking the tightrope between modern upgrades and catering to play...",
-        "fullContent": "NBA 2K27 from developer Visual Concepts is another effort in the series aimed at walking the tightrope between modern upgrades and catering to player feedback.\n\nIt's a tough balance to seek, no doubt. Last year's game kept pushing things in realistic directions on and off the court, while also listening to player feedback when it comes to shot meters and specific systems.\n\nThis year? More of the same, in a good way, with a push to get more realistic-feeling things on the court and finer control over the many systems off it.\n\nThe best entry yet thing is starting to become a cliché, sure, but NBA 2K27 has a shot at it once more thanks to measured upgrades atop a strong foundation.\n\nOne glance says the gameplay in NBA 2K27 is a leap. There's obvious new cutoff angles and droves of more dynamic animations, at the hoop amid contact or otherwise.\n\nThe strive for freshness and realism this year takes a Shai Gilgeous-Alexander slant with the long-awaited inclusion of the step-through up-and-under, which adds a more dynamic option to the gameplay, for the ball-handler and defender alike."
-      },
-      "es": {
-        "title": "NBA 2K27 Review, Gameplay Impressions, Videos and Top Features",
-        "description": "NBA 2K27 from developer Visual Concepts is another effort in the series aimed at walking the tightrope between modern upgrades and catering to play...",
-        "fullContent": "NBA 2K27 from developer Visual Concepts is another effort in the series aimed at walking the tightrope between modern upgrades and catering to player feedback.\n\nIt's a tough balance to seek, no doubt. Last year's game kept pushing things in realistic directions on and off the court, while also listening to player feedback when it comes to shot meters and specific systems.\n\nThis year? More of the same, in a good way, with a push to get more realistic-feeling things on the court and finer control over the many systems off it.\n\nThe best entry yet thing is starting to become a cliché, sure, but NBA 2K27 has a shot at it once more thanks to measured upgrades atop a strong foundation.\n\nOne glance says the gameplay in NBA 2K27 is a leap. There's obvious new cutoff angles and droves of more dynamic animations, at the hoop amid contact or otherwise.\n\nThe strive for freshness and realism this year takes a Shai Gilgeous-Alexander slant with the long-awaited inclusion of the step-through up-and-under, which adds a more dynamic option to the gameplay, for the ball-handler and defender alike."
-      }
-    },
-    {
       "id": "6e3cfe77200f4388f020aa59a745a089",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788152057021_816.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788182177048_6.jpg",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
       "en": {
         "title": "Massive 12TB Steam leak reveals decades of unreleased games — archived files include unseen Half-Life 2: Episode 3 builds and assets",
@@ -79,6 +63,22 @@
         "title": "Massive 12TB Steam leak reveals decades of unreleased games — archived files include unseen Half-Life 2: Episode 3 builds and assets",
         "description": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.",
         "fullContent": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nValve might've just suffered its biggest data leak in history, but it wasn't a hack or a security breach. Instead, the company left an endpoint to its legacy infrastructure accessible to the public, from where archivists extracted 12-13TB of old game content. The files are still being explored, but we know they include both Valve's internal projects and third-party releases, with an early weapon asset from Half-Life 2 Episode 3 being the key discovery, along with scrapped Portal 2 concepts.\n\nThe archive consists of old Steam content-server data from 2003 to 2013, overlapping with the timeline of the platform's upgrade from the old Steam2 system to SteamPipe. Valve used to distribute games via proprietary NCF (No-Cache File) and GCF (Grid Cache File) formats during the Steam2 era before it transitioned to a standard HTTP file-tree system around March 2013. Therefore, this dump basically acts like a preserved time capsule.\n\nDuring this period, Valve was a much more active game developer, so we get a rare insight into their projects. First up is Left 4 Dead, and the files include an entire early build of the game from June 2008. It has a different HUD, different voice lines cut from the retail release, altered sections of the map, and many unfinished early assets that Valve was recycling from the Terror Strike mod (for Counter-Strike: Condition Zero).\n\nleft 4 dead 2 beta dead center map #2the exterior outside of the hotel leads you across the street instead of right, directly to the gunstore.this is like whiplash nothing is the same, its like a dream sequence of what im used to pic.twitter.com/AIcvykRe80August 30, 2026\n\nThen, there's Portal 2, which is actually said to have been hit the hardest, and modders have similarly reconstructed a playable build from the files. It's a beta dating back to July 2009 when the game was still in its Core Hub era before that concept was scrapped in favor of a more direct sequel. We also get to see early assets from the F-Stop prequel that was in development the year prior, featuring camera mechanics for gameplay."
+      }
+    },
+    {
+      "id": "0f53ecb0fc2f310b4c6d1c5d4eb61839",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788182179007_612.jpg",
+      "link": "https://80.lv/articles/12-tb-of-valve-s-old-game-builds-reportedly-appeared-online",
+      "en": {
+        "title": "12 TB of Valve's Old Game Builds Reportedly Appeared Online",
+        "description": "Early builds for Portal 2, CS: GO, Left 4 Dead, and more are in the archive.",
+        "fullContent": "Early builds for Portal 2, CS: GO, Left 4 Dead, and more are in the archive.\n\nValve may have experienced one of the largest leaks, with 12 TB of internal builds of some of its titles, including Half-Life 2: Episode Three, Portal 2, Left 4 Dead, and Counter-Strike: Global Offensive, alongside other games from the Steam library, like GTA 5, appearing online.\n\nThe leak, spotted on August 29, includes materials from 2003 to 2013, right around the time Steam upgraded from its old Steam2 setup to SteamPipe. The materials are chunks of information obtained by data miners, with no known original source. As Gabe Follower notes, most of them are early builds of the old games.\n\nOne of the most attention-grabbing parts of the leaked materials is early builds for Portal 2. One of them is material for a game that was eventually replaced in Portal 2: F-Stop, where players had to transfer objects to another location by capturing them on camera. Another glimpse of the portal-based eerie game is a gel that changes how players interact with the environment through physics.\n\nThe archive also contains CS: GO builds, including one dated March 23, 2011, with never-before-seen maps and character models. Left 4 Dead and Dota 2 materials also feature unreleased maps that look different from the ones that made it to the final version. One notable find in the leak is the Weaponizer, a weapon that never made it past development, rumored to have been planned for Half-Life 2's canceled third episode.\n\nSubscribe to our Newsletter, join our 80 Level Talent platform, Discord, and follow us on Twitter, LinkedIn, Telegram, and Instagram, where we share breakdowns, the latest news, awesome artworks, and more."
+      },
+      "es": {
+        "title": "12 TB of Valve's Old Game Builds Reportedly Appeared Online",
+        "description": "Early builds for Portal 2, CS: GO, Left 4 Dead, and more are in the archive.",
+        "fullContent": "Early builds for Portal 2, CS: GO, Left 4 Dead, and more are in the archive.\n\nValve may have experienced one of the largest leaks, with 12 TB of internal builds of some of its titles, including Half-Life 2: Episode Three, Portal 2, Left 4 Dead, and Counter-Strike: Global Offensive, alongside other games from the Steam library, like GTA 5, appearing online.\n\nThe leak, spotted on August 29, includes materials from 2003 to 2013, right around the time Steam upgraded from its old Steam2 setup to SteamPipe. The materials are chunks of information obtained by data miners, with no known original source. As Gabe Follower notes, most of them are early builds of the old games.\n\nOne of the most attention-grabbing parts of the leaked materials is early builds for Portal 2. One of them is material for a game that was eventually replaced in Portal 2: F-Stop, where players had to transfer objects to another location by capturing them on camera. Another glimpse of the portal-based eerie game is a gel that changes how players interact with the environment through physics.\n\nThe archive also contains CS: GO builds, including one dated March 23, 2011, with never-before-seen maps and character models. Left 4 Dead and Dota 2 materials also feature unreleased maps that look different from the ones that made it to the final version. One notable find in the leak is the Weaponizer, a weapon that never made it past development, rumored to have been planned for Half-Life 2's canceled third episode.\n\nSubscribe to our Newsletter, join our 80 Level Talent platform, Discord, and follow us on Twitter, LinkedIn, Telegram, and Instagram, where we share breakdowns, the latest news, awesome artworks, and more."
       }
     }
   ]
