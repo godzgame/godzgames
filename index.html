@@ -5,15 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>GodZGames</title>
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+    <link rel="apple-touch-icon" href="/favicon.jpg" />
     <!-- SEO & Social Media Meta Tags -->
-    <meta name="description" content="Descarga los mejores videojuegos para todas las consolas. Switch, PS5, PC, retro y más. ¡Encuentra tu próximo juego favorito en GodZGames!" />
-    <meta name="keywords" content="videojuegos, descargar juegos, juegos gratis, switch, ps5, pc, emuladores, roms" />
+    <meta name="description" content="Descubre las últimas noticias, análisis exhaustivos y guías detalladas sobre tus videojuegos favoritos para Switch, PS5, PC, retro y más. ¡Encuentra tu próximo juego favorito en GodZGames!" />
+    <meta name="keywords" content="videojuegos, noticias videojuegos, análisis de juegos, guías gaming, ofertas videojuegos, hardware, switch, ps5, pc, retro" />
     <meta name="author" content="GodZGames" />
     
     <!-- Open Graph (Facebook, WhatsApp, Discord) -->
-    <meta property="og:title" content="GodZGames - Descarga los mejores videojuegos" />
-    <meta property="og:description" content="Encuentra y descarga los mejores videojuegos para PC, Switch, PlayStation y consolas retro. ¡Totalmente gratis!" />
+    <meta property="og:title" content="GodZGames - Portal de Noticias y Análisis de Videojuegos" />
+    <meta property="og:description" content="Encuentra las mejores noticias, reviews y guías detalladas para PC, Switch, PlayStation y consolas retro." />
     <meta property="og:image" content="https://www.godzgames.com/logo.png" />
     <meta property="og:url" content="https://www.godzgames.com" />
     <meta property="og:type" content="website" />
@@ -21,8 +22,8 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="GodZGames - Descarga los mejores videojuegos" />
-    <meta name="twitter:description" content="Encuentra y descarga los mejores videojuegos para PC, Switch, PlayStation y consolas retro." />
+    <meta name="twitter:title" content="GodZGames - Noticias y Análisis de Videojuegos" />
+    <meta name="twitter:description" content="Encuentra las mejores noticias, reviews y guías detalladas para PC, Switch, PlayStation y consolas retro." />
     <meta name="twitter:image" content="https://www.godzgames.com/logo.png" />
 
     <!-- Fonts -->
@@ -30,6 +31,16 @@
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
+    <!-- IAB TCF v2.2 CMP Placeholder (Cookie Consent) -->
+    <div id="cmp-banner" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: var(--color-bg-surface); padding: 20px; z-index: 9999; border-top: 1px solid var(--border-color); text-align: center;">
+      <p style="margin-bottom: 10px; font-size: 0.9rem;">Usamos cookies para personalizar el contenido, anuncios y analizar nuestro tráfico. Al continuar navegando, aceptas nuestra <a href="/?page=politica-privacidad" style="color: var(--color-primary);">política de privacidad</a>.</p>
+      <button onclick="document.getElementById('cmp-banner').style.display='none'" class="admin-btn" style="padding: 5px 15px;">Aceptar</button>
+    </div>
+
+    <!-- Top Header Ad Slot -->
+    <div class="ad-slot ad-header" style="width: 100%; max-width: 728px; height: 90px; margin: 10px auto; background: rgba(255,255,255,0.05); display: none; align-items: center; justify-content: center; color: #666; font-size: 0.8rem; border: 1px dashed rgba(255,255,255,0.1);">
+      Advertisement (728x90)
+    </div>
     <!-- Header -->
     <header class="header container">
       <div class="logo">
@@ -62,18 +73,23 @@
           <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
         </div>
         <ul class="nav-links" id="nav-links">
-          <!-- Categories will be injected here -->
+          <li><a href="#" data-category="ALL" class="active">TODO</a></li>
+          <li><a href="#" data-category="NOTICIAS">NOTICIAS</a></li>
+          <li><a href="#" data-category="ANALISIS">ANÁLISIS</a></li>
+          <li><a href="#" data-category="GUIAS">GUÍAS</a></li>
+          <li><a href="#" data-category="OFERTAS">OFERTAS</a></li>
+          <li><a href="#" data-category="HARDWARE">HARDWARE</a></li>
         </ul>
       </div>
     </nav>
 
-    <!-- Tags -->
-    <div class="tags-bar container">
-      <span class="tag-label" data-i18n="popularConsoles">Popular Consoles:</span>
-      <div class="tags-list" id="tags-list">
-        <!-- Tags injected here -->
-      </div>
-    </div>
+          <!-- Consoles Filter / Tags -->
+          <div class="tags-container" style="display: none;">
+            <span class="tags-label" data-i18n="popularConsoles">Categorías:</span>
+            <div class="tags-list" id="tags-list">
+              <!-- Dynamically populated if needed -->
+            </div>
+          </div>
 
     <!-- News Flash Ticker -->
     <div class="news-flash container">
@@ -96,7 +112,7 @@
         <!-- Popular Stories / Games -->
         <section class="popular-games">
           <h2 class="section-title">
-            <span data-i18n="popularGames">Popular Games</span> 
+            <span data-i18n="popularGames">Últimos Análisis y Guías</span> 
             <span class="line"></span>
             <button id="toggle-news-btn" class="admin-btn-secondary" style="font-size: 12px; padding: 4px 10px; margin-left: 10px; display: none;">Mostrar Noticias</button>
           </h2>
@@ -111,6 +127,10 @@
 
       <div id="game-view" style="display: none;">
         <!-- Dynamic Game Details Page will be injected here -->
+      </div>
+
+      <div id="news-view" style="display: none;">
+        <!-- Dynamic News Page will be injected here -->
       </div>
 
       <!-- Administration View -->
@@ -151,7 +171,16 @@
               <button id="admin-logout-btn" class="admin-btn-secondary">Cerrar Sesión</button>
             </div>
           </div>
-          <div id="admin-import-status" class="admin-status-message" style="display: none; margin-bottom: 20px; padding: 12px; border-radius: var(--radius-sm);"></div>
+
+          <!-- Admin Tabs -->
+          <div class="admin-tabs" style="display: flex; gap: 10px; margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
+            <button class="admin-btn active" id="tab-btn-games">Gestor de Juegos</button>
+            <button class="admin-btn-secondary" id="tab-btn-calendar">Calendario Editorial</button>
+          </div>
+
+          <!-- TAB: Games Manager -->
+          <div id="admin-tab-games">
+            <div id="admin-import-status" class="admin-status-message" style="display: none; margin-bottom: 20px; padding: 12px; border-radius: var(--radius-sm);"></div>
 
           <!-- Scraping Control Panel -->
           <div class="scrape-panel" id="scrape-panel">
@@ -222,6 +251,37 @@
               </table>
             </div>
           </div>
+            </div>
+          </div>
+          <!-- END TAB: Games Manager -->
+
+          <!-- TAB: Editorial Calendar -->
+          <div id="admin-tab-calendar" style="display: none;">
+             <div class="admin-header-row" style="margin-bottom: 20px;">
+               <h3>Planificación de Contenido</h3>
+               <div style="display: flex; gap: 10px;">
+                 <button id="admin-calendar-add-btn" class="admin-btn">Nuevo Evento</button>
+                 <button id="admin-calendar-toggle-view" class="admin-btn-secondary">Ver Cuadrícula Mensual</button>
+               </div>
+             </div>
+             
+             <!-- List View -->
+             <div id="admin-calendar-list-view">
+               <div class="admin-table-container">
+                 <table class="admin-games-table">
+                   <thead><tr><th>Fecha</th><th>Tipo</th><th>Título</th><th>Estado</th><th style="width: 250px; text-align: center;">Acciones</th></tr></thead>
+                   <tbody id="admin-calendar-tbody"></tbody>
+                 </table>
+               </div>
+             </div>
+             
+             <!-- Grid View -->
+             <div id="admin-calendar-grid-view" style="display: none;">
+               <!-- Calendar grid generated via JS -->
+               <div id="admin-calendar-grid-container" style="background: var(--color-bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 20px;"></div>
+             </div>
+          </div>
+          <!-- END TAB: Editorial Calendar -->
         </div>
 
         <!-- 3. Admin Game Editor Form -->
@@ -352,53 +412,95 @@
               </div>
             </div>
 
-            <div class="editor-section">
-              <h3>Enlaces de Descarga (Mirrors)</h3>
-              <div class="form-group">
-                <label for="admin-edit-link1">Mirror 1 (1fichier Link)</label>
-                <input type="text" id="admin-edit-link1" required />
-              </div>
-              <div class="form-group">
-                <label for="admin-edit-link2">Mirror 2 (Mega Mirror)</label>
-                <input type="text" id="admin-edit-link2" required />
-              </div>
-              <div class="form-group">
-                <label for="admin-edit-link3">Mirror 3 (Google Drive Mirror)</label>
-                <input type="text" id="admin-edit-link3" required />
-              </div>
-            </div>
+
 
             <button id="admin-save-btn" class="admin-btn-save">Guardar Cambios</button>
             <div id="admin-edit-status" class="admin-status-message" style="display: none;"></div>
           </form>
         </div>
+
+        <!-- 4. Admin Calendar Event Editor Form -->
+        <div id="admin-calendar-editor" class="admin-card" style="display: none;">
+          <div class="admin-editor-header">
+            <button id="admin-calendar-editor-back" class="admin-btn-back">&larr; Volver</button>
+            <h2 id="admin-calendar-editor-title">Editar Evento</h2>
+          </div>
+          <form id="admin-calendar-edit-form">
+            <input type="hidden" id="admin-calendar-id" />
+            
+            <div class="editor-section">
+              <h3>Datos del Evento</h3>
+              <div class="form-group">
+                <label for="admin-calendar-title">Título del Evento *</label>
+                <input type="text" id="admin-calendar-title" required />
+              </div>
+              <div class="form-group-row" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                <div class="form-group">
+                  <label for="admin-calendar-date">Fecha *</label>
+                  <input type="date" id="admin-calendar-date" required />
+                </div>
+                <div class="form-group">
+                  <label for="admin-calendar-type">Tipo *</label>
+                  <select id="admin-calendar-type" required style="width: 100%; padding: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border-color); color: #fff; border-radius: var(--radius-sm);">
+                    <option value="lanzamiento">🔴 Lanzamiento</option>
+                    <option value="evento_industria">🟣 Evento Industria</option>
+                    <option value="evergreen">🟢 Evergreen / Guía</option>
+                    <option value="promo">🟡 Promo / Oferta</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group-row" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                <div class="form-group">
+                  <label for="admin-calendar-status">Estado *</label>
+                  <select id="admin-calendar-status" required style="width: 100%; padding: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border-color); color: #fff; border-radius: var(--radius-sm);">
+                    <option value="idea">Idea / Propuesta</option>
+                    <option value="en_redaccion">En Redacción (Borrador)</option>
+                    <option value="programado">Programado</option>
+                    <option value="publicado">Publicado</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="admin-calendar-gameid">ID de Juego Relacionado (Opcional)</label>
+                  <input type="text" id="admin-calendar-gameid" placeholder="Ej: a30c4695" />
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="admin-calendar-notes">Notas / Descripción</label>
+                <textarea id="admin-calendar-notes" rows="3" placeholder="Detalles de la cobertura, ideas..."></textarea>
+              </div>
+              <div class="form-group">
+                <label for="admin-calendar-filepath">Ruta del Archivo (Autogenerado)</label>
+                <input type="text" id="admin-calendar-filepath" disabled style="opacity: 0.5;" />
+              </div>
+            </div>
+
+            <button type="submit" id="admin-calendar-save-btn" class="admin-btn-save">Guardar Evento</button>
+            <div id="admin-calendar-edit-status" class="admin-status-message" style="display: none;"></div>
+          </form>
+        </div>
+      <!-- Legal View -->
+      <div id="legal-view" style="display: none; max-width: 800px; margin: 0 auto; background: var(--color-bg-surface); padding: 40px; border-radius: var(--radius-lg);">
+        <h1 id="legal-title" style="font-family: var(--font-heading); margin-bottom: 20px;"></h1>
+        <div id="legal-content" style="line-height: 1.6;"></div>
       </div>
     </main>
 
-    <!-- Footer -->
     <footer class="footer">
-      <div class="container footer-content" style="display: flex; justify-content: center; align-items: center;">
+      <div class="container footer-content" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+        <div class="footer-links" style="display: flex; gap: 20px; font-size: 0.9rem;">
+          <a href="/?page=sobre-nosotros" onclick="window.navigateTo(event, '/?page=sobre-nosotros')">Sobre Nosotros</a>
+          <a href="/?page=politica-privacidad" onclick="window.navigateTo(event, '/?page=politica-privacidad')">Política de Privacidad</a>
+          <a href="/?page=terminos-uso" onclick="window.navigateTo(event, '/?page=terminos-uso')">Términos de Uso</a>
+          <a href="/?page=contacto" onclick="window.navigateTo(event, '/?page=contacto')">Contacto</a>
+        </div>
+        <p style="font-size: 0.8rem; color: #888; text-align: center; max-width: 600px; margin-top: 10px;">
+          Este sitio participa en programas de afiliados de Amazon y Mercado Libre y puede recibir comisión por compras calificadas.
+        </p>
         <p data-i18n="footer">&copy; 2026 GodZGames. All Rights Reserved.</p>
       </div>
     </footer>
 
-    <!-- News Modal -->
-    <div class="news-modal" id="news-modal" style="display: none;">
-      <div class="modal-backdrop" id="modal-backdrop"></div>
-      <div class="modal-container">
-        <button class="modal-close" id="modal-close" aria-label="Close modal">&times;</button>
-        <div class="modal-image-wrap">
-          <img id="modal-image" src="" alt="News Image" />
-        </div>
-        <div class="modal-content">
-          <span class="modal-tag" id="modal-tag">NEWS</span>
-          <h2 class="modal-title" id="modal-title">News Title</h2>
-          <div class="modal-body" id="modal-body">
-            <!-- Full content paragraphs go here -->
-          </div>
-        </div>
-      </div>
-    </div>
+    <!-- Removed old News Modal -->
 
     <script type="module" src="/src/main.js"></script>
 
@@ -441,10 +543,7 @@
               <input type="text" id="add-game-cover" placeholder="https://... (opcional)" />
             </div>
           </div>
-          <div class="form-group">
-            <label for="add-game-link">Enlace de Descarga</label>
-            <input type="text" id="add-game-link" placeholder="https://... (opcional)" />
-          </div>
+
           <div id="add-game-error" class="admin-error" style="display:none;"></div>
           <div class="add-game-footer">
             <button type="button" id="add-game-cancel-btn" class="admin-btn-secondary">Cancelar</button>

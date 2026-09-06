@@ -1,37 +1,115 @@
-name: Update News Automatically
+name: Actualizar Noticias y Desplegar a SiteGround
 
 on:
   schedule:
-    # Ejecutar cada 6 horas
+    # Ejecutar cada 6 horas (00:00, 06:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub si quieres
+  workflow_dispatch: # Permite lanzarlo manualmente desde GitHub
 
 permissions:
-  contents: write # Permiso para que el bot pueda guardar los cambios en el repo
+  contents: write # Necesario para que el bot pueda hacer commit
 
 jobs:
-  update-news:
+  update-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # 1. Descargar el código del repositorio
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # 2. Configurar Node.js v20
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
+      # 3. Instalar dependencias
       - name: Install Dependencies
-        run: npm ci || npm install
+        run: npm ci
 
-      - name: Generate New AI News
+      # 4. Generar noticias con Groq
+      #    GROQ_API_KEY se inyecta como variable de entorno de proceso (server-side).
+      #    Vite NO la incluye en el bundle del navegador porque no tiene prefijo VITE_.
+      - name: Generate AI News (update_news.cjs)
         run: node scripts/update_news.cjs
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
-      - name: Commit and Push Changes
+      # 5. Commit solo si hay cambios en noticias o imágenes
+      - name: Commit news changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/latest_news.json
           git add public/uploads/
-          git commit -m "Auto-update: Noticias generadas por IA [skip ci]" || echo "No changes to commit"
-          git push
+          git diff --staged --quiet \
+            && echo "Sin cambios en noticias, continuando con build..." \
+            || git commit -m "Auto-update: Noticias frescas generadas por Groq [skip ci]"
+          git push || echo "Nada que empujar."
+
+      # 6. Compilar el proyecto (genera dist/)
+      - name: Build Project (npm run build)
+        run: npm run build
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+      # 7. Desplegar dist/ a SiteGround vía SFTP (puerto 22, cifrado)
+      #
+      # SOBRE dangerous-clean-slate:
+      #   Borra en el servidor los archivos que ya NO existen en dist/ antes de subir.
+      #   Esto evita la acumulación de archivos obsoletos con cada despliegue.
+      #
+      # EXCLUSIONES (archivos/carpetas que NO se tocan en el servidor):
+      #
+      #   uploads/games/        → Fotos de juegos subidas manualmente desde el panel admin.
+      #                           No vienen en dist/ pero deben persistir en el servidor.
+      #
+      #   cgi-bin/              → Directorio estándar de Apache/SiteGround. SiteGround lo
+      #                           crea automáticamente y puede contener scripts del sistema.
+      #
+      #   .well-known/          → CRÍTICO para SSL. Let's Encrypt y SiteGround usan esta
+      #                           carpeta para renovar certificados TLS automáticamente.
+      #                           Si se borra, el certificado SSL no puede renovarse y el
+      #                           sitio mostraría el error "conexión no segura" al vencer.
+      #
+      #   .htpasswd             → Si SiteGround o tú mismo protegisteis alguna carpeta con
+      #                           contraseña vía cPanel, este archivo controla el acceso.
+      #
+      #   php.ini / php_errors.log / error_log
+      #                         → Archivos de configuración y logs que SiteGround puede
+      #                           generar en public_html. No deben borrarse.
+      #
+      #   tmp/                  → Carpeta temporal que algunos plugins/herramientas de
+      #                           SiteGround usan para archivos de sesión y caché.
+      #
+      #   .sgcache/             → Caché interna de SiteGround SuperCacher.
+      #
+      # FTP_SERVER   = ftp.godzgames.com
+      # FTP_USERNAME  = github-deploy@godzgames.com
+      # FTP_PASSWORD  = (guárdala en GitHub Secrets)
+      - name: Deploy to SiteGround via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          protocol: ftp
+          local-dir: ./dist/
+          server-dir: /public_html/
+          dangerous-clean-slate: true
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            uploads/games/**
+            cgi-bin/**
+            .well-known/**
+            .htpasswd
+            php.ini
+            php_errors.log
+            error_log
+            tmp/**
+            .sgcache/**
