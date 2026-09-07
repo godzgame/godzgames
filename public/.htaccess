@@ -1,0 +1,47 @@
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  
+  # Como los artículos de /noticias y /analisis se generan como carpetas físicas (Static Site Generation), 
+  # Apache los servirá de forma nativa sin necesitar reescrituras complejas de SPA.
+  # El enrutamiento del panel admin y páginas legales usa Query Strings (/?page=...), 
+  # lo cual también es interpretado de forma nativa hacia el index.html raíz.
+  
+  # Redirigir siempre a HTTPS (Recomendado para SiteGround)
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# =============================================================
+# CACHE CONTROL — Evita que SiteGround SuperCacher sirva
+# versiones obsoletas del sitio después de cada deploy.
+#
+# Estrategia:
+#  - index.html y noticias/*.html → sin caché (siempre frescos)
+#  - assets/JS y assets/CSS → sin caché (Vite les pone hash único,
+#    así que nunca colisionan, pero queremos que se sirvan frescos)
+#  - Imágenes, fuentes, iconos → caché de 30 días (no cambian)
+# =============================================================
+<IfModule mod_headers.c>
+
+  # index.html y todas las páginas HTML — nunca cachear
+  <FilesMatch "\.(html)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </FilesMatch>
+
+  # JS y CSS (Vite genera nombres con hash, pero los marcamos como no-cache por seguridad)
+  <FilesMatch "\.(js|css)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </FilesMatch>
+
+  # Imágenes, fuentes e iconos — caché de 30 días (son estáticos y no cambian)
+  <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|eot)$">
+    Header set Cache-Control "public, max-age=2592000, immutable"
+  </FilesMatch>
+
+</IfModule>
