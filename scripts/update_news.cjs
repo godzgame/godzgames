@@ -75,7 +75,7 @@ Tu tarea es reescribir esta noticia para que sea 100% original y fluida, respeta
 4. El titular puede ser claro y directo, pero debe ser FÁCTICO — no debe implicar una postura que el artículo original no tiene explícitamente.
 5. Que sea fluido y natural, no una traducción automática.
 Devuelve SOLO un JSON válido (sin markdown, sin bloques de código) con este formato exacto:
-{"en":{"title":"(Título fáctico en inglés)","body":"(Cuerpo de la noticia reescrito en inglés, 2-3 párrafos)"},"es":{"title":"(Título fáctico en español)","body":"(Cuerpo de la noticia reescrito en español, 2-3 párrafos)"}}\`;
+{"en":{"title":"(Título fáctico en inglés)","body":"(Cuerpo de la noticia reescrito en inglés, 2-3 párrafos)"},"es":{"title":"(Título fáctico en español)","body":"(Cuerpo de la noticia reescrito en español, 2-3 párrafos)"}}`;
 
   const res = await fetchWithBackoff('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
