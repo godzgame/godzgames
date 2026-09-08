@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1788840039964,
+  "updatedAt": 1788865153092,
   "articles": [
-    {
-      "id": "a38d3704847a9c8535c26903ce6d4907",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788840030133_308.jpg",
-      "link": "https://www.videogameschronicle.com/news/sega-president-explains-why-it-made-the-decision-to-cancel-its-much-hyped-super-game/",
-      "en": {
-        "title": "Sega President Explains Cancellation of \"Super Game\" Project",
-        "description": "Sega President and Chief Operating Officer Shuji Utsumi has detailed the reasons behind the company's decision to cancel the \"Super Game\" project, ...",
-        "fullContent": "Sega President and Chief Operating Officer Shuji Utsumi has detailed the reasons behind the company's decision to cancel the \"Super Game\" project, which was first announced in May 2021. The initiative was described at the time as a live‑service effort that would involve multiple triple‑A titles, integrate a broad range of Sega technologies, and extend beyond traditional game frameworks.\n\nIn November 2021, Sega indicated that it might allocate up to ¥100 billion (approximately US$882 million) over a five‑year period to support the development of Super Game. The project's status was later addressed in Sega's May 2026 financial results, where a slide reviewing live‑service activities confirmed that the Super Game initiative had been cancelled.\n\nUtsumi discussed the cancellation during an interview with Nikkei, which focused on Sega's transmedia strategy. The topic of Super Game arose as part of that conversation, prompting the president to provide the company's official explanation."
-      },
-      "es": {
-        "title": "Presidente de Sega explica la cancelación del proyecto \"Super Game\"",
-        "description": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos que llevaron a la compañía a cancelar el proyecto \"Super Gam...",
-        "fullContent": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos que llevaron a la compañía a cancelar el proyecto \"Super Game\", anunciado por primera vez en mayo de 2021. En aquel momento, el proyecto se presentó como un esfuerzo de servicio continuo que abarcaría varios títulos triple‑A, combinaría diversas tecnologías de Sega y se diseñaría para ir más allá de los marcos tradicionales de los videojuegos.\n\nEn noviembre de 2021, Sega señaló que podría invertir hasta ¥100 mil millones (aproximadamente 882 millones de dólares) durante un período de cinco años para el desarrollo de Super Game. La situación del proyecto se confirmó en los resultados financieros de mayo de 2026, donde una diapositiva que revisa los esfuerzos de servicio continuo indicó la cancelación de la iniciativa.\n\nUtsumi abordó la cancelación en una entrevista con Nikkei, centrada en los planes transmedia de Sega. El tema de Super Game surgió durante la conversación, lo que llevó al presidente a ofrecer la explicación oficial de la empresa."
-      }
-    },
     {
       "id": "20c9fb340d7922e3b57d4c70ac629966",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788840032500_681.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865119929_46.jpg",
       "link": "https://nypost.com/2026/09/07/us-news/new-halloween-video-game-slashes-creepy-mini-game-where-character-can-have-sex-with-high-schoolers/",
       "en": {
-        "title": "Developers remove sexual minigame featuring Dr. Loomis from upcoming Halloween game",
-        "description": "The video game based on the Halloween slasher film series entered early access on September 4, allowing players to control various characters attem...",
-        "fullContent": "The video game based on the Halloween slasher film series entered early access on September 4, allowing players to control various characters attempting to escape the mass murderer Michael Myers. Early gameplay footage that circulated online showed a minigame in which the character Dr. Loomis, a 56‑year‑old figure modeled after the late actor Donald Pleasence, could engage in sexual interactions with teenage characters.\n\nAfter the clips spread on social media, IllFonic announced that the sexual minigame had been removed from the title on Sunday. In response, one user commented, \"I think they forgot to make it so Loomis couldn’t f–k,\" while another wrote, \"The 70‑year‑old dead actor’s likeness f–king a teenager has gotta be patched out right?\""
+        "title": "Developers Remove Sexual Minigame Featuring Dr. Loomis from 'Halloween' Game",
+        "description": "The early‑access version of the new \"Halloween\" video game, based on the slasher film franchise, was released on September 4 for players to assume ...",
+        "fullContent": "The early‑access version of the new \"Halloween\" video game, based on the slasher film franchise, was released on September 4 for players to assume the roles of characters trying to escape the killer Michael Myers. Among the playable characters is Dr. Loomis, a 56‑year‑old figure modeled after the late actor Donald Pleasence.\n\nGameplay footage that circulated online showed a minigame in which Dr. Loomis could engage in sexual interactions with teenage characters. On Sunday, IllFonic, the studio behind the title, confirmed that the sexual minigame had been removed from the game.\n\nFollowing the distribution of the clips, users on social media posted comments noting the presence of the feature and its subsequent removal."
       },
       "es": {
-        "title": "Desarrolladores eliminan minijuego sexual con el Dr. Loomis del próximo juego de Halloween",
-        "description": "El videojuego inspirado en la saga de películas slasher Halloween salió a acceso anticipado el 4 de septiembre, ofreciendo a los jugadores la posib...",
-        "fullContent": "El videojuego inspirado en la saga de películas slasher Halloween salió a acceso anticipado el 4 de septiembre, ofreciendo a los jugadores la posibilidad de controlar a distintos personajes que intentan escapar del asesino masivo Michael Myers. Clips de jugabilidad que se difundieron en línea mostraron un minijuego en el que el personaje Dr. Loomis, una figura de 56 años basada en el fallecido actor Donald Pleasence, podía mantener interacciones sexuales con personajes adolescentes.\n\nTras la difusión de los videos, IllFonic comunicó que el minijuego sexual había sido eliminado del título el domingo. En redes sociales, un usuario comentó: \"Creo que se les olvidó impedir que Loomis pueda follar\", y otro añadió: \"El actor muerto de 70 años teniendo sexo con una adolescente tiene que ser corregido, ¿no?\""
+        "title": "Desarrolladores eliminan minijuego sexual con Dr. Loomis del juego \"Halloween\"",
+        "description": "La versión de acceso anticipado del nuevo videojuego \"Halloween\", basado en la franquicia cinematográfica de slasher, se lanzó el 4 de septiembre p...",
+        "fullContent": "La versión de acceso anticipado del nuevo videojuego \"Halloween\", basado en la franquicia cinematográfica de slasher, se lanzó el 4 de septiembre para que los jugadores asuman los papeles de personajes que intentan escapar del asesino Michael Myers. Entre los personajes jugables se encuentra el Dr. Loomis, una figura de 56 años basada en el fallecido actor Donald Pleasence.\n\nImágenes de la jugabilidad que circularon en línea mostraron un minijuego en el que el Dr. Loomis podía mantener interacciones sexuales con personajes adolescentes. El domingo, IllFonic, el estudio responsable del título, confirmó que el minijuego sexual había sido retirado del juego.\n\nTras la difusión de los clips, usuarios en redes sociales comentaron sobre la presencia de la función y su posterior eliminación."
+      }
+    },
+    {
+      "id": "a000d53f14a3f1f6d777d60a134bf15c",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865122714_260.jpg",
+      "link": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9",
+      "en": {
+        "title": "Video game manufacturers do not plan to refund tariff-related price increases to consumers",
+        "description": "In 2022, President Donald Trump issued an executive order that imposed tariffs on certain electronic goods. Following the order, Sony, Microsoft an...",
+        "fullContent": "In 2022, President Donald Trump issued an executive order that imposed tariffs on certain electronic goods. Following the order, Sony, Microsoft and Nintendo raised the retail prices of their gaming consoles, stating that the adjustments reflected market conditions and the evolving economic environment.\n\nThe U.S. Supreme Court later ruled that the tariffs were unlawful, ordering the government to reimburse the companies for the duties they had paid. The manufacturers have indicated that they do not intend to pass those reimbursements on to consumers as refunds.\n\nSony Interactive Entertainment filed a motion to dismiss a class‑action lawsuit filed in May that alleges the company overcharged customers for PlayStation consoles during the tariff period. The plaintiffs seek refunds, while Sony's attorneys contend that consumers received the advertised products and therefore suffered no cognizable injury."
+      },
+      "es": {
+        "title": "Fabricantes de videojuegos no planean reembolsar a los consumidores los aumentos de precios por aranceles",
+        "description": "En 2022, el presidente Donald Trump emitió una orden ejecutiva que impuso aranceles a ciertos productos electrónicos. Tras la medida, Sony, Microso...",
+        "fullContent": "En 2022, el presidente Donald Trump emitió una orden ejecutiva que impuso aranceles a ciertos productos electrónicos. Tras la medida, Sony, Microsoft y Nintendo incrementaron los precios de venta al público de sus consolas de videojuegos, alegando que los ajustes respondían a las condiciones del mercado y al panorama económico cambiante.\n\nPosteriormente, la Corte Suprema de los Estados Unidos declaró que los aranceles eran ilegales y ordenó al gobierno devolver a las compañías las cantidades pagadas. Los fabricantes han manifestado que no tienen previsto trasladar esos reembolsos a los consumidores.\n\nSony Interactive Entertainment solicitó la desestimación de una demanda colectiva presentada en mayo, en la que se alega que la empresa cobró precios inflados por las consolas PlayStation durante el periodo de los aranceles. Los demandantes buscan la devolución del dinero, mientras que los abogados de Sony argumentan que los compradores recibieron los productos anunciados y, por tanto, no sufrieron una lesión cognizable."
+      }
+    },
+    {
+      "id": "a38d3704847a9c8535c26903ce6d4907",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865125448_187.jpg",
+      "link": "https://www.videogameschronicle.com/news/sega-president-explains-why-it-made-the-decision-to-cancel-its-much-hyped-super-game/",
+      "en": {
+        "title": "Sega President Explains Cancellation of ‘Super Game’ Project",
+        "description": "Sega President and COO Shuji Utsumi has detailed the reasons behind the termination of the Super Game project, which was first announced in May 202...",
+        "fullContent": "Sega President and COO Shuji Utsumi has detailed the reasons behind the termination of the Super Game project, which was first announced in May 2021. The initiative was described at the time as a live‑service effort that would span multiple triple‑A titles and incorporate a broad range of Sega technologies.\n\nIn November 2021, Sega indicated it might allocate up to ¥100 billion (approximately $882 million at that time) over five years to support the Super Game ambitions. The company later confirmed the project's cancellation in its May 2026 financial results, where a slide reviewing live‑service activities listed the initiative as discontinued.\n\nUtsumi discussed the cancellation during an interview with Nikkei, which was part of a broader conversation about Sega's transmedia strategy."
+      },
+      "es": {
+        "title": "Presidente de Sega explica la cancelación del proyecto ‘Super Game’",
+        "description": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos de la cancelación del proyecto Super Game, anunciado inicial...",
+        "fullContent": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos de la cancelación del proyecto Super Game, anunciado inicialmente en mayo de 2021. En aquel momento, el proyecto se describió como un esfuerzo de servicio en vivo que abarcaría varios títulos triple‑A y emplearía la gama completa de tecnologías de Sega.\n\nEn noviembre de 2021, Sega indicó que podría invertir hasta ¥100 mil millones (aproximadamente 882 millones de dólares en ese momento) durante cinco años para alcanzar los objetivos del Super Game. La empresa confirmó la cancelación del proyecto en sus resultados financieros de mayo de 2026, donde una diapositiva que revisaba los esfuerzos de servicio en vivo listó la iniciativa como finalizada.\n\nUtsumi abordó la cancelación en una entrevista con Nikkei, dentro de una discusión más amplia sobre los planes transmedia de Sega."
       }
     },
     {
       "id": "0b5337f77bb1cd69f8a99fd06d8dbe5a",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788840034910_1.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865127947_144.jpg",
       "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
       "en": {
-        "title": "Introversion Software releases 'The Last Starship' version 1.0 for PC",
-        "description": "After nearly three years in early access, Introversion Software released version 1.0 of the indie sci‑fi game \"The Last Starship\" for PC on 6 Febru...",
-        "fullContent": "After nearly three years in early access, Introversion Software released version 1.0 of the indie sci‑fi game \"The Last Starship\" for PC on 6 February 2026. The studio is also known for developing \"Prison Architect\".\n\n\"The Last Starship\" is a single‑player title that combines shipbuilding and interstellar trading mechanics, with gameplay elements that have been compared to those of \"FTL\". Players manage a shipping and trading corporation, planning routes, cargo loads and ship upgrades while operating in space.\n\nThe article states that purchases made through links on the site may generate an affiliate commission for the publisher."
+        "title": "Introversion releases version 1.0 of \"The Last Starship\" for PC",
+        "description": "After nearly three years in early access, Introversion Software launched version 1.0 of The Last Starship on February 6, 2026 for PC. The developer...",
+        "fullContent": "After nearly three years in early access, Introversion Software launched version 1.0 of The Last Starship on February 6, 2026 for PC. The developer is also known for the title Prison Architect.\n\nThe Last Starship is a single‑player science‑fiction game that tasks players with operating an interstellar shipping and trading corporation, including the construction of spaceships and the management of resources such as food, water, ammunition and oxygen. The author reports having spent several months exploring the sandbox mechanics of the title.\n\nThe game’s design emphasizes forward planning while operating in the vacuum of space, requiring players to consider supply acquisition and ship fortification as part of the gameplay loop."
       },
       "es": {
-        "title": "Introversion Software lanza 'The Last Starship' versión 1.0 para PC",
-        "description": "Tras casi tres años en acceso anticipado, Introversion Software lanzó la versión 1.0 del juego indie de ciencia ficción \"The Last Starship\" para PC...",
-        "fullContent": "Tras casi tres años en acceso anticipado, Introversion Software lanzó la versión 1.0 del juego indie de ciencia ficción \"The Last Starship\" para PC el 6 de febrero de 2026. El estudio también es conocido por haber desarrollado \"Prison Architect\".\n\n\"The Last Starship\" es un título para un solo jugador que combina mecánicas de construcción de naves y comercio interestelar, con elementos de juego que se han comparado con los de \"FTL\". Los jugadores gestionan una corporación de transporte y comercio, planificando rutas, cargas y mejoras de la nave mientras operan en el espacio.\n\nEl artículo indica que las compras realizadas a través de los enlaces del sitio pueden generar una comisión de afiliado para el editor."
+        "title": "Introversion lanza la versión 1.0 de \"The Last Starship\" para PC",
+        "description": "Tras casi tres años en acceso anticipado, Introversion Software publicó la versión 1.0 de The Last Starship el 6 de febrero de 2026 para PC. El est...",
+        "fullContent": "Tras casi tres años en acceso anticipado, Introversion Software publicó la versión 1.0 de The Last Starship el 6 de febrero de 2026 para PC. El estudio también es conocido por el título Prison Architect.\n\nThe Last Starship es un juego de ciencia ficción para un solo jugador que permite gestionar una corporación de envío y comercio interestelar, incluyendo la construcción de naves espaciales y la administración de recursos como alimentos, agua, munición y oxígeno. El autor indica haber dedicado varios meses a explorar los aspectos sandbox del juego.\n\nEl diseño del juego pone énfasis en la planificación anticipada mientras se opera en el vacío del espacio, requiriendo que los jugadores consideren la adquisición de suministros y el refuerzo de la nave como parte del ciclo de juego."
       }
     },
     {
-      "id": "39c25be3759075405e0331742804408b",
+      "id": "7ae4afe88ce3ffd32a12c31ff230f6f8",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788840037911_726.jpg",
-      "link": "https://gameinformer.com/feature/2026/09/07/the-supernatural-and-mysterious-nature-of-creativity",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865153078_32.jpg",
+      "link": "https://www.greenmangaming.com/blog/the-top-10-hot-wheels-video-games-of-all-time/",
       "en": {
-        "title": "Eric Barone Discusses Stardew Valley's Milestones in Game Informer Interview",
-        "description": "The feature originally appeared in issue 378 of Game Informer magazine and is now accessible without a subscription; a subscription option is also ...",
-        "fullContent": "The feature originally appeared in issue 378 of Game Informer magazine and is now accessible without a subscription; a subscription option is also provided. Eric Barone, the creator of Stardew Valley, was photographed wearing a faux shearling‑lined corduroy jacket while seated in an office chair. The jacket has become a recognizable element of his public appearance, and viewers on video platforms note any changes to his attire.\n\nBarone is also known by the alias \"ConcernedApe\" and is represented online by a pixelated avatar of a creature with rosy cheeks. According to a post from two years ago, Stardew Valley has sold more than 41 million copies across all platforms. The English‑language subreddit for the game has over 1.2 million members, and the title has inspired a modding community of approximately 30,000 mods on NexusMods. The game is available in twelve languages and has been ported to all major platforms.\n\nFor the game's tenth anniversary, Game Informer conducted a video call interview with Barone, during which he addressed the allocation of his time between ongoing and new projects and described aspects of his creative process."
+        "title": "Top 10 Hot Wheels Video Games",
+        "description": "Hot Wheels has been a presence in the gaming market for more than fifty years, extending the brand from physical toys to digital titles. The follow...",
+        "fullContent": "Hot Wheels has been a presence in the gaming market for more than fifty years, extending the brand from physical toys to digital titles. The following list identifies ten video games that feature Hot Wheels vehicles and tracks.\n\nHot Wheels Unleashed, developed by Milestone, includes detailed vehicle models with molded‑plastic textures and a track editor that allows players to create custom courses. World Race, based on the Highway 35 animated series, offers multidimensional tracks, licensed rock music, and team racing modes typical of early‑2000s arcade racers. Hot Wheels Turbo Racing, published by EA in the late 1990s, provides a soundtrack that includes tracks from Metallica and Primus and rewards players for performing airborne stunts. Forza Horizon 3: Hot Wheels, released as a downloadable content expansion by Playground Games, integrates Hot Wheels loops and tracks into the Forza Horizon 3 environment, featuring the series' driving physics over a coastal Australian setting."
       },
       "es": {
-        "title": "Eric Barone habla sobre los hitos de Stardew Valley en entrevista de Game Informer",
-        "description": "La crónica se publicó originalmente en la edición 378 de la revista Game Informer y ahora está disponible de forma gratuita; también se ofrece la o...",
-        "fullContent": "La crónica se publicó originalmente en la edición 378 de la revista Game Informer y ahora está disponible de forma gratuita; también se ofrece la opción de suscripción. Eric Barone, creador de Stardew Valley, fue fotografiado usando una chaqueta de pana forrada con piel sintética mientras estaba sentado en una silla de oficina. La chaqueta se ha convertido en un elemento reconocible de su imagen pública, y los usuarios de plataformas de video comentan cualquier cambio en su vestimenta.\n\nBarone también es conocido bajo el alias \"ConcernedApe\" y se representa en línea mediante un avatar pixelado de una criatura con mejillas rosadas. Según una publicación de hace dos años, Stardew Valley ha vendido más de 41 millones de copias en todas las plataformas. El subreddit en inglés del juego cuenta con más de 1,2 millones de miembros y ha generado una comunidad de modding de aproximadamente 30 000 modificaciones en NexusMods. El juego está disponible en doce idiomas y ha sido adaptado a todas las plataformas principales.\n\nCon motivo del décimo aniversario del título, Game Informer realizó una entrevista por videollamada con Barone, quien explicó cómo distribuye su tiempo entre proyectos actuales y nuevos, y describió parte del proceso creativo detrás del juego."
-      }
-    },
-    {
-      "id": "b3877df2ea199fd5d812540b82fad273",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788840039954_455.jpg",
-      "link": "https://aftermath.site/steam-number-games-released/",
-      "en": {
-        "title": "Steam Records 720 New Game Releases in One Week, Annual Releases Surpass 21,000",
-        "description": "According to ICO Partners CEO Thomas Bidaux, as reported by GI.biz, 720 games were released on Steam over a seven‑day period, establishing a new re...",
-        "fullContent": "According to ICO Partners CEO Thomas Bidaux, as reported by GI.biz, 720 games were released on Steam over a seven‑day period, establishing a new record for the platform. Data from SteamDB indicates that the total number of games released on Steam increased from just over 8,000 in 2019 to more than 21,000 in 2025. A notable share of these titles are classified as \"Limited Games,\" meaning they have not received purchases or user reviews, which impacts their visibility on the store.\n\nValve has added features such as the Discovery Queue and a Personal Calendar to help users navigate the extensive list of new releases, though the sheer volume of titles continues to present challenges for discoverability."
-      },
-      "es": {
-        "title": "Steam registra 720 nuevos lanzamientos en una semana y supera los 21.000 lanzamientos anuales",
-        "description": "Según el CEO de ICO Partners, Thomas Bidaux, citado por GI.biz, se publicaron 720 juegos en Steam durante un período de siete días, estableciendo u...",
-        "fullContent": "Según el CEO de ICO Partners, Thomas Bidaux, citado por GI.biz, se publicaron 720 juegos en Steam durante un período de siete días, estableciendo un nuevo récord para la plataforma. Los datos de SteamDB muestran que el número total de juegos lanzados en Steam pasó de poco más de 8.000 en 2019 a más de 21.000 en 2025. Una parte significativa de estos títulos está catalogada como \"Juegos limitados\", lo que indica que no han recibido compras ni reseñas de usuarios, afectando su visibilidad.\n\nValve ha incorporado herramientas como la Cola de descubrimiento y una función de Calendario personal para ayudar a los usuarios a navegar entre los numerosos lanzamientos recientes, aunque el elevado número de títulos sigue representando un reto para la descubribilidad."
+        "title": "Los 10 mejores videojuegos de Hot Wheels",
+        "description": "Hot Wheels lleva más de cinco décadas presente en el mercado de los videojuegos, trasladando la marca de los juguetes físicos a títulos digitales. ...",
+        "fullContent": "Hot Wheels lleva más de cinco décadas presente en el mercado de los videojuegos, trasladando la marca de los juguetes físicos a títulos digitales. A continuación se enumeran diez juegos que incluyen vehículos y pistas de Hot Wheels.\n\nHot Wheels Unleashed, desarrollado por Milestone, presenta modelos de vehículos con texturas de plástico moldeado y un editor de pistas que permite a los jugadores crear recorridos personalizados. World Race, basado en la serie animada Highway 35, ofrece pistas multidimensionales, música rock con licencias y modos de carrera por equipos característicos de los arcades de principios de los 2000. Hot Wheels Turbo Racing, publicado por EA a finales de los años 90, incluye una banda sonora con temas de Metallica y Primus y otorga recompensas por realizar acrobacias aéreas. Forza Horizon 3: Hot Wheels, lanzado como expansión descargable por Playground Games, incorpora los bucles y pistas de Hot Wheels al entorno de Forza Horizon 3, utilizando la física de conducción de la serie sobre la costa australiana."
       }
     }
   ]
