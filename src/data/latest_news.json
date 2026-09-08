@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1788865153092,
+  "updatedAt": 1788884655110,
   "articles": [
     {
-      "id": "20c9fb340d7922e3b57d4c70ac629966",
+      "id": "99521e4f17d97cc19de619adc17780b3",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865119929_46.jpg",
-      "link": "https://nypost.com/2026/09/07/us-news/new-halloween-video-game-slashes-creepy-mini-game-where-character-can-have-sex-with-high-schoolers/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788884644578_814.jpg",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-fully-revealed",
       "en": {
-        "title": "Developers Remove Sexual Minigame Featuring Dr. Loomis from 'Halloween' Game",
-        "description": "The early‑access version of the new \"Halloween\" video game, based on the slasher film franchise, was released on September 4 for players to assume ...",
-        "fullContent": "The early‑access version of the new \"Halloween\" video game, based on the slasher film franchise, was released on September 4 for players to assume the roles of characters trying to escape the killer Michael Myers. Among the playable characters is Dr. Loomis, a 56‑year‑old figure modeled after the late actor Donald Pleasence.\n\nGameplay footage that circulated online showed a minigame in which Dr. Loomis could engage in sexual interactions with teenage characters. On Sunday, IllFonic, the studio behind the title, confirmed that the sexual minigame had been removed from the game.\n\nFollowing the distribution of the clips, users on social media posted comments noting the presence of the feature and its subsequent removal."
+        "title": "Nintendo Announces Release Date and Details for The Legend of Zelda: Ocarina of Time Remake",
+        "description": "Nintendo has revealed that the upcoming remake of The Legend of Zelda: Ocarina of Time will be released on November 5, sharing the same launch mont...",
+        "fullContent": "Nintendo has revealed that the upcoming remake of The Legend of Zelda: Ocarina of Time will be released on November 5, sharing the same launch month as Grand Theft Auto 6. The game has been rebuilt from the ground up for the Switch 2 console, featuring a new three‑dimensional visual style that differs from previous Zelda titles. Gameplay enhancements include the ability to manually jump, dash, quickly switch items, and aim using motion controls.\n\nA new menu system called Threads of Time will serve as a quest log and display a visual record of player progress. While the core structure of the game remains largely unchanged, with distinct regions separated by loading screens, additional areas have been hinted at in locations such as Castle Town, where minigames are available in shops. The remake also introduces a feature that lets players hum Ocarina melodies instead of using button prompts, and a physical Ocarina accessory will be sold alongside the game."
       },
       "es": {
-        "title": "Desarrolladores eliminan minijuego sexual con Dr. Loomis del juego \"Halloween\"",
-        "description": "La versión de acceso anticipado del nuevo videojuego \"Halloween\", basado en la franquicia cinematográfica de slasher, se lanzó el 4 de septiembre p...",
-        "fullContent": "La versión de acceso anticipado del nuevo videojuego \"Halloween\", basado en la franquicia cinematográfica de slasher, se lanzó el 4 de septiembre para que los jugadores asuman los papeles de personajes que intentan escapar del asesino Michael Myers. Entre los personajes jugables se encuentra el Dr. Loomis, una figura de 56 años basada en el fallecido actor Donald Pleasence.\n\nImágenes de la jugabilidad que circularon en línea mostraron un minijuego en el que el Dr. Loomis podía mantener interacciones sexuales con personajes adolescentes. El domingo, IllFonic, el estudio responsable del título, confirmó que el minijuego sexual había sido retirado del juego.\n\nTras la difusión de los clips, usuarios en redes sociales comentaron sobre la presencia de la función y su posterior eliminación."
+        "title": "Nintendo revela fecha de lanzamiento y características del remake de The Legend of Zelda: Ocarina of Time",
+        "description": "Nintendo ha anunciado que el remake de The Legend of Zelda: Ocarina of Time se lanzará el 5 de noviembre, coincidiendo con el mismo mes de salida d...",
+        "fullContent": "Nintendo ha anunciado que el remake de The Legend of Zelda: Ocarina of Time se lanzará el 5 de noviembre, coincidiendo con el mismo mes de salida de Grand Theft Auto 6. El título ha sido reconstruido desde cero para la consola Switch 2, con un estilo visual tridimensional que difiere de los anteriores juegos de Zelda. Entre las mejoras de jugabilidad se incluyen la posibilidad de saltar manualmente, realizar carreras, cambiar rápidamente de objetos y apuntar mediante controles de movimiento.\n\nSe ha introducido un nuevo menú llamado Threads of Time, que funcionará como registro de misiones y mostrará una especie de tapiz con los logros del jugador. La estructura principal del juego se mantiene prácticamente sin cambios, con regiones distintas separadas por pantallas de carga, aunque se han añadido áreas adicionales en lugares como Castle Town, donde se encuentran minijuegos dentro de las tiendas. Además, el remake permite silbar las canciones del Ocarina en lugar de usar los botones, y se ofrecerá un accesorio físico de Ocarina para los usuarios."
+      }
+    },
+    {
+      "id": "07b188e72ac4fff8f5d627da62cf0814",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788884647182_978.jpg",
+      "link": "https://www.cnet.com/tech/gaming/nintendo-ocarina-of-time-remake-release-date-zelda-switch-2-real-ocarina/",
+      "en": {
+        "title": "Nintendo Announces Ocarina of Time Remake Release Date, Switch 2 Special Edition and Official Ocarina",
+        "description": "Nintendo held a The Legend of Zelda 40th Anniversary Direct on Tuesday, during which it announced that the remake of The Legend of Zelda: Ocarina o...",
+        "fullContent": "Nintendo held a The Legend of Zelda 40th Anniversary Direct on Tuesday, during which it announced that the remake of The Legend of Zelda: Ocarina of Time will be released on November 5. A special edition of the upcoming Nintendo Switch 2, scheduled for October 29, will be accompanied by a Switch 2 Pro Controller and a carrying case. The company also confirmed the sale of an official ocarina modeled after the instrument used by Link, available in a traditional acoustic version and an electric version produced by Hori.\n\nThe Ocarina of Time remake will run on the Switch 2 hardware, featuring updated graphics and control scheme that utilizes both analog sticks and a dedicated jump button. A new input method allows players to hum a tune, which the console’s microphone can detect and translate into the corresponding in‑game song. The presentation included footage of the game's opening in Kokiri Forest and the initial segment of Hyrule Castle Town."
+      },
+      "es": {
+        "title": "Nintendo anuncia fecha de lanzamiento del remake de Ocarina of Time, edición especial del Switch 2 y ocarina oficial",
+        "description": "Nintendo realizó una presentación directa para el 40.º aniversario de The Legend of Zelda el martes, en la que informó que el remake de The Legend ...",
+        "fullContent": "Nintendo realizó una presentación directa para el 40.º aniversario de The Legend of Zelda el martes, en la que informó que el remake de The Legend of Zelda: Ocarina of Time se lanzará el 5 de noviembre. Una edición especial del próximo Nintendo Switch 2, programada para el 29 de octubre, incluirá un controlador Pro para Switch 2 y una funda de transporte. Además, la compañía confirmó la venta de una ocarina oficial basada en el instrumento que usa Link, disponible en una versión acústica tradicional y una versión eléctrica fabricada por Hori.\n\nEl remake de Ocarina of Time funcionará en el hardware del Switch 2, presentando gráficos mejorados y un esquema de control que emplea ambos sticks analógicos y un botón de salto independiente. Un nuevo método de entrada permite a los jugadores tararear una melodía, que el micrófono de la consola detectará y traducirá al canto correspondiente en el juego. La presentación mostró imágenes de la secuencia inicial en el Bosque Kokiri y la primera parte del pueblo del castillo de Hyrule."
+      }
+    },
+    {
+      "id": "bda17a6093fec58cc56a6f02273bb022",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788884649077_323.jpg",
+      "link": "https://www.videogameschronicle.com/news/the-zelda-40th-anniversary-switch-2-console-and-pro-controller-are-now-official-after-leaking-last-month/",
+      "en": {
+        "title": "Nintendo Announces Limited‑Edition Switch 2 Console and Pro Controller for Zelda 40th Anniversary",
+        "description": "Nintendo has confirmed the release of a limited‑edition Switch 2 console and a matching Pro Controller to commemorate the 40th anniversary of The L...",
+        "fullContent": "Nintendo has confirmed the release of a limited‑edition Switch 2 console and a matching Pro Controller to commemorate the 40th anniversary of The Legend of Zelda. The announcement follows a leak that surfaced last month, which indicated that the products would celebrate the franchise’s milestone rather than the upcoming Ocarina of Time remake.\n\nThe Switch 2 console features a Triforce motif on its dock, and the Joy‑Con controllers carry the same symbol. The Pro Controller includes a Triforce design and green‑black handles, echoing the color scheme of previous special editions such as the Tears of the Kingdom Pro Controller and limited‑edition Splatoon controllers. A version of the Pro Controller equipped with a display stand will be sold exclusively at Nintendo retail locations. Both items are scheduled for release on October 29."
+      },
+      "es": {
+        "title": "Nintendo confirma consola Switch 2 y Pro Controller de edición limitada para el 40.º aniversario de Zelda",
+        "description": "Nintendo ha anunciado oficialmente el lanzamiento de una consola Switch 2 de edición limitada y un Pro Controller a juego, ambos diseñados para con...",
+        "fullContent": "Nintendo ha anunciado oficialmente el lanzamiento de una consola Switch 2 de edición limitada y un Pro Controller a juego, ambos diseñados para conmemorar el 40.º aniversario de The Legend of Zelda. El anuncio se produce tras una filtración del mes pasado que indicaba que los productos celebrarían este hito del franquicia y no el próximo remake de Ocarina of Time.\n\nLa consola Switch 2 presenta un diseño con la Trifuerza en la base de carga, y los Joy‑Con también llevan el mismo símbolo. El Pro Controller incluye la Trifuerza y mangos en verde y negro, similares a los de ediciones especiales anteriores como el Pro Controller de Tears of the Kingdom y los controladores de Splatoon. Una versión del Pro Controller con soporte para exhibición estará disponible exclusivamente en tiendas Nintendo. Ambos productos se lanzarán el 29 de octubre."
+      }
+    },
+    {
+      "id": "1c97ec52afae810add87fbe1250fdaa2",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788884652511_163.jpg",
+      "link": "https://worksinprogress.co/issue/virtual-worlds/",
+      "en": {
+        "title": "Commodore 64: Launch, Sales and Cultural Impact",
+        "description": "The Commodore 64 was introduced in November 1982 with 64 kilobytes of memory, a specification reflected in its name. Over its twelve‑year market pr...",
+        "fullContent": "The Commodore 64 was introduced in November 1982 with 64 kilobytes of memory, a specification reflected in its name. Over its twelve‑year market presence, it sold an estimated 12.5 million units worldwide, making it the best‑selling desktop computer in history.\n\nIn the United States the machine retailed for $595, compared with approximately $1,500 for the Apple II, which offered 48 kilobytes of memory. In the United Kingdom the price was £399. The system incorporated its operating system and the BASIC programming language in firmware, allowing it to boot without an external disk. An optional external floppy‑disk drive was sold separately. CEO Jack Tramiel described the product line as “computers for the masses, not the classes.” The low price resulted from a component set that included a simplified industrial‑grade CPU, a sound chip originally designed for music synthesizers, and a graphics chip intended for video games, providing a 16‑color palette that was advanced for the period.\n\nAccording to video‑game scholar Jesper Juul in the 2024 work *Too Much Fun*, the C64 was frequently labeled a “game machine,” a designation that influenced its perceived status in the 1980s. The device contributed to the relocation of video‑gaming activities from arcade venues, where play sessions were limited by coin mechanisms, to home environments that supported longer, open‑ended experiences."
+      },
+      "es": {
+        "title": "Commodore 64: Lanzamiento, Ventas e Impacto Cultural",
+        "description": "El Commodore 64 se lanzó en noviembre de 1982 y disponía de 64 kilobytes de memoria, cifra que inspiró su denominación. Durante los doce años que e...",
+        "fullContent": "El Commodore 64 se lanzó en noviembre de 1982 y disponía de 64 kilobytes de memoria, cifra que inspiró su denominación. Durante los doce años que estuvo en el mercado, se estima que se vendieron 12,5 millones de unidades, lo que lo convierte en el ordenador de escritorio más vendido de la historia.\n\nEn Estados Unidos el precio de venta fue de 595 dólares, frente a aproximadamente 1 500 dólares del Apple II, que contaba con 48 kilobytes de memoria. En el Reino Unido la cifra fue de 399 libras. El sistema incluía su sistema operativo y el lenguaje de programación BASIC en su firmware, permitiendo el arranque sin necesidad de disco externo. Un lector de disquetes externo era un accesorio opcional. El director ejecutivo Jack Tramiel describió la línea como “computadoras para las masas, no para las clases”. El bajo coste se logró mediante una selección de chips que comprendía una CPU industrial simplificada, un chip de sonido diseñado originalmente para sintetizadores musicales y un chip gráfico destinado a videojuegos, ofreciendo una paleta de 16 colores adelantada a su época.\n\nEl académico de videojuegos Jesper Juul, en su obra *Too Much Fun* (2024), señala que en la década de 1980 el C64 recibió la etiqueta de “máquina de juegos”, lo que influyó en su percepción de estatus. El dispositivo facilitó la transición de la actividad lúdica de los salones de arcade, donde las sesiones estaban limitadas por los mecanismos de monedas, a entornos domésticos que permitían experiencias más prolongadas y abiertas."
       }
     },
     {
       "id": "a000d53f14a3f1f6d777d60a134bf15c",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865122714_260.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788884655105_920.jpg",
       "link": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9",
       "en": {
-        "title": "Video game manufacturers do not plan to refund tariff-related price increases to consumers",
-        "description": "In 2022, President Donald Trump issued an executive order that imposed tariffs on certain electronic goods. Following the order, Sony, Microsoft an...",
-        "fullContent": "In 2022, President Donald Trump issued an executive order that imposed tariffs on certain electronic goods. Following the order, Sony, Microsoft and Nintendo raised the retail prices of their gaming consoles, stating that the adjustments reflected market conditions and the evolving economic environment.\n\nThe U.S. Supreme Court later ruled that the tariffs were unlawful, ordering the government to reimburse the companies for the duties they had paid. The manufacturers have indicated that they do not intend to pass those reimbursements on to consumers as refunds.\n\nSony Interactive Entertainment filed a motion to dismiss a class‑action lawsuit filed in May that alleges the company overcharged customers for PlayStation consoles during the tariff period. The plaintiffs seek refunds, while Sony's attorneys contend that consumers received the advertised products and therefore suffered no cognizable injury."
+        "title": "Major console manufacturers do not plan to refund customers after tariff refunds from government",
+        "description": "In 2022, the United States imposed additional tariffs on certain imported components, a measure that led Sony, Microsoft and Nintendo to increase t...",
+        "fullContent": "In 2022, the United States imposed additional tariffs on certain imported components, a measure that led Sony, Microsoft and Nintendo to increase the retail prices of their gaming consoles. The companies attributed the adjustments to the new economic conditions caused by the tariffs.\n\nAfter the Supreme Court later ruled that the tariffs had been imposed unlawfully, the government agreed to reimburse the affected firms for the duties they had paid. The console makers have subsequently argued in court that the reimbursement does not obligate them to provide refunds to consumers who purchased the devices at the higher prices.\n\nA class‑action lawsuit filed against Sony Interactive Entertainment in May alleges that the company overcharged buyers for PlayStation consoles during the tariff period. Sony's legal representatives have asked the court to dismiss the case, stating that consumers received the products they purchased at the advertised prices and therefore did not suffer a compensable injury. Retail chains such as Walmart and Costco have announced that they intend to lower prices for affected customers, a step not mirrored by the major console manufacturers."
       },
       "es": {
-        "title": "Fabricantes de videojuegos no planean reembolsar a los consumidores los aumentos de precios por aranceles",
-        "description": "En 2022, el presidente Donald Trump emitió una orden ejecutiva que impuso aranceles a ciertos productos electrónicos. Tras la medida, Sony, Microso...",
-        "fullContent": "En 2022, el presidente Donald Trump emitió una orden ejecutiva que impuso aranceles a ciertos productos electrónicos. Tras la medida, Sony, Microsoft y Nintendo incrementaron los precios de venta al público de sus consolas de videojuegos, alegando que los ajustes respondían a las condiciones del mercado y al panorama económico cambiante.\n\nPosteriormente, la Corte Suprema de los Estados Unidos declaró que los aranceles eran ilegales y ordenó al gobierno devolver a las compañías las cantidades pagadas. Los fabricantes han manifestado que no tienen previsto trasladar esos reembolsos a los consumidores.\n\nSony Interactive Entertainment solicitó la desestimación de una demanda colectiva presentada en mayo, en la que se alega que la empresa cobró precios inflados por las consolas PlayStation durante el periodo de los aranceles. Los demandantes buscan la devolución del dinero, mientras que los abogados de Sony argumentan que los compradores recibieron los productos anunciados y, por tanto, no sufrieron una lesión cognizable."
-      }
-    },
-    {
-      "id": "a38d3704847a9c8535c26903ce6d4907",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865125448_187.jpg",
-      "link": "https://www.videogameschronicle.com/news/sega-president-explains-why-it-made-the-decision-to-cancel-its-much-hyped-super-game/",
-      "en": {
-        "title": "Sega President Explains Cancellation of ‘Super Game’ Project",
-        "description": "Sega President and COO Shuji Utsumi has detailed the reasons behind the termination of the Super Game project, which was first announced in May 202...",
-        "fullContent": "Sega President and COO Shuji Utsumi has detailed the reasons behind the termination of the Super Game project, which was first announced in May 2021. The initiative was described at the time as a live‑service effort that would span multiple triple‑A titles and incorporate a broad range of Sega technologies.\n\nIn November 2021, Sega indicated it might allocate up to ¥100 billion (approximately $882 million at that time) over five years to support the Super Game ambitions. The company later confirmed the project's cancellation in its May 2026 financial results, where a slide reviewing live‑service activities listed the initiative as discontinued.\n\nUtsumi discussed the cancellation during an interview with Nikkei, which was part of a broader conversation about Sega's transmedia strategy."
-      },
-      "es": {
-        "title": "Presidente de Sega explica la cancelación del proyecto ‘Super Game’",
-        "description": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos de la cancelación del proyecto Super Game, anunciado inicial...",
-        "fullContent": "El presidente y director de operaciones de Sega, Shuji Utsumi, ha expuesto los motivos de la cancelación del proyecto Super Game, anunciado inicialmente en mayo de 2021. En aquel momento, el proyecto se describió como un esfuerzo de servicio en vivo que abarcaría varios títulos triple‑A y emplearía la gama completa de tecnologías de Sega.\n\nEn noviembre de 2021, Sega indicó que podría invertir hasta ¥100 mil millones (aproximadamente 882 millones de dólares en ese momento) durante cinco años para alcanzar los objetivos del Super Game. La empresa confirmó la cancelación del proyecto en sus resultados financieros de mayo de 2026, donde una diapositiva que revisaba los esfuerzos de servicio en vivo listó la iniciativa como finalizada.\n\nUtsumi abordó la cancelación en una entrevista con Nikkei, dentro de una discusión más amplia sobre los planes transmedia de Sega."
-      }
-    },
-    {
-      "id": "0b5337f77bb1cd69f8a99fd06d8dbe5a",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865127947_144.jpg",
-      "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
-      "en": {
-        "title": "Introversion releases version 1.0 of \"The Last Starship\" for PC",
-        "description": "After nearly three years in early access, Introversion Software launched version 1.0 of The Last Starship on February 6, 2026 for PC. The developer...",
-        "fullContent": "After nearly three years in early access, Introversion Software launched version 1.0 of The Last Starship on February 6, 2026 for PC. The developer is also known for the title Prison Architect.\n\nThe Last Starship is a single‑player science‑fiction game that tasks players with operating an interstellar shipping and trading corporation, including the construction of spaceships and the management of resources such as food, water, ammunition and oxygen. The author reports having spent several months exploring the sandbox mechanics of the title.\n\nThe game’s design emphasizes forward planning while operating in the vacuum of space, requiring players to consider supply acquisition and ship fortification as part of the gameplay loop."
-      },
-      "es": {
-        "title": "Introversion lanza la versión 1.0 de \"The Last Starship\" para PC",
-        "description": "Tras casi tres años en acceso anticipado, Introversion Software publicó la versión 1.0 de The Last Starship el 6 de febrero de 2026 para PC. El est...",
-        "fullContent": "Tras casi tres años en acceso anticipado, Introversion Software publicó la versión 1.0 de The Last Starship el 6 de febrero de 2026 para PC. El estudio también es conocido por el título Prison Architect.\n\nThe Last Starship es un juego de ciencia ficción para un solo jugador que permite gestionar una corporación de envío y comercio interestelar, incluyendo la construcción de naves espaciales y la administración de recursos como alimentos, agua, munición y oxígeno. El autor indica haber dedicado varios meses a explorar los aspectos sandbox del juego.\n\nEl diseño del juego pone énfasis en la planificación anticipada mientras se opera en el vacío del espacio, requiriendo que los jugadores consideren la adquisición de suministros y el refuerzo de la nave como parte del ciclo de juego."
-      }
-    },
-    {
-      "id": "7ae4afe88ce3ffd32a12c31ff230f6f8",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1788865153078_32.jpg",
-      "link": "https://www.greenmangaming.com/blog/the-top-10-hot-wheels-video-games-of-all-time/",
-      "en": {
-        "title": "Top 10 Hot Wheels Video Games",
-        "description": "Hot Wheels has been a presence in the gaming market for more than fifty years, extending the brand from physical toys to digital titles. The follow...",
-        "fullContent": "Hot Wheels has been a presence in the gaming market for more than fifty years, extending the brand from physical toys to digital titles. The following list identifies ten video games that feature Hot Wheels vehicles and tracks.\n\nHot Wheels Unleashed, developed by Milestone, includes detailed vehicle models with molded‑plastic textures and a track editor that allows players to create custom courses. World Race, based on the Highway 35 animated series, offers multidimensional tracks, licensed rock music, and team racing modes typical of early‑2000s arcade racers. Hot Wheels Turbo Racing, published by EA in the late 1990s, provides a soundtrack that includes tracks from Metallica and Primus and rewards players for performing airborne stunts. Forza Horizon 3: Hot Wheels, released as a downloadable content expansion by Playground Games, integrates Hot Wheels loops and tracks into the Forza Horizon 3 environment, featuring the series' driving physics over a coastal Australian setting."
-      },
-      "es": {
-        "title": "Los 10 mejores videojuegos de Hot Wheels",
-        "description": "Hot Wheels lleva más de cinco décadas presente en el mercado de los videojuegos, trasladando la marca de los juguetes físicos a títulos digitales. ...",
-        "fullContent": "Hot Wheels lleva más de cinco décadas presente en el mercado de los videojuegos, trasladando la marca de los juguetes físicos a títulos digitales. A continuación se enumeran diez juegos que incluyen vehículos y pistas de Hot Wheels.\n\nHot Wheels Unleashed, desarrollado por Milestone, presenta modelos de vehículos con texturas de plástico moldeado y un editor de pistas que permite a los jugadores crear recorridos personalizados. World Race, basado en la serie animada Highway 35, ofrece pistas multidimensionales, música rock con licencias y modos de carrera por equipos característicos de los arcades de principios de los 2000. Hot Wheels Turbo Racing, publicado por EA a finales de los años 90, incluye una banda sonora con temas de Metallica y Primus y otorga recompensas por realizar acrobacias aéreas. Forza Horizon 3: Hot Wheels, lanzado como expansión descargable por Playground Games, incorpora los bucles y pistas de Hot Wheels al entorno de Forza Horizon 3, utilizando la física de conducción de la serie sobre la costa australiana."
+        "title": "Los principales fabricantes de consolas no contemplan reembolsar a clientes tras devoluciones de aranceles",
+        "description": "En 2022, la administración de los Estados Unidos impuso aranceles adicionales a ciertos componentes importados, lo que llevó a Sony, Microsoft y Ni...",
+        "fullContent": "En 2022, la administración de los Estados Unidos impuso aranceles adicionales a ciertos componentes importados, lo que llevó a Sony, Microsoft y Nintendo a elevar los precios al público de sus consolas de videojuegos. Las compañías explicaron los ajustes como consecuencia de las nuevas condiciones económicas derivadas de los aranceles.\n\nPosteriormente, la Corte Suprema dictaminó que dichos aranceles habían sido aplicados de manera ilegal, y el gobierno acordó reembolsar a las empresas las obligaciones pagadas. Los fabricantes de consolas han sostenido ante los tribunales que ese reembolso no les obliga a devolver el importe a los consumidores que adquirieron los dispositivos a los precios incrementados.\n\nUna acción colectiva presentada en mayo contra Sony Interactive Entertainment alega que la empresa cobró precios superiores a los de mercado por las consolas PlayStation durante el periodo de aranceles. Los abogados de Sony han solicitado al juzgado el desestimiento del proceso, argumentando que los compradores recibieron los productos anunciados y, por tanto, no sufrieron una lesión compensable. Cadenas minoristas como Walmart y Costco han comunicado su intención de reducir los precios para los clientes afectados, medida que no ha sido adoptada por los principales fabricantes de consolas."
       }
     }
   ]
