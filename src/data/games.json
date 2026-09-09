@@ -37960,8 +37960,14 @@
       ],
       "link": "https://www.mediafire.com/file/hb5aqyomluchpq8/[DLPSGAME.COM]-CUSA11396.rar/file",
       "trailer": "https://www.youtube.com/embed/Yp3CEbPahnY",
-      "sinopsis": "Game (v1.00)(Fix 5.05-11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nCome aboard and experience the pirate’s life in ONE PIECE Grand Cruise for PlayStation®VR. Be prepared to be swept away in the first ONE PIECE VR experience. Step onto the famous Thousand Sunny ship and meet the legendary Straw Hat Pirates including Luffy, Zoro, Nami, Sanji, and many more while you brave fierce battles and fire cannons to defend the ship! Choose rooms to explore within the ship and feel what it’s like to be a pirate.",
-      "cover": ""
+      "sinopsis": "Embárcate y vive la vida pirata en ONE PIECE Grand Cruise, la primera experiencia VR del universo de One Piece. Sube a bordo del legendario Thousand Sunny y conoce a la tripulación de los Sombreros de Paja: Luffy, Zoro, Nami, Sanji y muchos más. Explora las distintas camarotes y áreas del barco mientras enfrentas feroces batallas, disparas cañones y defiendes la nave de peligros. Con controles inmersivos, siente la adrenalina de ser un pirata y dirige cada acción en una aventura de un solo jugador.",
+      "cover": "https://media.rawg.io/media/screenshots/3be/3bec37e1744925845b9fe9e1196b753b.jpg",
+      "releaseDate": {
+        "es": "2018-05-22"
+      },
+      "developer": {
+        "es": "BANDAI NAMCO Entertainment America"
+      }
     },
     {
       "id": "61578a15",
@@ -38161,8 +38167,17 @@
       ],
       "link": "https://akirabox.com/Z9dzBewl3k1b/file",
       "trailer": "https://www.youtube.com/embed/hrEysVIvEm8",
-      "sinopsis": "Subtitles : Dutch, English, French, German, Spanish\n\n3D Billiards: Billards & Snooker is a Sports game, developed by Z-Software and published by Joindots, which was released in 2017.\n\n4/3/2025\nAdd CUSA09542 – EUR : 3D Billiards Billiards and Snooker\nAdd CUSA09593 – USA (@Opoisso893/Golemnight) : 3D Billiards Billiards and Snooker",
-      "cover": ""
+      "sinopsis": "Entra en la mesa virtual y demuestra tu destreza con el taco. Podrás jugar al clásico ocho bolas, así como a nueve, diez y al snooker, en cuatro salas detalladas que puedes elegir. Selecciona entre diez avatares atractivos y enfréntate a oponentes controlados por IA con diferentes niveles de dificultad, o compite contra otro jugador local. Disfruta del sonido auténtico de los choques y del ambiente musical de billar. Personaliza la apariencia con tres pieles de bola y tres de taco, y escala la tabla de puntuaciones.",
+      "cover": "",
+      "releaseDate": {
+        "es": "2018-11-29"
+      },
+      "publisher": {
+        "es": "Joindots"
+      },
+      "developer": {
+        "es": "Joindots"
+      }
     },
     {
       "id": "c06aca4c",
@@ -38766,8 +38781,20 @@
       ],
       "link": "https://akirabox.com/APVmayy6mXo8/file",
       "trailer": "https://www.youtube.com/embed/EUfUnA2iEZ0",
-      "sinopsis": "Update 1.08 (8.50+) : Lets – Mediafire – Akia – 1File\n\nUpdate 1.08 (Fix 5.05/6.72/7.02/7.55) : Lets – Mediafire – Akia – 1File\n\nUpdate 1.09 (8.50+) : Lets – Mediafire – Mirror – Akia – 1File",
-      "cover": ""
+      "sinopsis": "Razputin Aquato, un joven acróbata y psíquico poderoso, cumple su sueño al incorporarse a los Psychonauts, una agencia internacional de espionaje mental. Al llegar descubre que su líder está cambiado tras haber sido secuestrado y que un infiltrado ha tomado la sede. Raz debe emplear sus habilidades psíquicas – telequinesis, proyección astral y control mental – para descubrir al topo, frustrar su plan secreto y evitar que el villano psíquico Malícula sea resucitado. La aventura combina plataformas, puzzles mentales y combates sobrenaturales mientras explora mentes extravagantes.",
+      "cover": "https://media.rawg.io/media/games/c3c/c3c536cc4d32623ba928020dfd39a648.jpg",
+      "genre": {
+        "es": "Action, Adventure, Platformer"
+      },
+      "releaseDate": {
+        "es": "2021-08-24"
+      },
+      "publisher": {
+        "es": "Xbox Game Studios, Double Fine Productions"
+      },
+      "developer": {
+        "es": "Double Fine Productions, Starbreeze Studios"
+      }
     },
     {
       "id": "ba3192e9",
