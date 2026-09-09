@@ -231,7 +231,7 @@ async function run() {
   
   let totalProcesados = 0;
   let procesadosDesdeUltimoCommit = 0;
-  const COMMIT_INTERVAL = 200; // commit + push cada 200 juegos
+  const COMMIT_INTERVAL = 50; // commit + push cada 50 juegos
   
   while (true) {
     // Leemos siempre del disco para excluir automáticamente los ya procesados
@@ -366,7 +366,7 @@ async function run() {
     procesadosDesdeUltimoCommit += targetGames.length;
     console.log(`\n✅ Lote guardado en disco. Total sesión: ${totalProcesados} | Sin commit: ${procesadosDesdeUltimoCommit}`);
     
-    // ── Auto commit + push cada 200 juegos ──────────────────────────────
+    // ── Auto commit + push cada 50 juegos ──────────────────────────────
     if (procesadosDesdeUltimoCommit >= COMMIT_INTERVAL) {
       gitCommitPush(procesadosDesdeUltimoCommit);
       procesadosDesdeUltimoCommit = 0;

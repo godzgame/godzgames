@@ -15347,8 +15347,24 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/dZRFp8jpK3s",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Bluey's Quest for the Gold Pen es un juego de aventura familiar que sigue una travesía para recuperar una pluma dorada legendaria. Los jugadores controlan al personaje principal en entornos coloridos de desplazamiento lateral con rompecabezas, plataformas y combate ligero. La narrativa destaca la exploración, la creatividad y la perseverancia mientras el héroe supera obstáculos y descubre secretos. Los objetos coleccionables y retos opcionales premian la curiosidad, y los controles simples hacen la experiencia accesible para jugadores de todas las edades. El juego combina gráficos vibrantes con una banda sonora alegre, creando una experiencia entretenida y optimista.",
+      "cover": "",
+      "genre": {
+        "en": "Adventure",
+        "es": "Aventura"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocida"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "84ae3c6b",
@@ -15357,8 +15373,17 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/Em395szfR1U",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En un relato inspirado en la mitología nórdica, los mundos de Midgard y Asgard se ven atrapados en la guerra divina entre Aesir y Vanir, presagiando el Ragnarok. Desde Valhalla desciende la valiente guerrera que elige a los caídos, la Valkiria, destinada a decidir el destino de dioses y mortales. La trama se entrelaza con decisiones que conducen a finales múltiples, mientras el jugador ejecuta combates intensos con combos y ataques especiales que recuerdan la épica batalla. Todo ello se acompaña del atemporal soundtrack de Motoi Sakuraba.",
+      "cover": "https://media.rawg.io/media/games/541/541243379af0ce221a44ceacc8e34b19.jpg",
+      "genre": {
+        "es": "RPG, Simulation"
+      },
+      "releaseDate": {
+        "es": "2022-12-22"
+      },
+      "publisher": {
+        "es": "Square Enix"
+      }
     },
     {
       "id": "8ade6d06",
@@ -15367,8 +15392,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/eKtUcGSMkOo",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Rock'N Racing Off Road DX brinda carreras llenas de emoción, con derrapes, choques y saltos impresionantes. El modo Copa permite competir en una serie de pistas variadas, mientras el contrarreloj pone a prueba tu velocidad. Hasta cuatro jugadores pueden enfrentarse en modo multijugador local, y el ranking online muestra tus mejores tiempos frente a amigos y rivales de todo el mundo. La física realista reproduce el manejo, los saltos y los impactos, creando una sensación auténtica. Todo ello está acompañado por una banda sonora de rock’n roll que intensifica la acción.",
+      "cover": "https://media.rawg.io/media/screenshots/a71/a71d389339cb813028a81919c28538e6.jpg",
+      "genre": {
+        "es": "Simulation, Sports, Racing"
+      },
+      "releaseDate": {
+        "es": "2015-09-17"
+      },
+      "publisher": {
+        "es": "EnjoyUp Games, Super PowerUp Games"
+      },
+      "developer": {
+        "es": "EnjoyUp Games, Super PowerUp Games"
+      }
     },
     {
       "id": "fe341bc9",
@@ -15377,8 +15414,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/ekoIQzcp11k",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Prepárate para la velocidad con familia y amigos. Grand Prix Rock 'N Racing te ofrece carreras trepidantes donde puedes evolucionar tu coche mejorando motor, frenos, neumáticos y más, hasta lograr la evolución perfecta para ganar el Campeonato. Compite en una tabla de clasificación online contra amigos y jugadores de todo el mundo. Disfruta de una gran variedad de pistas, carreras con 20 oponentes y modo multijugador para hasta 4 conductores. La física de conducción es realista y la acción se acompaña de abundante música rock 'n' roll.",
+      "cover": "https://media.rawg.io/media/screenshots/5ec/5ec63115b43570b787a273959f09ccc3.jpg",
+      "genre": {
+        "es": "Simulation, Sports, Racing"
+      },
+      "releaseDate": {
+        "es": "2016-05-13"
+      },
+      "publisher": {
+        "es": "EnjoyUp Games, Super PowerUp Games"
+      },
+      "developer": {
+        "es": "EnjoyUp Games, Unfinished Pixel, Super PowerUp Games"
+      }
     },
     {
       "id": "22f543a2",
@@ -15387,8 +15436,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/heY5nd0KCII",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Eres un pequeño gatito curioso y de gran personalidad que se embarca en una aventura para volver a casa. Deambulas por la gran ciudad, descubriendo callejones y parques mientras haces amistad con otros animales callejeros. Puedes vestir divertidos sombreros que cambian tu estilo y, al mismo tiempo, dejar un leve rastro de caos felino a tu paso. Cada rincón ofrece misiones de exploración y acertijos, y aunque volver a casa es tu objetivo principal, la tentación de seguir descubriendo la urbe siempre está presente. Decidirás si priorizas el regreso o la curiosidad.",
+      "cover": "https://media.rawg.io/media/games/c11/c119d11961d785498ccb8e1ed9b006ca.jpg",
+      "genre": {
+        "es": "Action, Adventure, Simulation, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-05-09"
+      },
+      "publisher": {
+        "es": "Double Dagger Studio"
+      },
+      "developer": {
+        "es": "Double Dagger Studio"
+      }
     },
     {
       "id": "a383716d",
@@ -15397,8 +15458,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/KDpbC-k25H4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Un mundo invadido por orcos obliga a los pocos humanos supervivientes a abandonar sus hogares. Tú, obstinado, te ocultas en el bosque y forjas una ballesta capaz de romper cualquier espada y anular toda magia. Con un tambor que suministra infinitos virotes y proyectiles especiales esparcidos por el territorio, enfrentas hordas de orcos, cada una con variantes que exigen tácticas distintas. Ganas experiencia al matarlos y mejoras la ballesta y los virotes. Viajas por pueblos, valles, castillos y pantanos, cazando en plena luz o en la oscuridad de los pasillos húmedos.",
+      "cover": "https://media.rawg.io/media/screenshots/9bb/9bb426ed48494814e51d68299fe5e22b.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2015-11-05"
+      },
+      "publisher": {
+        "es": "Cooply Solutions"
+      },
+      "developer": {
+        "es": "Cooply Solutions"
+      }
     },
     {
       "id": "512fb45c",
@@ -15407,8 +15480,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/O-m03eligYo",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Chris Knox lidera una banda de ex operativos especiales y estafadores. Ayuda a Chris y su equipo a planear y ejecutar atracos contra objetivos valiosos para llenar los cofres de un sindicato criminal, a cambio de la vida de un ser querido. Cada misión varía según la planificación y ejecución, ofreciendo rejugabilidad y retos para completistas. Gestiona a un experto en cajas fuertes, un especialista en demoliciones, un hacker y un conductor de fuga. Usa bombas de humo, herramientas de ganzúas y equipamiento especial. Más de 60 trabajos en Nueva York, con objetivos extra que distinguen al maestro ladrón del delincuente menor.",
+      "cover": "https://media.rawg.io/media/screenshots/294/2945a33e0b97a2c0b967cdb0e39fc74d.jpg",
+      "genre": {
+        "es": "Strategy, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2015-06-18"
+      },
+      "publisher": {
+        "es": "Heavy Iron Studios"
+      },
+      "developer": {
+        "es": "Heavy Iron Studios"
+      }
     },
     {
       "id": "001af1c6",
@@ -15427,8 +15512,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/ClG7dzYfzyc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Adéntrate en los cuadros de artistas como Joseph Turner, Max Ernst, David Friedrich y Joseph Cornell en una aventura point‑and‑click que te lleva por el fantástico mundo de Nubla, repleto de puzles y lugares olvidados. La trama sigue a un viajero que busca su identidad y su lugar en el mundo, guiado por los personajes y habitantes de Nubla. El juego combina arte, tecnología y narrativa, permitiendo explorar obras del Museo Nacional Thyssen‑Bornemisza mientras resuelves acertijos clásicos del género. Los paisajes dibujados a mano y los diálogos con los diversos personajes enriquecen la experiencia de autodescubrimiento.",
+      "cover": "https://media.rawg.io/media/screenshots/94f/94f69d30b255be7a4a92cd8a05d2c9ce.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2016-12-06"
+      },
+      "publisher": {
+        "es": "Gammera Nest"
+      },
+      "developer": {
+        "es": "Gammera Nest"
+      }
     },
     {
       "id": "cd105f26",
@@ -15437,8 +15534,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/0__bMSqR4aQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Iron Meat, la trama sigue al Dr. Maxim Turgenev y al Teniente General Nikolay Preobrazhensky mientras la estación Xenoscience en Marte entra en pánico: una entidad extraída de ruinas escapa, contaminando al personal y desactivando los sistemas. Tras activar protocolos de emergencia, el control se traslada a un satélite y se impone un confinamiento total. El jugador debe gestionar el aislamiento, reparar controles fallidos y enfrentar al sujeto devorador con recursos escasos, mientras solo tres de los diez mil miembros sobreviven. Cada decisión determina si se logra contener la amenaza o sucumbir al apocalipsis.",
+      "cover": "https://media.rawg.io/media/screenshots/4bd/4bdb29036b6e60c3bb103404eb853248.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2024-09-24"
+      },
+      "publisher": {
+        "es": "Screenwave Media, Retroware"
+      },
+      "developer": {
+        "es": "Retroware, Ivan Valeryevich Suvorov"
+      }
     },
     {
       "id": "59e23e19",
@@ -15447,8 +15556,14 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/8dKA4auDmds",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "5 Star Wrestling: ReGenesis usa psicología real del ring con mecánicas de Heel y Face, un sistema de daño en extremidades y rivalidades que afectan el juego. Incluye una campaña de 40 horas con 128 retos y más de 400 objetivos, y la mayor cantidad de movimientos por luchador, con reversas Finisher‑to‑Finisher. Los protagonistas Ragnabrok “El Conquistador”, “Raging” Andy Organ, HarVee Dee y Jonny “El Toro” Miavia poseen música temática, sets de movimientos extensos y acabados que varían según su condición física. Cada luchador tiene IA personalizable con cinco personalidades que cambian radicalmente el desarrollo de los combates.",
+      "cover": "https://media.rawg.io/media/screenshots/47c/47c1000bd01277df241fc1dd76e1f35f.jpg",
+      "releaseDate": {
+        "es": "2016-01-20"
+      },
+      "developer": {
+        "es": "Serious Parody"
+      }
     },
     {
       "id": "18400670",
@@ -15457,8 +15572,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/ZmBFb0z6jew",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En este metroidvania demoníaco, Gal Guardians: Servants of the Dark continúa la saga de acción clásica. Las hermanas Kirika y Masha, con pistolas demoníacas y látigo, deben alternarse para explorar el Reino Demoníaco, descubrir pasadizos ocultos y resolver puzles que permiten recolectar los huesos del Señor Demonio Maxim. Al revivir a sus vasallos, fortalecen el castillo del señor, desbloqueando apoyos y escenas que revelan sus personalidades. El juego ofrece armas secundarias, reliquias y un sistema de crafteo que amplía habilidades y abre nuevas áreas, y permite cambiar entre los estilos Casual, Veterano y Leyenda en cualquier momento.",
+      "cover": "https://media.rawg.io/media/screenshots/f15/f15e0e15d8906f7bb1a98b04bf18fd07.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2025-03-26"
+      },
+      "publisher": {
+        "es": "Inti Creates"
+      },
+      "developer": {
+        "es": "Inti Creates"
+      }
     },
     {
       "id": "a7a785cb",
@@ -15467,8 +15594,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/3yUvI6n8JWs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Cuando el castillo de un demonio ennegrece la tierra, las hermanas cazadoras de demonios Shinobu y Maya Kamizono deben salvar su escuela, ahora transformada en una fortaleza infernal. En esta aventura 2D, el jugador alterna entre ambas en tiempo real: Shinobu usa ataques a distancia y Maya combate cuerpo a cuerpo. Cada jefe derrotado otorga nuevas sub‑armas que desbloquean rutas y estrategias. Si una hermana cae, el 'Rescate de Hermana' la revive al regresar al lugar. Tres estilos de dificultad (Casual, Veterano, Leyenda) y modo cooperativo permiten adaptar la experiencia.",
+      "cover": "https://media.rawg.io/media/screenshots/6d8/6d8175c97052021a031ba29d431c56bf.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2023-02-23"
+      },
+      "publisher": {
+        "es": "Inti Creates"
+      },
+      "developer": {
+        "es": "Inti Creates"
+      }
     },
     {
       "id": "7d153044",
@@ -15484,8 +15623,24 @@
       ],
       "link": "https://rootz.so/d/2B1EDw",
       "trailer": "https://www.youtube.com/embed/EebruP7BwlQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Level 22, el jugador recorre un complejo subterráneo abandonado envuelto en misterio. Como protagonista sin nombre, exploras pasillos oscuros, encuentras documentos dispersos y vas reconstruyendo los hechos que provocaron el abandono del sitio. El juego combina terror atmosférico con resolución de acertijos, exigiendo observación cuidadosa y gestión de recursos mientras evitas entidades hostiles que acechan en la sombra. La tensión aumenta con iluminación dinámica y sonido ambiental; cada enigma resuelto abre nuevas áreas, intensificando la sensación de temor y la curiosidad por descubrir la verdad oculta.",
+      "cover": "",
+      "genre": {
+        "en": "Survival horror",
+        "es": "Survival horror"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "0fa08c3c",
@@ -15501,8 +15656,20 @@
       ],
       "link": "https://rootz.so/d/1skvQ0",
       "trailer": "https://www.youtube.com/embed/DO5VzDgRePg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Perfect Universe reúne nueve modos que juegan con la gravedad y ofrecen física alocada. En el modo individual, Perfect Moon te pone en la piel de un hombre que recorre plataformas monocromáticas buscando gemas; Moon Life te permite controlar a un extraterrestre en un reto estilo QWOP; y Star Light te lanza en una nave espacial que surca la galaxia al estilo Thrust. El multijugador incluye Moon Golf, Gravity Dodge, Balloon Pop, Rocket Ball, Moon Volley y Space Race, donde de 1 a 4 jugadores compiten en deportes y carreras desafiando la gravedad.",
+      "cover": "https://media.rawg.io/media/screenshots/eeb/eeb8f0d889d20c9053c3c0234b6f07a8_1dE3LbR.jpg",
+      "genre": {
+        "es": "Action, Arcade"
+      },
+      "releaseDate": {
+        "es": "2016-02-25"
+      },
+      "publisher": {
+        "es": "Excalibur Publishing"
+      },
+      "developer": {
+        "es": "Excalibur Games, Will Sykes Games"
+      }
     },
     {
       "id": "a7101589",
@@ -15518,8 +15685,20 @@
       ],
       "link": "https://rootz.so/d/k6XaK",
       "trailer": "https://www.youtube.com/embed/v4q4Z3Tc84s",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Besiege, el jugador construye armas de asedio imposibles usando módulos como ruedas, taladros, púas, cuchillas, hélices, cañones y mangueras de agua. Cada máquina debe ensamblarse antes de lanzarse y se adapta a objetivos como destruir un castillo, aniquilar un ejército o trasladar un objeto. Los niveles están llenos de minas, árboles, rocas y soldados enemigos que ponen a prueba la estabilidad de la creación; si es inestable, puede desmoronarse, incendiarse o explotar. La diversión radica en experimentar combinaciones improbables y ver cómo fallan espectacularmente.",
+      "cover": "https://media.rawg.io/media/screenshots/570/5704316c673fab6994db582e0f43f924.jpg",
+      "genre": {
+        "es": "Strategy, Simulation, Indie"
+      },
+      "releaseDate": {
+        "es": "2015-01-28"
+      },
+      "publisher": {
+        "es": "Spiderling Studios"
+      },
+      "developer": {
+        "es": "Spiderling Studios"
+      }
     },
     {
       "id": "4ee697fd",
@@ -15532,8 +15711,20 @@
       ],
       "link": "https://rootz.so/d/1uD680",
       "trailer": "https://www.youtube.com/embed/wNJf_K6sqqI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Virtual Surfing es una simulación que permite montar olas medianas y grandes mientras exploras el entorno remando y eligiendo el punto de entrada. Puedes entrar en la tubo y usar una cámara para vivir la sensación de estar dentro de la ola. Los trucos se ejecutan cambiando la distribución de peso sobre la tabla, y el juego incluye desafíos y competiciones donde los jueces exigen maniobras y combos específicos. Disfruta de una cámara que muestra las olas desde ángulos diferentes, elige entre varios personajes masculinos y femeninos y personaliza tu tabla con imágenes, materiales y quillas a tu gusto.",
+      "cover": "https://media.rawg.io/media/screenshots/072/07271d0d4dd82322f94b476ba04375c3.jpg",
+      "genre": {
+        "es": "Sports"
+      },
+      "releaseDate": {
+        "es": "2018-12-19"
+      },
+      "publisher": {
+        "es": "Waveor"
+      },
+      "developer": {
+        "es": "Waveor"
+      }
     },
     {
       "id": "840a6fc9",
@@ -15561,8 +15752,20 @@
       ],
       "link": "https://akirabox.com/Y2xm0wVppGRO/file",
       "trailer": "https://www.youtube.com/embed/GgmPRLhaZGc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Disney Dreamlight Valley combina simulación de vida y aventura, ofreciendo misiones, exploración y actividades con amigos de Disney y Pixar, tanto clásicos como nuevos. Antes, el valle era un refugio donde los personajes convivían en armonía, pero la Olvidación provocó la aparición de Espinas Nocturnas que borraron los recuerdos mágicos del lugar. Desesperados, los habitantes se refugiaron tras puertas cerradas en el Castillo de los Sueños. Tú debes explorar el valle, cumplir misiones, conocer a cada personaje y restaurar la magia perdida, devolviendo la paz a Dreamlight Valley.",
+      "cover": "https://media.rawg.io/media/games/2f7/2f77dc8fa62aa506e7a06887d3756c3f.jpg",
+      "genre": {
+        "es": "Adventure, Simulation"
+      },
+      "releaseDate": {
+        "es": "2023-12-05"
+      },
+      "publisher": {
+        "es": "Gameloft"
+      },
+      "developer": {
+        "es": "Gameloft"
+      }
     },
     {
       "id": "8cc22e81",
@@ -15578,8 +15781,20 @@
       ],
       "link": "https://akirabox.com/rk9zKDEpqG0l/file",
       "trailer": "https://www.youtube.com/embed/IA0Im3j-wf4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Tras sobrevivir a un accidente aéreo en una isla remota, el protagonista descubre que su hijo ha sido secuestrado por los nativos caníbales. Debe buscar refugio, recolectar alimentos y crear armas y herramientas mediante el sistema de artesanía. Durante el día, puede explorar cuevas donde habitan los aborígenes y acabar con ellos mientras duermen, aunque los mutantes que emergen se vuelven cada vez más extraños. Los nativos no siempre atacan: a veces patrullan el campamento, intentan comunicarse o se cubren, protegen a los heridos y apagan antorchas para evitar ser vistos.",
+      "cover": "https://media.rawg.io/media/games/1be/1be575aa6de86de328433a63fb534d9a.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2018-04-30"
+      },
+      "publisher": {
+        "es": "Endnight Games"
+      },
+      "developer": {
+        "es": "Endnight Games"
+      }
     },
     {
       "id": "58e7a088",
@@ -15595,8 +15810,20 @@
       ],
       "link": "https://rootz.so/d/1YmW8G",
       "trailer": "https://www.youtube.com/embed/iEsjSq_2Lcg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Super Rude Bear Resurrection es un platformer masocore ajustado donde el jugador controla a Rude Bear, un oso gangsta del este de Londres, invocado al medievo inglés para destruir a su némesis mortal, el Hechicero. Cada muerte deja un cadáver que se apila y sirve como plataforma o escudo de carne; al morir el juego se vuelve más fácil, aunque se puede completar sin una sola muerte. El reto consiste en correr, saltar y morir a través de niveles extensos en siete mundos, desde ruinas antiguas hasta mazmorras de carne, usando los cuerpos como herramientas para superar obstáculos letales.",
+      "cover": "https://media.rawg.io/media/screenshots/6a5/6a5d512a0aae9f12cc8f8b05d46ec631.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2017-05-02"
+      },
+      "publisher": {
+        "es": "Alex Rose Games"
+      },
+      "developer": {
+        "es": "Alex Rose, VORPAL GAMES"
+      }
     },
     {
       "id": "37d96623",
@@ -15605,8 +15832,24 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/6e_jDrAYDuk",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "El juego sigue a un comandante que recorre entornos enigmáticos, combinando plataformas y rompecabezas. Los jugadores guían al protagonista por niveles coloridos, resolviendo acertijos ambientales, manipulando objetos y descubriendo rutas ocultas. La jugabilidad enfatiza el pensamiento lógico, el timing y la exploración, con cada etapa introduciendo nuevas mecánicas y obstáculos. Los gráficos son vibrantes y estilizados, reforzando un tono ligero y divertido. La experiencia está diseñada para un solo jugador, ofreciendo una curva de dificultad constante que premia la observación y la creatividad. Durante el viaje aparecen artefactos opcionales que desbloquean desafíos adicionales.",
+      "cover": "",
+      "genre": {
+        "en": "Puzzle‑Platformer",
+        "es": "Puzzle‑Plataforma"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "0f794fa2",
@@ -15622,8 +15865,20 @@
       ],
       "link": "https://rootz.so/d/15NerI",
       "trailer": "https://www.youtube.com/embed/2FkTiPBYErg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Perseo, elegido por Zeus, es el campeón del Funk y debe enfrentar a los titanes paganos que han impuesto ritmos de Pop, Rock y Rap sobre la humanidad, convirtiéndola en minions sin sentido. El dios le confía la misión de restaurar la música divina guiándolo por más de cuarenta niveles inspirados en la mitología griega, distribuidos en los tres mundos musicales. El jugador controla a Perseo, recoge cascos y armas, ejecuta ataques de Funk‑Fu y supera etapas bonus, incluso montando a Pegaso. Sólo el Funk de los dioses sobrevivirá.",
+      "cover": "https://media.rawg.io/media/screenshots/f38/f38909544298f1dde05b8d8d24fe9ae8.jpg",
+      "genre": {
+        "es": "Action, Adventure, Casual"
+      },
+      "releaseDate": {
+        "es": "2015-01-09"
+      },
+      "publisher": {
+        "es": "Merge Games, EnjoyUp Games, A Crowd of Monsters"
+      },
+      "developer": {
+        "es": "EnjoyUp Games, A Crowd of Monsters"
+      }
     },
     {
       "id": "10808c19",
@@ -15632,8 +15887,24 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/Sf5GEo4j1gg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Might and Magic: Clash of Heroes narra la lucha de un grupo de héroes de Ashan contra las fuerzas oscuras que amenazan el reino de Erathia. Los jugadores dirigen a una partida de guerreros, magos y arqueros clásicos en batallas tácticas tipo rompecabezas, donde combinar gemas de colores genera ataques, hechizos y convocatorias. La trama se revela mediante cinemáticas animadas y diálogos, mostrando las motivaciones de cada héroe y la magnitud del conflicto. La posición estratégica, las cadenas de combos y la gestión de recursos son esenciales para superar formaciones enemigas cada vez más complejas y enfrentamientos contra jefes.",
+      "cover": "",
+      "genre": {
+        "en": "Puzzle RPG",
+        "es": "RPG de rompecabezas"
+      },
+      "releaseDate": {
+        "en": "2017-06-26",
+        "es": "2017-06-26"
+      },
+      "publisher": {
+        "en": "Deep Silver",
+        "es": "Deep Silver"
+      },
+      "developer": {
+        "en": "Capybara Studios",
+        "es": "Capybara Studios"
+      }
     },
     {
       "id": "717d76fd",
@@ -15649,8 +15920,20 @@
       ],
       "link": "https://rootz.so/d/1NTnmq",
       "trailer": "https://www.youtube.com/embed/X3-iro2qyHo",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Tras frustrar la invasión de las tribus orcas en Thorwal, los héroes ven cómo los orcos se reagruparon y arrasaron Lowangen y el Valle Svellt. Un embajador elfo convoca al grupo a Kvirasim para unir a elfos y enanos contra el enemigo común y recuperar la Piedra Salamandra. Al acercarse a una mina enana abandonada, descubren que no todos apoyan la alianza. *Realms of Arkania: Star Trail* es un RPG con combates tácticos isométricos por turnos, talentos y hechizos, razas y clases distintas, ciudades y mazmorras en primera persona, creación y gestión de personajes y planificación del viaje.",
+      "cover": "https://media.rawg.io/media/screenshots/e66/e660925ca626f9ffe5f0366771189258.jpg",
+      "genre": {
+        "es": "Adventure, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2016-11-11"
+      },
+      "publisher": {
+        "es": "United Independent Entertainment"
+      },
+      "developer": {
+        "es": "United Independent Entertainment, Crafty Studios"
+      }
     },
     {
       "id": "1880d53c",
@@ -15659,8 +15942,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/KcCVLot8P1I",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En REPLAY: VHS IS NOT DEAD eres un director de cine que viaja por varias películas humorísticas. Controlas hasta cinco personajes diferentes, sincronizando sus acciones para superar cada nivel de plataformas donde el tiempo se manipula de forma inédita. Cada escenario está lleno de sorpresas que ponen a prueba tu ingenio. El juego es accesible: nunca pierdes, puedes cortar una toma y volver a intentarla. Con más de 70 niveles en cuatro universos cinematográficos, desbloquearás medallas, trajes y llaves ocultas, todo con un estilo retro de los años 80 y una banda sonora al estilo Hollywood.",
+      "cover": "https://media.rawg.io/media/screenshots/be1/be1eaee746ec7f72689b08e6d458c6ed.jpg",
+      "genre": {
+        "es": "Puzzle, Platformer"
+      },
+      "releaseDate": {
+        "es": "2016-02-23"
+      },
+      "publisher": {
+        "es": "Neko Entertainment"
+      },
+      "developer": {
+        "es": "Neko Entertainment, Team Replay"
+      }
     },
     {
       "id": "5dfb4cb6",
@@ -15673,8 +15968,20 @@
       ],
       "link": "https://rootz.so/d/nwv3Y",
       "trailer": "https://www.youtube.com/embed/S-6heMwqM7k",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En la helada Antártida, la temible organización Black Hand of Fate ha erigido una base secreta dentro de un volcán, creando un ejército de soldados bio‑ingenierizados y monstruos genéticos para conquistar el mundo. Sólo el Agente Explosivo, un valiente héroe, puede detener sus planes. El juego combina saltos y disparos clásicos en niveles variados llenos de enemigos, secretos y jefes únicos. Recolecta oro y derrota a los adversarios para desbloquear mejoras y power‑ups; las puertas actúan como puntos de control. Supera el modo difícil para obtener disfraces especiales.",
+      "cover": "https://media.rawg.io/media/screenshots/bce/bce9637b69a2c0192c4db6d84d6fdd4e.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie, Platformer"
+      },
+      "releaseDate": {
+        "es": "2015-11-19"
+      },
+      "publisher": {
+        "es": "Axol Studio"
+      },
+      "developer": {
+        "es": "Axol Studio"
+      }
     },
     {
       "id": "326a9bfb",
@@ -15691,8 +15998,24 @@
       ],
       "link": "https://rootz.so/d/1BWjyq",
       "trailer": "https://www.youtube.com/embed/9xXXU7LlrfQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Gran Turismo Sport coloca al jugador al volante de autos reales recreados con gran detalle, compitiendo en pistas auténticas de todo el mundo. El juego destaca por su física de conducción realista, amplias opciones de personalización y modos en línea competitivos donde los corredores escalan posiciones en eventos regulados. Un modo de un solo jugador propone una serie de retos que enseñan técnicas avanzadas, mientras que las carreras multijugador exigen precisión y estrategia. Con gráficos detallados, clima dinámico y un profundo sistema de progresión, ofrece la emoción del automovilismo profesional sin una narrativa predefinida.",
+      "cover": "",
+      "genre": {
+        "en": "Racing simulation",
+        "es": "Simulación de carreras"
+      },
+      "releaseDate": {
+        "en": "2017-10-17",
+        "es": "2017-10-17"
+      },
+      "publisher": {
+        "en": "Sony Interactive Entertainment",
+        "es": "Sony Interactive Entertainment"
+      },
+      "developer": {
+        "en": "Polyphony Digital",
+        "es": "Polyphony Digital"
+      }
     },
     {
       "id": "e7237125",
@@ -15701,8 +16024,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/izRPb4BURMI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Sword Coast Legends, los jugadores se adentran en el Underdark, pasando por el puesto comercial de Mantol‑Derith, y pueden luchar junto al legendario Drizzt Do’Urden. La expansión gratuita Rage of Demons añade una nueva raza jugable, los tieflings, y la clase de brujos, además de opciones extra para el Dungeon Master. El modo campaña para un jugador ofrece una narrativa profunda con combate táctico por turnos, pausa y control de la partida. En el modo Dungeon Master, el maestro crea y adapta mazmorras en tiempo real, guiando a la partida de cinco jugadores y sus distintas razas y clases.",
+      "cover": "https://media.rawg.io/media/games/c04/c04e614c0a892abfb0c0ab6d735a7022.jpg",
+      "genre": {
+        "es": "Action, RPG"
+      },
+      "releaseDate": {
+        "es": "2015-10-19"
+      },
+      "publisher": {
+        "es": "Digital Extremes"
+      },
+      "developer": {
+        "es": "Digital Extremes, n-Space"
+      }
     },
     {
       "id": "d954694a",
@@ -15711,8 +16046,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/th6pYBNZUcg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En la Antártida, la organización terrorista La Mano Negra de la Fatalidad ha construido una base secreta dentro de un volcán, creando un ejército de soldados bio‑ingenierizados y monstruos genéticos para dominar el mundo. Solo tú, el Agente Explosivo, puedes detener sus planes. El juego combina salto y disparos en niveles variadas con enemigos y secretos, ofreciendo enfrentamientos contra jefes únicos y desafiantes. Recoge mejoras, power‑ups y monedas para desbloquear recompensas, y supera el modo difícil para obtener trajes especiales.",
+      "cover": "https://media.rawg.io/media/screenshots/bce/bce9637b69a2c0192c4db6d84d6fdd4e.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie, Platformer"
+      },
+      "releaseDate": {
+        "es": "2015-11-19"
+      },
+      "publisher": {
+        "es": "Axol Studio"
+      },
+      "developer": {
+        "es": "Axol Studio"
+      }
     },
     {
       "id": "694cb2e3",
@@ -15739,8 +16086,20 @@
       ],
       "link": "https://akirabox.com/vgKGxLj22G8Q/file",
       "trailer": "https://www.youtube.com/embed/ZGy1dn8PeEw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Tannenberg revives la cruda batalla de 1914 entre el Segundo Ejército ruso y las fuerzas alemanas en el Frente Oriental. El juego sitúa a los soldados de ambas naciones en lagos, bosques y llanuras nevadas, recreando uniformes y armamento de la época con gran detalle. La experiencia es un FPS táctico en escuadras, con mapas abiertos que permiten libertad estratégica y modos para hasta 64 jugadores. Deberás dominar rifles, ametralladoras, artillería y gas venenoso, y estar preparado para combates cuerpo a cuerpo feroces mientras buscas sobrevivir en el caos del frente oriental.",
+      "cover": "https://media.rawg.io/media/games/564/56435d913e39a6ad5fa8e75ed46d8c87.jpg",
+      "genre": {
+        "es": "Action, Shooter, Strategy, Simulation, Indie"
+      },
+      "releaseDate": {
+        "es": "2019-02-13"
+      },
+      "publisher": {
+        "es": "M2H, Blackmill Games"
+      },
+      "developer": {
+        "es": "M2H, Blackmill Games"
+      }
     },
     {
       "id": "d0808a1a",
@@ -15756,8 +16115,20 @@
       ],
       "link": "https://akirabox.com/dZxG5eYebGVj/file",
       "trailer": "https://www.youtube.com/embed/7H6tz0H7x24",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Harrison, un humilde trabajador de mantenimiento, queda varado en el espacio tras la destrucción de su nave. Con equipo improvisado, usa la gravedad de los planetas para impulsarse y volver a su civilización. La historia narrada combina humor y tragedia, explorando la soledad, la muerte y la locura mientras enfrenta el hambre y recuerdos familiares. El juego ofrece acción vista cenital en 50 niveles en cinco sistemas: minas abandonadas, el bosque espacial Vega, cuevas de percebes con criaturas peligrosas, campos de batalla galácticos y sistemas cristalinos con piratas. Mejora tu traje, controla la velocidad y compite por los mejores tiempos.",
+      "cover": "https://media.rawg.io/media/screenshots/638/6380589cfef78db65e6c5406be63d48c.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2019-07-16"
+      },
+      "publisher": {
+        "es": "PixelNAUTS Games"
+      },
+      "developer": {
+        "es": "PixelNAUTS Games"
+      }
     },
     {
       "id": "d61e59ce",
@@ -15790,8 +16161,20 @@
       ],
       "link": "https://akirabox.com/BnkmW7B4PmR0/file",
       "trailer": "https://www.youtube.com/embed/yAqHJoR69fs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Cosmophony es un shooter musical creado para jugadores exigentes que buscan una experiencia original e intensa. Encarnas el corazón de una diosa caída en un universo moribundo, con la misión de cumplir su destino. Avanzas por niveles diseñados para acompañarse de una banda sonora 100 % drum‑and‑bass, compuesta por DJ Salaryman, que impulsa la acción. El juego combina un diseño sinestésico basado en la música, gráficos HD con fondos psicodélicos y un rendimiento constante de 60 fps. La dificultad es alta y progresiva, pensada para jugadores experimentados.",
+      "cover": "https://media.rawg.io/media/screenshots/5dd/5dddc6db2155e3db77120fbb8998757c.jpg",
+      "genre": {
+        "es": "Action, Shooter, Arcade, Indie"
+      },
+      "releaseDate": {
+        "es": "2014-09-24"
+      },
+      "publisher": {
+        "es": "Frogames, Moving Player"
+      },
+      "developer": {
+        "es": "Moving Player, MOVING PLAYER SAS, Bento Studio, Bento-Studio"
+      }
     },
     {
       "id": "b0e18eff",
@@ -15805,8 +16188,14 @@
       ],
       "link": "https://akirabox.com/rk9zKanrvm0l/file",
       "trailer": "https://www.youtube.com/embed/mPwgjvvx8bc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Tras un tour de fantasmas que sale terriblemente mal, Freya y sus amigos quedan atrapados en un mundo alternativo hostil que ansía su muerte. Jugando como Freya, descubren la habilidad de rebobinar el tiempo, lo que les permite probar nuevas rutas y decisiones para sobrevivir. El juego combina arte pixelado con retratos pintados, ofreciendo acertijos lógicos y secuencias de acción frenéticas mientras exploran una atmósfera misteriosa. Las decisiones afectan las relaciones, incluidas las queer, y revelan secretos de la dimensión siniestra, obligando al grupo a mantenerse unido o romperse para siempre.",
+      "cover": "https://media.rawg.io/media/screenshots/d17/d177e377a2165bb46147def0a52436bb.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "es": "2021-02-24"
+      }
     },
     {
       "id": "18208551",
@@ -15815,8 +16204,24 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/KGhRImLwABY",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Revenge On Gold Diggers es un juego de acción y aventura que sigue a un protagonista solitario en una frontera hostil donde cazadores de tesoros luchan por una riqueza oculta. Los jugadores exploran entornos variados, desde cañones desolados hasta puestos bulliciosos, resolviendo puzles ambientales y participando en combates rápidos con armas cuerpo a cuerpo y de fuego. La historia se desarrolla mediante encuentros con bandas rivales, decisiones morales y el descubrimiento de los secretos del codiciado oro. La jugabilidad se centra en la gestión de recursos, el combate estratégico y una mezcla de sigilo y exploración libre.",
+      "cover": "",
+      "genre": {
+        "en": "Action-Adventure",
+        "es": "Acción-Aventura"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "0bc394a8",
@@ -15830,8 +16235,20 @@
       ],
       "link": "https://akirabox.com/E9Qz905W63OL/file",
       "trailer": "https://www.youtube.com/embed/w6aTzptn4Fw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Cant Drive This, dos jugadores se turnan: uno conduce un coche mientras el otro construye el tramo de carretera justo delante. El conductor debe mantener más de 20 mph o el vehículo explotará, lo que genera tensión constante. El modo cooperativo permite jugar en el mismo sofá usando un teclado y ratón o dos mandos, y también ofrece partidas en línea con extraños. El juego incluye un editor de pistas y otro de vehículos, con cientos de piezas desbloqueables para personalizar tanto el coche como el trazado, creando carreras únicas y caóticas.",
+      "cover": "https://media.rawg.io/media/games/f9e/f9e3d21bebb0fe8afbca98282624a085.jpg",
+      "genre": {
+        "es": "Racing, Casual, Indie, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2016-09-25"
+      },
+      "publisher": {
+        "es": "Pixel Maniacs"
+      },
+      "developer": {
+        "es": "Pixel Maniacs"
+      }
     },
     {
       "id": "57201439",
@@ -15845,8 +16262,20 @@
       ],
       "link": "https://akirabox.com/l5YzMpNKK3yO/file",
       "trailer": "https://www.youtube.com/embed/2A4_3GRbHqQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Encarnas a JaJaMaru, un ninja que debe rescatar a la princesa Sakura, secuestrada por el malévolo Namazu Dayuu. Armado con estrellas arrojadizas, JaJaMaru se adentra en los escondites del villano, enfrentando monstruos, cada uno con armas y tácticas distintas. Para avanzar, rompe los ladrillos del suelo, subiendo y bajando entre los niveles y derrotando enemigos. Los ladrillos rotos a veces revelan objetos útiles, y el poder máximo es montar a Gamapakun, la enorme rana. Además, aparecen etapas de bonificación que añaden variedad al estilo del juego.",
+      "cover": "https://media.rawg.io/media/games/88e/88e9a0463bea28c607a6d9548d40c14c.jpg",
+      "genre": {
+        "es": "Action, Platformer"
+      },
+      "releaseDate": {
+        "es": "2007-10-15"
+      },
+      "publisher": {
+        "es": "Jaleco"
+      },
+      "developer": {
+        "es": "Tose"
+      }
     },
     {
       "id": "f096965e",
@@ -15862,8 +16291,20 @@
       ],
       "link": "https://akirabox.com/N2p3DQQ18zMa/file",
       "trailer": "https://www.youtube.com/embed/Fdkv0W54ytQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Metro 2033 Redux es una versión ampliada del shooter en primera persona ambientado en un mundo post‑apocalíptico. La trama, basada en la novela de Dmitry Glukhovsky, sigue a Artem, un joven de 20 años que vive en los túneles de Moscú y busca comprender a los enigmáticos Dark Ones. Tras la guerra nuclear, la humanidad se refugia en almacenes subterráneos. El juego mantiene la atmósfera sombría y añade elementos de supervivencia: recursos limitados, inteligencia mejorada de los bots y dos nuevas dificultades, Supervivencia y Espartano. Además, cuenta con texturas, shaders y efectos de luz y clima dinámicos.",
+      "cover": "https://media.rawg.io/media/games/4fb/4fb548e4816c84d1d70f1a228fb167cc.jpg",
+      "genre": {
+        "es": "Action, Shooter"
+      },
+      "releaseDate": {
+        "es": "2014-08-25"
+      },
+      "publisher": {
+        "es": "Deep Silver, Koch Media, FISHLABS"
+      },
+      "developer": {
+        "es": "Deep Silver, 4A Games, Fishlabs Entertainment"
+      }
     },
     {
       "id": "1f389a2e",
@@ -15879,8 +16320,20 @@
       ],
       "link": "https://akirabox.com/QN9mEKKV7z6d/file",
       "trailer": "https://www.youtube.com/embed/9e4nackuSB4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Metro: Last Light Redux continúa la saga iniciada en Metro 2033, ambientada en el Moscú post‑apocalíptico donde los supervivientes se ocultan en los túneles del metro. Allí conviven humanos de distintas facciones, personas y bestias mutadas que poseen habilidades y estrategias singulares. En una constante lucha por los escasos recursos, los personajes emplean medios insólitos tanto para sobrevivir como para combatir, reutilizando restos del pasado. Los entornos combinan ruinas familiares con señales de la catástrofe. El juego amplía notablemente el arsenal y perfecciona la tecnología, ofreciendo dos finales distintos y cinco contenidos adicionales.",
+      "cover": "https://media.rawg.io/media/games/7a4/7a45e4cdc5b07f316d49cf147b083b27.jpg",
+      "genre": {
+        "es": "Action, Shooter"
+      },
+      "releaseDate": {
+        "es": "2014-08-25"
+      },
+      "publisher": {
+        "es": "Deep Silver, Koch Media, FISHLABS"
+      },
+      "developer": {
+        "es": "Deep Silver, 4A Games, Fishlabs Entertainment"
+      }
     },
     {
       "id": "07ccc5c3",
@@ -15894,8 +16347,20 @@
       ],
       "link": "https://akirabox.com/RMKGJOJB8m1o/file",
       "trailer": "https://www.youtube.com/embed/3nmCZQVVJXI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Explora un castillo lleno de monstruos y secretos, recoge todos los tesoros que te protegerán de maldiciones y derrota al jefe final. El juego no permite salir; aunque puedes ganar, no hay final. Al comenzar eliges uno de tres héroes, cada uno con valores máximos de Fuerza, Inteligencia y Destreza que definen vida, ataque, maná y precisión. Pierdes cuando cualquiera de esos atributos cae bajo cero. Usa flechas para moverte, Z o Intro para actuar, X o Espacio para lanzar hechizos como Telaraña, Bola de Fuego o IQ, y enfrenta artefactos que contrarrestan maldiciones como Ceguera, Olvido o Lethargia.",
+      "cover": "https://media.rawg.io/media/screenshots/449/449cd4815a20467a43247c743a9d0f05.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2017-06-22"
+      },
+      "publisher": {
+        "es": "Xitilon"
+      },
+      "developer": {
+        "es": "Xitilon, Esdeer"
+      }
     },
     {
       "id": "69f40e32",
@@ -15909,8 +16374,20 @@
       ],
       "link": "https://akirabox.com/E1x3Abekgzyk/file",
       "trailer": "https://www.youtube.com/embed/PIMi_t7oAIg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "¡Felicidades! Tú y tus amigos acaban de graduarse de la prestigiosa Academia Intergaláctica del Tiempo y ya deben iniciar su primera misión: rescatar a los Orbees, pequeñas criaturas de energía que alimentan la tecnología temporal. Deberás localizar señales débiles, equipar tu Máquina Espacio‑Tiempo con nuevos dispositivos y asignar a cada jugador el control de cada gadget, combinando habilidades para idear la mejor estrategia. El juego es cooperativo en sofá para 1‑4 jugadores (o modo individual), con 30 niveles de puzzles y acción, y un modo infinito de desafíos sin fin. Recuerda el lema de la academia: \"BFF or Die\".",
+      "cover": "https://media.rawg.io/media/screenshots/320/320371c90ddd0d5fe2306517afff8881.jpg",
+      "genre": {
+        "es": "Casual, Indie, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2018-09-13"
+      },
+      "publisher": {
+        "es": "ASA Studio"
+      },
+      "developer": {
+        "es": "ASA Studio"
+      }
     },
     {
       "id": "712ebc80",
@@ -15926,8 +16403,20 @@
       ],
       "link": "https://akirabox.com/qPez4aB1YGOY/file",
       "trailer": "https://www.youtube.com/embed/QYI6DqB51Ms",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Prepárate para los peligros del castillo maldito, donde innumerables héroes han fallado al intentar romper el antiguo hechizo que sostiene sus muros. Dentro vagan cientos de monstruos que custodian fragmentos de espada, la única arma capaz de derrotar al dueño demoníaco y desmoronar su estructura mágica. Puedes contar con mercaderes que venden sus servicios dentro del refugio del mal, aunque pronto desaparecerán. Explora 216 salas generadas aleatoriamente, sin puntos de guardado, y elige entre varios personajes, usando ataques ágiles, armaduras y emblemas. Derrota minibosses para desbloquear nuevos héroes y usa una contraseña de 13 caracteres para retomar la partida.",
+      "cover": "https://media.rawg.io/media/screenshots/0b1/0b18f0699e1115c9f1802364df57cbaf.jpg",
+      "genre": {
+        "es": "Action, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2016-12-21"
+      },
+      "publisher": {
+        "es": "Xitilon"
+      },
+      "developer": {
+        "es": "D.E.X. Team"
+      }
     },
     {
       "id": "37b8098c",
@@ -15943,8 +16432,20 @@
       ],
       "link": "https://akirabox.com/ex5z2qB0b3Kq/file",
       "trailer": "https://www.youtube.com/embed/JYh2ss8tyPo",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Al principio solo existía el vacío, un caos de sueños del que surgió Xary. El joven ser intenta comprender la naturaleza humana y ayudar, aunque aún es inexperto. Tú te unes a él para descubrir los misterios que acechan. Es una aventura de objetos ocultos: no basta con buscar, también debes moverlos para revelar lo necesario. La trama, basada en los sueños de varios personajes y presentada en cómics, muestra cómo Xary y el jugador los ayudan a superar sus dificultades y conservar su humanidad. Con música agradable, encuentras, conectas y resuelves los acertijos en una historia tierna y escalofriante.",
+      "cover": "https://media.rawg.io/media/screenshots/4da/4daea303165fed5939886bcd07a9c359.jpg",
+      "genre": {
+        "es": "Casual, Indie, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2020-06-04"
+      },
+      "publisher": {
+        "es": "Six Dots"
+      },
+      "developer": {
+        "es": "sixdots, Six Dots"
+      }
     },
     {
       "id": "81c2a1d5",
@@ -15962,8 +16463,20 @@
       ],
       "link": "https://akirabox.com/rk9zKDwAyG0l/file",
       "trailer": "https://www.youtube.com/embed/JjuH2jn6WLI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Únete a Fujiko y Robin, dos ladrones que lo arriesgan todo, incluso su ropa, para asaltar los bancos de los cuatro casinos más grandes de Money City. Vístete para cada atraco, completa más de 32 misiones, enfréntate a ovnis gigantes, derrota dragones y roba un tren, buscando la mayor puntuación. El juego combina pachinko y pinball en un estilo arcade, con máquinas temáticas de casino, western, ciencia ficción y medieval, minijuegos y ocho trajes diferentes. Cada nivel ofrece desafíos únicos y la posibilidad de desbloquear nuevas habilidades.",
+      "cover": "https://media.rawg.io/media/screenshots/65b/65b7499278db65889f4d0e0fc43bc6a2.jpg",
+      "genre": {
+        "es": "RPG, Strategy, Simulation, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2020-06-25"
+      },
+      "publisher": {
+        "es": "Dolores Entertainment, Raw Indies"
+      },
+      "developer": {
+        "es": "Dolores Entertainment"
+      }
     },
     {
       "id": "633792d7",
@@ -15982,8 +16495,20 @@
       ],
       "link": "https://akirabox.com/9QWmpo7BLGEB/file",
       "trailer": "https://www.youtube.com/embed/3L0BoWpoIzI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Drunken Fist encarnas a un hombre ebrio que intenta volver a casa. En su camino se enfrenta a matones, policías, punks y otros enemigos, cada uno con trucos únicos. El combate reproduce la torpeza de la borra, con físicas que hacen que los golpes se desvíen, caídas constantes y movimientos ridículos. Puedes lanzar puñetazos, patadas y trucos especiales, incluso orinar para resbalar al rival. La cámara sigue la acción como una grabación en vivo, dando la sensación de un video de peleas de borrachos en YouTube.",
+      "cover": "https://media.rawg.io/media/screenshots/726/726b81c6df8ec6972a2804326d11d2bc.jpg",
+      "genre": {
+        "es": "Action, Adventure, Fighting, Indie"
+      },
+      "releaseDate": {
+        "es": "2020-12-23"
+      },
+      "publisher": {
+        "es": "Deklazon"
+      },
+      "developer": {
+        "es": "Dudarev Alexandr Vladimirovich"
+      }
     },
     {
       "id": "78e2e7f7",
@@ -15996,8 +16521,20 @@
       ],
       "link": "https://akirabox.com/Y2xm0g9LLGRO/file",
       "trailer": "https://www.youtube.com/embed/pbReJvALFIA",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Nebulous encarnas al comandante Dash Johnson, un astronauta atrapado que busca el siguiente agujero de gusano para alcanzar la libertad. Cada nivel está formado por hasta cinco paneles dispuestos en forma de cubo que puedes rotar y reorganizar; al soltar al comandante, la gravedad y el impulso lo guiarán a través de trampolines, cintas transportadoras, máquinas de gravedad, rocas espaciales y láseres. El juego combina rompecabezas basados en la física con diálogos totalmente doblados, mientras Johnson duda de su cordura y se pregunta si todo es una alucinación cósmica.",
+      "cover": "https://media.rawg.io/media/screenshots/3ea/3ea21d417eff18ac6f0600f329fe6bd9.jpg",
+      "genre": {
+        "es": "Action, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2016-08-29"
+      },
+      "publisher": {
+        "es": "Namazu Studios"
+      },
+      "developer": {
+        "es": "Namazu Studios"
+      }
     },
     {
       "id": "8a7bf997",
@@ -16010,8 +16547,20 @@
       ],
       "link": "https://akirabox.com/N2p3DVwadGMa/file",
       "trailer": "https://www.youtube.com/embed/7kDekqR5v7g",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Rubber Bandits sumerge a los jugadores en un caótico juego de fiesta donde bandas de criminales compiten por robar y acumular el mayor botín posible. Con combate basado en físicas, los personajes usan armas disparatadas —desde baguettes hasta lanzacohetes— mientras esquivan trampas mortales y la policía. Los niveles destructibles incluyen el Banco, el Museo y los Muelles, y pueden jugarse en modo Brawl, Heist o Arcade en solitario, además de cooperativo local y en línea. Cada bandido puede personalizar su disfraz, desde forajido del oeste hasta traje de plátano, para crear el equipo criminal perfecto.",
+      "cover": "https://media.rawg.io/media/games/146/146b12e9098b450d607a979033eca64d.jpg",
+      "genre": {
+        "es": "Action, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2021-12-02"
+      },
+      "publisher": {
+        "es": "Flashbulb"
+      },
+      "developer": {
+        "es": "Flashbulb"
+      }
     },
     {
       "id": "86857018",
@@ -16027,8 +16576,20 @@
       ],
       "link": "https://akirabox.com/gXeGOBk0AzAa/file",
       "trailer": "https://www.youtube.com/embed/lA8lim5Upik",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Mega Coin Squad emprendes una frenética búsqueda de las Mega Monedas a través de 16 niveles distribuidos en cuatro mundos únicos. Puedes elegir entre cinco héroes —Mikey, Stef, Chunk, Mouth y Data—, cada uno con armas y habilidades mejorables (hasta 40 opciones). Los niveles se generan proceduralmente, ofreciendo plataformas rápidas y controles sencillos al estilo arcade. Además, el modo multijugador local permite enfrentarte a amigos en cuatro variantes: Bank the Coins, Mega Coins, Hold the Rainbow y Deathmatch, con torneos personalizables para 2‑4 jugadores y partidas rápidas. ¡Prepárate para coleccionar una avalancha de monedas!",
+      "cover": "https://media.rawg.io/media/screenshots/bca/bcaec5d89ab46179c4121e29c9b4f31d.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2014-08-15"
+      },
+      "publisher": {
+        "es": "Adult Swim Games"
+      },
+      "developer": {
+        "es": "Adult Swim, Big Pixel Studios"
+      }
     },
     {
       "id": "2b476783",
@@ -16044,8 +16605,20 @@
       ],
       "link": "https://akirabox.com/N2p3DVwapGMa/file",
       "trailer": "https://www.youtube.com/embed/4Bw1lb6w9Go",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Rally Copters deberás desafiar la gravedad y el tiempo recorriendo 27 peligrosos circuitos. Controla cuatro helicópteros diferentes en un mundo virtual vibrante, descubriendo trucos y atajos para acelerar tu ruta y desbloquear helicópteros más rápidos y ágiles. La experiencia es una prueba contrarreloj repleta de obstáculos que pone a prueba tu habilidad, mientras compites por los mejores tiempos globales y medallas duras. El modo multijugador en pantalla dividida permite carreras cara a cara con un amigo. Domina técnicas avanzadas para recortar segundos y conseguir todas las recompensas.",
+      "cover": "https://media.rawg.io/media/screenshots/852/8526e55744e1b9f1fd7baaeb3ba39210.jpg",
+      "genre": {
+        "es": "Action, Sports, Racing, Indie"
+      },
+      "releaseDate": {
+        "es": "2015-09-22"
+      },
+      "publisher": {
+        "es": "Depth First Games"
+      },
+      "developer": {
+        "es": "Depth First Games"
+      }
     },
     {
       "id": "66a2ab07",
@@ -16059,8 +16632,11 @@
       ],
       "link": "https://akirabox.com/qLQ36W0dQz19/file",
       "trailer": "https://www.youtube.com/embed/kxI6GAVciyc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Ambientado en el Neo Hong Kong de 2083, Sense – A Cyberpunk Ghost Story sigue a Mei Lin Mak, una joven que, tras activar sus ojos cibernéticos, queda atrapada en los apartamentos Chong Sing, donde un misterio centenario y una maldición familiar emergen entre luces de neón y folklore chino. El juego combina exploración 2.5D y resolución de acertijos con encuentros fantasmales que actúan como fallos extraños. Los jugadores deben sobrevivir al horror usando mecánicas de aventura, un diario para registrar la lore y desbloquear atuendos que modifican interacciones, mientras descubren las historias de catorce almas perdidas y buscan finales.",
+      "cover": "https://media.rawg.io/media/screenshots/732/732561e7e44eeb1de9e7cc0e6adaa3d9.jpg",
+      "releaseDate": {
+        "es": "2021-02-11"
+      }
     },
     {
       "id": "2ca67c58",
@@ -16084,8 +16660,14 @@
       ],
       "link": "https://akirabox.com/EL73g2qpEm9B/file",
       "trailer": "https://www.youtube.com/embed/tlTieqlDlTs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Mezclando ingeniosamente misterio y rompecabezas, The Pillar: Puzzle Escape lleva al jugador a un mundo desconocido repleto de extrañas máquinas y paisajes impresionantes. El jugador recorre islas, cada una con entornos únicos y secretos por descubrir, y debe prestar atención a los cambios del entorno, que se transforman como en un sueño lúcido. Cada desafío superado acerca al protagonista a escapar del laberinto mítico y despertar del enigmático recinto que lo aprisiona. La experiencia se vive en primera persona, con puzzles que revelan los misterios de cada isla y una exploración constante.",
+      "cover": "https://media.rawg.io/media/screenshots/ce2/ce27bacfea3b3678da4c604874971e55.jpg",
+      "genre": {
+        "es": "Adventure, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2021-01-13"
+      }
     },
     {
       "id": "3ac058a0",
@@ -16096,8 +16678,20 @@
       ],
       "link": "https://1fichier.com/?hz46rhjmdi7x2e96ntj5&af=2899507",
       "trailer": "https://www.youtube.com/embed/9UXmcY76Igs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Pentiment es un juego de rol histórico y de misterio ambientado en la Alemania del siglo XVI. El protagonista es un astuto ilustrador que se ve envuelto en una serie de asesinatos dentro del monasterio de Kiersau a lo largo de veinticinco años. Cada decisión del jugador influye en el desarrollo del personaje y en la narrativa, revelando poco a poco una conspiración subterránea. La mecánica se centra en diálogos ramificados, investigaciones de pruebas y elecciones que tienen consecuencias duraderas, mientras el estilo visual altamente estilizado refuerza la atmósfera de la época.",
+      "cover": "https://media.rawg.io/media/games/f1d/f1d25c007b9b45c98b57ff9ebbca9692.jpg",
+      "genre": {
+        "es": "Adventure, Casual"
+      },
+      "releaseDate": {
+        "es": "2022-11-14"
+      },
+      "publisher": {
+        "es": "Xbox Game Studios"
+      },
+      "developer": {
+        "es": "Obsidian Entertainment"
+      }
     },
     {
       "id": "8f4c4abe",
@@ -16113,8 +16707,20 @@
       ],
       "link": "https://akirabox.com/qPez4W28x3OY/file",
       "trailer": "https://www.youtube.com/embed/IkLWN9xWMBE",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Maquette es un juego de puzles en primera persona que juega con la escala recursiva del entorno. El jugador explora un mundo donde edificios, plantas y objetos son a la vez diminutos y colosales, doblando el espacio al estilo de MC Escher. Al acercarse al centro, se siente como un gigante sobre estructuras; al alejarse, se vuelve pequeño y los grietas del suelo se transforman en abismos. La historia sigue una relación moderna, mostrando cómo problemas cotidianos pueden crecer hasta convertirse en obstáculos insuperables, mientras se manipulan las dimensiones para resolver cada acertijo.",
+      "cover": "https://media.rawg.io/media/games/954/95415143e264cdf3d506f55f52ef9b7c.jpg",
+      "genre": {
+        "es": "Adventure, Indie, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2021-03-02"
+      },
+      "publisher": {
+        "es": "Annapurna Interactive"
+      },
+      "developer": {
+        "es": "Graceful Decay"
+      }
     },
     {
       "id": "87a8e8e9",
@@ -16138,8 +16744,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/0ph-ido4yds",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "El equipo Rescue Wheels llega listo para la acción. Compite con Chase, Skye, Marshall, Rubble, Zuma, Rocky y Roxi, mientras Boomer y Frank causan estragos y el alcalde Humdinger destruye pistas. Recoge Golosinas de Cachorro y objetos para adelantar a la competencia y elige tu Pup Racer, cada uno con una habilidad única: lanzar pelotas de tenis con Chase, girar a los rivales con Skye o atascarlos en el barro con Zuma. Domina derrapes, turbos y acrobacias especiales en modos y dificultades variadas, y conquista la pista en solitario o contra amigos.",
+      "cover": "https://media.rawg.io/media/screenshots/b16/b16954ff671720163dd032e485fca77e.jpg",
+      "genre": {
+        "es": "Action, Adventure, Sports, Racing"
+      },
+      "releaseDate": {
+        "es": "2025-10-31"
+      },
+      "publisher": {
+        "es": "Outright Games"
+      },
+      "developer": {
+        "es": "3DClouds"
+      }
     },
     {
       "id": "32face54",
@@ -16153,8 +16771,20 @@
       ],
       "link": "https://akirabox.com/Y2xm0gNq6GRO/file",
       "trailer": "https://www.youtube.com/embed/mA0VKZHhkzs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "River City Rival Showdown revive el clásico de 1989 con controles afinados, fondos mejorados y modo multijugador en línea. En modo historia puedes forjar tu propio camino durante tres intensos días de rivalidades escolares, tomando decisiones que alteran diálogos y desbloquean varios finales. El protagonista Kunio cuenta con técnicas especiales como Manos de Piedra y Pies de Dragón, además de nuevos movimientos ultra y maniobras atrevidas. También incluye \"Double Dragon Duel 2023\", un modo de lucha 2D donde enfrentas a amigos con un amplio elenco de personajes, algunos ocultos por descubrir.",
+      "cover": "https://media.rawg.io/media/screenshots/1c6/1c6c5856753d0a51f5bf4bd90d87379f.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG"
+      },
+      "releaseDate": {
+        "es": "2017-11-21"
+      },
+      "publisher": {
+        "es": "Arc System Works, Natsume"
+      },
+      "developer": {
+        "es": "Arc System Works, Arc System Works Co."
+      }
     },
     {
       "id": "589b8907",
@@ -16173,8 +16803,20 @@
       ],
       "link": "https://akirabox.com/Pbe3P1yQKzlX/file",
       "trailer": "https://www.youtube.com/embed/c4gN0nRlVMU",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Papá Gato decides organizar una fiesta inolvidable y convoca a todos los Pitufos a ayudar en los preparativos. Recorres el pueblo invitando a los Pitufos dispersos, mientras evitas a Gargamel, que intenta arruinar la celebración. En el modo fiesta, compites con familia y amigos en 50 mini‑juegos que combinan deporte, rapidez, suerte, memoria, batalla y precisión, con hasta cuatro jugadores locales. En el modo aventura, sigues una historia original en el Pueblo de los Pitufos, conoces a más de 100 Pitufos icónicos, exploras diez entornos como el Bosque Encantado y el territorio de Gargamel, y desbloqueas más de 30 atuendos.",
+      "cover": "https://media.rawg.io/media/screenshots/fb5/fb591ea9f74b126450647a38dc768b42.jpg",
+      "genre": {
+        "es": "Adventure, Casual"
+      },
+      "releaseDate": {
+        "es": "2024-06-06"
+      },
+      "publisher": {
+        "es": "Microids"
+      },
+      "developer": {
+        "es": "Balio Studio"
+      }
     },
     {
       "id": "e5bc4bfb",
@@ -16312,8 +16954,24 @@
       ],
       "link": "https://akirabox.com/qLQ36WQQdz19/file",
       "trailer": "https://www.youtube.com/embed/I5pzzvSoPT0",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Ambientado en una ciudad cibernética iluminada por neón, el juego sigue a un solitario protagonista que despierta con recuerdos fragmentados y debe descubrir la verdad tras una conspiración misteriosa. Los jugadores exploran distritos extensos, participan en combates rápidos usando una combinación de armas cuerpo a cuerpo y habilidades de hackeo, y resuelven puzles ambientales para avanzar. La narrativa se desarrolla mediante encuentros con enigmáticos aliados y facciones hostiles, revelando poco a poco el pasado del protagonista y los secretos ocultos de la ciudad. El combate dinámico, la mejora de habilidades y decisiones ramificadas influyen en el desenlace.",
+      "cover": "",
+      "genre": {
+        "en": "Action RPG",
+        "es": "RPG de acción"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "2e3a2d13",
@@ -16352,8 +17010,20 @@
       ],
       "link": "https://akirabox.com/qLQ36Wn6Bz19/file",
       "trailer": "https://www.youtube.com/embed/npXY1CCmdqw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Never Grave: The Witch and The Curse, encarnas a una bruja maldita que viaja por cavernas interconectadas guiada por un sombrero embrujado. El juego combina Metroidvania y Roguelite: exploras niveles cada vez más profundos usando magia variada o poseyendo a tus enemigos para sortear obstáculos. Cada expedición te permite recuperar botín que llevas a tu aldea, donde construyes instalaciones, mejoras tu vida y preparas al personaje para futuros enfrentamientos. La aventura admite hasta cuatro jugadores, permitiendo cooperar para descubrir los secretos del mundo bajo la maldición.",
+      "cover": "",
+      "genre": {
+        "es": "Action, Adventure, Indie, Platformer"
+      },
+      "releaseDate": {
+        "es": "2026-03-04"
+      },
+      "publisher": {
+        "es": "Frontside Games"
+      },
+      "developer": {
+        "es": "Pocketpair"
+      }
     },
     {
       "id": "e45e3651",
@@ -16425,8 +17095,20 @@
       ],
       "link": "https://akirabox.com/QN9mE6Dky36d/file",
       "trailer": "https://www.youtube.com/embed/OZmVEogYGlc",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (9.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (Fix 5.05/6.72/7.xx) : Lets – Mediafire – Akia – Viki – 1File – Rootz",
-      "cover": ""
+      "sinopsis": "Ambientado en el periodo Edo, Yasha: Legends of the Demon Blade es un RPG de acción con mecánicas roguelite. La paz entre humanos y demonios se rompe cuando la zorra de nueve colas, soberana de los demonios, desata el caos. El jugador sigue a tres protagonistas —un ninja inmortal, un emisario Oni y un samurái demonio—, cada uno con combates y narrativas distintas, explorando armas demoníacas, recolectando orbes de alma y bendiciones del Santuario Neko. Enfrenta hordas demoníacas, descubre misterios y busca restaurar la armonía en un mundo festivo y peligroso.",
+      "cover": "https://media.rawg.io/media/screenshots/b77/b77de81a5eef8561f4ed9c00e0f6da8d.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-05-14"
+      },
+      "publisher": {
+        "es": "Game Source Entertainment, 7QUARK"
+      },
+      "developer": {
+        "es": "7QUARK"
+      }
     },
     {
       "id": "b7006f84",
@@ -16446,8 +17128,20 @@
       ],
       "link": "https://akirabox.com/7d5GLeAOjmxR/file",
       "trailer": "https://www.youtube.com/embed/FOSveqOr_Yc",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nFix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nWORLD HEROES PERFECT is a fighting game released by SNK in 1995.\n16 characters based on historical figures battle it out to decide who is the strongest. New elements such as hero gauge, extra attack, and guard attacks have been added to this version, leading to more exciting matches!",
-      "cover": ""
+      "sinopsis": "World Heroes Perfect es un juego de lucha que reúne a 16 personajes inspirados en figuras históricas, cada uno compitiendo por demostrar quién es el más fuerte. La entrega introduce nuevas mecánicas como la barra de héroe, ataques extra y defensas especiales, lo que hace los combates más dinámicos. Los jugadores pueden ajustar la dificultad y recrear la atmósfera de los salones de arcade clásicos, mientras que el sistema de puntuaciones permite retarse con oponentes de todo el mundo. Así, la experiencia combina historia y acción en un torneo intenso.",
+      "cover": "https://media.rawg.io/media/screenshots/d7f/d7ff4e0c161ab17b1795773fdd298424.jpg",
+      "genre": {
+        "es": "Fighting"
+      },
+      "releaseDate": {
+        "es": "2017-03-09"
+      },
+      "publisher": {
+        "es": "HAMSTER, Co."
+      },
+      "developer": {
+        "es": "HAMSTER"
+      }
     },
     {
       "id": "21a9c8fb",
@@ -16467,8 +17161,20 @@
       ],
       "link": "https://akirabox.com/2bJG8WOVdzOB/file",
       "trailer": "https://www.youtube.com/embed/dmizpXVaFn0",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nFix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSubtitles : English, French, German, Italian, Romanian, Russian, Spanish",
-      "cover": ""
+      "sinopsis": "En Infestor encarnas a una entidad capaz de poseer a cualquier humano que encuentres. Cada personaje ofrece una habilidad única, desde saltos extraordinarios hasta la manipulación de objetos, y debes usarlas para sortear trampas y resolver acertijos que bloquean la salida de cada nivel. El juego combina plataformas ágiles con rompecabezas desafiantes, obligándote a planear la invasión perfecta antes de avanzar. Con sesenta niveles diseñados para probar tu ingenio, cada escenario requiere que elijas al aliado correcto y domines su poder para progresar.",
+      "cover": "https://media.rawg.io/media/screenshots/324/324e6cf9e099c33f53cfdfb3fb06f75c.jpg",
+      "genre": {
+        "es": "Action, Adventure, Arcade, Casual, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2013-01-17"
+      },
+      "publisher": {
+        "es": "Ravenous Games"
+      },
+      "developer": {
+        "es": "Noodlecake Studios, Ravenous Games"
+      }
     },
     {
       "id": "b60c0254",
@@ -16477,8 +17183,11 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/UFghhQtiRCk",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nNested in the hollow husk of a desolate world lies the kingdom of Digiton. Once a prosperous, technologically advanced society, the kingdom fell into ruin through greed and lust for power. This led to the rise of four demon lords who now hold dominion over the vast underground cityscapes, icy valleys, intricate mines and lush mushroom forests of Digiton.\n\nTake the role of one of Digiton’s few survivors. Armed with only a shield and tasked with banishing the demon lords, it’s up to you to explore the dark mysteries of the corrupted kingdom and restore its former glory. Uncover long-hidden secrets, and discover the truth behind the enigma known as an AHAB unit.",
-      "cover": ""
+      "sinopsis": "Libera el reino subterráneo de Digiton de la muerte y la ruina. Hace tiempo, era una sociedad próspera y tecnológica, pero la avaricia y la sed de poder lo arruinaron, permitiendo que cuatro señores demoníacos tomaran el control de sus ciudades, valles helados, minas y bosques de setas. Como uno de los pocos supervivientes, sólo con un escudo, deberás desterrar a los demonios, explorar los oscuros misterios del reino corrompido y devolver su antigua gloria. Descubre secretos ocultos y la verdad de la enigmática unidad AHAB.",
+      "cover": "https://media.rawg.io/media/screenshots/e32/e321185fc7eb4f71cf15fa35fcffceb9.jpg",
+      "releaseDate": {
+        "es": "2021-08-04"
+      }
     },
     {
       "id": "89730276",
@@ -16487,8 +17196,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/G3VSjPQMC0o",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nAs the nephew of a retired super villain, there’s nothing Keegan wants more than to become one himself — and what better way than to join the League of Evil? All he needs to do is commit a crime to complete his application.\n\nUnfortunately, Keegan soon finds himself in more trouble than he could have ever imagined when his plans are interrupted by a couple of spies from opposing agencies.",
-      "cover": ""
+      "sinopsis": "Blind Men es una novela visual de boys' love que parodia la ficción de espías. Sigue a Keegan, un joven villano y sobrino de un antiguo criminal, cuyo sueño es entrar en la Liga del Mal. Para ser aceptado, debe cometer un gran atraco, pero su plan se ve frustrado por dos agentes de agencias rivales. El jugador elige entre mantener el tono cliché y cómico o convertir la historia en una auténtica aventura de espionaje, influyendo en varios finales. Además, pueden romancear a dos personajes, y cada decisión altera el desarrollo de la trama.",
+      "cover": "https://media.rawg.io/media/screenshots/cec/cec0559f2e57f1d5d5029b621c7a7c91.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2017-07-20"
+      },
+      "publisher": {
+        "es": "Ratalaika Games, Man-Eater Games"
+      },
+      "developer": {
+        "es": "Man-Eater Games"
+      }
     },
     {
       "id": "5ad344bf",
@@ -16564,8 +17285,20 @@
       ],
       "link": "https://akirabox.com/BnkmWPb6q3R0/file",
       "trailer": "https://www.youtube.com/embed/TRjC6WtdA0c",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.05 (5.53+) : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nLanguages : German, English, Italian, Portuguese (Brazil), French, Spanish",
-      "cover": ""
+      "sinopsis": "Deformers es un juego de arena en tercera persona donde los jugadores controlan “Formas” de cuatro especies distintas —Mutantes, Abstractos, Munchies y Animales— para enfrentarse en combates rápidos y frenéticos. Con cuarenta Formas disponibles (más cuatro en el Pack de Fundadores) y cientos de estilos, etiquetas y emotes, cada jugador personaliza su aspecto y estilo de juego. Los enfrentamientos se desarrollan en nueve arenas, desde desiertos áridos hasta ruinas antiguas y carpas de circo, y ofrecen modos como Deathmatch, Team Deathmatch y Form Ball. Cinco clases únicas (Ranger, Guardian, Striker, Speedster y Marksman) definen la estrategia de cada combate.",
+      "cover": "https://media.rawg.io/media/games/c70/c70006ec3497b6f1656dd6836733b1bc.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2017-04-11"
+      },
+      "publisher": {
+        "es": "GameTrust Games, Ready At Dawn"
+      },
+      "developer": {
+        "es": "Ready At Dawn, GameTrust Games"
+      }
     },
     {
       "id": "a0b55bfe",
@@ -16611,8 +17344,14 @@
       ],
       "link": "https://akirabox.com/Xkrzo7KodzBO/file",
       "trailer": "https://www.youtube.com/embed/EP6QKRvoyDs",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish",
-      "cover": ""
+      "sinopsis": "Renace como el Rey Maldito, despertado del abismo para reclamar su trono en este platformer de acción. Debes explorar el reino en ruinas, descubrir cámaras ocultas y resolver puzles mientras buscas los fragmentos de flechas celestiales que rompen la maldición. Tus cadenas, ahora arma y herramienta de salto, te permiten atacar, balancearte y cruzar abismos. Recolecta cristales de poder para mejorar habilidades y obtener tesoros. Enfréntate a jefes colosales que exigen estrategia y precisión, y asciende al trono como el legítimo rey.",
+      "cover": "https://media.rawg.io/media/screenshots/b07/b07c67110f60e12cfc740fcbc6f8d961.jpg",
+      "publisher": {
+        "es": "PQube, PixelHeart"
+      },
+      "developer": {
+        "es": "Storybird Studio"
+      }
     },
     {
       "id": "824450f3",
@@ -16653,8 +17392,20 @@
       ],
       "link": "https://akirabox.com/jar3XZaDOG2d/file",
       "trailer": "https://www.youtube.com/embed/iHzwX0Nv5G4",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Italian, Japanese, Korean, Polish, Russian, Spanish",
-      "cover": ""
+      "sinopsis": "Shady Part of Me es un juego de puzzles donde la jugabilidad narra la historia. El jugador controla a dos niñas: una es la sombra de la otra, aunque ambas forman un solo personaje. A través de escenarios enrevesados, giros narrativos y notas inesperadas, buscan cooperar para lograr su objetivo común: la libertad. El juego permite cambiar entre vista 2D y 3D, usar luz, sombras y perspectiva para superar obstáculos, y todo está dibujado con un estilo de acuarela. El desafío es romper el sueño y avanzar en esta travesía mental donde luz y sombra obedecen a la física.",
+      "cover": "https://media.rawg.io/media/games/80a/80a665ecc94d6a3ef805e644d12d4bf1.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2020-12-11"
+      },
+      "publisher": {
+        "es": "Douze Dixièmes"
+      },
+      "developer": {
+        "es": "Douze Dixièmes"
+      }
     },
     {
       "id": "8bfcf903",
@@ -16669,8 +17420,20 @@
       ],
       "link": "https://akirabox.com/vgKGxYQB8m8Q/file",
       "trailer": "https://www.youtube.com/embed/7YQrV14JecA",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish, Thai, Turkish, Ukrainian, Vietnamese",
-      "cover": ""
+      "sinopsis": "Captain Blood es un juego de acción y aventura inspirado en las novelas de Rafael Sabatini. El jugador encarna al propio capitán, un pirata legendario del 1685 que navega por el Mar Español. Tras el secuestro de la hija del magistrado local, el capitán acepta la misión de rescatarla, dejando a un lado su orgullo. La partida combina tiroteos con pistolas, disparos de cañón y duelos de espada, ofreciendo combates frenéticos y travesuras piratas mientras la tripulación persigue al rescate y descubre peligros ocultos.",
+      "cover": "https://media.rawg.io/media/games/1eb/1eba92a065f1dbfd6b9b35f48d99a0c6.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2025-05-06"
+      },
+      "publisher": {
+        "es": "SNEG"
+      },
+      "developer": {
+        "es": "General Arcade, Seawolf Studio"
+      }
     },
     {
       "id": "f0dc29fb",
@@ -16716,8 +17479,20 @@
       ],
       "link": "https://akirabox.com/0KezkDR0pGD1/file",
       "trailer": "https://www.youtube.com/embed/_l22T3PcbOc",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.52 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : English, French (France), German, Italian, Japanese, Korean, Spanish",
-      "cover": ""
+      "sinopsis": "Rugby 25 te sumerge en la intensidad del rugby, llevando al jugador desde los clubes locales hasta los torneos internacionales más prestigiosos. Cada partida captura velocidad y dureza, ofreciendo choques realistas y jugadas estratégicas que forjan leyendas en el campo. Controla más de 140 selecciones nacionales, como Nueva Zelanda, Sudáfrica, Inglaterra, Francia y Australia, y más de 150 equipos de club en competiciones como la URC, Premiership, Top 14, MLR y Super Rugby. La experiencia combina acción trepidante con gestión profunda de tácticas y habilidades, convirtiendo cada partido en una oportunidad para escribir historia.",
+      "cover": "https://media.rawg.io/media/screenshots/985/985d1edf151cd4ae17ab3f4dfe8aaaef.jpg",
+      "genre": {
+        "es": "Sports"
+      },
+      "releaseDate": {
+        "es": "2024-06-28"
+      },
+      "publisher": {
+        "es": "Nacon"
+      },
+      "developer": {
+        "es": "Big Ant Studios"
+      }
     },
     {
       "id": "6a38a5e1",
@@ -16732,8 +17507,20 @@
       ],
       "link": "https://akirabox.com/0rpmv8QqgzRg/file",
       "trailer": "https://www.youtube.com/embed/H4Wz2nXoc2U",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nNote : Tnx to Anonymous guy for his donation to purchase this one​",
-      "cover": ""
+      "sinopsis": "Wizordum es un shooter retro en primera persona ambientado en un mundo fantástico. Encarnas a uno de los últimos clérigos de la Orden del Alba, que deben detener el caos que invade la tierra, mientras mercenarios del Oeste saquean y la oscuridad se extiende desde las montañas del norte. Viajas desde Grimbrook hasta bosques, montañas y ruinas, combatiendo con magia y acero, resolviendo acertijos y evitando trampas. El juego ofrece un amplio arsenal, objetos consumibles y secretos cargados de botín, y permite crear y compartir niveles mediante su editor integrado.",
+      "cover": "https://media.rawg.io/media/screenshots/fb7/fb7d105b7eb1377cad55e1734fc02caa.jpg",
+      "genre": {
+        "es": "Action, Shooter, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-04-29"
+      },
+      "publisher": {
+        "es": "Apogee Entertainment, Emberheart Games"
+      },
+      "developer": {
+        "es": "Emberheart Games"
+      }
     },
     {
       "id": "5ff8d629",
@@ -16762,8 +17549,20 @@
       ],
       "link": "https://akirabox.com/dkD3YgZw9GLQ/file",
       "trailer": "https://www.youtube.com/embed/CGAYnEamcyA",
-      "sinopsis": "Game (v1.01)(11.50+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (Fix 5.05/6.72/7.xx/9.00/11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nAudio : English\nScreen Languages : English, French (France), German, Italian, Japanese, Spanish",
-      "cover": ""
+      "sinopsis": "En 1923, el famoso detective Edward Carnby regresa para la segunda entrega de la saga. La historia se sitúa en la mansión Derceto, un lúgubre edificio donde entrar resulta sencillo, pero abandonar el lugar amenaza con convertirse en un infierno. Carnby debe enfrentarse a las múltiples facetas del mal que acechan en la oscuridad, desentrañando misterios y superando trampas mortales. El juego combina exploración detallada, resolución de acertijos y combates contra criaturas sobrenaturales, obligando al jugador a usar ingenio y valentía para sobrevivir y descubrir la verdad oculta tras la casa.",
+      "cover": "https://media.rawg.io/media/screenshots/782/78291f6f8efc9883ef9c3e7ba1d48f94.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "1993-01-01"
+      },
+      "publisher": {
+        "es": "Electronic Arts, Atari, Interplay Productions, Infogrames, I*Motion, Arrow Micro-Techs Corp"
+      },
+      "developer": {
+        "es": "Infogrames, Infogrames Entertainment, Brainstorm Software"
+      }
     },
     {
       "id": "35026032",
@@ -16810,8 +17609,20 @@
       ],
       "link": "https://akirabox.com/obj3jOvRjzDx/file",
       "trailer": "https://www.youtube.com/embed/hUMfqcidEDQ",
-      "sinopsis": "Game (5.05/6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nVoice : English, Japanese\nScreen Languages : English\n\nLead a rag-tag group of kooky carriers in this delivery service RPG as they protect and trek packages through treacherous terrain, unruly monsters, and meet other sneaky delivery service teams ready to stake their claim as the best delivery service in the Orkotris Region!",
-      "cover": ""
+      "sinopsis": "En Calamity Angels: Special Delivery, el jugador encarna a un humilde cuidador que ve a un misterioso desconocido aparecer en el tejado de su edificio. Intrigado, comienza una persecución que lo lleva de habitación en habitación, subiendo y bajando por escaleras y pasillos. El extraño siempre está un paso adelante, desapareciendo justo a la vista y dejando tras de sí una estela de regalos que el cuidador debe recoger. La experiencia combina narrativa interactiva y mecánicas de búsqueda, obligando al jugador a seguir pistas, explorar entornos y desvelar la identidad del enigmático visitante, bajo la dirección de Tim Ruffle.",
+      "cover": "https://media.rawg.io/media/screenshots/7b5/7b54fee69ea8b4f20eb6d55352dda734.jpg",
+      "genre": {
+        "es": "Adventure"
+      },
+      "releaseDate": {
+        "es": "2017-12-14"
+      },
+      "publisher": {
+        "es": "Google"
+      },
+      "developer": {
+        "es": "Google"
+      }
     },
     {
       "id": "5aa2b2c2",
@@ -16827,8 +17638,17 @@
       ],
       "link": "https://akirabox.com/LK0G1pybdz91/file",
       "trailer": "https://www.youtube.com/embed/aF9QtfEDE-E",
-      "sinopsis": "Game (v1.01)(11.00+) : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.01 (Fix 5.05/6.72/7.xx/9.00) : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nGame (v1.01)(9.00+) : Lets – Mediafire – Akia – Viki – Rootz – 1File",
-      "cover": ""
+      "sinopsis": "En 2Xtreme los jugadores encarnan a atletas extremos que compiten en cuatro disciplinas: snowboard en las nevadas pistas de Japón, patinaje en línea por las luces de Las Vegas, mountain bike a través de los savanas de África y skateboarding en las calles de Los Ángeles. Cada escenario ofrece rutas sinuosas, rampas y obstáculos que deben sortearse con trucos y velocidad. El objetivo es superar a los rivales, alcanzar la línea de meta en el menor tiempo y acumular puntos por maniobras arriesgadas. La jugabilidad combina control preciso, selección de equipamiento y mejoras para perfeccionar el rendimiento.",
+      "cover": "https://media.rawg.io/media/games/e0e/e0efc2ab82592c2987d43d3fb8bf52fb.jpg",
+      "genre": {
+        "es": "Action, Sports, Racing"
+      },
+      "releaseDate": {
+        "es": "2007-05-03"
+      },
+      "developer": {
+        "es": "Sony Interactive Entertainment"
+      }
     },
     {
       "id": "fb521de7",
@@ -16837,8 +17657,20 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/hNDMENrmvH8",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSubtitles & Interface : English French German Spanish (Spain) Russian Portuguese (Brazil) Simplified Chinese Traditional Chinese Japanese Korean\n\nExplore the secrets of a mysterious fallen temple and put your Templar faith to the test in Dark Devotion, where no sacrifice is too great in praise of your God. Measure your devotion and your bravery by journeying into deepest darkness for answers to questions that will challenge your very existence.",
-      "cover": ""
+      "sinopsis": "En Dark Devotion encarnas a un penitente atrapado en un templo corrupto, donde tu fe es el único recurso para abrir rutas secretas y cofres especiales. Al derrotar enemigos recolectas fe, la cual podrás usar en el refugio Filthblood para mejorar a tu personaje. Puedes saquear armas, armaduras y reliquias, personalizándolas con runas místicas y adaptándolas al enemigo. Consumibles dispersos curan heridas, pero la escasez obliga a usarlos con cautela. Exploras múltiples caminos interconectados, descubriendo textos, cartas y aldeanos perdidos que revelan la oscura historia del templo.",
+      "cover": "https://media.rawg.io/media/screenshots/a1f/a1f18e428bbb4caf6623ca2a1a3782c2.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2019-04-25"
+      },
+      "publisher": {
+        "es": "The Arcade Crew, Hibernian Workshop, Maple Whispering Co."
+      },
+      "developer": {
+        "es": "Hibernian Workshop"
+      }
     },
     {
       "id": "50bed069",
@@ -16847,8 +17679,17 @@
       "links": [],
       "link": "#",
       "trailer": "https://www.youtube.com/embed/hYhvdyAYEqw",
-      "sinopsis": "Game (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\n“THE SUPER SPY” is an action game released by SNK in 1990.\nThe goal for the player is to rescue captives with support as well as using punching and kicking actions and a gun. Last but not least, fight to defeat the terrorists that occupied the building.\nRole playing game feature such as leveling up the character with experience points gained by defeating enemies is also included.\n\nThe ACA NEOGEO series is developed with the concept of recreating popular works of NEOGEO.\nVarious game settings including the difficulty level can be set, recreating the feeling from the cathode-ray tube type of televisions.\nPlayers can also compete with other players around the world using the online ranking feature with scores.\nPlease enjoy the masterpiece that built a generation for video games.",
-      "cover": ""
+      "sinopsis": "El juego “The Super Spy” es un título de acción lanzado por SNK en 1990. El agente secreto avanza por un edificio enfrentándose a terroristas mediante puñetazos, patadas y armas de fuego, con el objetivo de liberar a los rehenes. Cada enemigo derrotado brinda experiencia que se usa en un sistema similar a un RPG para subir de nivel y mejorar capacidades. Los jugadores pueden modificar la dificultad y recrear la atmósfera de los salones de arcade de la época, y competir globalmente comparando sus puntuaciones más altas.",
+      "cover": "https://media.rawg.io/media/screenshots/93a/93a08bd7104d1eb3f680c790ea9393f0.jpg",
+      "genre": {
+        "es": "Fighting"
+      },
+      "releaseDate": {
+        "es": "2018-07-12"
+      },
+      "publisher": {
+        "es": "HAMSTER, Co."
+      }
     },
     {
       "id": "18e93f40",
@@ -16910,8 +17751,20 @@
       ],
       "link": "https://akirabox.com/qPez4WrqY3OY/file",
       "trailer": "https://www.youtube.com/embed/NaRIYuEUHQU",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nDLC : Lets – Mediafire – Akia – Viki – 1File – Rootz",
-      "cover": ""
+      "sinopsis": "Tras su primer enfrentamiento con el Joker, Bruce Wayne se cruza con Catwoman, quien roba documentos de una organización gubernamental secreta. Batman la lleva a la prisión Blackgate, pero dos semanas después los internos intentan escapar, tomando rehenes al personal y dejando sin vida a la seguridad. Catwoman decide colaborar con Batman para rescatar a los rehenes. El juego se desarrolla en 2,5D, con Batman avanzando de derecha a izquierda, usando su Visión de Detective para encontrar objetos y cumpliendo misiones secundarias. Los enemigos requieren varios golpes y muchos pueden evitarse mediante el sigilo, y las áreas limpias permanecen seguras.",
+      "cover": "https://media.rawg.io/media/games/df2/df2b1c6b36ca94b50ce81b9f5e6c4eb7.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2014-04-01"
+      },
+      "publisher": {
+        "es": "Warner Bros. Interactive"
+      },
+      "developer": {
+        "es": "Armature Studio"
+      }
     },
     {
       "id": "98cdc4f3",
@@ -16936,8 +17789,20 @@
       ],
       "link": "https://akirabox.com/RMKGJwRQwm1o/file",
       "trailer": "https://www.youtube.com/embed/D1kvAuiOJfI",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nDLC : Lets – Mediafire – Akia – Viki – 1File – Rootz",
-      "cover": ""
+      "sinopsis": "En una Nueva York devastada, los hermanos Billy y Jimmy Lee practican el Sou‑Setsu‑Ken y dirigen una escuela de artes marciales. Cuando la novia de Billy, Marian, es secuestrada por los Guerreros Negros, liderados por Willy, los Lee deben rescatarla. Avanzan por barrios marginales, zonas industriales y bosques, usando puñetazos, patadas, el golpe de codo y armas que encuentren, hasta llegar al escondite de Willy. El juego incluye un modo VS para uno o dos jugadores, con seis luchadores (Billy y cinco enemigos) que se enfrentan con puños, patadas, saltos y armas hasta agotar la barra de vida del rival.",
+      "cover": "https://media.rawg.io/media/games/950/95072fc0c187fbb2c8c5855767d8c90b.jpg",
+      "genre": {
+        "es": "Action, Arcade, Fighting"
+      },
+      "releaseDate": {
+        "es": "1987-08-01"
+      },
+      "publisher": {
+        "es": "Arc System Works, HAMSTER, Co., Technōs Japan"
+      },
+      "developer": {
+        "es": "Arc System Works, HAMSTER, Technōs Japan"
+      }
     },
     {
       "id": "b4fa2c66",
@@ -17000,8 +17865,20 @@
       ],
       "link": "https://akirabox.com/LJlGnlYnV315/file",
       "trailer": "https://www.youtube.com/embed/JabT7NoUWZw",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : English, French (France), German, Italian, Spanish",
-      "cover": ""
+      "sinopsis": "Descubre un oscuro secreto familiar y libera a Lucy de sus pesadillas en esta cómica aventura point & click británica. Como Lucy, ingeniosa y aguda, recorre el pueblo de Figgington en bicicleta, conoce a residentes sardónicos y a extraños del subconsciente. Usa el mapa para explorar la ciudad, el pub y los oníricos escenarios pixelados, aprendiendo técnicas de control de sueños para acceder a recuerdos ocultos y desvelar la verdad del asesino. Resuelve rompecabezas con lógica y pensamiento lateral, interactúa con familiares disfuncionales, ancianas, niños y trolls, y nunca olvides tu oso de peluche.",
+      "cover": "https://media.rawg.io/media/screenshots/67d/67d2194c979831a09779979154676ed3.jpg",
+      "genre": {
+        "es": "Adventure, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2021-03-15"
+      },
+      "publisher": {
+        "es": "Tall Story Games"
+      },
+      "developer": {
+        "es": "Tall Story Games"
+      }
     },
     {
       "id": "ea4f46eb",
@@ -17021,8 +17898,17 @@
       ],
       "link": "https://akirabox.com/QN9mE64n736d/file",
       "trailer": "https://www.youtube.com/embed/jn238X1UXoU",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.07 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Italian, Japanese, Korean, Spanish",
-      "cover": ""
+      "sinopsis": "En WARRIORS: Abyss el jugador asume el mando de legendarios guerreros históricos, como Lu Bu y Tadakatsu Honda, y de más de cien héroes de las sagas DYNASTY y SAMURAI. Tras superar el tutorial, pueden invocar a estos personajes para formar combinaciones únicas y crear poderosas escuadras que enfrentan hordas interminables en los abismos del infierno. El sistema de Hack’n’Dash permite ataques rápidos y combos entre varios héroes, mientras que los Karma Embers se usan para desbloquear nuevas unidades en la Sala de Almas Vinculadas. La experiencia combina acción frenética con estrategia de equipo.",
+      "cover": "https://media.rawg.io/media/screenshots/e31/e31afa44284f2567a16529eef0f9610c.jpg",
+      "genre": {
+        "es": "Action, RPG"
+      },
+      "publisher": {
+        "es": "Koei Tecmo Games"
+      },
+      "developer": {
+        "es": "KOEI TECMO GAMES CO"
+      }
     },
     {
       "id": "721fa837",
@@ -17042,8 +17928,20 @@
       ],
       "link": "https://akirabox.com/vgKGxYrB6m8Q/file",
       "trailer": "https://www.youtube.com/embed/XugL2zypa6o",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.04 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nScreen Languages : English, French (France), German, Italian, Spanish",
-      "cover": ""
+      "sinopsis": "En el año 2114, despiertas de la criosueña a bordo del crucero interestelar Von Braun sin recuerdos y descubres que algo ha salido terriblemente mal. Mutantes híbridos y robots mortales patrullan los pasillos mientras los gritos de la escasa tripulación resuenan en la fría nave. La IA rebelde SHODAN controla todo y planea la destrucción de la humanidad, por lo que debes detenerla. Explora cada cubierta, desentraña el destino de la Von Braun y su tripulación, y combate usando armas y habilidades RPG en modo FPS. Elige entre O.S.A., Marines o Marina y juega cooperativamente en línea.",
+      "cover": "https://media.rawg.io/media/screenshots/95d/95df624f84b7bca99b56da01aeea4789.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG"
+      },
+      "releaseDate": {
+        "es": "2025-06-25"
+      },
+      "publisher": {
+        "es": "Nightdive Studios"
+      },
+      "developer": {
+        "es": "Irrational Games, Looking Glass Studios, Nightdive Studios"
+      }
     },
     {
       "id": "17d6774b",
@@ -17063,8 +17961,20 @@
       ],
       "link": "https://akirabox.com/dkD3Yg029GLQ/file",
       "trailer": "https://www.youtube.com/embed/2fTGox7E7ms",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSpecial thanks to , sracax, Vika, zecoixao and CostelaBR!",
-      "cover": ""
+      "sinopsis": "Bienvenido al Edward Arms, una mansión del siglo XX llena de intriga y personajes que nunca son lo que parecen. Como controlador del sistema de seguridad, deberás observar cada habitación y atrapar a los intrusos con dispositivos ocultos. En este mundo de secretos dentro de secretos, todos tienen intereses; descubrirlos evitará que el capturador sea atrapado y mantendrá la trama del Edward Arms. Participa en veinte personajes y siete ubicaciones, eligiendo entre capturar o proteger a residentes y visitantes, mientras dirección de Mary Lambert, música de Thomas Dolby y Corey Haim, Debbie Harry y R. Lee Ermey realzan la experiencia.",
+      "cover": "https://media.rawg.io/media/screenshots/12c/12c487fd2bdf6f543def0e3233a28126.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2018-12-11"
+      },
+      "publisher": {
+        "es": "Screaming Villains"
+      },
+      "developer": {
+        "es": "Screaming Villains"
+      }
     },
     {
       "id": "11c6b4a3",
@@ -17105,8 +18015,20 @@
       ],
       "link": "https://akirabox.com/Pbe3P10k2zlX/file",
       "trailer": "https://www.youtube.com/embed/hDqVn3RB67g",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nFix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSpecial thanks to , sracax, Vika, zecoixao and CostelaBR!",
-      "cover": ""
+      "sinopsis": "Tras 99Bullets y 99Seconds, la saga prosigue con 99Moves, un arcade retro donde solo dispones de 99 movimientos para sobrevivir. En una galaxia sin rumbo, tu energía se agota y la gravedad decide tu destino. De repente, la nave V‑99 alcanza la zona Shaders, una región que brinda energía y una última oportunidad, aunque solo cuentas con 99 pulsos para desplazarte. Controlas a V‑99 esquivando obstáculos, recolectando V‑99s y rozando las paredes para conseguir puntuaciones altas. Enfréntate a patrones de enemigos impredecibles en niveles de estilo clásico, con modos de carrera y supervivencia para hasta cuatro jugadores.",
+      "cover": "https://media.rawg.io/media/screenshots/93f/93fca45c961a62d9e6df2a8e4bde16db.jpg",
+      "genre": {
+        "es": "Action, Racing, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-05-03"
+      },
+      "publisher": {
+        "es": "Super PowerUp Games"
+      },
+      "developer": {
+        "es": "Super PowerUp Games"
+      }
     },
     {
       "id": "b9ccef75",
@@ -17200,8 +18122,20 @@
       ],
       "link": "https://akirabox.com/1RgzR1Z483bp/file",
       "trailer": "https://www.youtube.com/embed/6nRDVOyYhbA",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nVoice : English, French (France), German, Italian, Spanish",
-      "cover": ""
+      "sinopsis": "En el planeta de combate, tú encarnas a Hawk Winter, elegido para pilotar el Battle Engine Aquila. Las fuerzas de Forseti y Muspell luchan a muerte por la escasa tierra de un mundo inundado. Desde el aire o la superficie, Aquila brinda movilidad versátil y poder de fuego, guiando legiones de aliados hacia la victoria. La historia ramificada ofrece 43 misiones con variaciones, y tus decisiones definirán cada enfrentamiento y la guerra entera. Disfruta de modos multijugador en pantalla dividida – Escaramuza, Versus y Cooperativo – con casi 50 unidades y diez armas, en 12 islas detalladas.",
+      "cover": "https://media.rawg.io/media/screenshots/6e0/6e026aa5af307462bc8e221ffde0d7f3.jpg",
+      "genre": {
+        "es": "Action, Shooter"
+      },
+      "releaseDate": {
+        "es": "2003-07-01"
+      },
+      "publisher": {
+        "es": "Atari, Ziggurat, Ziggurat Interactive"
+      },
+      "developer": {
+        "es": "Lost Toys"
+      }
     },
     {
       "id": "3b1f6936",
@@ -17221,8 +18155,24 @@
       ],
       "link": "https://akirabox.com/l76mZDwOjzan/file",
       "trailer": "https://www.youtube.com/embed/njCoTOfZVes",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nExperience Pinball Heroes™ originally released on the PSP™ (PlayStation®Portable) system, enhanced with up-rendering, rewind, quick save, and custom video filters.",
-      "cover": ""
+      "sinopsis": "Pinball Heroes ofrece una experiencia clásica de pinball arcade en la PS4, reuniendo una colección de mesas cuidadosamente diseñadas que replican el aspecto y la sensación de máquinas reales. Los jugadores lanzan la bola de acero, apuntan a los bumper, rampas y objetivos, y activan eventos dinámicos que desbloquean bonos y modos multibola. El juego destaca la sincronización precisa, el nudging estratégico y el uso hábil de los flippers para alcanzar puntuaciones altas. Con física realista, iluminación vibrante y efectos de sonido inmersivos, cada mesa presenta un tema único y desafíos que invitan a dominar el arte del pinball.",
+      "cover": "",
+      "genre": {
+        "en": "Arcade, Pinball",
+        "es": "Arcade, Pinball"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocida"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "694bea51",
@@ -17305,8 +18255,20 @@
       ],
       "link": "https://www.rootz.so/d/18hNyK",
       "trailer": "https://www.youtube.com/embed/vKrK8LV2FV0",
-      "sinopsis": "Game : Lets – Rootz – Mediafire – Akia – Viki – 1File\n\nUpdate 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Rootz – Mediafire – Akia – Viki – 1File\n\nScreen Languages : English, French (France), German, Italian, Spanish",
-      "cover": ""
+      "sinopsis": "¡Prepárate para volver a la era de los juegos de 8 y 16 bits de Jurassic Park! Esta colección reúne siete títulos clásicos, ahora con soporte de guardado, mapas internos y mejoras de calidad de vida. Recorre la Isla Nublar en cada aventura, encarnando al Dr. Alan Grant o, en algunos juegos, a un veloz Velociraptor. Deberás recoger huevos, enfrentarte a la fauna peligrosa, restablecer la energía del parque, encontrar nuevas armas y, al final, lograr la escapatoria. Revive la emoción y el suspense del film mientras exploras cada nivel y superas sus desafíos.",
+      "cover": "https://media.rawg.io/media/games/75c/75c8efeacfd156a487971cc8b8381831.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2023-11-22"
+      },
+      "publisher": {
+        "es": "Limited Run Games"
+      },
+      "developer": {
+        "es": "Limited Run Games"
+      }
     },
     {
       "id": "71f3b966",
@@ -17343,8 +18305,20 @@
       ],
       "link": "https://akirabox.com/APVmar7R63Xo/file",
       "trailer": "https://www.youtube.com/embed/xSFlqaQ6anI",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.01 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSubtitles : Chinese, Czech, Danish, Dutch, English, English (UK), French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Turkish",
-      "cover": ""
+      "sinopsis": "En un futuro lejano y absurdo, incluso el tiempo está bajo regulaciones gubernamentales. Un anciano necesita un medicamento vital y adquiere el dispositivo oficial Time‑Clone™ para entregarlo. El proceso consiste en clonarse y enviar al clon a la máquina, donde debe resolver rompecabezas, recuperar la pastilla y viajar en el tiempo. Tú controlas al clon, enfrentando obstáculos, superando trampas y resolviendo acertijos mientras cada salto temporal te hace encontrarte con versiones pasadas que repiten tus acciones. Al cooperar con esos yo anteriores, desentrañas los puzles y aseguras la cura para el anciano.",
+      "cover": "https://media.rawg.io/media/screenshots/a22/a222d5faab93e69882d45caff9a1f1b4.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-10-09"
+      },
+      "publisher": {
+        "es": "IzHard"
+      },
+      "developer": {
+        "es": "IzHard"
+      }
     },
     {
       "id": "01a73148",
@@ -17384,8 +18358,20 @@
       ],
       "link": "https://akirabox.com/5pVzNabBd37w/file",
       "trailer": "https://www.youtube.com/embed/SGaHOqQa2FM",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nVoice : Chinese, English, French (France), German, Italian, Japanese, Korean, Polish, Russian, Spanish\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish",
-      "cover": ""
+      "sinopsis": "En Civilization VII guías a una civilización a través de distintas eras, construyendo ciudades, maravillas y avanzando en tecnología. Puedes encarnar a líderes legendarios, como Napoleón con su Persona Emperador, o a figuras históricas de la colección Tecumseh y Shawnee, cada uno con habilidades únicas y agendas especiales. Cada edad ofrece nuevas civilizaciones disponibles según tus logros, desbloqueando bonificaciones, unidades y mejoras. El juego combina diplomacia, comercio y guerra, permitiendo alianzas o conquistas, y ofrece partidas tanto en solitario como multijugador donde los jugadores compiten o cooperan en campañas extensas.",
+      "cover": "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg",
+      "genre": {
+        "es": "Strategy, Simulation"
+      },
+      "releaseDate": {
+        "es": "2025-02-10"
+      },
+      "publisher": {
+        "es": "2K Games"
+      },
+      "developer": {
+        "es": "Firaxis"
+      }
     },
     {
       "id": "1d715ef6",
@@ -17405,8 +18391,20 @@
       ],
       "link": "https://akirabox.com/l5YzMgj7pmyO/file",
       "trailer": "https://www.youtube.com/embed/FiE8ZWUyY5o",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nFix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nLanguages : Japanese, English, French. Spanish, German, Italian, Korean, Traditional Chinese, Simplified Chinese, Portuguese, and Thai language",
-      "cover": ""
+      "sinopsis": "Ib es una aventura de terror en la que una niña llamada Ib visita una galería de arte con sus padres. Al recorrer las salas, de repente se da cuenta de que está sola y, mientras busca a sus acompañantes, descubre que la exposición se vuelve extraña y perturbadora. El juego se centra en la exploración de los pasillos y la resolución de puzles ambientales, sin combates ni requisitos de reflejos rápidos. La atmósfera opresiva y la narrativa minimalista invitan al jugador a desentrañar el misterio de la galería y a ayudar a Ib a escapar.",
+      "cover": "https://media.rawg.io/media/screenshots/02f/02f82d645e35a0f7f7e34fa843081b01.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2012-02-07"
+      },
+      "publisher": {
+        "es": "Playism"
+      },
+      "developer": {
+        "es": "kouri"
+      }
     },
     {
       "id": "512e304b",
@@ -17437,8 +18435,20 @@
       ],
       "link": "https://akirabox.com/qw1ze9vxQzXy/file",
       "trailer": "https://www.youtube.com/embed/DG2sfc5xXkE",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nDLC : Lets – Mediafire – Akia – Viki – Rootz – 1File",
-      "cover": ""
+      "sinopsis": "Mai Toyama busca escapar de su traumático pasado y se inscribe en el internado solo para chicas Wordsworth, en el pueblo montañoso de Le Choara, donde se rumorea que su hermana Sanae apareció por última vez. De día, explora el pueblo y habla con los habitantes para obtener pistas. De noche, las calles se llenan de Shadow Matter, criaturas horripilantes que debe combatir en turnos. El juego incluye el sistema Overkill, que otorga experiencia extra al infligir daño excesivo, y el Berserker, cuya zona de ataque mata al instante. También se puede lanzar enemigos contra aliados con el sistema Knockback.",
+      "cover": "https://media.rawg.io/media/screenshots/f69/f69e1a96c14ba4aa9e80656c20090790.jpeg",
+      "genre": {
+        "es": "Action, Adventure, RPG"
+      },
+      "releaseDate": {
+        "es": "2020-08-17"
+      },
+      "publisher": {
+        "es": "Idea Factory"
+      },
+      "developer": {
+        "es": "Idea Factory, Compile Heart"
+      }
     },
     {
       "id": "eb63dcaf",
@@ -17659,8 +18669,20 @@
       ],
       "link": "https://akirabox.com/l5YzM1yWOzyO/file",
       "trailer": "https://www.youtube.com/embed/hBvMSP7cI-Q",
-      "sinopsis": "Game : Lets – Mediafire – Buznew – Akia – Viki – Rootz – 1File\n\nUpdate 1.47 : Lets – Mediafire – Buznew – Akia – Viki – Rootz – 1File\n\nUpdate 1.48 : Lets – Mediafire – Buznew – Akia – Viki – Rootz – 1File",
-      "cover": ""
+      "sinopsis": "En Los Santos, una ciudad vibrante y diversa inspirada en la complejidad de Liberty City, la trama se cuenta simultáneamente desde tres perspectivas únicas. Michael, un ex‑criminal que busca una vida de ocio alejada de su pasado; Franklin, un joven que persigue un futuro mejor; y Trevor, la encarnación del pasado que Michael intenta olvidar. El juego ofrece más de 560 vehículos y sigue ampliándose. GTA Online añade retos adicionales con otros jugadores que pueden ayudar o sabotear misiones, mientras el personaje personalizable, el contenido de la comunidad y el sistema de niveles mantienen a todos ocupados.",
+      "cover": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2013-09-17"
+      },
+      "publisher": {
+        "es": "Rockstar Games"
+      },
+      "developer": {
+        "es": "Rockstar North, Rockstar Games"
+      }
     },
     {
       "id": "c24e72b5",
@@ -17737,8 +18759,20 @@
       ],
       "link": "https://akirabox.com/M2BGwYZBb3j4/file",
       "trailer": "https://www.youtube.com/embed/J7rfZ_YHcxg",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.85 (Fix 5.05/6.72+) : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.86 (Fix 5.05/6.72+) : Lets – Mediafire – Akia – Viki – Rootz – 1File",
-      "cover": ""
+      "sinopsis": "One Piece: Pirate Warriors 4 Legendary Edition lleva la épica historia del manga a combates masivos, donde Luffy y su tripulación se enfrentan a hordas de enemigos mientras avanzan con sus fieles aliados. El juego recrea auténticos campos de batalla del mundo de One Piece, con edificios que se derrumban, explosiones de polvo y humo que envuelven la acción. Cada personaje conserva sus habilidades icónicas, permitiendo combos espectaculares y ataques especiales. La dinámica de lucha cooperativa permite que hasta dos jugadores unan fuerzas, ofreciendo una experiencia que captura la energía y la aventura del anime.",
+      "cover": "https://media.rawg.io/media/games/7a3/7a3f0042e23365c3bb4d4cf300e92d00.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2020-03-26"
+      },
+      "publisher": {
+        "es": "Bandai Namco Entertainment"
+      },
+      "developer": {
+        "es": "Bandai Namco Entertainment, Koei Tecmo"
+      }
     },
     {
       "id": "4112b04e",
@@ -17805,8 +18839,20 @@
       ],
       "link": "https://akirabox.com/qw1zeJne0GXy/file",
       "trailer": "https://www.youtube.com/embed/SUgiOYK9feY",
-      "sinopsis": "Update 1.69 (Fix 5.05/6.72/7.02) : Lets – Mediafire – 1File\n\nUpdate 1.72 (Fix 5.05/6.72/7.xx/8.xx) : Lets – Mediafire – 1File\n\nUpdate 1.75 (Fix 5.05/6.72/7.xx/8.xx) : Lets – Mediafire – 1File",
-      "cover": ""
+      "sinopsis": "Beat Saber es un juego de ritmo en realidad virtual donde el jugador empuña dos sables y corta cubos que representan los beats de la música. Cada cubo indica el sable que se debe usar y la dirección del corte, obligando al jugador a mover los brazos al compás. Todas las canciones fueron compuestas para encajar con niveles hechos a mano, creando una sincronía perfecta entre sonido, efectos visuales y acción. El objetivo es bailar mientras se atraviesan los cubos y se esquivan obstáculos, ofreciendo una sensación única de corte y percusión rítmica accesible para cualquier persona en pocos segundos.",
+      "cover": "https://media.rawg.io/media/screenshots/90f/90f61894908915eff8455e7b43d466a2.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2019-05-21"
+      },
+      "publisher": {
+        "es": "Oculus Studios, Hyperbolic Magnetism, Beat Games"
+      },
+      "developer": {
+        "es": "Hyperbolic Magnetism, Beat Games"
+      }
     },
     {
       "id": "dba57d18",
@@ -17870,8 +18916,17 @@
       ],
       "link": "https://akirabox.com/E9Qz94NaJ3OL/file",
       "trailer": "https://www.youtube.com/embed/xjR_c5-RsoA",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.17 (Fix 5.05/6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nDLC (4) : Lets – Mediafire – Akia – Viki – 1File – Rootz",
-      "cover": ""
+      "sinopsis": "El esperado sucesor del aclamado RPG gótico de Red Hook llega como Darkest Dungeon 2, una prueba de temple que empuja a los héroes al borde de la locura. Deberás armarte de determinación y abastecer a tu grupo antes de aventurarse en la peligrosa travesía que les espera. Cada decisión de equipamiento y provisión influye en la resistencia mental y física de los aventureros, mientras enfrentan horrores sobrenaturales y decisiones angustiosas. La marcha será ardua, obligándote a equilibrar el valor y la desesperación para sobrevivir a la oscuridad que acecha.",
+      "cover": "https://media.rawg.io/media/games/aea/aeaab29c551ea9919e571c44e75a5106.jpg",
+      "genre": {
+        "es": "RPG, Strategy"
+      },
+      "releaseDate": {
+        "es": "2023-05-08"
+      },
+      "developer": {
+        "es": "Red Hook Studios"
+      }
     },
     {
       "id": "eda14066",
@@ -17896,8 +18951,20 @@
       ],
       "link": "https://akirabox.com/5pVzN0QZAm7w/file",
       "trailer": "https://www.youtube.com/embed/tIZZPlqxGYk",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.07 (Fix 5.05/6.72/7.xx/9.00/11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nAustralia DLC : Lets – Mediafire – Akia – Viki – 1File – Rootz",
-      "cover": ""
+      "sinopsis": "“Hacer algo peligroso con estilo es arte”. Art of Rally ofrece una experiencia estilizada inspirada en la era dorada del rally. En el modo Carrera, recorre 60 etapas que van desde Finlandia hasta Cerdeña, Noruega, Japón y Alemania, compitiendo en entornos con vista cenital. Elige entre más de 50 coches de los años 60 a 80, incluyendo Group B, S y A, y domina técnicas como el flick escandinavo, contravolanteo, frenado con el pie izquierdo y derrapes de mano. Enfréntate a retos diarios y semanales para liderar las tablas y captura cada momento con el modo Foto y Replay.",
+      "cover": "https://media.rawg.io/media/games/f9a/f9a3b8c9d6ae61e29bd45782040d2c7e.jpg",
+      "genre": {
+        "es": "Sports, Racing, Indie"
+      },
+      "releaseDate": {
+        "es": "2020-09-23"
+      },
+      "publisher": {
+        "es": "Funselektor Labs"
+      },
+      "developer": {
+        "es": "Funselektor Labs"
+      }
     },
     {
       "id": "e7829692",
@@ -18320,8 +19387,20 @@
       ],
       "link": "https://akirabox.com/jJD3VvnlL3a5/file",
       "trailer": "https://www.youtube.com/embed/SH6YONVcl7k",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rootz – 1File\n\nUpdate 1.40 (Fix 5.05/6.72/7.xx/8.xx) : Lets – Mediafire – 1File\n\nUpdate 1.45 (9.00+) : Lets – Mediafire – Akia – 1File",
-      "cover": ""
+      "sinopsis": "En Guilty Gear Strive, el destino del universo se decide en la confrontación final contra That Man, responsable de la destrucción del mundo. El jugador se une a Sol Badguy, su rival Ky Kiske y a 13 personajes adicionales, formando un elenco de 15 combatientes únicos que buscan detener al villano. El juego combina mecánicas de lucha accesibles para novatos con profundidad para veteranos, introduciendo novedades como romper paredes y un sistema de movimiento fluido. Todo ello está envuelto en gráficos híbridos 2D/3D con sombreado cel y una banda sonora de heavy metal que acompaña cada ataque.",
+      "cover": "https://media.rawg.io/media/games/dfe/dfe14d30ed6fccd9db4ae79d3be51d54.jpg",
+      "genre": {
+        "es": "Action, Fighting"
+      },
+      "releaseDate": {
+        "es": "2021-06-11"
+      },
+      "publisher": {
+        "es": "Arc System Works, Arc System Works Co."
+      },
+      "developer": {
+        "es": "Arc System Works, Arc System Works Co."
+      }
     },
     {
       "id": "aa194cc9",
@@ -18497,8 +19576,20 @@
       ],
       "link": "https://akirabox.com/5pVzN0LpAm7w/file",
       "trailer": "https://www.youtube.com/embed/Hc3p5vYR6VM",
-      "sinopsis": "Game (Fix 5.05/6.72/7.xx+) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSubtitles : English, French, Portuguese (Brazil), Spanish\n\nA psychological horror of seeking satisfaction on the border of two intertwining worlds. An intriguing plot with erotic and occult themes guides the player’s character through the Yelvertons’ Victorian mansion and a perverse land inspired with works of masters of horror.",
-      "cover": ""
+      "sinopsis": "Recibes una carta de tu esposa desaparecida hace un año. Siguiendo el mensaje, te diriges a una mansión victoriana donde se celebra una ceremonia oculta que abre portales a Lusst’ghaa, un mundo profano y perverso. Allí descubrirás una dimensión eldritch poblada por criaturas que, por voluntad propia, degeneraron sus cuerpos para experimentar placer carnal eternamente. Explora la mansión y atraviesa portales para cruzar entre la realidad y Lusst’ghaa, busca objetos ocultos que revelan historias paralelas y escapa de los monstruos que acechan, todo bajo una atmósfera de horror psicológico.",
+      "cover": "https://media.rawg.io/media/screenshots/5b3/5b3a1f64da9d7910b2e176d8f29964ef.jpg",
+      "genre": {
+        "es": "Adventure"
+      },
+      "releaseDate": {
+        "es": "2021-11-18"
+      },
+      "publisher": {
+        "es": "Movie Games, Iron VR"
+      },
+      "developer": {
+        "es": "Iron VR"
+      }
     },
     {
       "id": "b52f2c69",
@@ -18651,8 +19742,20 @@
       ],
       "link": "https://akirabox.com/XkrzoAL92mBO/file",
       "trailer": "https://www.youtube.com/embed/NHLwZqPlvCs",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – Rano – 1File\n\nUpdate 1.01 (11.00) : Lets – Mediafire – Akia – Viki – Rano – 1File\n\nUpdate 1.01 (Fix 5.05/6.72/7.xx/9.00) : Lets – Mediafire – Akia – Viki – Rano – 1File",
-      "cover": ""
+      "sinopsis": "Elden Ring Nightreign es un juego de rol de acción con mecánicas roguelike desarrollado por FromSoftware y publicado por Bandai Namco Entertainment. Como spin‑off de Elden Ring, reutiliza gran parte de sus sistemas y elementos jugables, centrándose en la aleatoriedad del roguelike y en la cooperación entre jugadores. La historia se sitúa en un pasado alternativo del universo de Elden Ring, donde los Nightfarers, héroes nocturnos, emprenden una misión para erradicar el dominio de la noche. Los jugadores controlan a estos Nightfarers, enfrentándose a desafíos procedurales y combates intensos mientras intentan romper el yugo nocturno.",
+      "cover": "https://media.rawg.io/media/games/a14/a143ef815d323a3000840fc774d834c7.jpg",
+      "genre": {
+        "es": "Action, RPG"
+      },
+      "releaseDate": {
+        "es": "2025-05-30"
+      },
+      "publisher": {
+        "es": "Bandai Namco Entertainment, FromSoftware"
+      },
+      "developer": {
+        "es": "FromSoftware"
+      }
     },
     {
       "id": "7eeb677b",
@@ -18672,8 +19775,20 @@
       ],
       "link": "https://akirabox.com/7d5GLgLeVzxR/file",
       "trailer": "https://www.youtube.com/embed/8v5TqE9wHfs",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nFix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nA young girl must explore a haunted town and search for her missing memories in order to break a curse. She’ll have to rely on only her wits, cunning, and a well-placed hiding spot or two to evade the twisted ghosts that wander the streets.",
-      "cover": ""
+      "sinopsis": "Una joven despierta en un bosque oscuro sin recordar cómo llegó allí. Un misterioso individuo le revela que está maldita y que solo rompiendo la maldición podrá recuperar sus recuerdos, explorando las calles de su pueblo durante la noche. Fantasmas hostiles acechan entre sombras, obligándola a correr, esconderse y cerrar los ojos para evitar sus miradas. El juego permite personalizar su peinado, color de cabello, ropa y accesorios. Con linterna, latido del corazón y pistas dispersas, debe sobrevivir y desvelar los secretos del terror nocturno.",
+      "cover": "https://media.rawg.io/media/screenshots/6dd/6dd1ac34ac3d4b44fc0e4851c9795e9b.jpg",
+      "genre": {
+        "es": "Adventure, Strategy"
+      },
+      "releaseDate": {
+        "es": "2022-10-25"
+      },
+      "publisher": {
+        "es": "NIS America"
+      },
+      "developer": {
+        "es": "Nippon Ichi Software"
+      }
     },
     {
       "id": "5652e4c4",
@@ -18693,8 +19808,20 @@
       ],
       "link": "https://akirabox.com/LK0G1KBpZ391/file",
       "trailer": "https://www.youtube.com/embed/IqZKJhutRgw",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.02 (Fix 5.05/6.72/7.xx/9.00/11.00) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nSubtitles : Chinese, English, German, Spanish (Mexico)",
-      "cover": ""
+      "sinopsis": "En esta aventura de deducción encarnas a Lil, una heroína de 12 años que cubre el turno de su padre en el puesto de guardia. Debes decidir el destino de más de 100 personajes – humanos, elfos, goblins, cíclopes y otras criaturas – interrogándolos y usando tus herramientas para admitirlos o rechazarlos. Tus decisiones, desde encarcelar o vaporizar a los visitantes hasta dejarlos pasar, determinarán el futuro del reino durante una boda y asedio que sigue. Gasta el oro ganado en mejorar kit de guardia y utiliza Cronómetro3000 para volver atrás y buscar la puntuación perfecta, sin romper el tiempo.",
+      "cover": "https://media.rawg.io/media/screenshots/bd2/bd2269675a8e09060677c6583ae5012a.jpg",
+      "genre": {
+        "es": "Adventure, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-01-23"
+      },
+      "publisher": {
+        "es": "tinyBuild, Versus Evil"
+      },
+      "developer": {
+        "es": "Hilltop Studios"
+      }
     },
     {
       "id": "d1e432e7",
@@ -18756,8 +19883,20 @@
       ],
       "link": "https://akirabox.com/qPez4B9PqmOY/file",
       "trailer": "https://www.youtube.com/embed/fsu6ZS6Aiq4",
-      "sinopsis": "Game : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nUpdate 1.03 (Fix 5.05) : Lets – Mediafire – Akia – Viki – 1File – Rootz\n\nAbo Khashem is a comedic role playing game, where after awaking in the middle of nowhere with amnesia, you try to piece together what happened to you. With your trusty lizard companion, the two of you must uncover a massive conspiracy involving a powerful monolith. Along the way you will purchase properties, manage and hire staff, decorate your homes, gain influence, bond with Shukman the lizard, explore dangerous dungeons, and customize your own fighting style!",
-      "cover": ""
+      "sinopsis": "Abo Khashem es un RPG cómico en el que despiertas sin recuerdos en medio de la nada, acompañado por tu leal lagarto Shukman. Juntos deben desentrañar una conspiración masiva alrededor de un misterioso monolito. Mientras buscas respuestas, compras propiedades, contratas personal, decoras casas y aumentas tu influencia. El juego combina exploración de mazmorras artesanales, combates personalizables con un creador de combos y árbol de talentos, y misiones secundarias. También incluye simulador de negocios, diseño interior, mini‑juegos, coleccionables y un divertido sistema de mensajes de texto con NPCs.",
+      "cover": "https://media.rawg.io/media/screenshots/6af/6af6b12118dad525c1ecc4f550bc5f75.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2018-02-22"
+      },
+      "publisher": {
+        "es": "Moving Dimensions"
+      },
+      "developer": {
+        "es": "MOVING DIMENSIONS EST, Moving Dimensions"
+      }
     },
     {
       "id": "2764ae7a",
@@ -19122,8 +20261,20 @@
       ],
       "link": "https://akirabox.com/dZxG54qOezVj/file",
       "trailer": "https://www.youtube.com/embed/zyGWX3Z7Lzo",
-      "sinopsis": "Update 1.02 (Fix 6.72/7.xx/9.00/11.00/12.00) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.02 (Fix 5.05) : Lets – Mediafire – Akia – Viki – 1File\n\nSubtitles : English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, ca",
-      "cover": ""
+      "sinopsis": "Prepárate para surfear la diversión en Smoots Crazy Wave, donde los carismáticos personajes Smoots compiten en frenéticos circuitos acuáticos. Elige entre modos como Slalom, Battle Royale, Contrarreloj, Exhibición y práctica, y usa power‑ups para cambiar el rumbo de la carrera. Corre en lugares exóticos como Honu Island, Islandia y el Mundo Perdido, desde playas tropicales hasta paisajes helados, con 14 Smoots, cada una con estadísticas únicas. Hasta cuatro jugadores pueden enfrentarse en pantalla dividida, demostrando quién domina las olas. Desafía a tus amigos y perfecciona tus habilidades en cada vuelta.",
+      "cover": "https://media.rawg.io/media/screenshots/565/565d95385e30b1fedf1df1483b36bbd6.jpg",
+      "genre": {
+        "es": "Sports, Racing, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-08-28"
+      },
+      "publisher": {
+        "es": "JanduSoft"
+      },
+      "developer": {
+        "es": "Kaneda Games"
+      }
     },
     {
       "id": "ad2e432e",
@@ -20278,8 +21429,20 @@
       ],
       "link": "https://akirabox.com/gXeGO1ZpK3Aa/file",
       "trailer": "https://www.youtube.com/embed/uVOPbElr-RI",
-      "sinopsis": "Update 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nThe Mysterious series combines heart-warming everyday elements with extraordinary experiences in a world full of wonders.\nThe 1st instalment, “Atelier Sophie”, is back in DX form!\n\nThe “Atelier Sophie: The Alchemist of the Mysterious Book DX Digital Art Book” is included as a purchase bonus.",
-      "cover": ""
+      "sinopsis": "En Atelier Sophie: The Alchemist of the Mysterious Book DX, la joven alquimista Sophie se encuentra con Plachta, un libro sentiente, y juntos emprenden una aventura para recuperar los recuerdos del libro y dominar la alquimia. Sophie aprende recetas, explora campos, recoge materiales y sintetiza objetos usando tres nuevos calderos. El juego introduce un traje inspirado en su abuela, opción de sprint, batallas aceleradas con 'Fast Forward' y modo foto para capturar escenas. Además, incluye episodios inéditos de crecimiento de Sophie y mucho contenido descargable previamente lanzado.",
+      "cover": "https://media.rawg.io/media/games/c25/c257319c6354199e710dd35742939d91.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "es": "2021-04-21"
+      },
+      "publisher": {
+        "es": "Koei Tecmo Games"
+      },
+      "developer": {
+        "es": "KOEI TECMO GAMES CO"
+      }
     },
     {
       "id": "acc61cf5",
@@ -20296,8 +21459,20 @@
       ],
       "link": "https://akirabox.com/RMKGJDPx131o/file",
       "trailer": "https://www.youtube.com/embed/_yjh3Rd1RDc",
-      "sinopsis": "Update 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nThe Mysterious series combines heart-warming everyday elements with extraordinary experiences in a world full of wonders.\nThe 2nd instalment, “Atelier Firis”, is back in DX form!\n\nThe “Atelier Firis: The Alchemist and the Mysterious Journey Digital Art Book” is included as a purchase bonus.",
-      "cover": ""
+      "sinopsis": "Firis, una joven almejana, sueña con viajar libremente por el mundo exterior. Tras descubrir la alquimia, parte en una aventura sin límites, acompañada por las alquimistas Sophie y Plachta, quienes le enseñan el arte. Para aprobar el examen de certificación oficial en un año, debe practicar la alquimia, completar misiones y recolectar cartas de recomendación de alquimistas licenciados en pueblos y ciudades. El juego añade cuatro vehículos de exploración, una misión contra siete nuevos monstruos y una versión reforzada de Palmyra, batallas aceleradas con 'Fast Forward', modo foto y contenido DLC previamente lanzado.",
+      "cover": "https://media.rawg.io/media/games/cd7/cd73ff98aada2aec36fdcdb6eaf74f87.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "es": "2017-03-07"
+      },
+      "publisher": {
+        "es": "Koei Tecmo Games"
+      },
+      "developer": {
+        "es": "KOEI TECMO America, KOEI TECMO GAMES CO"
+      }
     },
     {
       "id": "bb4de179",
@@ -20314,8 +21489,20 @@
       ],
       "link": "https://akirabox.com/E1x3AlwyWmyk/file",
       "trailer": "https://www.youtube.com/embed/LvNAorG9GsA",
-      "sinopsis": "Update 1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nThe Mysterious series combines heart-warming everyday elements with extraordinary experiences in a world full of wonders.\nThe 3rd instalment, “Atelier Lydie & Suelle”, is back in DX form!\n\n＜Bonus＞\n– Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX Digital Art Book\nIncluded as a special bonus with the purchase of “Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX”.\nNote: This application is in English.",
-      "cover": ""
+      "sinopsis": "Las hermanas gemelas Lydie y Suelle son jóvenes alquimistas que, tras descubrir una pintura misteriosa, se embarcan en una aventura para cumplir su sueño de dirigir el mejor atelier del reino. Viajan a mundos dentro de los cuadros, recolectan ingredientes, derrotan monstruos y completan encargos para subir de rango. El juego introduce nuevas piezas de pintura, fragmentos de “Nelke’s world” y un jefe especial, además de la opción de acelerar los combates y un modo foto para capturar la belleza de los escenarios. Todo se centra en la alquimia y la exploración.",
+      "cover": "https://media.rawg.io/media/games/639/639b9d7a9fb36d99d70ca1293b44a602.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "es": "2018-03-27"
+      },
+      "publisher": {
+        "es": "Koei Tecmo Games"
+      },
+      "developer": {
+        "es": "KOEI TECMO America, KOEI TECMO GAMES CO"
+      }
     },
     {
       "id": "1cda4ed0",
@@ -20367,8 +21554,20 @@
       ],
       "link": "https://akirabox.com/jar3Xw4KOm2d/file",
       "trailer": "https://www.youtube.com/embed/bAmLVA1IhZ8",
-      "sinopsis": "Update 1.02 (Fix 5.05/6.72/7.02/7.55/9.00/11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nSubtitles : Chinese, English, French, German, Japanese, Korean, Portuguese (Brazil), Russian, Spanish\n\nWhen students Graff and Ott are invited to celebrate “Natal Untail,” a twisted take on Atlasia’s ancient tradition, they’ll discover that even in a decaying world, the greatest treasures are the values of sharing and friendship.",
-      "cover": ""
+      "sinopsis": "En un mundo distópico, los estudiantes Graff y Ott son convocados para celebrar el 'Natal Untail', una versión corrompida de la antigua tradición de Atlasia. A medida que avanzan, descubren que, pese al deterioro del entorno, la amistad y el compartir siguen siendo los mayores tesoros de la vida. Esta novela visual sirve como precuela del juego principal, presentando a los protagonistas y explicando la terminología del universo BROK. La experiencia dura alrededor de una hora, reutiliza gran parte de los recursos del juego original y cuenta con accesibilidad total para jugadores ciegos.",
+      "cover": "https://media.rawg.io/media/screenshots/e7f/e7f0d16addb937e34eb5a4ab07b6dc8c.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-12-13"
+      },
+      "publisher": {
+        "es": "COWCAT"
+      },
+      "developer": {
+        "es": "COWCAT"
+      }
     },
     {
       "id": "78246549",
@@ -20420,8 +21619,20 @@
       ],
       "link": "https://akirabox.com/0PdzyBZyrGeA/file",
       "trailer": "https://www.youtube.com/embed/DxY0oxPjo3o",
-      "sinopsis": "Game (5.05/6.72+) : Lets – Mediafire – Akia – Viki – 1File\n\nYou are playing for an extraterrestrial race that has just become ready to conquer outer space. Whole story begins with the fact that you are going to destroy a comet that threatens your planet. An unforeseen event happened that dragged you into the midst of the battles. But everything may not be what it seems.\n\nEvery element in the game was made with individual approach, polished to the smallest detail. Excellent graphics drawing, visual effects, music and sound effects – all this is perfectly harmonized in its special style and atmosphere of the game.",
-      "cover": ""
+      "sinopsis": "Eres parte de una raza extraterrestre que acaba de estar lista para conquistar el espacio. La campaña inicia con la misión de destruir un cometa que amenaza tu planeta, pero un incidente inesperado te arrastra al centro de intensas batallas contra flotas enemigas. Puedes personalizar tu nave con cañones, motores más rápidos y reactores potentes, descubriendo nuevas armas y sistemas en cada una de las 80 misiones distribuidas en distintos entornos. El juego ofrece modos cooperativos para hasta cuatro jugadores, con sistemas de combate que incineran a los enemigos y sistemas de apoyo que benefician a tu aliado.",
+      "cover": "https://media.rawg.io/media/screenshots/0ff/0ff22ef10f587d4078e0bba7c75557c6.jpg",
+      "genre": {
+        "es": "Action, Shooter, RPG, Simulation, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2017-08-30"
+      },
+      "publisher": {
+        "es": "Sometimes You, Alexander Byzov"
+      },
+      "developer": {
+        "es": "Sometimes You, Alexander Byzov"
+      }
     },
     {
       "id": "2fead688",
@@ -20833,8 +22044,20 @@
       ],
       "link": "https://www.mediafire.com/file/u85udja7er5c009/Worms_Armageddon_Anniversary_Edition-CUSA46400-V0103.pkg/file",
       "trailer": "https://www.youtube.com/embed/6hqggv16JDI",
-      "sinopsis": "Game (v1.03)(9.00+) : Lets – Mediafire – Akia – Viki – 1File – Mega\n\nSubtitles : Dutch, English, French, German, Italian, Portuguese (Brazil), Russian, Spanish, Swedish\n\nIt’s been twenty five years since the intrepid invertebrates flung themselves onto our screens. To celebrate this we have brought the much loved title back with Worms Armageddon Anniversary edition.",
-      "cover": ""
+      "sinopsis": "En Worms Armageddon Anniversary Edition, controlas un equipo de gusanos caricaturescos que se enfrentan en batallas tácticas de artillería en 2D. Cada partida es por turnos, y en su turno cada gusano puede mover, disparar, usar objetos o activar construcciones. El objetivo es eliminar a los rivales reduciendo su única estadística, la salud, mientras empleas una gran variedad de armas, desde lanzallamas reales hasta cañones ficticios como los topos explosivos. Cada arma posee parámetros y habilidades únicas, lo que obliga a planear estrategias y adaptarse al terreno para conseguir la victoria.",
+      "cover": "https://media.rawg.io/media/games/96a/96a48ac7487d9db9179d83170afcb16a.jpg",
+      "genre": {
+        "es": "Strategy"
+      },
+      "releaseDate": {
+        "es": "1999-01-25"
+      },
+      "publisher": {
+        "es": "Team17 Digital, Atari, Hasbro Interactive"
+      },
+      "developer": {
+        "es": "Team17 Digital"
+      }
     },
     {
       "id": "a6e022c8",
@@ -21285,8 +22508,20 @@
       ],
       "link": "https://akirabox.com/Y2xm0wkVpGRO/file",
       "trailer": "https://www.youtube.com/embed/KGr35V-5Im0",
-      "sinopsis": "Update 1.61 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nScreen Languages : Chinese (Simplified), Chinese (Traditional), English, French (France), German, Japanese, Korean, Portuguese (Brazil), Russian, Spanish, Spanish (Mexico)\n\nAfter arriving early for a big meeting with the mayor of a bizarre Northern English town, a traveling salesman takes the time to explore and meet the locals, who are all very eager to give him a series of increasingly odd jobs…",
-      "cover": ""
+      "sinopsis": "Thank Goodness You're Here! es una absurda comedia slap‑former ambientada en el pintoresco y extraño pueblo del norte de Inglaterra, Barnsworth. Interpretas a un vendedor ambulante que recorre la ciudad, observando sus curiosas vistas y conociendo a los residentes. Los locales, muy entusiastas, te asignan una sucesión de trabajos cada vez más disparatados, obligándote a cumplir misiones cómicas mientras exploras la atmósfera surrealista. El juego combina mecánicas exageradas que generan efectos humorísticos y diálogos con personajes excéntricos, desafiando tu ingenio en cada tarea.",
+      "cover": "https://media.rawg.io/media/games/e09/e09477c34646ca1967b0088ba65d20c0.jpg",
+      "genre": {
+        "es": "Adventure, Casual, Indie, Puzzle, Platformer"
+      },
+      "releaseDate": {
+        "es": "2024-08-01"
+      },
+      "publisher": {
+        "es": "Panic"
+      },
+      "developer": {
+        "es": "Coal Supper"
+      }
     },
     {
       "id": "3d6c8c2f",
@@ -21574,8 +22809,20 @@
       ],
       "link": "https://akirabox.com/E9Qz9np2GOL2/file",
       "trailer": "https://www.youtube.com/embed/4z2KghiD4Ds",
-      "sinopsis": "Update 1.02 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.06 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.07 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00) : Lets – Mediafire – Akia – Viki – 1File",
-      "cover": ""
+      "sinopsis": "Vive la historia de Basim, un astuto ladrón de las calles que busca respuestas y justicia mientras recorre las bulliciosas vías de Bagdad del siglo IX. En Assassin’s Creed Mirage encarnas a Basim, cuyas visiones aterradoras lo impulsan a unirse a una antigua organización y descubrir una nueva credo que cambiará su destino. Desplázate con parkour por la ciudad, usa la mayor variedad de herramientas disponible y elimina silenciosamente a tus objetivos con asesinatos más visceral que nunca. La trama narra la transformación de un joven rebelde en un Maestro Asesino conflictuado, culminando en un viaje a Alamut, la legendaria morada de los fundadores del credo.",
+      "cover": "https://media.rawg.io/media/games/fbd/fbd0128013b7965904be571e75fb30c0.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2023-10-05"
+      },
+      "publisher": {
+        "es": "Ubisoft Entertainment"
+      },
+      "developer": {
+        "es": "Ubisoft, Ubisoft Montreal, Ubisoft Bordeaux"
+      }
     },
     {
       "id": "faa4bc04",
@@ -22525,8 +23772,17 @@
       ],
       "link": "https://akirabox.com/0rpmv70Ra3Rg/file",
       "trailer": "https://www.youtube.com/embed/hr2ePbkw9JA",
-      "sinopsis": "Update 1.01 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nScreen Languages : English, French (France), German, Italian, Spanish\n\nFIVE DAMNED SOULS\nBuried deep within the center of the earth, trapped in the bowels of an insane computer for the past hundred and nine years. Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, Ted the cynical paranoid.",
-      "cover": ""
+      "sinopsis": "‘I Have No Mouth and I Must Scream’ es un juego que sumerge a los jugadores en una atmósfera de dolor y soledad, donde su situación es inmutable pero algo logra transformar ese sufrimiento. Los personajes son víctimas que deben enfrentar su propio tormento interior. La mecánica se basa en tiradas de 1d6 y en cartas‑prompt que invitan a expresar pensamientos por escrito, a dibujar o incluso a tomar una foto de sí mismos, fomentando la introspección. Se recomienda usar una herramienta de seguridad como Script Change para manejar el contenido sensible.",
+      "cover": "https://media.rawg.io/media/screenshots/6e3/6e322a523335d7b14c5f918d341cdc41.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "es": "2021-03-23"
+      },
+      "developer": {
+        "es": "Beau Jágr Sheldon"
+      }
     },
     {
       "id": "e83de123",
@@ -22841,8 +24097,20 @@
       ],
       "link": "https://akirabox.com/qPez4dvjNzOY/file",
       "trailer": "https://www.youtube.com/embed/zqwzWnjgvSg",
-      "sinopsis": "Update 1.21 (9.00+) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.21 (Fix 5.05/6.72/7.xx/8.xx) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.25 (Fix 5.05/6.72/7.xx/9.00) : Lets – Mediafire – Akia – Viki – 1File",
-      "cover": ""
+      "sinopsis": "En Arcadegeddon, tú y hasta tres compañeros se alzan para enfrentar una guerra sin fin en un shooter cooperativo que cambia constantemente. Juntos, cruzarán distintos biomas repletos de peligros, donde encontrarán cofres ocultos que guardan recompensas. Además, podrán participar en minijuegos que interrumpen la acción y añaden variedad estratégica. El objetivo es eliminar oleadas de enemigos y derrotar a temibles jefes que custodian cada zona, mientras la cooperación y la coordinación entre los jugadores son clave para sobrevivir. Los jugadores también pueden buscar tesoros secretos que aparecen en los rincones de cada entorno.",
+      "cover": "https://media.rawg.io/media/games/7d6/7d6d45da85b0fdf567343258124ede1e.jpg",
+      "genre": {
+        "es": "Action, Shooter, Adventure"
+      },
+      "releaseDate": {
+        "es": "2021-07-08"
+      },
+      "publisher": {
+        "es": "IllFonic"
+      },
+      "developer": {
+        "es": "IllFonic"
+      }
     },
     {
       "id": "9c5f9e5b",
@@ -23413,8 +24681,20 @@
       ],
       "link": "https://akirabox.com/l76mZ2Bj2man/file",
       "trailer": "https://www.youtube.com/embed/Y6eRVKI6ECs",
-      "sinopsis": "Update 1.13 (Fix 6.72/7.xx/9.00/11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.13 (Fix 5.05) : Lets – Mediafire – Akia – Viki – 1File\n\nSubtitles : Chinese, English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Simplified Chinese, Spanish",
-      "cover": ""
+      "sinopsis": "Bienvenido a Paleo Pines, una encantadora isla habitada por dinosaurios amistosos, aldeanos peculiares y un pasado misterioso. En este mundo, el jugador se alía con los dinosaurios, reclutándolos para ayudar a reparar el rancho y cultivar cosechas, transformándolo en un acogedor refugio dino. Junto a su compañero Lucky, explorarás la isla, resolviendo puzles y descubriendo los secretos ocultos que rodean su historia. Cada tarea combina la gestión de la granja con la interacción con criaturas prehistóricas, creando una aventura de exploración y construcción en un entorno lleno de encanto y misterio.",
+      "cover": "https://media.rawg.io/media/screenshots/8bf/8bf35ed5e4bd57df90e5e42339292d9a.jpeg",
+      "genre": {
+        "es": "Adventure, RPG, Simulation, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2023-09-25"
+      },
+      "publisher": {
+        "es": "Modus Games, Maximum Entertainment"
+      },
+      "developer": {
+        "es": "Italic Pig"
+      }
     },
     {
       "id": "7451354b",
@@ -23551,8 +24831,20 @@
       ],
       "link": "https://akirabox.com/7d5GLEMpbmxR/file",
       "trailer": "https://www.youtube.com/embed/rD0vqPnbQPc",
-      "sinopsis": "Game (v1.19)(5.05+) : Lets – Mediafire – Akia – Viki – 1File\n\nScreen Languages : Chinese (Simplified), English, French (France), German, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish, Turkish\n\nGame (v1.17)(6.50+) : Mega – Mediafire – 1File – Mirror",
-      "cover": ""
+      "sinopsis": "Outward es un RPG inmersivo que combina una jugabilidad realista con desafíos exigentes. Como aventurero ordinario, deberás esconderte o defenderte de criaturas amenazantes, enfrentar condiciones ambientales peligrosas, protegerte de enfermedades infecciosas y mantenerte hidratado. Emprenderás expediciones arriesgadas por tierras salvajes para alcanzar nuevas ciudades, cumplir misiones cruciales y descubrir mazmorras ocultas pobladas de enemigos formidables. Además, contarás con tu fiel compañero, la mascota Pearlbird, y la habilidad de fuegos artificiales, que te permite iluminar el cielo y pasar noches tranquilas junto a ella en los duros reinos de Aurai.",
+      "cover": "https://media.rawg.io/media/games/f7e/f7e1219e49e1e77cf1365841d2947656.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2019-03-25"
+      },
+      "publisher": {
+        "es": "Deep Silver, Prime Matter"
+      },
+      "developer": {
+        "es": "Nine Dots Studio"
+      }
     },
     {
       "id": "291ae17d",
