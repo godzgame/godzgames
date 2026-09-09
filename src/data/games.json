@@ -29189,8 +29189,20 @@
       ],
       "link": "https://akirabox.com/E9Qz9WkyWmOL/file",
       "trailer": "https://www.youtube.com/embed/3g_fPhtlOGQ",
-      "sinopsis": "Update 1.03 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nVoice : Dutch, English, French (France), German, Italian, Japanese, Portuguese (Portugal), Spanish\n\nScreen Languages : Danish, Dutch, English, Finnish, French (France), German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Portugal), Spanish, Swedish",
-      "cover": ""
+      "sinopsis": "Clank se embarca en una misión para liberar a su amigo Ratchet, encarcelado por un enemigo que lo incriminó. La prisión de máxima seguridad está llena de criminales peligrosos, ansiosos por “darle la bienvenida”. Como agente secreto, Clank usa su ingenio y gadgets —bombas de gemelos, anillos de lazo, gafas de espía y monóculo holográfico— mientras sigue pistas para desentrañar el complot. El juego combina acción, sigilo y puzzles, y permite conducir vehículos de espionaje como lanchas rápidas, snowboard y autos deportivos, alternando entre Clank, Ratchet y el capitán Qwark para reunir pruebas y descubrir al culpable.",
+      "cover": "https://media.rawg.io/media/games/d6c/d6c3c6760935723e051d03867a6cd76f.jpg",
+      "genre": {
+        "es": "Action, Platformer"
+      },
+      "releaseDate": {
+        "es": "2008-06-17"
+      },
+      "publisher": {
+        "es": "Sony Computer Entertainment"
+      },
+      "developer": {
+        "es": "Sanzaru Games, High Impact Games"
+      }
     },
     {
       "id": "e5aec692",
@@ -29329,8 +29341,20 @@
       ],
       "link": "https://akirabox.com/k0embvVyVmVb/file",
       "trailer": "https://www.youtube.com/embed/oGmTrkK9KVA",
-      "sinopsis": "Fix (5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) : Lets – Mediafire – Akia – Viki – 1File\n\nScreen Languages : English, French (France), German, Italian, Spanish\n\nExperience Dino Crisis originally released on the PlayStation® console, enhanced with up-rendering, rewind, quick save, and custom video filters.",
-      "cover": ""
+      "sinopsis": "En Dino Crisis, un superviviente de horror se enfrenta a sus temores más primitivos en una escala mucho mayor. Los creadores de Resident Evil presentan una nueva aventura donde el científico más renombrado del mundo ha desaparecido y eres reclutado para investigar una isla remota y misteriosa. Mientras exploras la niebla, un depredador prehistórico, inspirado en los dinosaurios que han aterrorizado la imaginación humana durante siglos, aparece. Deberás buscar pistas, resolver acertijos y combatir a la criatura, viviendo un terror puro y constante mientras luchas por sobrevivir.",
+      "cover": "https://media.rawg.io/media/games/838/838b3e1f39cb8e60c9287cc88607bf52.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "1999-07-01"
+      },
+      "publisher": {
+        "es": "Capcom, Virgin Interactive, Virgin Interactive Entertainment, PAL"
+      },
+      "developer": {
+        "es": "Capcom, GOG"
+      }
     },
     {
       "id": "d5f53312",
@@ -29571,8 +29595,20 @@
       ],
       "link": "https://akirabox.com/N2p3DkVaVmMa/file",
       "trailer": "https://www.youtube.com/embed/I3BMwI-WljA",
-      "sinopsis": "Update 1.01 (6.72+) : Lets – Mediafire – Akia – Viki – 1File\n\nUpdate 1.01 (Fix 5.05) : Lets – Mediafire – Akia – Viki – 1File\n\nSubtitles : Arabic, Chinese, Danish, English, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, Turkish",
-      "cover": ""
+      "sinopsis": "Hello Neighbor: Hide and Seek sigue la trágica historia de la familia del Vecino en una precuela dramática del original. El jugador se une a su hermano para jugar al escondite mientras ambos afrontan la pérdida de un miembro familiar. A medida que avanzan, descubren pistas y viven situaciones que explican los sucesos que culminarán en el terror sigiloso del juego original Hello Neighbor. La mecánica combina la tensión del sigilo con la inocencia del juego infantil, obligando al jugador a evadir al vecino mientras explora una casa llena de secretos y recuerdos dolorosos.",
+      "cover": "https://media.rawg.io/media/games/9bc/9bc61928bbae44a5f85dac72d6d3a102.jpg",
+      "genre": {
+        "es": "Action, Adventure, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2018-12-06"
+      },
+      "publisher": {
+        "es": "tinyBuild"
+      },
+      "developer": {
+        "es": "tinyBuild, Dynamic Pixels"
+      }
     },
     {
       "id": "965cbdef",
