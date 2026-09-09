@@ -209,6 +209,9 @@ const { execSync } = require('child_process');
 function gitCommitPush(count) {
   try {
     execSync('git add src/data/games.json', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+    if (fs.existsSync(path.join(__dirname, '..', 'revision_manual.json'))) {
+      execSync('git add revision_manual.json', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+    }
     execSync(`git commit -m "auto: batch_update_rawg +${count} juegos procesados [skip ci]"`, { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
   } catch(e) {
     // Si falla el commit (ej. no hay cambios), ignoramos silenciosamente
