@@ -210,10 +210,26 @@ function gitCommitPush(count) {
   try {
     execSync('git add src/data/games.json', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
     execSync(`git commit -m "auto: batch_update_rawg +${count} juegos procesados [skip ci]"`, { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
-    execSync('git push', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
-    console.log(`  ✅ Git commit + push automático (${count} juegos acumulados)`);
   } catch(e) {
-    console.warn('  ⚠️ Git push falló (puede que no haya cambios):', e.message.split('\n')[0]);
+    // Si falla el commit (ej. no hay cambios), ignoramos silenciosamente
+  }
+
+  try {
+    console.log(`  🔄 Sincronizando con remoto (git pull --rebase)...`);
+    execSync('git pull --rebase', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+  } catch(e) {
+    console.error(`\n🚨 ¡ALERTA! Conflicto o error al hacer git pull --rebase.\n`);
+    if (e.stdout) console.error(e.stdout.toString());
+    if (e.stderr) console.error(e.stderr.toString());
+    console.error(`\nEl script se ha DETENIDO por seguridad. Por favor, resuelve el conflicto manualmente y vuelve a lanzar el script.\n`);
+    process.exit(1);
+  }
+
+  try {
+    execSync('git push', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+    console.log(`  ✅ Git commit + pull --rebase + push automático (${count} juegos acumulados)`);
+  } catch(e) {
+    console.warn('  ⚠️ Git push falló:', e.message ? e.message.split('\\n')[0] : String(e));
   }
 }
 
