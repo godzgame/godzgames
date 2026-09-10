@@ -834,6 +834,19 @@ Output ONLY valid JSON:
     if (consoleSelectView) consoleSelectView.style.display = 'block';
     if (gamesListView) gamesListView.style.display = 'none';
     
+    // Reset tabs to Games Manager
+    ['tab-btn-games', 'tab-btn-calendar', 'tab-btn-affiliates'].forEach(id => {
+      const btn = document.getElementById(id);
+      if (btn) {
+        btn.classList.remove('active');
+        btn.className = id === 'tab-btn-games' ? 'admin-btn active' : 'admin-btn-secondary';
+      }
+    });
+    ['admin-tab-games', 'admin-tab-calendar', 'admin-tab-affiliates'].forEach(id => {
+      const v = document.getElementById(id);
+      if (v) v.style.display = id === 'admin-tab-games' ? 'block' : 'none';
+    });
+    
     await fetchGamesStatus();
     renderAdminConsoleGrid();
   };
@@ -1239,7 +1252,7 @@ Output ONLY valid JSON:
         window.history.pushState(null, '', '/');
         window.dispatchEvent(new Event('popstate'));
       }
-    } else if (hash === '#/admin') {
+    } else if (hash === '#/admin' || hash === '#admin') {
       homeView.style.display = 'none';
       gameView.style.display = 'none';
       adminView.style.display = 'block';
@@ -1296,11 +1309,200 @@ Output ONLY valid JSON:
       if (game) {
         renderGamePage(game);
       }
-    } else if (hash === '#/admin') {
+    } else if (hash === '#/admin' || hash === '#admin') {
       renderAdminPage();
     } else {
       renderGames();
     }
+  };
+
+  const loadSavedAffiliates = async () => {
+    const token = localStorage.getItem('godzgames-admin-token');
+    const tbody = document.getElementById('admin-saved-affiliates-tbody');
+    if (!tbody) return;
+    
+    try {
+      const res = await fetch('/api/admin/affiliates', {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      if (!res.ok) throw new Error('Error loading affiliates');
+      const data = await res.json();
+      
+      if (data.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="3" style="text-align:center;">No hay enlaces guardados.</td></tr>';
+        return;
+      }
+      
+      tbody.innerHTML = data.reverse().map(item => `
+        <tr>
+          <td>
+            <div style="display:flex; align-items:center; gap:10px;">
+              ${item.thumbnail ? `<img src="${item.thumbnail}" width="40" height="40" style="object-fit:cover; border-radius:4px;"/>` : ''}
+              <div>
+                <strong>${item.title}</strong><br>
+                <small style="color:var(--color-text-muted);">$${item.price}</small>
+              </div>
+            </div>
+          </td>
+          <td><a href="${item.link}" target="_blank" style="color:var(--color-primary); text-decoration:underline;">Ver Enlace</a></td>
+          <td>${new Date(item.savedAt).toLocaleDateString()}</td>
+        </tr>
+      `).join('');
+    } catch (err) {
+      console.error(err);
+      tbody.innerHTML = '<tr><td colspan="3" style="text-align:center; color:red;">Error al cargar historial.</td></tr>';
+    }
+  };
+
+  const setupAffiliatesTab = () => {
+    const btn = document.getElementById('admin-generate-affiliates-btn');
+    if (!btn) return;
+    
+    btn.addEventListener('click', async (e) => {
+      e.preventDefault();
+      const statusEl = document.getElementById('admin-affiliates-status');
+      const gridEl = document.getElementById('admin-affiliates-grid');
+      const token = localStorage.getItem('godzgames-admin-token');
+      const groqKey = localStorage.getItem('godzgames-groq-key') || document.getElementById('admin-groq-key-input')?.value.trim();
+      
+      if (!groqKey) {
+        statusEl.className = 'admin-status-message error';
+        statusEl.textContent = '❌ Falta la API Key de Groq. Cierra sesión e ingrésala en el login.';
+        statusEl.style.display = 'block';
+        return;
+      }
+      
+      statusEl.className = 'admin-status-message';
+      statusEl.textContent = '⏳ Analizando noticias y buscando productos en Mercado Libre... (Toma unos 15-30 seg)';
+      statusEl.style.display = 'block';
+      gridEl.innerHTML = '';
+      
+      try {
+        const res = await fetch('/api/admin/affiliate-suggestions', {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'x-groq-key': groqKey,
+            'Content-Type': 'application/json'
+          }
+        });
+        
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || 'Error al generar sugerencias');
+        
+        if (data.length === 0) {
+          statusEl.className = 'admin-status-message error';
+          statusEl.textContent = 'No se encontraron sugerencias de productos para las noticias actuales.';
+          return;
+        }
+        
+        statusEl.className = 'admin-status-message success';
+        statusEl.textContent = `✅ ¡${data.length} sugerencias generadas!`;
+        
+        gridEl.innerHTML = data.map(item => `
+          <div class="admin-card" style="display:flex; flex-direction:column; gap:10px;">
+            <div style="display:flex; gap:10px; align-items:flex-start;">
+              ${item.thumbnail ? `<img src="${item.thumbnail}" width="60" height="60" style="object-fit:cover; border-radius:4px;"/>` : ''}
+              <div>
+                <h4 style="margin:0; font-size:1rem;">${item.title}</h4>
+                <div style="color:var(--color-primary); font-weight:bold;">$${item.price}</div>
+                <div style="font-size:0.8rem; color:var(--color-text-muted);">
+                  ${item.rating ? `⭐ ${item.rating}` : ''} 
+                  ${item.soldQuantity ? `📦 ${item.soldQuantity} vendidos` : ''}
+                </div>
+              </div>
+            </div>
+            
+            <div style="background:rgba(0,0,0,0.2); padding:10px; border-radius:4px; font-size:0.9rem; font-style:italic;">
+              "${item.generatedText}"
+            </div>
+            
+            <a href="${item.permalink}" target="_blank" class="admin-btn-secondary" style="text-align:center; text-decoration:none;">🛍️ Abrir en Mercado Libre</a>
+            
+            <div style="margin-top:auto; display:flex; gap:5px;">
+              <input type="text" id="affiliate-link-${item.id}" placeholder="Pega tu link de afiliado aquí..." style="flex:1; padding:8px; border-radius:4px; border:1px solid var(--border-color); background:rgba(0,0,0,0.2); color:#fff;" />
+              <button class="admin-btn save-affiliate-btn" data-id="${item.id}">Guardar</button>
+            </div>
+          </div>
+        `).join('');
+        
+        // Add save listeners
+        document.querySelectorAll('.save-affiliate-btn').forEach(btn => {
+          btn.addEventListener('click', async (e) => {
+            const id = e.target.dataset.id;
+            const linkInput = document.getElementById(`affiliate-link-${id}`);
+            const link = linkInput.value.trim();
+            if (!link) return alert('Pega un enlace de afiliado primero');
+            
+            const item = data.find(d => d.id === id);
+            e.target.textContent = '...';
+            
+            try {
+              const saveRes = await fetch('/api/admin/affiliates', {
+                method: 'POST',
+                headers: {
+                  'Authorization': `Bearer ${token}`,
+                  'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                  productId: item.id,
+                  title: item.title,
+                  link,
+                  generatedText: item.generatedText,
+                  price: item.price,
+                  thumbnail: item.thumbnail
+                })
+              });
+              
+              if (!saveRes.ok) throw new Error();
+              e.target.textContent = '¡Guardado!';
+              e.target.className = 'admin-btn-save';
+              setTimeout(() => loadSavedAffiliates(), 500);
+            } catch (err) {
+              alert('Error al guardar el enlace');
+              e.target.textContent = 'Guardar';
+            }
+          });
+        });
+        
+      } catch (err) {
+        statusEl.className = 'admin-status-message error';
+        statusEl.textContent = '❌ ' + err.message;
+      }
+    });
+  };
+
+  const initAdminTabs = () => {
+    const tabBtns = [
+      { id: 'tab-btn-games', target: 'admin-tab-games' },
+      { id: 'tab-btn-calendar', target: 'admin-tab-calendar' },
+      { id: 'tab-btn-affiliates', target: 'admin-tab-affiliates' }
+    ];
+
+    tabBtns.forEach(tab => {
+      const btn = document.getElementById(tab.id);
+      if (btn) {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          // Update buttons
+          tabBtns.forEach(t => {
+            const b = document.getElementById(t.id);
+            if (b) {
+              b.classList.remove('active');
+              b.className = t.id === tab.id ? 'admin-btn active' : 'admin-btn-secondary';
+            }
+            // Update views
+            const v = document.getElementById(t.target);
+            if (v) v.style.display = t.id === tab.id ? 'block' : 'none';
+          });
+          
+          // Custom triggers
+          if (tab.id === 'tab-btn-affiliates') {
+            loadSavedAffiliates();
+          }
+        });
+      }
+    });
   };
 
   // Fetch News and Initialize
@@ -1312,6 +1514,7 @@ Output ONLY valid JSON:
       gamesByConsole[cUpper] = games.filter(g => (g.console || '').trim().toUpperCase() === cUpper);
       gamesByConsole[cUpper] = shuffleArray(gamesByConsole[cUpper]);
     });
+
 
     const balancedGames = [];
     let hasGamesLeft = true;
@@ -1368,6 +1571,8 @@ Output ONLY valid JSON:
     updateLanguage(currentLang);
     renderTags();
     handleRouting();
+    initAdminTabs();
+    setupAffiliatesTab();
 
     // Attach switch language listeners
     document.getElementById('lang-en').addEventListener('click', (e) => {

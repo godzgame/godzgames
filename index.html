@@ -176,6 +176,7 @@
           <div class="admin-tabs" style="display: flex; gap: 10px; margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
             <button class="admin-btn active" id="tab-btn-games">Gestor de Juegos</button>
             <button class="admin-btn-secondary" id="tab-btn-calendar">Calendario Editorial</button>
+            <button class="admin-btn-secondary" id="tab-btn-affiliates">Sugerencias Afiliados</button>
           </div>
 
           <!-- TAB: Games Manager -->
@@ -282,6 +283,42 @@
              </div>
           </div>
           <!-- END TAB: Editorial Calendar -->
+
+          <!-- TAB: Affiliate Suggestions -->
+          <div id="admin-tab-affiliates" style="display: none;">
+            <div class="admin-header-row" style="margin-bottom: 20px;">
+              <h3>Sugerencias de Afiliados del Día</h3>
+              <button id="admin-generate-affiliates-btn" class="admin-btn">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 5px;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>
+                Generar Sugerencias
+              </button>
+            </div>
+            
+            <div id="admin-affiliates-status" class="admin-status-message" style="display: none; margin-bottom: 20px;"></div>
+            
+            <div id="admin-affiliates-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
+              <!-- Generated suggestions injected here -->
+            </div>
+
+            <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 30px 0;" />
+            
+            <h3>Tus Enlaces Guardados</h3>
+            <div class="admin-table-container">
+              <table class="admin-games-table">
+                <thead>
+                  <tr>
+                    <th>Producto</th>
+                    <th>Enlace</th>
+                    <th>Fecha</th>
+                  </tr>
+                </thead>
+                <tbody id="admin-saved-affiliates-tbody">
+                  <!-- Saved affiliates injected here -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <!-- END TAB: Affiliate Suggestions -->
         </div>
 
         <!-- 3. Admin Game Editor Form -->

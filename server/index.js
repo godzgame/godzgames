@@ -1078,6 +1078,152 @@ app.post('/api/admin/add-game', requireAdmin, (req, res) => {
   }
 });
 
+// ============================================================
+// AFFILIATE SUGGESTIONS SYSTEM
+// ============================================================
+
+const affiliatesPath = path.join(__dirname, 'affiliates.json');
+
+app.get('/api/admin/affiliates', requireAdmin, (req, res) => {
+  try {
+    if (fs.existsSync(affiliatesPath)) {
+      const data = JSON.parse(fs.readFileSync(affiliatesPath, 'utf-8'));
+      res.json(data);
+    } else {
+      res.json([]);
+    }
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.post('/api/admin/affiliates', requireAdmin, (req, res) => {
+  try {
+    const { productId, title, link, generatedText, price, thumbnail } = req.body;
+    let data = [];
+    if (fs.existsSync(affiliatesPath)) {
+      data = JSON.parse(fs.readFileSync(affiliatesPath, 'utf-8'));
+    }
+    data.push({
+      productId,
+      title,
+      link,
+      generatedText,
+      price,
+      thumbnail,
+      savedAt: new Date().toISOString()
+    });
+    fs.writeFileSync(affiliatesPath, JSON.stringify(data, null, 2));
+    res.json({ success: true });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.post('/api/admin/affiliate-suggestions', requireAdmin, async (req, res) => {
+  try {
+    const groqKey = req.headers['x-groq-key'];
+    if (!groqKey) {
+      return res.status(400).json({ error: 'Falta la API Key de Groq. Ingresa tu llave en el panel de login.' });
+    }
+
+    // 1. Get latest news
+    const newsPath = path.join(__dirname, 'latest_news.json');
+    if (!fs.existsSync(newsPath)) {
+      return res.status(404).json({ error: 'No hay noticias recientes' });
+    }
+    const newsData = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
+    const articles = Array.isArray(newsData) ? newsData : (newsData.articles || []);
+
+    if (articles.length === 0) {
+      return res.status(404).json({ error: 'No hay noticias recientes para analizar' });
+    }
+
+    // 2. Extract Keywords via Groq
+    let keywords = [];
+    for (const article of articles.slice(0, 3)) { // Max 3 to save time
+      const prompt = `Based on the following gaming news article title and description, extract 2 e-commerce product keywords in Spanish that are highly relevant to the topic but are NOT the exact video game itself (e.g. "control PS5", "audífonos gamer", "silla gamer"). Return ONLY a valid JSON array of strings.
+Title: ${article.es?.title || article.title || ''}
+Desc: ${article.es?.description || article.description || ''}`;
+
+      try {
+        const aiRes = await axios.post('https://api.groq.com/openai/v1/chat/completions', {
+          messages: [{ role: 'user', content: prompt }],
+          model: 'llama3-8b-8192',
+          response_format: { type: 'json_object' }
+        }, {
+          headers: { 'Authorization': `Bearer ${groqKey}`, 'Content-Type': 'application/json' }
+        });
+
+        const content = aiRes.data.choices[0].message.content;
+        const parsed = JSON.parse(content);
+        const arr = Array.isArray(parsed) ? parsed : Object.values(parsed).find(Array.isArray) || [];
+        keywords = [...keywords, ...arr];
+      } catch (e) {
+        console.error("Error parsing Groq keywords:", e.message);
+      }
+      
+      // Delay to respect rate limits
+      await new Promise(r => setTimeout(r, 2000));
+    }
+
+    // Unique keywords, max 4 total to keep API time low
+    keywords = [...new Set(keywords)].slice(0, 4);
+    const suggestions = [];
+
+    // 3. Hit Mercado Libre API
+    for (const kw of keywords) {
+      try {
+        const mlRes = await axios.get(`https://api.mercadolibre.com/sites/MLM/search?q=${encodeURIComponent(kw)}&limit=2`);
+        const items = mlRes.data.results || [];
+        
+        for (const item of items) {
+          const rating = item.reviews?.rating_average || null;
+          const soldQuantity = item.sold_quantity || null;
+
+          // 4. Generate copy with Groq
+          const copyPrompt = `Escribe una recomendación genuina, corta y natural (2 a 3 líneas máximo) en español para este producto.
+Producto: ${item.title}
+Precio: $${item.price}
+${rating ? 'Calificación: ' + rating + ' estrellas\n' : ''}${soldQuantity ? 'Vendidos: ' + soldQuantity + '\n' : ''}
+REGLAS MUY IMPORTANTES:
+- Si el producto tiene calificación o ventas listadas arriba, menciónalo sutilmente para dar confianza.
+- Si NO tiene calificación o ventas listadas arriba, redacta el texto basándote solo en el nombre y categoría del producto, SIN INVENTAR ningún número de ventas o estrellas que no exista.
+- NO suenes a anuncio robótico de TV ("¡Compra ya!", "¡Increíble oferta!"). Suena como una persona real haciendo una recomendación amigable.`;
+
+          const copyRes = await axios.post('https://api.groq.com/openai/v1/chat/completions', {
+            messages: [{ role: 'user', content: copyPrompt }],
+            model: 'llama3-8b-8192'
+          }, {
+            headers: { 'Authorization': `Bearer ${groqKey}`, 'Content-Type': 'application/json' }
+          });
+
+          suggestions.push({
+            id: item.id,
+            title: item.title,
+            price: item.price,
+            permalink: item.permalink,
+            thumbnail: item.thumbnail,
+            keyword: kw,
+            rating,
+            soldQuantity,
+            generatedText: copyRes.data.choices[0].message.content.trim()
+          });
+
+          await new Promise(r => setTimeout(r, 2000));
+        }
+      } catch (e) {
+        console.error("Error searching ML or generating copy:", e.message);
+      }
+    }
+
+    res.json(suggestions);
+  } catch (err) {
+    console.error('[Admin] Affiliate suggestions error:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Backend server running on http://localhost:${PORT}`);
   console.log(`Modo Bilingüe Activo: Google News + batchexecute + Pollinations.ai (Stale Check Activo)`);
