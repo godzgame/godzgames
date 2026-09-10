@@ -46403,8 +46403,20 @@
       ],
       "link": "https://filecrypt.cc/Container/3C731E1CFD.html",
       "trailer": "https://www.youtube.com/embed/VvEhQ624-2A",
-      "sinopsis": "Update 1.01 (5.05+) : Lets – Mediafire – Rano – 1File\n\n27/11/2024\nAdd CUSA09173 – EUR : Yomawari Midnight Shadows",
-      "cover": ""
+      "sinopsis": "Yomawari: Midnight Shadows continúa la saga de terror introduciendo a dos nuevas protagonistas, Yui y Haru. Tras ser separadas por un atacante misterioso, cada niña debe adentrarse en lugares extraños y embrujados, donde los espíritus acechan en la oscuridad. El juego obliga al jugador a explorar entornos inquietantes, resolver puzzles y evadir peligros, poniendo a prueba el valor y la ingeniosidad de las chicas. La supervivencia depende de la capacidad de observar, esconderse y usar objetos limitados, mientras ambas buscan reunirse y escapar de la noche aterradora.",
+      "cover": "https://media.rawg.io/media/screenshots/160/160c3cfc44300978068ea3b967b8817d.jpg",
+      "genre": {
+        "es": "Action, Adventure, Strategy"
+      },
+      "releaseDate": {
+        "es": "2017-10-24"
+      },
+      "publisher": {
+        "es": "NIS America"
+      },
+      "developer": {
+        "es": "NIS America, Nippon Ichi Software"
+      }
     },
     {
       "id": "9c544e8d",
@@ -46605,8 +46617,20 @@
       ],
       "link": "https://filecrypt.cc/Container/26E7A9231C.html",
       "trailer": "https://www.youtube.com/embed/3HBb4jg1mXg",
-      "sinopsis": "Update 1.01 (6.02+) : Lets – Mediafire – Rano – 1File\n\nUpdate 1.01 (Fix 5.05) : Lets – Mediafire – Rano – 1File\n\nUpdate 1.02 (11.00) : Lets – Mediafire – Rano – 1File",
-      "cover": ""
+      "sinopsis": "En Smoot Summer Games, tú y hasta tres amigos acompañáis a los carismáticos personajes de Smoot en una competición veraniega llena de energía. El juego ofrece 18 pruebas atléticas, desde carreras hasta saltos, que podés disfrutar desde el sofá. Podés entrenar en modo práctica, enfrentarte a retos especiales o disputar el campeonato para ganar la medalla de oro. Cada modo permite jugar en solitario o cooperar en equipos de 1 a 4 jugadores, fomentando la diversión familiar mientras intentás superar tus propias marcas y las de tus rivales.",
+      "cover": "https://media.rawg.io/media/screenshots/cfc/cfc91621e10f778dd786ce01def9b17c.jpg",
+      "genre": {
+        "es": "Sports, Racing, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2019-07-25"
+      },
+      "publisher": {
+        "es": "JanduSoft"
+      },
+      "developer": {
+        "es": "Kaneda Games"
+      }
     },
     {
       "id": "e341fbfc",
