@@ -1,0 +1,69 @@
+name: Deploy en Push a main
+
+on:
+  push:
+    branches:
+      - main
+
+# Si llegan varios pushes seguidos, cancela el deploy anterior y
+# solo ejecuta el más reciente. Evita que los commits del batch
+# de portadas amontonen decenas de deploys simultáneos.
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Descargar el código del repositorio
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Configurar Node.js v20
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # 3. Instalar dependencias (sin ejecutar scripts de noticias)
+      - name: Install Dependencies
+        run: npm ci
+
+      # 4. Compilar el proyecto (SOLO vite build — sin update_news.cjs)
+      #    No se llama a Groq, no se generan noticias nuevas.
+      - name: Build Project
+        run: npx vite build
+
+      # 5. Desplegar dist/ a SiteGround vía FTP
+      #    Mismas exclusiones que el workflow de noticias para no borrar
+      #    archivos críticos del servidor (SSL, uploads de juegos, etc.)
+      - name: Deploy to SiteGround via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          protocol: ftp
+          local-dir: ./dist/
+          server-dir: /public_html/
+          dangerous-clean-slate: true
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            uploads/games/**
+            cgi-bin/**
+            .well-known/**
+            .htpasswd
+            php.ini
+            php_errors.log
+            error_log
+            tmp/**
+            .sgcache/**
