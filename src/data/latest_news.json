@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1789490477062,
+  "updatedAt": 1789506359647,
   "articles": [
     {
-      "id": "26fced3c7a6c49e438b16136edfe85ab",
+      "id": "7384393670051822d0f79609bf66471e",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789490467708_327.jpg",
-      "link": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789506348385_617.jpg",
+      "link": "https://www.bbc.com/news/articles/cdx7pvve5yqo",
       "en": {
-        "title": "Fan-made static recompilation brings Lost Odyssey to PC",
-        "description": "A community-driven project called Lost Odyssey Recomp has been released publicly, offering a static recompilation of the 2008 Xbox 360 exclusive JR...",
-        "fullContent": "A community-driven project called Lost Odyssey Recomp has been released publicly, offering a static recompilation of the 2008 Xbox 360 exclusive JRPG for modern PC hardware. The repository states that the port is in an early testing phase, with opening areas and selected scenes verified, but a complete playthrough has not yet been confirmed. Rendering and stability issues are noted, and users are required to provide their own compatible game files.\n\nLost Odyssey was originally developed by Mistwalker and written by Hironobu Sakaguchi, the creator of the Final Fantasy series. While the title can be played on newer Xbox consoles through backward compatibility, it has not received an official release on any other platform. The project has received multiple updates since its launch, indicating ongoing development work."
+        "title": "Video game trader warns of job losses as Sony plans digital‑only releases from 2028",
+        "description": "Barry Oates, who began reselling video games in 1995 through newspaper listings and later opened a high‑street shop, said the upcoming phase‑out of...",
+        "fullContent": "Barry Oates, who began reselling video games in 1995 through newspaper listings and later opened a high‑street shop, said the upcoming phase‑out of physical game media could affect thousands of jobs in the industry. Oates cited Sony's announcement that, starting in January 2028, newly released titles will be available only via digital download. He noted that the removal of discs and other physical formats may impact the hobby's culture, affordability, and the community aspect linked to pre‑owned game trading, which he described as the \"bread and butter\" of independent resellers. Dream Consoles, Oates' business, continues to operate online, and he indicated that the current income is intended to support his retirement while expressing concern for the next generation of traders."
       },
       "es": {
-        "title": "Port estático creado por fans permite jugar Lost Odyssey en PC",
-        "description": "Un proyecto comunitario llamado Lost Odyssey Recomp se ha puesto a disposición del público, ofreciendo una recompilación estática del RPG japonés e...",
-        "fullContent": "Un proyecto comunitario llamado Lost Odyssey Recomp se ha puesto a disposición del público, ofreciendo una recompilación estática del RPG japonés exclusivo de Xbox 360 de 2008 para hardware de PC actual. El repositorio indica que el puerto se encuentra en una fase de pruebas tempranas, con áreas de apertura y escenas seleccionadas verificadas, pero sin haber completado una partida completa. Se señalan problemas de renderizado y estabilidad, y los usuarios deben proporcionar sus propios archivos de juego compatibles.\n\nLost Odyssey fue desarrollado por Mistwalker y escrito por Hironobu Sakaguchi, creador de la serie Final Fantasy. Aunque el título es jugable en consolas Xbox más recientes mediante compatibilidad retroactiva, no ha recibido un lanzamiento oficial en ninguna otra plataforma. Desde su lanzamiento, el proyecto ha recibido varias actualizaciones, lo que muestra la continuidad del trabajo de desarrollo."
+        "title": "Comerciante de videojuegos advierte sobre pérdida de empleos tras anuncio de Sony de lanzamientos solo digitales en 2028",
+        "description": "Barry Oates, que empezó a revender videojuegos en 1995 mediante anuncios en periódicos y posteriormente abrió una tienda en la calle principal, afi...",
+        "fullContent": "Barry Oates, que empezó a revender videojuegos en 1995 mediante anuncios en periódicos y posteriormente abrió una tienda en la calle principal, afirmó que la próxima eliminación de los medios físicos podría afectar a miles de puestos de trabajo en el sector. Oates se refirió al anuncio de Sony de que, a partir de enero de 2028, los títulos recién lanzados estarán disponibles únicamente mediante descarga digital. Señaló que la desaparición de discos y otros formatos físicos podría influir en la cultura del hobby, su accesibilidad y el aspecto comunitario asociado al comercio de juegos de segunda mano, al que describió como el \"pan de cada día\" de los revendedores independientes. Dream Consoles, su negocio, sigue operando en línea, y comentó que los ingresos actuales están destinados a financiar su jubilación, al tiempo que mostró preocupación por la próxima generación de comerciantes."
+      }
+    },
+    {
+      "id": "2db0161ae75f545711928385800a4bb8",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789506351465_521.jpg",
+      "link": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030",
+      "en": {
+        "title": "Blizzard Announces New StarCraft Game Scheduled for 2030 Release",
+        "description": "During BlizzCon 2026, Blizzard Entertainment announced several upcoming projects, including Diablo 5, a new Warcraft III expansion, and a new entry...",
+        "fullContent": "During BlizzCon 2026, Blizzard Entertainment announced several upcoming projects, including Diablo 5, a new Warcraft III expansion, and a new entry in the StarCraft franchise that is slated for release in 2030.\n\nThe new title, identified in the trailer as \"Dominion,\" is described as a narrative‑driven open‑world shooter set approximately 70 years after the events of the StarCraft II trilogy. According to the announcement, the game will not incorporate seasonal or live‑service elements at the time of its launch.\n\nCreative director Dan Hay, whose recent work includes the modern Far Cry series, indicated that the game will continue the conflict between human forces and the Zerg. The trailer shows a young marine encountering the Zerg and depicts large‑scale combat with significant casualties."
+      },
+      "es": {
+        "title": "Blizzard anuncia nuevo juego de StarCraft con lanzamiento previsto para 2030",
+        "description": "En BlizzCon 2026, Blizzard Entertainment anunció varios proyectos próximos, entre ellos Diablo 5, una nueva expansión de Warcraft III y una nueva e...",
+        "fullContent": "En BlizzCon 2026, Blizzard Entertainment anunció varios proyectos próximos, entre ellos Diablo 5, una nueva expansión de Warcraft III y una nueva entrega de la franquicia StarCraft programada para 2030.\n\nEl nuevo título, al que el tráiler se refiere como \"Dominion\", se presenta como un shooter de mundo abierto centrado en la narrativa, ambientado aproximadamente 70 años después de los acontecimientos de la trilogía de StarCraft II. Según el anuncio, el juego no incluirá elementos de temporada ni de servicio continuo al momento de su lanzamiento.\n\nEl director creativo Dan Hay, conocido por su trabajo en los títulos recientes de la serie Far Cry, indicó que el juego mantendrá el conflicto entre las fuerzas humanas y los Zerg. El tráiler muestra a un joven marine enfrentándose a los Zerg y presenta combates a gran escala con un número considerable de bajas."
+      }
+    },
+    {
+      "id": "3a772a6ca8cf0693de862804c86a7dd6",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789506354539_52.jpg",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/wolverine-ps5-game-is-unapologetically-violent-marvel-1236701048/",
+      "en": {
+        "title": "Insomniac's New Wolverine Game Described as Unapologetically Violent and Focused on More Than Body Count",
+        "description": "The Hollywood Reporter interviewed Mike Daly, director of the upcoming PlayStation title \"Marvel's Wolverine,\" and Eric Monacelli, executive produc...",
+        "fullContent": "The Hollywood Reporter interviewed Mike Daly, director of the upcoming PlayStation title \"Marvel's Wolverine,\" and Eric Monacelli, executive producer at Marvel Games, who described the game as \"unapologetically violent\" and indicated that its narrative will address topics beyond the number of enemies defeated. The game is set in Insomniac's version of the Marvel multiverse, designated Earth‑1048, where the X‑Men do not exist and the mutant population is limited.\n\nIn the storyline, after three years of operating alone, Logan (voiced by Liam McIntyre) is drawn back to a mutant strike force known as Team X, which includes Mystique/Raven (Nicole Pacent) and Sabertooth/Victor (Brett Gipson). Their initial objective is to rescue the team's leader and benefactor, Nathaniel Essex (Troy Baker), from Bolivar Trask, a scientist who opposes mutants, develops the Sentinel program, and employs cybernetic mercenaries called the Reavers.\n\nThe plot later expands into a broader conspiracy that brings Logan into contact with the ninja clan The Hand, leading the character to reconsider his role among mutants and within the larger conflict."
+      },
+      "es": {
+        "title": "Nuevo juego de Wolverine de Insomniac se describe como violentamente sin disculpas y aborda más que la cuenta de muertos",
+        "description": "The Hollywood Reporter entrevistó a Mike Daly, director del próximo título para PlayStation \"Marvel's Wolverine\", y a Eric Monacelli, productor eje...",
+        "fullContent": "The Hollywood Reporter entrevistó a Mike Daly, director del próximo título para PlayStation \"Marvel's Wolverine\", y a Eric Monacelli, productor ejecutivo de Marvel Games, quienes describieron el juego como \"violentemente sin disculpas\" y señalaron que su narrativa abordará temas más allá del número de enemigos derrotados. El juego se sitúa en la versión de Insomniac del multiverso Marvel, designado como Tierra‑1048, donde los X‑Men no existen y la población mutante es escasa.\n\nEn la trama, después de tres años operando en solitario, Logan (con la voz de Liam McIntyre) se reincorpora a una fuerza de mutantes conocida como Team X, que incluye a Mystique/Raven (Nicole Pacent) y a Sabertooth/Victor (Brett Gipson). Su objetivo inicial es rescatar al líder y benefactor del equipo, Nathaniel Essex (Troy Baker), de manos del científico Bolivar Trask, quien se opone a los mutantes, desarrolla el programa Sentinel y emplea mercenarios cibernéticos llamados Reavers.\n\nPosteriormente, la historia se extiende a una conspiración más amplia que lleva a Logan a entrar en conflicto con el clan ninja The Hand, lo que lleva al personaje a reconsiderar su papel entre los mutantes y dentro del conflicto mayor."
+      }
+    },
+    {
+      "id": "135e0e665e30cef3014cb128dc54b056",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789506356368_425.jpg",
+      "link": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations",
+      "en": {
+        "title": "Former Tekken Director Discusses Upcoming VS Studio Project",
+        "description": "Katsuhiro Harada, who previously led the Tekken franchise at Bandai Namco, confirmed details about a new title being developed by his independent s...",
+        "fullContent": "Katsuhiro Harada, who previously led the Tekken franchise at Bandai Namco, confirmed details about a new title being developed by his independent studio, VS Studio. Harada left Bandai Namco earlier this year and established VS Studio, which operates as a subsidiary of SNK and has recently added several former Tekken development staff.\nIn a September 2026 interview with VideoGamesChronicle, Harada addressed questions about the genre of the upcoming game. He stated that the project’s title has not been disclosed, emphasized that he does not intend to betray fans’ expectations, and described the game as a surprise that remains within those expectations. Harada has previously expressed interest in creating a new fighting game in an interview with Den-fami Nico Gamer.\nSNK’s chief publishing officer, Ozan Kocoglu, indicated that VS Studio is open to developing both original intellectual properties and extensions of existing franchises."
+      },
+      "es": {
+        "title": "Exdirector de Tekken habla sobre el próximo proyecto de VS Studio",
+        "description": "Katsuhiro Harada, quien dirigió la franquicia Tekken en Bandai Namco, ha ofrecido información sobre un nuevo título que está siendo desarrollado po...",
+        "fullContent": "Katsuhiro Harada, quien dirigió la franquicia Tekken en Bandai Namco, ha ofrecido información sobre un nuevo título que está siendo desarrollado por su estudio independiente, VS Studio. Harada dejó Bandai Namco a principios de este año y fundó VS Studio, una subsidiaria de SNK que ha incorporado en los últimos meses a varios exmiembros del equipo de desarrollo de Tekken.\nEn una entrevista concedida en septiembre de 2026 a VideoGamesChronicle, Harada respondió a preguntas sobre el género del próximo juego. Indicó que el nombre del proyecto no ha sido revelado, afirmó que no desea traicionar las expectativas de los seguidores y describió el juego como una sorpresa que se mantiene dentro de esas expectativas. En una entrevista previa con Den-fami Nico Gamer, Harada también manifestó su intención de crear un nuevo juego de lucha.\nEl director de publicación de SNK, Ozan Kocoglu, señaló que VS Studio no descarta ni la creación de nuevas propiedades intelectuales ni la ampliación de títulos ya existentes."
       }
     },
     {
       "id": "bec61892a7dfd37fa50d8d7c636d22cf",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789490469448_968.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789506359643_295.jpg",
       "link": "https://mashable.com/entertainment/gta-6-ultimate-edition-what-you-get-100-dollars",
       "en": {
-        "title": "GTA 6 Ultimate Edition contents and price details",
-        "description": "Grand Theft Auto VI is scheduled for a November release. The standard version is priced at $79.99, while an Ultimate Edition is offered at $100. Th...",
-        "fullContent": "Grand Theft Auto VI is scheduled for a November release. The standard version is priced at $79.99, while an Ultimate Edition is offered at $100. The higher‑priced edition adds a set of in‑game items that are not available to owners of the standard version.\n\nThe Ultimate Edition grants access to exclusive in‑game shops that provide cosmetic options for the protagonists Jason and Lucia, including tattoos, hairstyles, clothing, and vehicle modifications. It also includes two outfit packs named Vice City Styles and Goodtime Gear.\n\nAdditional vehicle content exclusive to the Ultimate Edition comprises a 1995 Grotti Cheetah sports car, a Shitzu Squalo boat, and a 1967 Vapid Dominator buggy."
+        "title": "GTA 6 Ultimate Edition costs $100 and adds exclusive shops, outfits and vehicles",
+        "description": "Grand Theft Auto VI is scheduled for release in November, following a detailed gameplay presentation on Netflix. The game will be offered in two ed...",
+        "fullContent": "Grand Theft Auto VI is scheduled for release in November, following a detailed gameplay presentation on Netflix. The game will be offered in two editions: a standard edition priced at $79.99 and an Ultimate Edition priced at $100.\n\nThe Ultimate Edition includes access to exclusive in‑game shops that provide cosmetic options for the protagonists Jason and Lucia, such as tattoos, vehicle modifications, hairstyles and clothing. It also adds two outfit packs, named Vice City Styles and Goodtime Gear, and three exclusive vehicles: the 1995 Grotti Cheetah sports car, the Shitzu Squalo boat, and the 1967 Vapid Dominator buggy."
       },
       "es": {
-        "title": "Contenido de la edición Ultimate de GTA 6 y su precio",
-        "description": "Grand Theft Auto VI tiene previsto su lanzamiento en noviembre. La edición estándar tiene un precio de 79,99 USD, mientras que la edición Ultimate ...",
-        "fullContent": "Grand Theft Auto VI tiene previsto su lanzamiento en noviembre. La edición estándar tiene un precio de 79,99 USD, mientras que la edición Ultimate se ofrece por 100 USD. Esta última incluye un conjunto de elementos dentro del juego que no están disponibles para los compradores de la edición estándar.\n\nLa edición Ultimate otorga acceso a tiendas exclusivas dentro del juego que ofrecen opciones cosméticas para los protagonistas Jason y Lucia, como tatuajes, peinados, ropa y modificaciones de vehículos. Además, incluye dos paquetes de atuendos denominados Vice City Styles y Goodtime Gear.\n\nEn cuanto a vehículos, la edición Ultimate incorpora un Grotti Cheetah de 1995, una embarcación Shitzu Squalo y un buggy Vapid Dominator de 1967, que no están presentes en la edición estándar."
-      }
-    },
-    {
-      "id": "6798923572c38b92b3961192f29be3c6",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789490471673_852.jpg",
-      "link": "https://about.netflix.com/en/news/netflix-and-sega-announce-film-adaptation-of-the-video-game-crazy-taxi-as-part-of-new-multi-title-collaboration",
-      "en": {
-        "title": "Netflix and SEGA Partner on Film Adaptations Including Crazy Taxi, Sonic and Stranger Than Heaven",
-        "description": "SEGA and Netflix announced a partnership that will produce a series of film adaptations based on titles from SEGA's catalog. The first project conf...",
-        "fullContent": "SEGA and Netflix announced a partnership that will produce a series of film adaptations based on titles from SEGA's catalog. The first project confirmed is a feature‑length adaptation of the arcade game Crazy Taxi, which will be released on Netflix. The agreement also covers adaptations of Sonic the Hedgehog and Stranger Than Heaven, spanning live‑action comedy, children’s animation and live‑action crime formats.\n\nThe Crazy Taxi screenplay is being written by Dan Gregor and Doug Mand, the team behind the 2025 reboot of The Naked Gun. Production responsibilities are assigned to Neal H. Moritz, Toby Ascher and Toru Nakahara, who have previously produced the Sonic franchise. In statements, Netflix’s VP of Nonfiction and Transmedia, Brandon Riegg, highlighted the appeal of established game worlds, while SEGA’s President and COO, Shuji Utsumi, expressed confidence in Netflix’s handling of the projects. Toru Nakahara, head of production at SEGA, added that the adaptations will reflect the distinct styles of each title."
-      },
-      "es": {
-        "title": "Netflix y SEGA anuncian colaboración para adaptar Crazy Taxi, Sonic y Stranger Than Heaven al cine",
-        "description": "SEGA y Netflix revelaron una alianza para producir una serie de adaptaciones cinematográficas de juegos de SEGA. El primer proyecto confirmado es u...",
-        "fullContent": "SEGA y Netflix revelaron una alianza para producir una serie de adaptaciones cinematográficas de juegos de SEGA. El primer proyecto confirmado es una película basada en el arcade Crazy Taxi, que se estrenará en la plataforma de streaming. La colaboración también incluye adaptaciones de Sonic the Hedgehog y Stranger Than Heaven, cubriendo formatos de comedia en acción real, animación para niños y crímenes en acción real.\n\nEl guion de Crazy Taxi será escrito por Dan Gregor y Doug Mand, conocidos por el reinicio de 2025 de The Naked Gun. La producción estará a cargo de Neal H. Moritz, Toby Ascher y Toru Nakahara, quienes ya han trabajado en la franquicia de Sonic. En sus declaraciones, Brandon Riegg, vicepresidente de No‑Ficción y Transmedia de Netflix, señaló el valor de los mundos de juego ya consolidados, mientras que Shuji Utsumi, presidente y director de operaciones de SEGA, manifestó su confianza en la capacidad de Netflix para abordar los proyectos. Toru Nakahara, jefe de producción de SEGA, añadió que cada adaptación reflejará el estilo propio de su título correspondiente."
-      }
-    },
-    {
-      "id": "ebaa1d761499274bad074b77649ef866",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789490474505_522.jpg",
-      "link": "https://www.theguardian.com/games/2026/sep/15/we-were-bored-of-traditional-fantasy-cliches-inside-playground-games-10-year-effort-to-revive-fable",
-      "en": {
-        "title": "Playground Games announces revival of Fable after ten-year hiatus",
-        "description": "Playground Games, founded in 2010 with the aim of creating leading racing titles, is based in Leamington Spa and is known for the Forza Horizon ser...",
-        "fullContent": "Playground Games, founded in 2010 with the aim of creating leading racing titles, is based in Leamington Spa and is known for the Forza Horizon series, which offers an open‑world racing experience. The studio has announced that it is developing a new entry in the Fable franchise, a British role‑playing game originally created by Lionhead Studios.\n\nThe upcoming Fable title will feature voice work from British comedy performers Richard Ayoade and Natasia Demetriou, who will portray characters that use profanity. The newsroom received an early playthrough of the game and conducted an interview with Ralph Fulton, co‑founder of Playground Games and director of the Fable project.\n\nFable was first released on the original Xbox in 2004 and later installments included voice contributions from Stephen Fry and Simon Pegg. Lionhead Studios was closed by Microsoft in 2016 after the company directed the series toward a multiplayer format, resulting in the cancellation of Fable Legends. After a period of inactivity lasting about ten years, Playground Games is now resuming development of the series. Fulton said working on the project has prompted him to consider game design more deeply than previous projects."
-      },
-      "es": {
-        "title": "Playground Games anuncia el regreso de Fable tras una pausa de diez años",
-        "description": "Playground Games, fundada en 2010 con el objetivo de crear títulos de carreras destacados, tiene su sede en Leamington Spa y es conocida por la ser...",
-        "fullContent": "Playground Games, fundada en 2010 con el objetivo de crear títulos de carreras destacados, tiene su sede en Leamington Spa y es conocida por la serie Forza Horizon, que ofrece una experiencia de carreras en mundo abierto. El estudio ha anunciado que está desarrollando una nueva entrega de la franquicia Fable, un juego de rol británico creado originalmente por Lionhead Studios.\n\nEl próximo título de Fable contará con la participación de los comediantes británicos Richard Ayoade y Natasia Demetriou, quienes prestarán sus voces a personajes que utilizan lenguaje soez. El medio recibió una primera jugada del juego y realizó una entrevista con Ralph Fulton, cofundador de Playground Games y director del proyecto Fable.\n\nFable se lanzó por primera vez en la Xbox original en 2004 y en entregas posteriores participaron como voces Stephen Fry y Simon Pegg. Lionhead Studios fue cerrado por Microsoft en 2016 después de que la compañía dirigiera la serie hacia un formato multijugador, lo que llevó a la cancelación de Fable Legends. Tras un período de inactividad de aproximadamente diez años, Playground Games retoma el desarrollo de la serie. Fulton declaró que trabajar en este proyecto le ha llevado a reflexionar sobre el diseño de juegos más profundamente que en proyectos anteriores."
-      }
-    },
-    {
-      "id": "1640c6d4484a933c9f5947fc76648cae",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1789490477037_613.jpg",
-      "link": "https://www.rochesterfirst.com/news/local-news/a-new-video-game-make-a-wish-grants-rochester-teens-wish/",
-      "en": {
-        "title": "Make-A-Wish teen designs video game called The MAW",
-        "description": "Caleb Pixley, a teenager from Rochester who lives with a nervous system disorder, received a Make‑A‑Wish grant to help design a video game. The pro...",
-        "fullContent": "Caleb Pixley, a teenager from Rochester who lives with a nervous system disorder, received a Make‑A‑Wish grant to help design a video game. The project, titled The MAW, was completed in collaboration with Magic Studios at the Rochester Institute of Technology and ROC Game Dev, and the finished product was shown to the public today after a month of development.\n\nThe MAW is a first‑person‑shooter style game in which players aim to defeat enemies. Pixley had begun creating elements of the game in Minecraft before joining the RIT and ROC Game Dev teams. Kristen Henry, Associate Director of Communications for Make‑A‑Wish of Metro New York and Western New York, said the organization did not initially know how to fulfill the wish but was able to do so with the assistance of the development partners."
-      },
-      "es": {
-        "title": "Adolescente de Rochester diseña videojuego llamado The MAW",
-        "description": "Caleb Pixley, un adolescente de Rochester que padece un trastorno del sistema nervioso, recibió el apoyo de Make‑A‑Wish para diseñar un videojuego....",
-        "fullContent": "Caleb Pixley, un adolescente de Rochester que padece un trastorno del sistema nervioso, recibió el apoyo de Make‑A‑Wish para diseñar un videojuego. El proyecto, llamado The MAW, se completó en colaboración con Magic Studios del Rochester Institute of Technology y ROC Game Dev, y el producto final se presentó al público hoy, tras un mes de desarrollo.\n\nThe MAW es un juego de disparos en primera persona cuyo objetivo es derrotar a los enemigos. Pixley había empezado a crear partes del juego en Minecraft antes de incorporarse a los equipos de RIT y ROC Game Dev. Kristen Henry, directora asociada de comunicaciones de Make‑A‑Wish de Metro New York y Western New York, indicó que la organización no sabía inicialmente cómo cumplir el deseo, pero logró hacerlo con la ayuda de los socios de desarrollo."
+        "title": "La edición Ultimate de GTA 6 cuesta $100 y agrega tiendas, conjuntos y vehículos exclusivos",
+        "description": "Grand Theft Auto VI tiene previsto su lanzamiento en noviembre, tras una presentación detallada de la jugabilidad en Netflix. El título se ofrecerá...",
+        "fullContent": "Grand Theft Auto VI tiene previsto su lanzamiento en noviembre, tras una presentación detallada de la jugabilidad en Netflix. El título se ofrecerá en dos versiones: una edición estándar con precio de $79.99 y una edición Ultimate con precio de $100.\n\nLa edición Ultimate brinda acceso a tiendas exclusivas dentro del juego que ofrecen opciones cosméticas para los protagonistas Jason y Lucia, como tatuajes, modificaciones de vehículos, peinados y ropa. Además, incluye dos paquetes de atuendos, Vice City Styles y Goodtime Gear, y tres vehículos exclusivos: el coche deportivo Grotti Cheetah de 1995, el barco Shitzu Squalo y el buggy Vapid Dominator de 1967."
       }
     }
   ]
