@@ -219,12 +219,27 @@ function gitCommitPush(count) {
 
   try {
     console.log(`  🔄 Sincronizando con remoto (git pull --rebase)...`);
+    // Guardar temporalmente cualquier archivo tracked modificado (ej. server/latest_news.json)
+    // para que git pull --rebase no falle por "unstaged changes".
+    let stashed = false;
+    try {
+      const stashOut = execSync('git stash', { cwd: path.join(__dirname, '..'), stdio: 'pipe' }).toString();
+      stashed = !stashOut.includes('No local changes to save');
+    } catch(_) {}
+
     execSync('git pull --rebase', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+
+    // Restaurar los cambios guardados (si los hubo)
+    if (stashed) {
+      try {
+        execSync('git stash pop', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+      } catch(_) {}
+    }
   } catch(e) {
-    console.error(`\n🚨 ¡ALERTA! Conflicto o error al hacer git pull --rebase.\n`);
+    console.error(`\n🚨 ¡ALERTA! Conflicto real al hacer git pull --rebase.\n`);
     if (e.stdout) console.error(e.stdout.toString());
     if (e.stderr) console.error(e.stderr.toString());
-    console.error(`\nEl script se ha DETENIDO por seguridad. Por favor, resuelve el conflicto manualmente y vuelve a lanzar el script.\n`);
+    console.error(`\nEl script se ha DETENIDO. Por favor resuelve el conflicto manualmente y vuelve a lanzar el script.\n`);
     process.exit(1);
   }
 
