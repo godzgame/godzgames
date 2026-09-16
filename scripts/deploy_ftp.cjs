@@ -40,6 +40,9 @@ async function deploy() {
       console.log("ℹ️ No se detectó subcarpeta public_html, desplegando en raíz actual.");
     }
 
+    const targetPwd = await client.pwd();
+    console.log(`🚀 Desplegando dist/ en: ${targetPwd}`);
+
     const localDist = path.join(__dirname, "../dist");
 
     // Generar archivo de depuración para diagnosticar ruta HTTP real
