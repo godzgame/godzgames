@@ -10,12 +10,12 @@ async function deploy() {
   const password = process.env.FTP_PASSWORD;
 
   if (!server || !user || !password) {
-    console.error("❌ Faltan credenciales de FTP (FTP_SERVER, FTP_USERNAME, FTP_PASSWORD)");
+    console.error("❌ Faltan credenciales de FTP");
     process.exit(1);
   }
 
   try {
-    console.log(`🔌 Conectando a FTP: ${server}...`);
+    console.log(`🔌 Conectando a FTP: ${server} como usuario: ${user}...`);
     await client.access({
       host: server,
       user: user,
@@ -25,61 +25,36 @@ async function deploy() {
     });
 
     const initialPwd = await client.pwd();
-    console.log(`📂 Directorio FTP inicial (pwd): ${initialPwd}`);
+    console.log(`📂 Directorio FTP inicial: ${initialPwd}`);
 
-    const rootList = await client.list();
-    console.log(`📋 Archivos en raíz FTP (${initialPwd}):`);
-    rootList.forEach(f => console.log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
+    const list = await client.list();
+    console.log("📋 Listado de directorio inicial:");
+    list.forEach(f => console.log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
 
-    // IMPORTANTE: En SiteGround, la cuenta github-deploy@godzgames.com ya inicia dentro de /public_html/
-    // Por lo tanto, NUNCA debemos hacer cd public_html, de lo contrario subirá a /public_html/public_html/
-    const nestedPublicHtml = rootList.find(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
-    if (nestedPublicHtml) {
-      console.log("🧹 Borrando subcarpeta duplicada errónea public_html/...");
-      await client.removeDir("public_html").catch(e => console.log("Aviso removeDir:", e.message));
+    // Si la raíz contiene public_html, entramos en ella (caso de usuario edgarperezmiranda@)
+    const hasPublicHtml = list.some(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
+    if (hasPublicHtml) {
+      console.log("➡️ Subdirectorio public_html detectado. Entrando a public_html/...");
+      await client.cd("public_html");
+      
+      // Limpiar posible subcarpeta duplicada public_html/public_html si existe
+      const subList = await client.list();
+      const duplicatePublicHtml = subList.find(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
+      if (duplicatePublicHtml) {
+        console.log("🧹 Limpiando subcarpeta duplicada public_html/public_html...");
+        await client.removeDir("public_html").catch(() => {});
+      }
+    } else {
+      console.log("ℹ️ Ya estamos en public_html (caso de usuario github-deploy@).");
     }
-    console.log("ℹ️ La cuenta FTP ya está en /public_html/. Desplegando en la raíz de conexión...");
 
     const targetPwd = await client.pwd();
-    console.log(`🚀 Desplegando dist/ en: ${targetPwd}`);
+    console.log(`🚀 Desplegando dist/ en la carpeta web real: ${targetPwd}`);
 
     const localDist = path.join(__dirname, "../dist");
-
-    // Generar archivo de depuración para diagnosticar ruta HTTP real
-    const fs = require('fs');
-    const debugData = {
-      timestamp: new Date().toISOString(),
-      initialPwd,
-      targetPwd,
-      rootListNames: rootList.map(f => f.name),
-      hasPublicHtml
-    };
-    fs.writeFileSync(path.join(localDist, "server_debug_info.json"), JSON.stringify(debugData, null, 2));
-
-    // Forzar reemplazo de index.html
-    const localIndex = path.join(localDist, "index.html");
-    if (require('fs').existsSync(localIndex)) {
-      try {
-        console.log("📤 Subiendo index.html actualizado...");
-        await client.uploadFile(localIndex, "index.html");
-        console.log("✅ index.html subido con éxito.");
-      } catch (e) {
-        console.warn("⚠️ Aviso al subir index.html individual:", e.message);
-      }
-    }
-
     await client.uploadFromDir(localDist);
 
     console.log("✅ Despliegue FTP completado con éxito.");
-
-    // Verificar index.html en el servidor
-    const currentList = await client.list();
-    const indexFile = currentList.find(f => f.name === 'index.html');
-    if (indexFile) {
-      console.log(`📄 index.html verificado en servidor: tamaño=${indexFile.size} bytes, modificado=${indexFile.modifiedAt}`);
-    } else {
-      console.warn("⚠️ No se encontró index.html en el directorio actual tras subir.");
-    }
 
   } catch (err) {
     console.error("❌ Error en despliegue FTP:", err);
