@@ -40,10 +40,18 @@ async function deploy() {
       console.log("ℹ️ No se detectó subcarpeta public_html, desplegando en raíz actual.");
     }
 
-    const targetPwd = await client.pwd();
-    console.log(`🚀 Desplegando dist/ en: ${targetPwd}`);
-
     const localDist = path.join(__dirname, "../dist");
+
+    // Generar archivo de depuración para diagnosticar ruta HTTP real
+    const fs = require('fs');
+    const debugData = {
+      timestamp: new Date().toISOString(),
+      initialPwd,
+      targetPwd,
+      rootListNames: rootList.map(f => f.name),
+      hasPublicHtml
+    };
+    fs.writeFileSync(path.join(localDist, "server_debug_info.json"), JSON.stringify(debugData, null, 2));
 
     // Forzar reemplazo de index.html
     const localIndex = path.join(localDist, "index.html");
