@@ -1,5 +1,12 @@
 const ftp = require("basic-ftp");
 const path = require("path");
+const fs = require("fs");
+
+let logBuffer = [];
+function log(msg) {
+  console.log(msg);
+  logBuffer.push(msg);
+}
 
 async function deploy() {
   const client = new ftp.Client();
@@ -15,7 +22,7 @@ async function deploy() {
   }
 
   try {
-    console.log(`🔌 Conectando a FTP: ${server} como usuario: ${user}...`);
+    log(`🔌 Conectando a FTP: ${server} como usuario: ${user}...`);
     await client.access({
       host: server,
       user: user,
@@ -25,36 +32,37 @@ async function deploy() {
     });
 
     const initialPwd = await client.pwd();
-    console.log(`📂 Directorio FTP inicial: ${initialPwd}`);
+    log(`📂 Directorio FTP inicial: ${initialPwd}`);
 
     const list = await client.list();
-    console.log("📋 Listado de directorio inicial:");
-    list.forEach(f => console.log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
+    log(`📋 Listado de directorio inicial (${list.length} elementos):`);
+    list.forEach(f => log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
 
-    // Si la raíz contiene public_html, entramos en ella (caso de usuario edgarperezmiranda@)
     const hasPublicHtml = list.some(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
     if (hasPublicHtml) {
-      console.log("➡️ Subdirectorio public_html detectado. Entrando a public_html/...");
+      log("➡️ Subdirectorio public_html detectado. Entrando a public_html/...");
       await client.cd("public_html");
-      
-      // Limpiar posible subcarpeta duplicada public_html/public_html si existe
-      const subList = await client.list();
-      const duplicatePublicHtml = subList.find(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
-      if (duplicatePublicHtml) {
-        console.log("🧹 Limpiando subcarpeta duplicada public_html/public_html...");
-        await client.removeDir("public_html").catch(() => {});
-      }
     } else {
-      console.log("ℹ️ Ya estamos en public_html (caso de usuario github-deploy@).");
+      log("ℹ️ Ya estamos en la raíz o no hay subcarpeta public_html.");
     }
 
     const targetPwd = await client.pwd();
-    console.log(`🚀 Desplegando dist/ en la carpeta web real: ${targetPwd}`);
+    log(`🚀 Desplegando dist/ en la carpeta web real: ${targetPwd}`);
 
     const localDist = path.join(__dirname, "../dist");
+
+    // Guardar logBuffer en dist/upload_log.txt antes de subir
+    log(`[${new Date().toISOString()}] Inicio de subida FTP de dist/`);
+    fs.writeFileSync(path.join(localDist, "upload_log.txt"), logBuffer.join("\n"));
+
     await client.uploadFromDir(localDist);
 
-    console.log("✅ Despliegue FTP completado con éxito.");
+    log("✅ Despliegue FTP completado con éxito.");
+
+    // Volver a escribir el log final
+    logBuffer.push(`[${new Date().toISOString()}] Fin de subida FTP exitosa.`);
+    fs.writeFileSync(path.join(localDist, "upload_log.txt"), logBuffer.join("\n"));
+    await client.uploadFile(path.join(localDist, "upload_log.txt"), "upload_log.txt");
 
   } catch (err) {
     console.error("❌ Error en despliegue FTP:", err);
