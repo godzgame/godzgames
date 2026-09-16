@@ -31,14 +31,9 @@ async function deploy() {
     console.log(`📋 Archivos en raíz FTP (${initialPwd}):`);
     rootList.forEach(f => console.log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
 
-    // Determinar si debemos hacer cd public_html
-    const hasPublicHtmlDir = rootList.some(f => f.isDirectory && f.name === 'public_html');
-    if (hasPublicHtmlDir) {
-      console.log("➡️ Entrando a directorio public_html/...");
-      await client.cd("public_html");
-    } else {
-      console.log("ℹ️ Ya estamos en la raíz pública o no existe subcarpeta public_html.");
-    }
+    // IMPORTANTE: En SiteGround, el usuario FTP ya inicia dentro del directorio web raíz del sitio.
+    // No debemos hacer `cd public_html`, sino desplegar directamente en la raíz donde está index.html.
+    console.log("ℹ️ Desplegando directamente en la raíz de conexión FTP...");
 
     const targetPwd = await client.pwd();
     console.log(`🚀 Desplegando dist/ en: ${targetPwd}`);
