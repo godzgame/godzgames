@@ -12591,25 +12591,19 @@
     "id": "a0290d23",
     "title": "Human Fall Flat",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "Verificación rechazó genérico: El personaje llamado Bob no es parte oficial de Human: Fall Flat; el avatar es sin nombre y personalizable, por lo que esa mención parece una invención."
   },
   {
-    "id": "5fad7778",
-    "title": "Bill and Teds Excellent Retro Collection",
+    "id": "9c888563",
+    "title": "The Bookwalker Thief of Tales",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "Verificación rechazó genérico: El nombre Prinny pertenece a la serie Disgaea y aquí se describe como dragón, lo que indica una referencia errónea a otra franquicia."
   },
   {
-    "id": "366d836f",
-    "title": "The Catch Carp and Coarse",
+    "id": "14155f20",
+    "title": "The Dark Prophecy",
     "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "302b3f4f",
-    "title": "Layers of Fear VR",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
+    "razon": "Verificación rechazó genérico: Los nombres de personajes (Aric, Lira) y la ubicación (Aeloria) no aparecen en ninguna franquicia conocida; parecen inventados, lo que indica una posible alucinación."
   },
   {
     "id": "0e1ada93",
@@ -12624,63 +12618,405 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "bbfe7724",
-    "title": "Bibi Blocksberg Big Broom Race 3",
+    "id": "a680d377",
+    "title": "Regions of Ruin",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "ce17b0ba",
-    "title": "Prehistoric Dude",
+    "id": "09e4beff",
+    "title": "Republique",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "382def27",
+    "title": "Kruger",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "979bf538",
+    "title": "Kruger 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8b826136",
+    "title": "Diorama Dungeoncrawl Master of The Living Castle",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b61b2fad",
+    "title": "ADORE",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "f7d0cc97",
-    "title": "Tacticool Champs",
+    "id": "5fad7778",
+    "title": "Bill and Teds Excellent Retro Collection",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "1cb9bf37",
+    "title": "Devoured by Darkness",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "8adf00e9",
+    "title": "Ammo Pigs Cocked and Loaded",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "2e72e5e6",
-    "title": "Taishogun The Rise of Emperor",
+    "id": "9184d58e",
+    "title": "A Knights Quest",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "a7af0c89",
+    "title": "Castle of Pixels Skulls",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "c394fb89",
-    "title": "Star Ocean The Second Story R",
+    "id": "60f1fd6e",
+    "title": "Creepy Tale Ingrid Penance",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ac906d6c",
+    "title": "Cybarian The Time Traveling Warrior",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "2746a406",
-    "title": "Eiyuden Chronicle Hundred Heroes Digital Deluxe Edition",
+    "id": "7607bbae",
+    "title": "Arcade Paradise",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "34e2d930",
-    "title": "The Legend of Heroes Zero no Kiseki Kai",
+    "id": "b14ab2cf",
+    "title": "A Hole New World",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "4ee4b866",
-    "title": "Teared",
+    "id": "6af1f34d",
+    "title": "Assassins Creed 3 Remastered",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a6cb0e72",
+    "title": "GRIME Definitive Edition",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "7e01f452",
-    "title": "Paper Cut Mansion",
+    "id": "c55a1c40",
+    "title": "Earth Defense Force 6 Deluxe Edition",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "95161f73",
+    "title": "Dawn of The Monsters Arcade Edition",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8581b5a5",
+    "title": "Sengoku Basara 4 Sumeragi",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0d967c7f",
+    "title": "Persona 4 Dancing All Night",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "8a4677b7",
-    "title": "Re.Surs",
+    "id": "3ac53153",
+    "title": "Star Wars Jedi Knight 2 Jedi Outcast",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4a06df93",
+    "title": "Arc of Alchemist",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "61fce134",
+    "title": "Roguebook Deluxe Edition",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1eaf1638",
+    "title": "Monster Jam Steel Titans 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "87800dca",
+    "title": "Riders Republic",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3cb17844",
+    "title": "Valkyria Revolution",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "848e3fbc",
+    "title": "Lara Croft and The Temple of Osiris",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f8cc5012",
+    "title": "Hotline Miami",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d9610d98",
+    "title": "EA Sports UFC",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "343df2d4",
+    "title": "A Space for The Unbound",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5f8178e0",
+    "title": "HAKOSAN",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "33aa9795",
+    "title": "Marsis Adventures",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6d999aaf",
+    "title": "Akibas Trip Undead and Undressed",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "37345241",
+    "title": "Magicka 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "153c6bf4",
+    "title": "Dragon Quest XI Sugisarishi Toki o Motomete",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8117c5dd",
+    "title": "Pile Up Box by Box",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c1e481bb",
+    "title": "Star Ocean The Last Hope 4K and Full HD Remaster",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0d65b8b4",
+    "title": "Enter The Gungeon",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7b0a906d",
+    "title": "My Friend Pedro Blood Bullets Bananas",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4a4c2ef4",
+    "title": "Vernal Edge",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5fa96585",
+    "title": "Story of Seasons Pioneers of Olive Town",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c4f8b889",
+    "title": "Jet Moto 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "15707f76",
+    "title": "Rally Cross",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8c1e8ddc",
+    "title": "R4 Ridge Racer Type 4",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5a0e9201",
+    "title": "Syphon Filter 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4b1305f6",
+    "title": "Kingdom Two Crowns",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5bbed4d5",
+    "title": "Syphon Filter",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1b861adb",
+    "title": "Nobunagas Ambition Taishi",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "80a2f0c6",
+    "title": "El Hijo A Wild West Tale",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ce7e8343",
+    "title": "Shadowrun Dragonfall Directors Cut",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "def7320a",
+    "title": "Shadowrun Returns",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e11b4050",
+    "title": "Daymare 1994 Sandcastle",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "23c23c7b",
+    "title": "Outbreak Lost Hope",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8a66fe03",
+    "title": "Rogue Lords",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "53e043f6",
+    "title": "Contra Anniversary Collection",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ed036885",
+    "title": "Castlevania Requiem Symphony of The Night and Rondo of Blood",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6be3b935",
+    "title": "The Last Blade 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2f3c3c37",
+    "title": "Kandagawa Jet Girls",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1fb7526c",
+    "title": "Neonwall",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "055aa0fb",
+    "title": "MLB The Show 23",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "30a28428",
+    "title": "ReadySet Heroes",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f8f500c0",
+    "title": "Nightmare Boy",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2d5e131c",
+    "title": "Knack",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ef92879a",
+    "title": "Puzzle Bobble 2X / Bust A Move 2 Arcade Edition & Puzzle Bobble 3 / Bust A Move 3 S Tribute",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c6737ee8",
+    "title": "Crocs World 4",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "cd655f37",
+    "title": "Kona 2 Brume",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
   }
 ]
