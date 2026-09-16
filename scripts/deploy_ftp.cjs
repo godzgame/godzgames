@@ -45,15 +45,16 @@ async function deploy() {
 
     const localDist = path.join(__dirname, "../dist");
 
-    // Forzar borrado y subida fresca de index.html
+    // Forzar reemplazo de index.html
     const localIndex = path.join(localDist, "index.html");
     if (require('fs').existsSync(localIndex)) {
-      console.log("🔥 Removiendo index.html antiguo en servidor para forzar reemplazo...");
-      await client.send("SITE CHMOD 644 index.html").catch(() => {});
-      await client.remove("index.html").catch(e => console.log("Aviso borrado index.html:", e.message));
-      console.log("📤 Subiendo index.html actualizado...");
-      await client.uploadFile(localIndex, "index.html");
-      console.log("✅ index.html subido individualmente con éxito.");
+      try {
+        console.log("📤 Subiendo index.html actualizado...");
+        await client.uploadFile(localIndex, "index.html");
+        console.log("✅ index.html subido con éxito.");
+      } catch (e) {
+        console.warn("⚠️ Aviso al subir index.html individual:", e.message);
+      }
     }
 
     await client.uploadFromDir(localDist);
