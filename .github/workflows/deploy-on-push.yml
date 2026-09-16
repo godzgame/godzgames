@@ -53,4 +53,19 @@ jobs:
           protocol: ftp
           local-dir: ./dist/
           server-dir: ./
+          dangerous-clean-slate: true
+          compare-method: checksum
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            uploads/games/**
+            cgi-bin/**
+            .well-known/**
+            .htpasswd
+            php.ini
+            php_errors.log
+            error_log
+            tmp/**
+            .sgcache/**
 
