@@ -31,14 +31,14 @@ async function deploy() {
     console.log(`📋 Archivos en raíz FTP (${initialPwd}):`);
     rootList.forEach(f => console.log(`  - ${f.isDirectory ? '[DIR]' : '[FILE]'} ${f.name}`));
 
-    // Si existe la carpeta public_html, ahí es donde SiteGround sirve los archivos del sitio web
-    const hasPublicHtml = rootList.some(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
-    if (hasPublicHtml) {
-      console.log("➡️ Detectado directorio public_html/. Entrando a public_html/...");
-      await client.cd("public_html");
-    } else {
-      console.log("ℹ️ No se detectó subcarpeta public_html, desplegando en raíz actual.");
+    // IMPORTANTE: En SiteGround, la cuenta github-deploy@godzgames.com ya inicia dentro de /public_html/
+    // Por lo tanto, NUNCA debemos hacer cd public_html, de lo contrario subirá a /public_html/public_html/
+    const nestedPublicHtml = rootList.find(f => f.isDirectory && f.name.toLowerCase() === 'public_html');
+    if (nestedPublicHtml) {
+      console.log("🧹 Borrando subcarpeta duplicada errónea public_html/...");
+      await client.removeDir("public_html").catch(e => console.log("Aviso removeDir:", e.message));
     }
+    console.log("ℹ️ La cuenta FTP ya está en /public_html/. Desplegando en la raíz de conexión...");
 
     const targetPwd = await client.pwd();
     console.log(`🚀 Desplegando dist/ en: ${targetPwd}`);
