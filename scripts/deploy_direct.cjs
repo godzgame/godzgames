@@ -2,6 +2,12 @@ const ftp = require("basic-ftp");
 const path = require("path");
 const fs = require("fs");
 
+const logs = [];
+function log(msg) {
+    console.log(msg);
+    logs.push(`[${new Date().toISOString()}] ${msg}`);
+}
+
 async function deploy() {
     const client = new ftp.Client(60000);
     client.ftp.verbose = true;
@@ -10,16 +16,15 @@ async function deploy() {
     const user = process.env.FTP_USERNAME || "";
     const password = process.env.FTP_PASSWORD || "";
 
-    // Limpiar string de host
     host = host.replace(/^ftp:\/\//i, "").replace(/\/.*$/, "").trim();
 
     if (!host || !user || !password) {
-        console.error("❌ ERROR: Faltan credenciales FTP (FTP_SERVER, FTP_USERNAME, FTP_PASSWORD).");
+        log("❌ ERROR: Faltan credenciales FTP (FTP_SERVER, FTP_USERNAME, FTP_PASSWORD).");
         process.exit(1);
     }
 
     try {
-        console.log(`📡 Conectando a FTP ${host} con usuario ${user}...`);
+        log(`📡 Conectando a FTP ${host} con usuario ${user}...`);
         await client.access({
             host: host,
             user: user,
@@ -28,66 +33,60 @@ async function deploy() {
             secure: false
         });
 
-        console.log("✅ Conexión FTP establecida con éxito.");
+        log("✅ Conexión FTP establecida con éxito.");
         const initialPwd = await client.pwd();
-        console.log(`📂 Directorio inicial del usuario (pwd): "${initialPwd}"`);
+        log(`📂 Directorio inicial del usuario (pwd): "${initialPwd}"`);
 
         const list = await client.list();
-        console.log("📋 Contenido del directorio inicial:");
+        log("📋 Contenido del directorio inicial:");
         list.forEach(item => {
-            console.log(`   - [${item.isDirectory ? 'DIR ' : 'FILE'}] ${item.name}`);
+            log(`   - [${item.isDirectory ? 'DIR ' : 'FILE'}] ${item.name}`);
         });
 
-        // Determinar directorio destino automáticamente
         let targetDir = "./";
         const hasPublicHtml = list.some(item => item.name === "public_html" && item.isDirectory);
         
         if (hasPublicHtml) {
-            console.log("🎯 Se detectó la subcarpeta 'public_html'. El destino del despliegue será: ./public_html/");
+            log("🎯 Se detectó la subcarpeta 'public_html'. El destino del despliegue será: ./public_html/");
             targetDir = "./public_html/";
         } else {
-            console.log("🎯 El usuario FTP ya inicia dentro de la raíz de la web. El destino del despliegue será: ./");
+            log("🎯 El usuario FTP ya inicia dentro de la raíz de la web. El destino del despliegue será: ./");
         }
 
         const distPath = path.join(__dirname, "../dist");
 
-        // Para evitar subir miles de fotos de juegos en cada push de código,
-        // eliminamos temporalmente dist/uploads/games antes de sincronizar.
-        // Las fotos en el servidor no se tocan.
-        const localUploadsGames = path.join(distPath, "uploads", "games");
-        if (fs.existsSync(localUploadsGames)) {
-            console.log("⚡ Omitiendo re-subida masiva de imágenes de juegos (persistentes en servidor)...");
-            fs.rmSync(localUploadsGames, { recursive: true, force: true });
-        }
-
-        // 1. PASO PRIORITARIO: Subir index.html y .htaccess primero (en 2 segundos)
-        console.log("⚡ PASO 1: Subiendo index.html y .htaccess...");
+        // Subir index.html prioritario
+        log("⚡ PASO 1: Subiendo index.html...");
         const indexLocal = path.join(distPath, "index.html");
         if (fs.existsSync(indexLocal)) {
             await client.uploadFrom(indexLocal, targetDir + "index.html");
-            console.log("✅ index.html subido y actualizado instantáneamente en producción.");
+            log("✅ index.html subido y actualizado en producción.");
         }
+
+        // Subir .htaccess prioritario
         const htaccessLocal = path.join(distPath, ".htaccess");
         if (fs.existsSync(htaccessLocal)) {
             await client.uploadFrom(htaccessLocal, targetDir + ".htaccess");
-            console.log("✅ .htaccess subido instantáneamente.");
+            log("✅ .htaccess subido.");
         }
 
-        // 2. PASO PRIORITARIO: Subir assets/ (JS y CSS compilados con el panel de afiliados)
-        console.log("⚡ PASO 2: Subiendo assets/ (JS/CSS compilados)...");
+        // Subir assets/ (JS y CSS compilados)
+        log("⚡ PASO 2: Subiendo assets/...");
         const assetsLocal = path.join(distPath, "assets");
         if (fs.existsSync(assetsLocal)) {
             await client.uploadFromDir(assetsLocal, targetDir + "assets");
-            console.log("✅ assets/ compilados subidos con éxito.");
+            log("✅ assets/ compilados subidos con éxito.");
         }
 
-        // 3. PASO ULTRARRÁPIDO: Sincronizar el resto de archivos ligeros
-        console.log(`🚀 PASO 3: Sincronización rápida de archivos restantes...`);
-        await client.uploadFromDir(distPath, targetDir);
-
-        console.log("🎉 ¡DESPLIEGUE ULTRA-RÁPIDO COMPLETADO CON ÉXITO! Todos los archivos de código fueron actualizados.");
+        log("🎉 DESPLIEGUE FTP COMPLETADO CON ÉXITO.");
+        
+        // Escribir log a deploy_log.txt y subirlo
+        const localLogFile = path.join(distPath, "deploy_log.txt");
+        fs.writeFileSync(localLogFile, logs.join("\n"));
+        await client.uploadFrom(localLogFile, targetDir + "deploy_log.txt");
+        
     } catch (err) {
-        console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
+        log(`❌ ERROR DURANTE EL DESPLIEGUE FTP: ${err.stack || err.message || err}`);
         process.exit(1);
     } finally {
         client.close();
