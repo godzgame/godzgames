@@ -13,7 +13,7 @@ async function deploy() {
     host = host.replace(/^ftp:\/\//i, "").replace(/\/.*$/, "").trim();
 
     if (!host || !user || !password) {
-        console.error("❌ ERROR: Faltan credenciales FTP (FTP_SERVER, FTP_USERNAME, FTP_PASSWORD).");
+        console.error("❌ ERROR: Faltan credenciales FTP.");
         process.exit(1);
     }
 
@@ -27,37 +27,10 @@ async function deploy() {
             secure: false
         });
 
-        console.log("✅ Conexión FTP establecida con éxito.");
-        const initialPwd = await client.pwd();
-        console.log(`📂 Directorio inicial (pwd): "${initialPwd}"`);
-
+        console.log("✅ Conexión FTP establecida.");
         const distPath = path.join(__dirname, "../dist");
 
-        console.log("🔍 DIAGNÓSTICO COMPLETO DE ESTRUCTURA DE DIRECTORIOS EN SERVIDOR:");
-        const treeLogs = [`PWD: ${initialPwd}`];
-        async function listRecursive(dirPath, depth = 0) {
-            if (depth > 2) return;
-            try {
-                const items = await client.list(dirPath);
-                for (const item of items) {
-                    const line = `${"  ".repeat(depth)} - [${item.isDirectory ? "DIR " : "FILE"}] ${dirPath}${item.name}`;
-                    console.log(line);
-                    treeLogs.push(line);
-                    if (item.isDirectory && !item.name.startsWith(".") && item.name !== "node_modules" && item.name !== "uploads") {
-                        await listRecursive(`${dirPath}${item.name}/`, depth + 1);
-                    }
-                }
-            } catch (e) {
-                treeLogs.push(`  Error al listar ${dirPath}: ${e.message}`);
-            }
-        }
-        await listRecursive("./");
-
-        // Guardar estructura del servidor en src/data/server_tree.json para inspección local
-        const treeJsonPath = path.join(__dirname, "../src/data/server_tree.json");
-        fs.writeFileSync(treeJsonPath, JSON.stringify({ pwd: initialPwd, tree: treeLogs }, null, 2));
-
-        // Omitir uploads localmente para deploy ultrarrapido
+        // Omitir carpeta uploads/ localmente para deploy instantaneo
         const localUploads = path.join(distPath, "uploads");
         if (fs.existsSync(localUploads)) {
             fs.rmSync(localUploads, { recursive: true, force: true });
@@ -71,15 +44,45 @@ async function deploy() {
             targetDirs.push("./public_html/");
         }
 
-        console.log(`🎯 Rutas objetivo para despliegue: ${JSON.stringify(targetDirs)}`);
+        const auditLogs = [];
 
         for (const targetDir of targetDirs) {
-            console.log(`🚀 Subiendo código de dist/ a "${targetDir}"...`);
+            console.log(`🔍 Inspeccionando index.html en "${targetDir}"...`);
+            try {
+                const list = await client.list(targetDir);
+                const oldIndex = list.find(item => item.name === "index.html");
+                if (oldIndex) {
+                    auditLogs.push(`Antes [${targetDir}index.html]: size=${oldIndex.size}, date=${oldIndex.rawModifiedAt || oldIndex.modifiedAt}`);
+                    console.log(`   Viejo index.html encontrado: ${oldIndex.size} bytes, fecha: ${oldIndex.modifiedAt}`);
+                    
+                    // Eliminar el index.html viejo explícitamente para forzar la recreación
+                    console.log(`   Borrando ${targetDir}index.html viejo...`);
+                    await client.remove(targetDir + "index.html");
+                    console.log(`   ✅ ${targetDir}index.html eliminado con éxito.`);
+                }
+            } catch (err) {
+                auditLogs.push(`Error borrando ${targetDir}index.html: ${err.message}`);
+                console.log(`   ⚠️ No se pudo borrar index.html viejo: ${err.message}`);
+            }
+
+            console.log(`🚀 Subiendo nuevo código de dist/ a "${targetDir}"...`);
             await client.uploadFromDir(distPath, targetDir);
-            console.log(`✅ Subida a "${targetDir}" completada.`);
+
+            // Verificar el nuevo index.html
+            try {
+                const newList = await client.list(targetDir);
+                const newIndex = newList.find(item => item.name === "index.html");
+                if (newIndex) {
+                    auditLogs.push(`Después [${targetDir}index.html]: size=${newIndex.size}, date=${newIndex.rawModifiedAt || newIndex.modifiedAt}`);
+                }
+            } catch (e) {}
         }
 
-        console.log("🎉 ¡DESPLIEGUE FINALIZADO!");
+        // Guardar logs de auditoría en JSON
+        const auditPath = path.join(__dirname, "../src/data/file_audit.json");
+        fs.writeFileSync(auditPath, JSON.stringify({ auditLogs }, null, 2));
+
+        console.log("🎉 ¡DESPLIEGUE FINALIZADO CON AUDITORÍA DE ARCHIVOS!");
     } catch (err) {
         console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
         process.exit(1);
