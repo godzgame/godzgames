@@ -1,0 +1,8 @@
+{
+  "auditLogs": [
+    "Antes [./index.html]: size=34470, date=2026-09-17T01:01:22.000Z",
+    "Después [./index.html]: size=34470, date=2026-09-17T01:22:56.000Z",
+    "Antes [./public_html/index.html]: size=34470, date=2026-09-17T01:01:29.000Z",
+    "Después [./public_html/index.html]: size=34470, date=2026-09-17T01:22:59.000Z"
+  ]
+}
