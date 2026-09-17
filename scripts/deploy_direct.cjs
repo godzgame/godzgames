@@ -31,24 +31,30 @@ async function deploy() {
         const initialPwd = await client.pwd();
         console.log(`📂 Directorio inicial (pwd): "${initialPwd}"`);
 
+        const distPath = path.join(__dirname, "../dist");
+
         console.log("🔍 DIAGNÓSTICO COMPLETO DE ESTRUCTURA DE DIRECTORIOS EN SERVIDOR:");
+        const treeLogs = [`PWD: ${initialPwd}`];
         async function listRecursive(dirPath, depth = 0) {
             if (depth > 2) return;
             try {
                 const items = await client.list(dirPath);
                 for (const item of items) {
-                    console.log(`${"  ".repeat(depth)} - [${item.isDirectory ? "DIR " : "FILE"}] ${dirPath}${item.name}`);
+                    const line = `${"  ".repeat(depth)} - [${item.isDirectory ? "DIR " : "FILE"}] ${dirPath}${item.name}`;
+                    console.log(line);
+                    treeLogs.push(line);
                     if (item.isDirectory && !item.name.startsWith(".") && item.name !== "node_modules" && item.name !== "uploads") {
                         await listRecursive(`${dirPath}${item.name}/`, depth + 1);
                     }
                 }
             } catch (e) {
-                console.log(`  Error al listar ${dirPath}: ${e.message}`);
+                treeLogs.push(`  Error al listar ${dirPath}: ${e.message}`);
             }
         }
         await listRecursive("./");
 
-        const distPath = path.join(__dirname, "../dist");
+        // Escribir arbol a tree_check.txt
+        fs.writeFileSync(path.join(distPath, "tree_check.txt"), treeLogs.join("\n"));
 
         // Omitir uploads localmente para deploy ultrarrapido
         const localUploads = path.join(distPath, "uploads");
