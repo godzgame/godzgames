@@ -51,8 +51,17 @@ async function deploy() {
 
         const distPath = path.join(__dirname, "../dist");
 
+        // Para evitar subir miles de fotos de juegos en cada push de código,
+        // eliminamos temporalmente dist/uploads/games antes de sincronizar.
+        // Las fotos en el servidor no se tocan.
+        const localUploadsGames = path.join(distPath, "uploads", "games");
+        if (fs.existsSync(localUploadsGames)) {
+            console.log("⚡ Omitiendo re-subida masiva de imágenes de juegos (persistentes en servidor)...");
+            fs.rmSync(localUploadsGames, { recursive: true, force: true });
+        }
+
         // 1. PASO PRIORITARIO: Subir index.html y .htaccess primero (en 2 segundos)
-        console.log("⚡ PASO 1 (PRIORITARIO): Subiendo index.html y .htaccess...");
+        console.log("⚡ PASO 1: Subiendo index.html y .htaccess...");
         const indexLocal = path.join(distPath, "index.html");
         if (fs.existsSync(indexLocal)) {
             await client.uploadFrom(indexLocal, targetDir + "index.html");
@@ -65,18 +74,18 @@ async function deploy() {
         }
 
         // 2. PASO PRIORITARIO: Subir assets/ (JS y CSS compilados con el panel de afiliados)
-        console.log("⚡ PASO 2 (PRIORITARIO): Subiendo assets/ (JS/CSS)...");
+        console.log("⚡ PASO 2: Subiendo assets/ (JS/CSS compilados)...");
         const assetsLocal = path.join(distPath, "assets");
         if (fs.existsSync(assetsLocal)) {
             await client.uploadFromDir(assetsLocal, targetDir + "assets");
             console.log("✅ assets/ compilados subidos con éxito.");
         }
 
-        // 3. PASO COMPLETO: Sincronizar el resto del directorio dist
-        console.log(`🚀 PASO 3: Sincronizando el resto del sitio (${distPath} -> ${targetDir})...`);
+        // 3. PASO ULTRARRÁPIDO: Sincronizar el resto de archivos ligeros
+        console.log(`🚀 PASO 3: Sincronización rápida de archivos restantes...`);
         await client.uploadFromDir(distPath, targetDir);
 
-        console.log("🎉 ¡DESPLIEGUE FTP COMPLETADO CON ÉXITO! Todos los archivos fueron actualizados.");
+        console.log("🎉 ¡DESPLIEGUE ULTRA-RÁPIDO COMPLETADO CON ÉXITO! Todos los archivos de código fueron actualizados.");
     } catch (err) {
         console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
         process.exit(1);
