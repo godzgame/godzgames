@@ -28,19 +28,37 @@ async function deploy() {
         });
 
         console.log("✅ Conexión FTP establecida con éxito.");
-        const list = await client.list();
+        const initialPwd = await client.pwd();
+        console.log(`📂 Directorio inicial (pwd): "${initialPwd}"`);
+
+        console.log("🔍 DIAGNÓSTICO COMPLETO DE ESTRUCTURA DE DIRECTORIOS EN SERVIDOR:");
+        async function listRecursive(dirPath, depth = 0) {
+            if (depth > 2) return;
+            try {
+                const items = await client.list(dirPath);
+                for (const item of items) {
+                    console.log(`${"  ".repeat(depth)} - [${item.isDirectory ? "DIR " : "FILE"}] ${dirPath}${item.name}`);
+                    if (item.isDirectory && !item.name.startsWith(".") && item.name !== "node_modules" && item.name !== "uploads") {
+                        await listRecursive(`${dirPath}${item.name}/`, depth + 1);
+                    }
+                }
+            } catch (e) {
+                console.log(`  Error al listar ${dirPath}: ${e.message}`);
+            }
+        }
+        await listRecursive("./");
 
         const distPath = path.join(__dirname, "../dist");
 
-        // Omitir carpeta uploads/ localmente para garantizar despliegue en 2 segundos
-        // Las fotos subidas de juegos en uploads/ se conservan intactas en el servidor.
+        // Omitir uploads localmente para deploy ultrarrapido
         const localUploads = path.join(distPath, "uploads");
         if (fs.existsSync(localUploads)) {
-            console.log("⚡ Omitiendo re-subida masiva de uploads/ (conservados en el servidor)...");
             fs.rmSync(localUploads, { recursive: true, force: true });
         }
 
-        const hasPublicHtml = list.some(item => item.name === "public_html" && item.isDirectory);
+        const topItems = await client.list("./");
+        const hasPublicHtml = topItems.some(item => item.name === "public_html" && item.isDirectory);
+
         const targetDirs = ["./"];
         if (hasPublicHtml) {
             targetDirs.push("./public_html/");
@@ -54,7 +72,7 @@ async function deploy() {
             console.log(`✅ Subida a "${targetDir}" completada.`);
         }
 
-        console.log("🎉 ¡DESPLIEGUE INSTANTÁNEO COMPLETADO CON ÉXITO!");
+        console.log("🎉 ¡DESPLIEGUE FINALIZADO!");
     } catch (err) {
         console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
         process.exit(1);
