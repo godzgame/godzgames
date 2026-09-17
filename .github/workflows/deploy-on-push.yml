@@ -5,43 +5,44 @@ on:
     branches:
       - main
 
-# Si llegan varios pushes seguidos, cancela el deploy anterior y
-# solo ejecuta el más reciente.
 concurrency:
   group: deploy
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Descargar el código del repositorio
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Configurar Node.js v20
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      # 3. Instalar dependencias
       - name: Install Dependencies
         run: npm ci
 
-      # 4. Compilar el proyecto (SOLO vite build — sin update_news.cjs)
       - name: Build Project
         run: npx vite build
 
-      # 5. Desplegar dist/ a SiteGround vía script inteligente (basic-ftp)
       - name: Deploy to SiteGround via Direct FTP
         run: node scripts/deploy_direct.cjs
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+      - name: Commit server tree log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/server_tree.json || true
+          git commit -m "ci: guardar diagnostico de servidor FTP [skip ci]" || echo "Sin cambios"
+          git push || echo "Push omitido"

@@ -53,8 +53,9 @@ async function deploy() {
         }
         await listRecursive("./");
 
-        // Escribir arbol a tree_check.txt
-        fs.writeFileSync(path.join(distPath, "tree_check.txt"), treeLogs.join("\n"));
+        // Guardar estructura del servidor en src/data/server_tree.json para inspección local
+        const treeJsonPath = path.join(__dirname, "../src/data/server_tree.json");
+        fs.writeFileSync(treeJsonPath, JSON.stringify({ pwd: initialPwd, tree: treeLogs }, null, 2));
 
         // Omitir uploads localmente para deploy ultrarrapido
         const localUploads = path.join(distPath, "uploads");
