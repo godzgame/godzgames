@@ -1,6 +1,9 @@
 DirectoryIndex index.html index.php
 
 # Desactivar SiteGround SuperCacher Dynamic Cache globalmente
+SetEnvIfAlways X-SG-Cache-Bypass 1
+SetEnvIfAlways X-Cache-Enabled 0
+
 <IfModule mod_headers.c>
   Header always set X-SG-Cache-Bypass "1"
   Header always set X-Cache-Enabled "0"
