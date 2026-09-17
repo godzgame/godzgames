@@ -1,5 +1,11 @@
 DirectoryIndex index.html index.php
 
+# Desactivar SiteGround SuperCacher Dynamic Cache globalmente
+<IfModule mod_headers.c>
+  Header always set X-SG-Cache-Bypass "1"
+  Header always set X-Cache-Enabled "0"
+</IfModule>
+
 ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
