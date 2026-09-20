@@ -1,0 +1,23 @@
+{
+  "initialPwd": "/",
+  "parentTree": [
+    "[PADRE] [FILE] rss.xml",
+    "[PADRE] [FILE] game_preservation.png",
+    "[PADRE] [FILE] test_deploy_check.txt",
+    "[PADRE] [DIR ] assets",
+    "[PADRE] [FILE] check_live_page_99.html",
+    "[PADRE] [FILE] google55736dd70b4e91fe.html",
+    "[PADRE] [FILE] .htaccess",
+    "[PADRE] [FILE] .ftp-deploy-sync-state.json",
+    "[PADRE] [DIR ] uploads",
+    "[PADRE] [FILE] sitemap.xml",
+    "[PADRE] [FILE] robots.txt",
+    "[PADRE] [DIR ] public_html",
+    "[PADRE] [FILE] xbox_pass.png",
+    "[PADRE] [FILE] check_deploy_sep16.html",
+    "[PADRE] [FILE] index.html",
+    "[PADRE] [FILE] game_ads.png",
+    "[PADRE] [FILE] tree_check.txt",
+    "[PADRE] [FILE] favicon.jpg"
+  ]
+}
