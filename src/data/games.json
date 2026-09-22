@@ -75696,7 +75696,7 @@
       ],
       "link": "https://filecrypt.cc/Container/FC7C23EDB3.html",
       "trailer": "https://www.youtube.com/embed/YWpTh4TfPkc",
-      "sinopsis": "Crocs World es un vibrante juego de plataformas y acción donde el jugador debe saltar y correr a través de 60 niveles increíbles, repartidos en cuatro temáticas distintas. En cada nivel deberá esquivar enemigos desafiantes mientras recoge objetos clave: un casco para aplastar bloques de piedra y una bolsa de piedras para lanzar proyectiles. Al recolectar 100 diamantes, el jugador obtiene una vida extra. Los gráficos coloridos y la variedad de enemigos mantienen la experiencia fresca y emocionante, ofreciendo un reto constante en cada escenario.",
+      "sinopsis": "Crocs World es un colorido juego de plataformas en el que el jugador recorre 60 niveles increíbles distribuidos en cuatro temáticas distintas. Cada nivel está lleno de enemigos desafiantes que deben evitarse saltando y corriendo. El protagonista puede recoger un casco para pulverizar bloques de piedra y una bolsa de piedra para lanzar proyectiles. Además, al conseguir 100 diamantes se obtiene una vida extra. Los gráficos son atractivos y la variedad de escenarios mantiene la acción constante, ofreciendo una experiencia dinámica y entretenida para los amantes del género.",
       "cover": "",
       "genre": {
         "en": "Adventure",
@@ -81193,8 +81193,17 @@
       ],
       "link": "https://filecrypt.cc/Container/2FA6655854.html",
       "trailer": "https://www.youtube.com/embed/yh-XGZRlhMs",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert! Thanks Stayhye (PSX Place) for old config!\n\nAlso graphical bugs – FiXed! (By me) Widescreen patch – added!\n\nEnter the sci-fi world of Disney’s PK- the superhero alter-ego of Donald Duck! Armed with his mega cyberdevice, you’ll battle evil Evronian aliens, and discover explosively futuristic hardware.",
-      "cover": ""
+      "sinopsis": "En PK: Out of the Shadows, el jugador controla a Donald Duck bajo el alias de Paperinik, también conocido como PK. Ambientado en un estilo de acción‑aventura, la trama sigue a PK mientras combate al siniestro Imperio Evron, una amenaza que surge de los cómics italianos PK – Paperinik New Adventures. El juego combina exploración y combates dinámicos, permitiendo al héroe usar su ingenio y gadgets para superar obstáculos y enemigos. Cada nivel está diseñado para reflejar la atmósfera de la serie, ofreciendo una experiencia que mezcla la nostalgia del cómic con una jugabilidad fluida y desafiante.",
+      "cover": "https://media.rawg.io/media/screenshots/24c/24c7f1e886f5f6baa2f087db49034af8.jpg",
+      "releaseDate": {
+        "es": "2002-10-04"
+      },
+      "publisher": {
+        "es": "Ubisoft Entertainment"
+      },
+      "developer": {
+        "es": "Ubisoft Montreal"
+      }
     },
     {
       "id": "3a98d5b9",
@@ -81263,8 +81272,24 @@
       ],
       "link": "https://filecrypt.cc/Container/EB9E226B33.html",
       "trailer": "https://www.youtube.com/embed/O-IHmOKOuc0",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nGame works pretty good on my 5.05 FW! Just small visual bugs on select screen, but all good in gameplay!\n\nNotes\nGame works fine with .TOC file. Analog sticks enabled.",
-      "cover": ""
+      "sinopsis": "Batman Forever: The Arcade Game es un beat‑em‑up estilo arcade que coloca al jugador bajo la máscara del Caballero Oscuro. Ambientado en varias calles de la ciudad, el juego destaca por combates rápidos, combos de puñetazos y peligros del entorno. El jugador recorre niveles de desplazamiento lateral, enfrentando oleadas de matones y ocasionales jefes, utilizando gadgets y ataques cuerpo a cuerpo. La experiencia captura la atmósfera de los cómics de arcade, fomentando el juego cooperativo y la búsqueda de puntuaciones altas. Sus controles sencillos y gráficos retro ofrecen una jugabilidad centrada en la lucha de Batman contra el crimen.",
+      "cover": "",
+      "genre": {
+        "en": "Action, Beat 'em up",
+        "es": "Acción, Beat 'em up"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "e461f182",
@@ -81287,8 +81312,17 @@
       ],
       "link": "https://filecrypt.cc/Container/A5B5C4F6FC.html",
       "trailer": "https://www.youtube.com/embed/yAfd3yv-fIw",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nFirst boot was fine and game run ok, but when i try boot game second time, it stuck on black screen (after loading) or crash! So, if you have these issue too, better boot game, and on select screen do quick save with emu features! So you can use your save for pass issues! Also don’t use quick saves features while gameplay or it broke game!\n\nGame have English patch! Before was Japonese only! Patch does 2 things: Switch Language to English (all messages and names of characters are in English) and enables red blood.",
-      "cover": ""
+      "sinopsis": "Conviértete en el barón de una nueva metrópolis vampírica, donde tu objetivo es consolidar un imperio de sangre y poder. Enfréntate a lobos‑hombres terroristas ecológicos que amenazan la ciudad y a vampiros rivales que buscan arrebatarte el control. Gestiona tus recursos, adquiere riquezas y amplía tu territorio mientras construyes alianzas y derrotas a los enemigos. Cada decisión influye en el ascenso de tu dominio, y el combate combina estrategia y acción sobrenatural. La lucha por el trono vampírico pone a prueba tu ingenio y tu sed de dominio.",
+      "cover": "https://media.rawg.io/media/screenshots/6b5/6b5a355ef64beb8697ab6162eb462aff.jpg",
+      "genre": {
+        "es": "Simulation"
+      },
+      "releaseDate": {
+        "es": "2021-11-18"
+      },
+      "developer": {
+        "es": "DmAndy"
+      }
     },
     {
       "id": "97b65d31",
@@ -81299,8 +81333,20 @@
       ],
       "link": "https://filecrypt.cc/Container/897CEC40C2.html",
       "trailer": "https://www.youtube.com/embed/ZfrgJa5hOC8",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nEnter a world where virus-stricken robots plan to take over the world. Armed with hi-tech silicon weaponry, this texture mapped 32-bit blaster will take you on a gripping adventure through some of the most amazing virtual environments ever. Plus, a unique play engine means you get a different game every time!",
-      "cover": ""
+      "sinopsis": "Adéntrate en un mundo donde robots infectados por un virus conspiran para dominar el planeta. Equipado con armamento de silicio de alta tecnología, este bláster de 32 bits con texturizado te sumerge en una aventura trepidante a través de entornos virtuales asombrosos. Enfrentarás a máquinas que han mutado su código, obligándote a usar tácticas de combate y exploración para detener su conquista. Cada nivel está cuidadosamente renderizado, ofreciendo paisajes digitales que parecen reales. Gracias al motor de juego adaptable, los enemigos, los puzzles y los escenarios cambian, garantizando que nunca juegues dos veces igual.",
+      "cover": "https://media.rawg.io/media/games/366/3660abd3271af7f29096c459cf6c18c2.jpg",
+      "genre": {
+        "es": "Action, Shooter"
+      },
+      "releaseDate": {
+        "es": "1995-01-01"
+      },
+      "publisher": {
+        "es": "Acclaim"
+      },
+      "developer": {
+        "es": "Micronet"
+      }
     },
     {
       "id": "83fb6920",
@@ -81311,8 +81357,20 @@
       ],
       "link": "https://filecrypt.cc/Container/A679A50790.html",
       "trailer": "https://www.youtube.com/embed/gPwzNeewsyQ",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert! Thanks Stayhye (PSX Place) for old config!\n\nRetail version of game has slowdown during FMVs! In Prototype all seems fine!\n\nIn Batman: Rise of Sin Tzu, Batman faces a new enemy unlike any he has ever faced before. The faceless foe plunges Gotham City into chaos on the night of the anniversary of Bruce Wayne’s parents’ murder. Who is responsible for unleashing havoc on Gotham City? The truth will be revealed after you battle evil forces and super-villains, including Bane, Clayface, Scarecrow, and the new formidable foe–Sin Tzu. In addition to Batman’s martial arts attacks, Batman has an arsenal including the Batarang, Grappling Hook, and Smoke Bomb.",
-      "cover": ""
+      "sinopsis": "Batman: Rise of Sin Tzu es un juego de lucha callejera que sigue al Caballero Oscuro en una nueva amenaza tras los eventos de Batman: Vengeance. Inspirado en la serie animada The New Batman Adventures, el título pone a Batman contra oleadas de enemigos y jefes, usando combos, ataques especiales y gadgets icónicos mientras avanza por escenarios urbanos. El juego mantiene el estilo beat 'em up, permitiendo al jugador encadenar golpes y ejecutar movimientos de artes marciales para proteger Gotham de la creciente sombra del villano Sin Tzu.",
+      "cover": "https://media.rawg.io/media/games/c75/c750d00e83b9ac6cd25891871af3e8c0.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2003-10-16"
+      },
+      "publisher": {
+        "es": "Ubisoft Entertainment"
+      },
+      "developer": {
+        "es": "Ubisoft Montreal"
+      }
     },
     {
       "id": "62ece98e",
@@ -81420,8 +81478,17 @@
       ],
       "link": "https://filecrypt.cc/Container/04BEEF5B3B.html",
       "trailer": "https://www.youtube.com/embed/4iHsr8kWv78",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nNotes\nPkg built with new emu\nFullscreen enabled\nTrue Transparency enabled\nGame works fine on 5.05, 6.72 & 9.00\nCheat enabled: Credits don’t decrease\nThis is fourth Saturn game with .cht file made by original creator of this emu shima.\n.cht file: Here\n\nFaster than a meteor, hotter than a blazing sun! You are the last son of a dying star. Command your state-of-the-art Silver Hawk attack ship, and hunt enemy squadrons to the ends of the universe! Intense shooting action! Tons of enemy-packed levels! Smart bombs! Wave lasers! Homing missiles! Multi-stage power-ups! The odds are against you… the fate of Darius lies in your hands!",
-      "cover": ""
+      "sinopsis": "Darius Gaiden (ダライアス外伝, Daraiasu Gaiden), inicialmente planeado como Darius III, es un juego de disparos tipo shoot ’em up desarrollado y publicado por Taito en 1994. Representa la tercera instalación arcade de la serie Darius, manteniendo la esencia de combate espacial contra oleadas de enemigos. El jugador controla una nave que avanza por niveles horizontales, enfrentándose a jefes mecánicos mientras dispara y esquiva proyectiles. Con un ritmo rápido y una estética que recuerda a criaturas marinas, Darius Gaiden expande la saga con nuevas fases y desafíos.",
+      "cover": "https://media.rawg.io/media/screenshots/956/9567c3d00e9e474afbcd80489bc2e44a.jpg",
+      "releaseDate": {
+        "es": "1994-09-19"
+      },
+      "publisher": {
+        "es": "Interplay Productions, CyberFront, Taito, Acclaim, Japan, Gamebank, MediaKite, Conspiracy Entertainment, BEC, Value Products Division"
+      },
+      "developer": {
+        "es": "Taito, Softgold Computerspiele, Rushware, Aisystem, Nexus Interactive"
+      }
     },
     {
       "id": "340b7f81",
@@ -81444,8 +81511,24 @@
       ],
       "link": "https://filecrypt.cc/Container/9CD4F79B43.html",
       "trailer": "https://www.youtube.com/embed/tDTKlJqJfBs",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nPut on your thinking caps and prepare to face fierce enemies! Assume the role of Garian, a sword-wielding warrior in search of his escaped prisoner, Bilan. Discover hidden treasures as you explore amazing 3D environments while navigating through a series of mind-melting puzzles!",
-      "cover": ""
+      "sinopsis": "Dark Savior es un juego de acción de desplazamiento lateral que combina combates beat‑em‑up con plataformas. Los jugadores eligen entre varios héroes, cada uno con armas y habilidades distintas, y avanzan por niveles temáticos llenos de enemigos, trampas y jefes. El título destaca por ataques cuerpo a cuerpo rápidos, combos y ocasionales disparos a distancia, requiriendo saltos precisos y buen timing para superar obstáculos. Mejoras y objetos coleccionables aumentan la fuerza del personaje, y el modo multijugador permite la cooperación entre amigos para enfrentar la creciente dificultad. Los gráficos retro y la banda sonora dinámica refuerzan la experiencia arcade.",
+      "cover": "",
+      "genre": {
+        "en": "Action, Beat 'em up, Platformer",
+        "es": "Acción, Beat 'em up, Plataforma"
+      },
+      "releaseDate": {
+        "en": "1996-02-15",
+        "es": "1996-02-15"
+      },
+      "publisher": {
+        "en": "Namco",
+        "es": "Namco"
+      },
+      "developer": {
+        "en": "Namco",
+        "es": "Namco"
+      }
     },
     {
       "id": "932474df",
@@ -81457,8 +81540,20 @@
       ],
       "link": "https://filecrypt.cc/Container/4943926DAF.html",
       "trailer": "https://www.youtube.com/embed/1ioXg6iN7kg",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new SATURN emu!\n\nSega Ages Volume 1 includes – Space Harrier, Out Run and After Burner II.\n\nEmu settings (sensor button of joypad) works fine only while gameplay of each game!",
-      "cover": ""
+      "sinopsis": "Una banda de alienígenas liderada por el imprudente Príncipe FaceBox invade la ciudad futurista de Nucleusport, lanzando desechos radiactivos de su planeta contaminado. Sólo Doc DuBrane posee la tecnología y el valor para contraatacar. El jugador controla a Doc y usa su poderoso Cañón Prisma en un shooter arcade sin fin. Se absorbe la radiación de las naves enemigas y se dispara de vuelta. El juego requiere recolectar tres colores iguales para disparar, equilibrando riesgo y recompensa. Si la radiación negra toca el suelo o a Doc, se termina la partida. Cada acción cuenta.",
+      "cover": "https://media.rawg.io/media/screenshots/857/857d6350665de7eb1c575ddd2240bd3c.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2016-07-08"
+      },
+      "publisher": {
+        "es": "New Reality Games"
+      },
+      "developer": {
+        "es": "Autonomic Interactive"
+      }
     },
     {
       "id": "a130d64b",
@@ -81469,8 +81564,17 @@
       ],
       "link": "https://filecrypt.cc/Container/32AEADBE31.html",
       "trailer": "https://www.youtube.com/embed/UiSbntiNsxM",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert! Game was tested on PS4 PRO.\n\nGear up and go! Grab your steering wheel and get ready for the race of your life! Equip your car with over 120 gadgets, including parts that help you soar above the competition or swim like a fish. Face challenging weather conditions, death-defying jumps, hairpin turns and more as you head for first place. Get ready to burn rubber with Gadget Racers!",
-      "cover": ""
+      "sinopsis": "Gadget Racers es un juego de carreras que sitúa al jugador al volante de pequeños vehículos equipados con divertidos artilugios. El objetivo principal es competir en circuitos llenos de curvas, rampas y obstáculos, intentando superar a los demás corredores mediante la velocidad y el uso estratégico de los gadgets disponibles. Cada pista ofrece retos únicos que ponen a prueba la habilidad para tomar decisiones rápidas y dominar los controles. El modo de juego permite enfrentar a la IA o a amigos en partidas locales, proporcionando una experiencia de competición dinámica y accesible para todo tipo de jugadores.",
+      "cover": "https://media.rawg.io/media/games/b67/b671edb0a8927066e8b873f83b7b2080.jpg",
+      "genre": {
+        "es": "Action, Racing"
+      },
+      "publisher": {
+        "es": "Takara, Conspiracy Entertainment"
+      },
+      "developer": {
+        "es": "Takara"
+      }
     },
     {
       "id": "f94f80e4",
@@ -81493,8 +81597,20 @@
       ],
       "link": "https://filecrypt.cc/Container/98F493B023.html",
       "trailer": "https://www.youtube.com/embed/FaYJ_k8X_Z8",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert! Thanks Stayhye (PSX Place) for old config!\n\nFlickering issue – FiXed! Widescreen patch – added!\n\nTake to the air in a game that allows players to fully experience the magical speed, power, and competition of Quidditch, the favorite sport of witches and wizards. In Harry Potter: Quidditch World Cup, you’ll experience the full complexity and exciting challenge of Quidditch, which involves two teams of seven players who fly on broomsticks, playing four balls simultaneously. You control every position on a team, including three Chasers who try to score with the Quaffle, two Beaters who control the dangerous Bludgers, the Keeper who protects the goal, and the Seeker who chases the elusive Golden Snitch that must be caught to end the match.",
-      "cover": ""
+      "sinopsis": "Dirige a una de las cuatro casas de Hogwarts —Gryffindor, Slytherin, Ravenclaw o Hufflepuff— en la competición del Copa de Quidditch de Hogwarts, entrenando a tus jugadores, planificando tácticas y buscando la victoria en cada partido. Tras conquistar la copa escolar, puedes escoger un equipo internacional, desde Irlanda hasta Brasil, y aplicar las habilidades adquiridas para enfrentarte a los mejores equipos del mundo en la Copa Mundial de Quidditch, donde cada lanzamiento y atrapada cuentan para alzarte como campeón global.",
+      "cover": "https://media.rawg.io/media/games/477/47700e321facfd148188a09c2408811f.jpg",
+      "genre": {
+        "es": "Action, Sports, Arcade"
+      },
+      "releaseDate": {
+        "es": "2003-10-28"
+      },
+      "publisher": {
+        "es": "Electronic Arts, EA SPORTS"
+      },
+      "developer": {
+        "es": "Electronic Arts, EA UK, Magic Pockets, Visual Science"
+      }
     },
     {
       "id": "a7551604",
@@ -81506,8 +81622,20 @@
       ],
       "link": "https://www.mediafire.com/file/zwpi475qmc56gns/UP9000-SLES53727_00-SLES537270000001-A0100-V0100.pkg/file",
       "trailer": "https://www.youtube.com/embed/Y3vAYwpuXoM",
-      "sinopsis": "Note\nGame was tested on PS4 PRO.\nAnother experimental PS2toPS4 convert.\nOriginal PAL versions of game!\n\nFor change discs hold PS button and pick disc with game, after it press circle button!\n\nFlickering issue – FiXed! Widescreen patch – added!",
-      "cover": ""
+      "sinopsis": "Harry, Ron y Hermione regresan en *Harry Potter y el Cáliz de Fuego*, una adaptación del cuarto libro de J.K. Rowling. El juego sigue al joven mago mientras enfrenta a un dragón escupe‑fuego, rescata a sus amigos de las heladas profundidades del Lago Negro y atraviesa los sinuosos pasillos de un laberinto encantado. Puedes controlar a Harry, Ron o Hermione, lanzar una amplia variedad de hechizos y cooperar con otros jugadores o jugar en solitario, combinando acción, estrategia y exploración mágica.",
+      "cover": "https://media.rawg.io/media/games/a8e/a8e0c12408935ae410a64ceb98a68e19.jpg",
+      "genre": {
+        "es": "Arcade"
+      },
+      "releaseDate": {
+        "es": "2005-11-08"
+      },
+      "publisher": {
+        "es": "Electronic Arts"
+      },
+      "developer": {
+        "es": "Electronic Arts, EA UK, Electronic Arts UK"
+      }
     },
     {
       "id": "abc0a156",
@@ -81519,8 +81647,20 @@
       ],
       "link": "https://www.mediafire.com/file/ecn7p6tge2y3i8m/UP9000-SLES52440_00-SLES524400000001-A0100-V0100.pkg/file",
       "trailer": "https://www.youtube.com/embed/TxNVDkZ3Mn8",
-      "sinopsis": "GamePlay Video (PS4 Pro Short GamePlay + Debug Menu!) – Here\n\nNote\nGame was tested on PS4 PRO.\nAnother experimental PS2toPS4 convert.\nOriginal PAL versions of game!\n\nFor change discs hold PS button and pick disc with game, after it press circle button!",
-      "cover": ""
+      "sinopsis": "Los Dementores se acercan y Harry debe confiar en sus amigos. Desde el tren Hogwarts Express hasta el clímax en la orilla del gran lago, acompañas a Harry, Ron y Hermione mientras intentan detener al temido prisionero. En el juego deberás enfrentar a los guardianes de Azkaban, volar sobre la torre en un hipogrifo y explorar Hogwarts usando el Mapa del Merodeador. Aprenderás hechizos para congelar criaturas, controlar dragones y conjurar un Patronus. Además, el modo multijugador incluye minijuegos de Pesca de Caballitos de Mar Voladores y del Club de Duelo.",
+      "cover": "https://media.rawg.io/media/games/a92/a92fed7dd3f4d70b59896169da5b3660.jpg",
+      "genre": {
+        "es": "Action, Arcade, Platformer"
+      },
+      "releaseDate": {
+        "es": "2004-06-01"
+      },
+      "publisher": {
+        "es": "Electronic Arts"
+      },
+      "developer": {
+        "es": "KnowWonder, Electronic Arts UK"
+      }
     },
     {
       "id": "bbec21f2",
@@ -81532,8 +81672,20 @@
       ],
       "link": "https://filecrypt.cc/Container/7135F56560.html",
       "trailer": "https://www.youtube.com/embed/Zyoe0lA2Gv8",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert! Thanks Stayhye (PSX Place) for old config!\n\nPerformance fix! Works fine! Still has slight slowdown in some heavy intense areas!\n\nCreated in a covert laboratory by splicing DNA from the strongest and most skilled soldiers, the “Omega Soldier” has been given the strength and weapon skills to become the Tan army’s worst high-tech threat!\nArmy Men®: Green Rogue™ incorporates a 3rd person shooter with coin-op shoot ’em style gameplay that will raise the heartbeat of anyone who dares to accept the challenge.",
-      "cover": ""
+      "sinopsis": "Durante los eventos de Army Men: Sarge's Heroes, la Nación Verde crea al Soldado Omega, un supersoldado con ADN de todos los comandos de la Compañía Bravo. Asumes su papel cuando, al ser transportado en helicóptero del laboratorio a una base de entrenamiento, la nave es emboscada por dos helicópteros Tan y se estrella, matando a todos salvo al Soldado Omega, que despierta sin saber cómo. Abandonado tras la caída, debe lanzar una ofensiva en solitario contra el Ejército Tan. El juego es un shooter arcade cuyo estilo de juego difiere ligeramente de entregas anteriores.",
+      "cover": "https://media.rawg.io/media/screenshots/155/1559348647b34c6a929da585baffb96a.jpg",
+      "genre": {
+        "es": "Action, Shooter"
+      },
+      "releaseDate": {
+        "es": "2001-03-20"
+      },
+      "publisher": {
+        "es": "The 3DO Company"
+      },
+      "developer": {
+        "es": "The 3DO Company"
+      }
     },
     {
       "id": "446648f6",
@@ -81544,8 +81696,20 @@
       ],
       "link": "https://filecrypt.cc/Container/AE19D96310.html",
       "trailer": "https://www.youtube.com/embed/5R0e4iE5zVA",
-      "sinopsis": "Much Graphical bugs – FiXed! Not tested much! One of stages (Space Channel 5) have weird freeze issue (freeze for 5 sec)! In general game seems – playble!\n\nLanguages : English, French, German, Italian, Spanish\n\nSEGA Superstars Tennis includes over 15 playable SEGA characters – like Sonic The Hedgehog, AiAi from Super Monkey Ball fame, Ulala of Space Channel 5 and Amigo from Samba De Amigo, each of whom have their own unique attributes, and superstar tennis skills. The game’s arcade style matches are played out on courts based on environments from Sega games of the past such as the lush tropics of Sonic’s Green Hill Zone or the street fair fiesta of Amigo’s Carnival Park to name a few.",
-      "cover": ""
+      "sinopsis": "En Sega Superstars Tennis, los icónicos héroes de SEGA, como Sonic, Aiai, NiGHTS, Ulala y Beat, se enfrentan en un torneo de tenis lleno de locura. Cada personaje conserva su personalidad y habilidades especiales, que pueden usar para lanzar golpes sorprendentes. Los partidos se disputan en pistas extravagantes, desde discotecas de DJ hasta cementerios infestados de zombis, donde la acción es impredecible y el caos aparece en cada esquina. Además, el juego incluye divertidos minijuegos y modos de fiesta que aprovechan los poderes de superestrella para lograr ases ganadores.",
+      "cover": "https://media.rawg.io/media/screenshots/ccd/ccd8934a4786b0b942e9408db32a8f09.jpg",
+      "genre": {
+        "es": "Sports, Family"
+      },
+      "releaseDate": {
+        "es": "2008-03-17"
+      },
+      "publisher": {
+        "es": "SEGA, Feral Interactive"
+      },
+      "developer": {
+        "es": "Feral Interactive, Sumo Digital"
+      }
     },
     {
       "id": "3f57e302",
@@ -81557,8 +81721,17 @@
       ],
       "link": "https://filecrypt.cc/Container/17F9C6171F.html",
       "trailer": "https://www.youtube.com/embed/iflQTqnMYb4",
-      "sinopsis": "Note: Experimental converts for PS4. Package build with PSP emu! Thanks Stayhye (PSX Place) for old config!\n\nPrinny 2 is a side scrolling hack and slash action game. Players will control demonic penguins, Prinnies, who are known as the “weakest monsters in the Netherworld.” Players can run, jump, slash, execute special skills, and ride tanks or jets to battle enemies. The Prinnies’ mission is to find Demon Lord Etna’s stolen panties! If they fail… Etna will turn THEM into panties! As an extra bonus, a whole new main character and story become available after you complete the main game.",
-      "cover": ""
+      "sinopsis": "Los Prinnies reciben una nueva misión de su siniestra maestra, la Demonio Etna, quien les encarga recuperar sus braguitas. El jugador dirige al escuadrón de mil diminutos Prinnies, avanzando por niveles que se transforman según la hora del día. Cada escenario ofrece enemigos familiares y jefes nuevos que deben ser derrotados con ataques rápidos y combos de corte. Además, se rumorea la aparición de Asagi, añadiendo un desafío extra. La combinación de exploración temporal y combates frenéticos crea una experiencia caótica y divertida centrada en la absurda misión de Etna.",
+      "cover": "https://media.rawg.io/media/screenshots/3cb/3cbb99d1ff101d10d01e78e7aee098e5.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2010-03-25"
+      },
+      "developer": {
+        "es": "NIS America"
+      }
     },
     {
       "id": "5c5bc95d",
@@ -81569,8 +81742,17 @@
       ],
       "link": "https://filecrypt.cc/Container/CD0F5395A1.html",
       "trailer": "https://www.youtube.com/embed/nstNzETKiCM",
-      "sinopsis": "Note: Experimental converts for PS4. Package build with PSP emu! Thanks Stayhye (PSX Place) for old config!\n\nPrinny will be the most heart-pounding and challenging side-scrolling action game ever. Players will control an unlucky penguin dude called a Prinny and slash their way through various Netherworlds. For this tough-as-nails action game, you’re given 1000 units to accomplish your mission, but even with those 1000 units you will have to use everything you find on the battlefield to survive. Lift and throw objects, stomp enemies, even pilot tanks and planes to bombard whatever gets in your way!",
-      "cover": ""
+      "sinopsis": "En Prinny: Can I Really Be The Hero, el protagonista es un Prinny, una criatura con aspecto de pingüino desafortunado, que debe atravesar varios Netherworlds en una frenética acción lateral. Con solo 1000 unidades de recursos, el jugador debe gestionar su misión usando todo lo que encuentre: levantar y lanzar objetos, aplastar enemigos y, cuando sea posible, tomar el control de tanques y aviones para bombardeos masivos. Cada nivel exige rapidez y precisión, mientras el Prinny corta, salta y se abre paso entre peligrosos obstáculos, ofreciendo una experiencia de acción intensa y desafiante.",
+      "cover": "https://media.rawg.io/media/screenshots/de5/de5e71b6e827f60cfc789857696a73c6.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2009-10-01"
+      },
+      "developer": {
+        "es": "NIS America"
+      }
     },
     {
       "id": "8728c9b3",
@@ -81598,8 +81780,20 @@
       ],
       "link": "https://filecrypt.cc/Container/FF036E8867.html",
       "trailer": "https://www.youtube.com/embed/wHDHyHuVGrs",
-      "sinopsis": "Note\nExperimental convert for PS4.\nPlease remember, the Sony “OFFICIAL” emulator allows save states, access this feature by pressing the OPTIONS button on your controller.\nThis is a multi disc package. To change discs, press the OPTIONS button on your controller and go down to Change Disc. Disc 1 is Leon, Disc 2 is Claire.\n\nSLUS00421 – USA (@Alphai7ssd)(Resident Evil: Survivor Redux – The Church)\n\nResident Evil: Survivor Redux is a mod for Resident Evil 2 that aims to recreate Survivor into the RE2 engine and framework, making the game play more like the old traditional Resident Evil games on PS1.",
-      "cover": ""
+      "sinopsis": "En Raccoon City algo está terriblemente mal: un virus mutagénico se ha escapado y ha convertido a la población en una pesadilla. Zombis sedientos de sangre y grotescas mutaciones invaden las calles, sumiendo a la comunidad en el caos. Los agentes Leon S. Kennedy y Claire Redfield llegan buscando respuestas, pero pronto descubren que su pesadilla apenas comienza. El jugador debe guiarlos a través de laberínticos corredores, resolver acertijos y enfrentarse a hordas mortales, tomando decisiones que determinarán su destino en este clásico de horror de supervivencia.",
+      "cover": "https://media.rawg.io/media/games/d64/d646810b629081cc12aec49ed9f49441.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "1998-01-21"
+      },
+      "publisher": {
+        "es": "Capcom"
+      },
+      "developer": {
+        "es": "Capcom, GOG"
+      }
     },
     {
       "id": "1e73d466",
@@ -81612,8 +81806,24 @@
       ],
       "link": "https://1fichier.com/?6lc2q1irmn6ru4m9prfg",
       "trailer": "https://www.youtube.com/embed/ihMnwayX2EM",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new emu! Works very well!\n\nRide like 10-time World Vert Chamption Mat Hoffman or 7 other BMX pros. Pull off over 200 tricks and combo moves, including pro-signature moves. Shred through Street, Vert and Dirt courses with 4 different game modes to choose from.",
-      "cover": ""
+      "sinopsis": "Mat Hoffman's Pro BMX coloca al jugador en los zapatos del legendario ciclista de BMX Mat Hoffman mientras compite en una serie de pistas extremas. El juego sigue una narrativa simple de avanzar desde parques locales hasta concursos nacionales y campeonatos de freestyle, encontrando a rivales y aprendiendo nuevos trucos. Puedes personalizar al corredor, desbloquear bicicletas y ejecutar combinaciones de acrobacias mediante un sistema de botones que premia la precisión y el ritmo. El énfasis está en carreras rápidas, saltos llenos de estilo y la competencia contra la IA o amigos en modo de pantalla dividida.",
+      "cover": "",
+      "genre": {
+        "en": "Sports, Extreme Sports",
+        "es": "Deportes, Deportes extremos"
+      },
+      "releaseDate": {
+        "en": "2001-11-15",
+        "es": "2001-11-15"
+      },
+      "publisher": {
+        "en": "Activision",
+        "es": "Activision"
+      },
+      "developer": {
+        "en": "Runecraft",
+        "es": "Runecraft"
+      }
     },
     {
       "id": "54802a1c",
@@ -81625,8 +81835,24 @@
       ],
       "link": "https://filecrypt.cc/Container/9CDCAE6309.html",
       "trailer": "https://www.youtube.com/embed/mHwQmXbQLC4",
-      "sinopsis": "Note: Experimental convert for PS4. Package build with new emu! Works ok!\n\nAnnoyd issue like syncing and missing sound in cutscenes – FiXed! But drops still will be! Gameplay looks fine!\n\nIt’s puppy power to the rescue! As Oddball or Domino, it’s up to you to rescue your captured puppy friends from the evil clutches of Cruella De Vil and her army of pet-napping toys!",
-      "cover": ""
+      "sinopsis": "En 102 Dálmatas: Cachorros al Rescate, los jugadores controlan a uno de los cachorros dálmatas que han escapado del plan de Cruella de Vil para reunir a sus familias en Londres. El juego lleva a los cachorros por calles y parques icónicos, donde deben saltar plataformas, evitar obstáculos y resolver puzles sencillos mientras se enfrentan a los secuaces de la villana. Cada cachorro tiene habilidades especiales que permiten encontrar objetos ocultos y desbloquear nuevas zonas. Esta aventura de desplazamiento lateral combina una historia alegre con una jugabilidad accesible para todas las edades.",
+      "cover": "",
+      "genre": {
+        "en": "Action-adventure, Platformer",
+        "es": "Acción‑aventura, Plataformas"
+      },
+      "releaseDate": {
+        "en": "1999-11-04",
+        "es": "1999-11-04"
+      },
+      "publisher": {
+        "en": "Disney Interactive Studios",
+        "es": "Disney Interactive Studios"
+      },
+      "developer": {
+        "en": "Crystal Dynamics",
+        "es": "Crystal Dynamics"
+      }
     },
     {
       "id": "390fad8e",
@@ -81639,8 +81865,20 @@
       ],
       "link": "https://filecrypt.cc/Container/470599BF6B.html",
       "trailer": "https://www.youtube.com/embed/aERNtUXM-D4",
-      "sinopsis": "EURO versions of game! Now you can play with various languges! Port of config from NTSC to PAL Version!\n\nFreeze while game boot – FiXed! Widescreen patch – added!\n\nEnglish, French, Spanish and Russian lang have own audio dub! Some bug with italian, while gameplay npc is silent! Probably game bug!",
-      "cover": ""
+      "sinopsis": "Made Man ofrece una visión inédita del crimen organizado al ponerte en la piel de Joey Verola, siguiendo sus pasos desde la jungla de Vietnam devastada por la guerra hasta su ascenso sangriento dentro de la mafia neoyorquina. La historia, basada en hechos reales, se apoya en música licenciada de los años 60, 70 y 80. El juego sumerge al jugador en combates feroces, diálogos crudos y un amplio arsenal ilegal, alimentando la furia de Joey. Su búsqueda definitiva de honor familiar y venganza mantiene al fanático de los shooters de acción pegado a la pantalla.",
+      "cover": "https://media.rawg.io/media/games/4ad/4ad706eceb6344df91d712966bbd874c.jpg",
+      "genre": {
+        "es": "Action, Shooter, Adventure"
+      },
+      "releaseDate": {
+        "es": "2006-11-06"
+      },
+      "publisher": {
+        "es": "Mastertronic"
+      },
+      "developer": {
+        "es": "Silverback Studios"
+      }
     },
     {
       "id": "94020a22",
@@ -81651,8 +81889,20 @@
       ],
       "link": "https://filecrypt.cc/Container/10AC88AF4E.html",
       "trailer": "https://www.youtube.com/embed/aQY4BfeckfU",
-      "sinopsis": "Note: Another experimental PS2toPS4 convert. Thanks Stayhye (PSX Place) for original (ntsc) config with freeze FiX!\n\nStage named “Jungle Boogie” finaly – FiXed! (was freezed before!) Widescreen patch – added!\n\nOn some stages not stable framerate, but if you push L1 + D-pad Up before race on loading screen, you can activate 3 Opponents Races cheat! With this cheat you can earn some more performance! If you want get back 8 opponents on race, just quit stage and load it again!",
-      "cover": ""
+      "sinopsis": "Crash Nitro Kart sigue a Crash Bandicoot y a varios personajes del universo, quienes son secuestrados por el dictador Emperor Velo XXVII. Él los obliga a competir en su enorme coliseo, amenazando con destruir la Tierra si se niegan. Los corredores deben usar karts con armas y habilidades especiales, mientras el juego ofrece un sistema de derrape llamado “power slide” que permite tomar curvas rápidamente. Aunque el título se presenta como un kart‑racer genérico, la combinación de personajes icónicos y la presión del coliseo crean una experiencia de carrera frenética y estratégica.",
+      "cover": "https://media.rawg.io/media/games/547/547918a60227b9ed6d589c3dbd3a2e62.jpg",
+      "genre": {
+        "es": "Racing"
+      },
+      "releaseDate": {
+        "es": "2003-11-11"
+      },
+      "publisher": {
+        "es": "Vivendi Games"
+      },
+      "developer": {
+        "es": "Vicarious Visions"
+      }
     },
     {
       "id": "f5e1ceb2",
