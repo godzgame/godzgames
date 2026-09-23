@@ -37,16 +37,25 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
-      # 5. Commit solo si hay cambios en noticias o imágenes
+      # 4.5. Generar Sugerencias de Afiliados con Groq y Mercado Libre
+      - name: Generate Affiliate Suggestions (generate_affiliate_suggestions.cjs)
+        run: node scripts/generate_affiliate_suggestions.cjs
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+
+      # 5. Commit solo si hay cambios en noticias, sugerencias de afiliados o imágenes
       - name: Commit news changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/latest_news.json
+          git add src/data/affiliate-suggestions.json
           git add public/uploads/
           git diff --staged --quiet \
-            && echo "Sin cambios en noticias, continuando con build..." \
-            || git commit -m "Auto-update: Noticias frescas generadas por Groq [skip ci]"
+            && echo "Sin cambios en noticias o sugerencias, continuando con build..." \
+            || git commit -m "Auto-update: Noticias y sugerencias de afiliados generadas por Groq [skip ci]"
           git push || echo "Nada que empujar."
 
       # 6. Compilar el proyecto (genera dist/)

@@ -1317,23 +1317,25 @@ Output ONLY valid JSON:
   };
 
   const loadSavedAffiliates = async () => {
-    const token = localStorage.getItem('godzgames-admin-token');
     const tbody = document.getElementById('admin-saved-affiliates-tbody');
     if (!tbody) return;
     
     try {
-      const res = await fetch('/api/admin/affiliates', {
-        headers: { 'Authorization': `Bearer ${token}` }
-      });
-      if (!res.ok) throw new Error('Error loading affiliates');
-      const data = await res.json();
+      let data = [];
+      try {
+        const res = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliates.json?t=' + Date.now());
+        if (res.ok) data = await res.json();
+      } catch (e) {
+        const localRes = await fetch('/src/data/affiliates.json?t=' + Date.now());
+        if (localRes.ok) data = await localRes.json();
+      }
       
-      if (data.length === 0) {
+      if (!Array.isArray(data) || data.length === 0) {
         tbody.innerHTML = '<tr><td colspan="3" style="text-align:center;">No hay enlaces guardados.</td></tr>';
         return;
       }
       
-      tbody.innerHTML = data.reverse().map(item => `
+      tbody.innerHTML = [...data].reverse().map(item => `
         <tr>
           <td>
             <div style="display:flex; align-items:center; gap:10px;">
@@ -1345,7 +1347,7 @@ Output ONLY valid JSON:
             </div>
           </td>
           <td><a href="${item.link}" target="_blank" style="color:var(--color-primary); text-decoration:underline;">Ver Enlace</a></td>
-          <td>${new Date(item.savedAt).toLocaleDateString()}</td>
+          <td>${item.savedAt ? new Date(item.savedAt).toLocaleDateString() : 'N/A'}</td>
         </tr>
       `).join('');
     } catch (err) {
@@ -1358,46 +1360,33 @@ Output ONLY valid JSON:
     const btn = document.getElementById('admin-generate-affiliates-btn');
     if (!btn) return;
     
-    btn.addEventListener('click', async (e) => {
-      e.preventDefault();
+    const loadSuggestions = async () => {
       const statusEl = document.getElementById('admin-affiliates-status');
       const gridEl = document.getElementById('admin-affiliates-grid');
-      const token = localStorage.getItem('godzgames-admin-token');
-      const groqKey = localStorage.getItem('godzgames-groq-key') || document.getElementById('admin-groq-key-input')?.value.trim();
-      
-      if (!groqKey) {
-        statusEl.className = 'admin-status-message error';
-        statusEl.textContent = '❌ Falta la API Key de Groq. Cierra sesión e ingrésala en el login.';
-        statusEl.style.display = 'block';
-        return;
-      }
       
       statusEl.className = 'admin-status-message';
-      statusEl.textContent = '⏳ Analizando noticias y buscando productos en Mercado Libre... (Toma unos 15-30 seg)';
+      statusEl.textContent = '⏳ Cargando sugerencias del día...';
       statusEl.style.display = 'block';
       gridEl.innerHTML = '';
       
       try {
-        const res = await fetch('/api/admin/affiliate-suggestions', {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${token}`,
-            'x-groq-key': groqKey,
-            'Content-Type': 'application/json'
-          }
-        });
+        let data = [];
+        try {
+          const res = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliate-suggestions.json?t=' + Date.now());
+          if (res.ok) data = await res.json();
+        } catch (e) {
+          const localRes = await fetch('/src/data/affiliate-suggestions.json?t=' + Date.now());
+          if (localRes.ok) data = await localRes.json();
+        }
         
-        const data = await res.json();
-        if (!res.ok) throw new Error(data.error || 'Error al generar sugerencias');
-        
-        if (data.length === 0) {
+        if (!Array.isArray(data) || data.length === 0) {
           statusEl.className = 'admin-status-message error';
-          statusEl.textContent = 'No se encontraron sugerencias de productos para las noticias actuales.';
+          statusEl.textContent = 'No hay sugerencias de afiliados disponibles. Se actualizarán automáticamente en la próxima ejecución del workflow.';
           return;
         }
         
         statusEl.className = 'admin-status-message success';
-        statusEl.textContent = `✅ ¡${data.length} sugerencias generadas!`;
+        statusEl.textContent = `✅ ¡${data.length} sugerencias del día cargadas!`;
         
         gridEl.innerHTML = data.map(item => `
           <div class="admin-card" style="display:flex; flex-direction:column; gap:10px;">
@@ -1426,41 +1415,87 @@ Output ONLY valid JSON:
           </div>
         `).join('');
         
-        // Add save listeners
-        document.querySelectorAll('.save-affiliate-btn').forEach(btn => {
-          btn.addEventListener('click', async (e) => {
+        // Add save listeners (commits directly to GitHub API using personal access token)
+        document.querySelectorAll('.save-affiliate-btn').forEach(saveBtn => {
+          saveBtn.addEventListener('click', async (e) => {
             const id = e.target.dataset.id;
             const linkInput = document.getElementById(`affiliate-link-${id}`);
-            const link = linkInput.value.trim();
+            const link = linkInput ? linkInput.value.trim() : '';
             if (!link) return alert('Pega un enlace de afiliado primero');
             
+            const tokenInput = document.getElementById('admin-github-token-input');
+            const githubToken = (tokenInput && tokenInput.value.trim()) ? tokenInput.value.trim() : localStorage.getItem('godzgames-github-token') || '';
+            
+            if (!githubToken) {
+              return alert('Para guardar enlaces globalmente, necesitas ingresar tu "GitHub Token" en la pantalla de acceso del administrador.');
+            }
+            
             const item = data.find(d => d.id === id);
-            e.target.textContent = '...';
+            e.target.textContent = 'Guardando...';
+            e.target.disabled = true;
             
             try {
-              const saveRes = await fetch('/api/admin/affiliates', {
-                method: 'POST',
+              const repoUrl = 'https://api.github.com/repos/godzgame/godzgames/contents/src/data/affiliates.json';
+              
+              // 1. Get current file and sha from GitHub
+              let currentAffiliates = [];
+              let fileSha = null;
+              
+              try {
+                const getRes = await fetch(repoUrl, {
+                  headers: { 'Authorization': `token ${githubToken}` }
+                });
+                if (getRes.ok) {
+                  const getJson = await getRes.json();
+                  fileSha = getJson.sha;
+                  const decodedText = decodeURIComponent(escape(atob(getJson.content.replace(/\n/g, ''))));
+                  currentAffiliates = JSON.parse(decodedText);
+                }
+              } catch (getErr) {
+                console.warn('No se pudo obtener affiliates.json existente de GitHub:', getErr);
+              }
+              
+              // 2. Add new item
+              currentAffiliates.push({
+                productId: item.id,
+                title: item.title,
+                link,
+                generatedText: item.generatedText,
+                price: item.price,
+                thumbnail: item.thumbnail,
+                savedAt: new Date().toISOString()
+              });
+              
+              // 3. Commit new content to GitHub
+              const newContent = JSON.stringify(currentAffiliates, null, 2);
+              const base64Content = btoa(unescape(encodeURIComponent(newContent)));
+              
+              const putRes = await fetch(repoUrl, {
+                method: 'PUT',
                 headers: {
-                  'Authorization': `Bearer ${token}`,
+                  'Authorization': `token ${githubToken}`,
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                  productId: item.id,
-                  title: item.title,
-                  link,
-                  generatedText: item.generatedText,
-                  price: item.price,
-                  thumbnail: item.thumbnail
+                  message: `Admin: Guardar enlace de afiliado para ${item.title}`,
+                  content: base64Content,
+                  sha: fileSha || undefined
                 })
               });
               
-              if (!saveRes.ok) throw new Error();
+              if (!putRes.ok) {
+                const errJson = await putRes.json().catch(() => ({}));
+                throw new Error(errJson.message || 'Error de permisos en GitHub');
+              }
+              
               e.target.textContent = '¡Guardado!';
               e.target.className = 'admin-btn-save';
               setTimeout(() => loadSavedAffiliates(), 500);
             } catch (err) {
-              alert('Error al guardar el enlace');
+              console.error(err);
+              alert('Error al guardar el enlace: ' + err.message);
               e.target.textContent = 'Guardar';
+              e.target.disabled = false;
             }
           });
         });
@@ -1469,6 +1504,11 @@ Output ONLY valid JSON:
         statusEl.className = 'admin-status-message error';
         statusEl.textContent = '❌ ' + err.message;
       }
+    };
+    
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      loadSuggestions();
     });
   };
 
@@ -1499,6 +1539,8 @@ Output ONLY valid JSON:
           // Custom triggers
           if (tab.id === 'tab-btn-affiliates') {
             loadSavedAffiliates();
+            const genBtn = document.getElementById('admin-generate-affiliates-btn');
+            if (genBtn) genBtn.click();
           }
         });
       }

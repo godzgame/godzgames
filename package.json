@@ -4,7 +4,8 @@
   "description": "GodZGames - Static site, no backend required",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/update_news.cjs && node scripts/generate_rss.cjs && vite build",
+    "generate:suggestions": "node scripts/generate_affiliate_suggestions.cjs",
+    "build": "node scripts/update_news.cjs && node scripts/generate_affiliate_suggestions.cjs && node scripts/generate_rss.cjs && vite build",
     "preview": "vite preview"
   },
   "keywords": [],
