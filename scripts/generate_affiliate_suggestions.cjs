@@ -71,7 +71,7 @@ async function getMercadoLibreAccessToken() {
   return null;
 }
 
-// --- Buscar productos reales en la API oficial de Mercado Libre ---
+// --- Buscar productos reales en la API oficial de Mercado Libre (Sin datos por defecto) ---
 async function fetchRealMercadoLibreProducts(kw, accessToken) {
   const items = [];
   const headers = { 'Accept': 'application/json' };
@@ -102,7 +102,38 @@ async function fetchRealMercadoLibreProducts(kw, accessToken) {
             timeout: 10000
           });
           const p = pRes.data;
-          const price = p.buy_box_winner?.price || p.price || null;
+
+          // Extraer PRECIO REAL (sin || 999 fallback ficticio)
+          let realPrice = p.buy_box_winner?.price || p.price || null;
+
+          if (!realPrice || typeof realPrice !== 'number' || realPrice <= 0) {
+            // Intentar obtener el precio real consultando los ítems asociados al producto de catálogo
+            try {
+              const itemsRes = await axios.get(`https://api.mercadolibre.com/products/${c.id}/items`, {
+                headers,
+                timeout: 10000
+              });
+              const firstItemPrice = itemsRes.data?.results?.[0]?.price;
+              if (firstItemPrice && typeof firstItemPrice === 'number' && firstItemPrice > 0) {
+                realPrice = firstItemPrice;
+              }
+            } catch (itemErr) {
+              // Si no se puede obtener precio de ítems, no se fuerza nada
+            }
+          }
+
+          // REGLA ESTRICTA 1: Si no hay precio real disponible de la API, OMITE el producto por completo.
+          if (!realPrice || typeof realPrice !== 'number' || realPrice <= 0) {
+            console.log(`  -> Omitiendo producto "${p.name}" porque no cuenta con precio real en la API.`);
+            continue;
+          }
+
+          // Extraer RATING REAL (null si no existe, NUNCA || 4.8)
+          const realRating = (typeof p.rating === 'number' && p.rating > 0) ? p.rating : null;
+
+          // Extraer VENTAS REALES (null si no existe, NUNCA número inventado)
+          const realSoldQuantity = (typeof p.sold_quantity === 'number' && p.sold_quantity > 0) ? p.sold_quantity : null;
+
           const thumbnail = p.pictures?.[0]?.url || null;
           const permalink = `https://www.mercadolibre.com.mx/p/${p.id}`;
 
@@ -110,15 +141,15 @@ async function fetchRealMercadoLibreProducts(kw, accessToken) {
             items.push({
               id: p.id,
               title: p.name,
-              price: price || 999,
+              price: realPrice,
               permalink,
               thumbnail,
-              rating: 4.8,
-              soldQuantity: null
+              rating: realRating,
+              soldQuantity: realSoldQuantity
             });
           }
         } catch (pErr) {
-          console.warn(`  -> Error obteniendo producto ${c.id}:`, pErr.message);
+          console.warn(`  -> Error obteniendo detalles del producto ${c.id}:`, pErr.message);
         }
       }
     }
@@ -130,7 +161,7 @@ async function fetchRealMercadoLibreProducts(kw, accessToken) {
 }
 
 async function generateAffiliateSuggestions() {
-  console.log('🚀 Iniciando generación de sugerencias de afiliados (Estricto: Solo API oficial Mercado Libre)...');
+  console.log('🚀 Iniciando generación de sugerencias de afiliados (Estricto: Precios Reales & Texto Editorial)...');
 
   if (!GROQ_API_KEY) {
     console.warn('⚠️ GROQ_API_KEY no encontrada en las variables de entorno.');
@@ -206,30 +237,34 @@ Desc: ${desc}`;
     const items = await fetchRealMercadoLibreProducts(kw, accessToken);
 
     if (items.length === 0) {
-      console.log(`  -> No se encontraron productos reales en la API oficial para "${kw}". Omitiendo.`);
+      console.log(`  -> No se encontraron productos con datos de precio completos en la API oficial para "${kw}". Omitiendo.`);
       continue;
     }
 
-    console.log(`  -> API oficial devolvió ${items.length} productos reales.`);
+    console.log(`  -> API oficial devolvió ${items.length} productos reales con precio validado.`);
 
-    // 5. Redactar sugerencia con Groq SOLO para productos reales de la API
+    // 5. Redactar sugerencia en TERCERA PERSONA EDITORIAL (Prohibida la primera persona)
     for (const item of items) {
-      const rating = item.rating || null;
-      const soldQuantity = item.soldQuantity || null;
+      const rating = item.rating;
+      const soldQuantity = item.soldQuantity;
       const itemTitle = item.title;
       const itemPrice = item.price;
       const permalink = item.permalink;
       const thumbnail = item.thumbnail;
       const id = item.id;
 
-      const copyPrompt = `Escribe una recomendación genuina, corta y natural (2 a 3 líneas máximo) en español para este producto.
+      const copyPrompt = `Escribe una recomendación corta, objetiva e informativa (2 a 3 líneas máximo) en español para este producto de e-commerce.
+
 Producto: ${itemTitle}
-Precio: $${itemPrice}
-${rating ? 'Calificación: ' + rating + ' estrellas\n' : ''}${soldQuantity ? 'Vendidos: ' + soldQuantity + '\n' : ''}
-REGLAS MUY IMPORTANTES:
-- Si el producto tiene calificación o ventas listadas arriba, menciónalo sutilmente para dar confianza.
-- Si NO tiene calificación o ventas listadas arriba, redacta el texto basándote solo en el nombre y categoría del producto, SIN INVENTAR ningún número de ventas o estrellas que no exista.
-- NO suenes a anuncio robótico de TV ("¡Compra ya!", "¡Increíble oferta!"). Suena como una persona real haciendo una recomendación amigable.`;
+Precio real confirmado: $${itemPrice} MXN
+${rating ? 'Calificación real confirmada: ' + rating + ' estrellas\n' : ''}${soldQuantity ? 'Ventas reales confirmadas: ' + soldQuantity + '\n' : ''}
+
+REGLAS STRICTAS OBLIGATORIAS:
+1. Escribe en TERCERA PERSONA (estilo reseña o resumen editorial informativo).
+2. PROHIBIDO EN SU TOTALIDAD usar primera persona (palabras como "probé", "he usado", "me encanta", "mi experiencia", "comprobé", "en mi opinión", "recomiendo personalmente").
+3. NO afirmes ni insinúes haber comprado, probado o usado físicamente el producto.
+4. Si hay calificación o ventas reales listadas arriba, menciónalas fáctica y sobriamente en tercera persona. Si NO hay calificación o ventas listadas arriba, NO inventes ni menciones ningún número de estrellas o ventas.
+5. Mantén un tono neutral, profesional, informativo y útil para el lector.`;
 
       try {
         const copyText = await callGroq([{ role: 'user', content: copyPrompt }]);
@@ -246,7 +281,7 @@ REGLAS MUY IMPORTANTES:
           generatedText: copyText.trim()
         });
 
-        console.log(`  -> Sugerencia creada para producto real ML: "${itemTitle.substring(0, 45)}..."`);
+        console.log(`  -> Sugerencia creada para producto real ML: "${itemTitle.substring(0, 45)}..." ($${itemPrice})`);
       } catch (copyErr) {
         console.error(`  -> Error generando texto para "${itemTitle}":`, copyErr.message);
       }
@@ -255,7 +290,7 @@ REGLAS MUY IMPORTANTES:
     }
   }
 
-  // 6. Guardar SOLO los productos reales de la API
+  // 6. Guardar SOLO los productos reales comprobados
   const targetDir = path.dirname(SUGGESTIONS_FILE);
   if (!fs.existsSync(targetDir)) {
     fs.mkdirSync(targetDir, { recursive: true });
