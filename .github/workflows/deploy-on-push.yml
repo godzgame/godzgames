@@ -30,7 +30,11 @@ jobs:
         run: npm ci
 
       - name: Build Project
-        run: npx vite build
+        run: npm run build
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
 
       - name: Deploy to SiteGround via Direct FTP
         run: node scripts/deploy_direct.cjs
