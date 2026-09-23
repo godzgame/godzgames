@@ -31,29 +31,12 @@ async function deploy() {
         const initialPwd = await client.pwd();
         console.log(`📂 PWD inicial: "${initialPwd}"`);
 
-        const parentTree = [];
-        try {
-            console.log("🔍 Inspeccionando directorio padre (cd ..)...");
-            await client.cd("..");
-            const parentPwd = await client.pwd();
-            console.log(`📂 PWD Padre: "${parentPwd}"`);
-            const parentList = await client.list();
-            parentList.forEach(item => {
-                const line = `[PADRE] [${item.isDirectory ? 'DIR ' : 'FILE'}] ${item.name}`;
-                console.log(line);
-                parentTree.push(line);
-            });
-            // Volver a initialPwd
-            await client.cd(initialPwd);
-        } catch (e) {
-            console.log(`⚠️ No se pudo explorar directorio padre: ${e.message}`);
-        }
-
         const distPath = path.join(__dirname, "../dist");
 
-        // Omitir uploads localmente para deploy ultrarrapido
+        // Omitir uploads localmente para deploy ultrarrapido (las imágenes en servidor se conservan)
         const localUploads = path.join(distPath, "uploads");
         if (fs.existsSync(localUploads)) {
+            console.log("⚡ Omitiendo re-subida de uploads/...");
             fs.rmSync(localUploads, { recursive: true, force: true });
         }
 
@@ -68,15 +51,12 @@ async function deploy() {
         console.log(`🎯 Rutas objetivo para despliegue: ${JSON.stringify(targetDirs)}`);
 
         for (const targetDir of targetDirs) {
-            console.log(`🚀 Subiendo código de dist/ a "${targetDir}"...`);
+            console.log(`🚀 Subiendo código compilado a "${targetDir}"...`);
             await client.uploadFromDir(distPath, targetDir);
             console.log(`✅ Subida a "${targetDir}" completada.`);
         }
 
-        // Guardar logs padre en src/data/parent_tree.json
-        fs.writeFileSync(path.join(__dirname, "../src/data/parent_tree.json"), JSON.stringify({ initialPwd, parentTree }, null, 2));
-
-        console.log("🎉 ¡DESPLIEGUE FINALIZADO!");
+        console.log("🎉 ¡DESPLIEGUE COMPLETADO CON ÉXITO EN LA RAÍZ DEL SITIO!");
     } catch (err) {
         console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
         process.exit(1);
