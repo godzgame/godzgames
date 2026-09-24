@@ -106144,8 +106144,20 @@
       ],
       "link": "https://multiup.io/download/1dc5356fe82f55013a66bfe3a564aa4a/Parkour%20Labs%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/l6h1Gc6p2Ok",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Parkour Labs sumerge al jugador en una experiencia de parkour influenciada por la estética vaporwave. Como corredor sin nombre, atraviesa paisajes coloridos y surrealistas inspirados en la cultura, la música y el arte de los años 80 y 90. Desliza por rampas, ejecuta giros fluidos y domina el control del mouse mientras evade obstáculos. Recoge efectos de glitch y artefactos que desbloquean nuevos niveles y secretos ocultos. La atmósfera synthwave acompaña cada salto, creando una sensación de nostalgia retro mientras el desafío de movimiento pone a prueba la precisión y la rapidez del jugador.",
+      "cover": "https://media.rawg.io/media/screenshots/692/692a030d6c69bd5a9f530b0c148f0700.jpg",
+      "genre": {
+        "es": "Action, Adventure, Casual"
+      },
+      "releaseDate": {
+        "es": "2024-06-28"
+      },
+      "publisher": {
+        "es": "Entorno Virtual"
+      },
+      "developer": {
+        "es": "SoyKhaler, Entorno Virtual"
+      }
     },
     {
       "id": "9ac19cda",
@@ -106337,8 +106349,20 @@
       ],
       "link": "https://send.now/b6orcwiib5ax",
       "trailer": "https://www.youtube.com/embed/cLKqgmoVK-Y",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "‘Hunt the Night’ es un acción‑aventura retro que combina un ritmo rápido y mecánicas precisas con una atmósfera de fantasía oscura. El jugador controla a Vespar, un virtuoso miembro de los Stalkers, y recorre el vasto mundo de Medhram, un territorio plagado de ruinas y horrores. Explora mazmorras repletas de enemigos temibles, enfrenta a jefes desafiantes y emplea un variado arsenal de armas junto a poderosas fuerzas sombrías para restaurar la Noche. Utiliza habilidades de sigilo para evadir trampas mortales y desbloquea secretos ocultos que revelan la historia del conflicto entre la luz y la sombra.",
+      "cover": "https://media.rawg.io/media/screenshots/540/540f3d558816545da00d97358cbda2a6.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2023-04-13"
+      },
+      "publisher": {
+        "es": "DANGEN Entertainment"
+      },
+      "developer": {
+        "es": "Moonlight Games, Moonlight Games Official"
+      }
     },
     {
       "id": "e1c26853",
@@ -106356,8 +106380,17 @@
       ],
       "link": "https://send.now/y9bj52nhs1x7",
       "trailer": "https://www.youtube.com/embed/fCjnuU2TLRw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Sunderfolk, hasta cuatro aventureros se unen para proteger el pueblo de Arden, construido alrededor del brillante Brightstone, mientras fuerzas misteriosas lo amenazan. Cada jugador controla su héroe—Arcanista, Bardo, Berserker, Piromántico, Guardabosques o Pícaro—mediante una app móvil que actúa como controlador, libro de reglas y mazo de cartas. En combates tácticos por turnos, se elige una carta de habilidad para mover, atacar o lanzar hechizos, adaptándose a enemigos con distintas estrategias. Entre misiones, se regresa a Arden para mejorar tiendas, conseguir artefactos y ganarse la amistad de los aldeanos.",
+      "cover": "https://media.rawg.io/media/screenshots/e42/e4268849b2e95cba7078ba89e65efb82.jpg",
+      "genre": {
+        "es": "RPG, Strategy"
+      },
+      "publisher": {
+        "es": "Dreamhaven"
+      },
+      "developer": {
+        "es": "Secret Door"
+      }
     },
     {
       "id": "654a87bd",
@@ -106370,8 +106403,20 @@
       ],
       "link": "https://send.now/4bxwpv1lg1zs",
       "trailer": "https://www.youtube.com/embed/cogWNZ2ZwRw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Maid Café on Electric Street es una aventura tranquila ambientada en el corazón del paraíso otaku de Nipponbashi, Osaka. Los jugadores exploran un acogedor café atendido por camareras vestidas de maid, interactuando con clientes y sumergiéndose en la cultura pop japonesa. La jugabilidad se centra en gestionar pedidos, personalizar el ambiente y conversar con personajes que representan a fanáticos del anime y los videojuegos. Cada visita al café ofrece momentos de relax, diálogos llenos de humor y la oportunidad de descubrir curiosidades del distrito eléctrico mientras se vive una experiencia única de simulación.",
+      "cover": "https://media.rawg.io/media/screenshots/247/247ce4273a015ed4b5941492b9a96c62.jpg",
+      "genre": {
+        "es": "Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-11-18"
+      },
+      "publisher": {
+        "es": "Playism"
+      },
+      "developer": {
+        "es": "Adventurer's Tavern"
+      }
     },
     {
       "id": "29c88b79",
@@ -106386,8 +106431,20 @@
       ],
       "link": "https://send.now/nuas9f10bb3b",
       "trailer": "https://www.youtube.com/embed/hOYjfPzdpTM",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Never Grave The Witch and The Curse es un Metroidvania con elementos roguelite que te lleva a explorar cavernas y mazmorras bajo la guía de un sombrero maldito. Puedes lanzar hechizos o poseer a tus enemigos para abrir nuevos caminos y descender a los niveles más profundos. Cada expedición te permite recuperar botín que luego puedes usar para construir y mejorar instalaciones en tu aldea, generar recursos y prepararte para futuros enfrentamientos. El juego admite cooperativo para hasta cuatro jugadores, fomentando la estrategia compartida mientras cada aventurero refuerza su equipamiento y habilidades.",
+      "cover": "",
+      "genre": {
+        "es": "Action, Adventure, Indie, Platformer"
+      },
+      "releaseDate": {
+        "es": "2026-03-04"
+      },
+      "publisher": {
+        "es": "Frontside Games"
+      },
+      "developer": {
+        "es": "Pocketpair"
+      }
     },
     {
       "id": "a666a50c",
@@ -106399,8 +106456,20 @@
       ],
       "link": "https://send.now/dz6m61q6urrn",
       "trailer": "https://www.youtube.com/embed/mGlNxjg3zDI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Öoo, la pequeña oruga bomba se embarca en una gran aventura por un mundo encantador y misterioso. El jugador explora escenarios de plataformas y puzles, descubriendo múltiples formas creativas de utilizar bombas para abrir rutas secretas, desactivar obstáculos y revelar caminos ocultos. Cada nivel ofrece diversas soluciones que dependen de la estrategia de bombardeo, permitiendo al jugador elegir entre diferentes enfoques. La experiencia, densa pero breve, se completa en unas 2‑3 horas y se desarrolla sin texto, lo que elimina barreras idiomáticas. Su estética tierna cautiva incluso a quienes no gustan de los insectos.",
+      "cover": "https://media.rawg.io/media/games/e08/e0837ab050ec0658b459382b3a4c370e.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-08-07"
+      },
+      "publisher": {
+        "es": "NamaTakahashi"
+      },
+      "developer": {
+        "es": "NamaTakahashi, Tsuyomi, tiny cactus studio"
+      }
     },
     {
       "id": "39060edf",
@@ -106414,8 +106483,20 @@
       ],
       "link": "https://send.now/uuweb76o9s0h",
       "trailer": "https://www.youtube.com/embed/wiTszdEME7c",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Poker Night at the Inventory, cuatro íconos de la cultura gamer — Max de Sam & Max, el Heavy Rojo de Team Fortress 2, Tycho de Penny Arcade y Strong Bad de Homestar Runner— se reúnen en el casino subterráneo llamado Inventory para jugar al póker. El jugador es una presencia invisible a la que los demás llaman \"The Player\". Cada participante comienza con $10 000 y abandona cuando se queda sin fondos; el objetivo es ser el último en la mesa. A veces se apuestan objetos característicos, como la bazuca Iron Curtain del Heavy, y el juego mezcla animaciones cómicas y diálogos repletos de referencias.",
+      "cover": "https://media.rawg.io/media/screenshots/1be/1be2141edae05d4ba9858182b081e604.jpg",
+      "genre": {
+        "es": "Sports, Casual, Card"
+      },
+      "releaseDate": {
+        "es": "2010-11-22"
+      },
+      "publisher": {
+        "es": "Telltale Games"
+      },
+      "developer": {
+        "es": "Telltale Games"
+      }
     },
     {
       "id": "36d860ba",
@@ -106625,8 +106706,20 @@
       ],
       "link": "https://multiup.io/download/fb01d66ac35a7e150db366650cc3a9e0/Skate%20Bums%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/6Jkr6ZEYfQc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Skate Bums brinda una experiencia auténtica de skateboarding. El juego se centra en el skate libre, sin una trama definida ni personajes específicos, ofreciendo a los jugadores la sensación de patinar en entornos urbanos. Soporta únicamente el idioma inglés y algunas funciones multijugador pueden haber dejado de funcionar. No cuenta con calificación de la ESRB para interacciones en línea y no se aceptan reembolsos del artículo. Para más información sobre cuentas y soporte, consulte el sitio oficial de Xbox. El manual está disponible en línea en el marketplace de Xbox.",
+      "cover": "https://media.rawg.io/media/games/3c6/3c6675b071608d3b00009308e191b79c.jpg",
+      "genre": {
+        "es": "Action, Sports"
+      },
+      "releaseDate": {
+        "es": "2010-01-20"
+      },
+      "publisher": {
+        "es": "Electronic Arts"
+      },
+      "developer": {
+        "es": "Electronic Arts Vancouver, Full Circle"
+      }
     },
     {
       "id": "45aeb244",
