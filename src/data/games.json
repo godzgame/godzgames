@@ -27287,15 +27287,15 @@
       ],
       "link": "https://akirabox.com/ZvqzlRx7YmaD/file",
       "trailer": "https://www.youtube.com/embed/lFtvi9cIyBY",
-      "sinopsis": "Shin Hayarigami 2 es un juego de rol táctico para PS4 que mantiene el enfoque de la serie en batallas estratégicas y una narrativa profunda. El jugador dirige un grupo de personajes por mapas basados en cuadrículas, posicionando unidades para aprovechar las debilidades enemigas y el terreno. La historia se revela mediante diálogos y escenas cinematográficas, mostrando un conflicto entre facciones rivales en un mundo de fantasía. La jugabilidad combina combate por turnos, progresión de personajes y decisiones que alteran la trama, ofreciendo varios finales según las elecciones y el desempeño en combate y planificación estratégica para lograr la victoria.",
+      "sinopsis": "Shin Hayarigami 2 es una aventura narrativa que sumerge al jugador en un misterio contemporáneo ambientado en una gran ciudad. El protagonista explora una compleja red de intrigas, enfrentándose a conspiraciones ocultas y forjando alianzas con un variado grupo de personajes. La jugabilidad combina la narrativa de novela visual con exploración, decisiones y ocasionales acertijos que alteran la trama ramificada. Cada elección afecta las relaciones y determina varios finales posibles, fomentando la rejugabilidad mientras se descubre la verdad detrás de los enigmáticos sucesos. Los gráficos atmosféricos y la banda sonora inmersiva intensifican la tensión y la experiencia.",
       "cover": "",
       "genre": {
-        "en": "Tactical role-playing game",
-        "es": "Juego de rol táctico"
+        "en": "Adventure, Visual Novel",
+        "es": "Aventura, Novela visual"
       },
       "releaseDate": {
-        "en": "Unknown",
-        "es": "Desconocida"
+        "en": "2022-10-20",
+        "es": "2022-10-20"
       },
       "publisher": {
         "en": "Unknown",
@@ -67159,15 +67159,15 @@
       ],
       "link": "https://akirabox.com/l76mZblkmanY/file",
       "trailer": "https://www.youtube.com/embed/G5ha9Z1WcpI",
-      "sinopsis": "Cars 3: Driven to Win sigue a Rayo McQueen y sus amigos mientras compiten en una serie de carreras trepidantes por lugares conocidos de Radiator Springs y nuevas pistas. Los jugadores eligen entre varios personajes, personalizan sus karts y avanzan en el modo carrera, que combina escenas narrativas con desafíos tipo torneo. El juego ofrece carreras arcade con impulso, derrapes y power‑ups coleccionables, además de modos multijugador y contrarreloj para competir cara a cara. Eventos especiales añaden vehículos y circuitos extra, motivando a mejorar los autos y perfeccionar el timing.",
+      "sinopsis": "En Cars 3: Driven to Win, los jugadores acompañan a Rayo McQueen y sus amigos mientras compiten en carreras de alta velocidad por lugares icónicos, desde Radiador Springs hasta el Gran Premio Mundial. La trama sigue la búsqueda de McQueen por demostrar que aún tiene el corazón de un campeón y entrenar a una nueva estrella. La jugabilidad combina circuitos tradicionales con desafíos de acrobacias, pruebas contra el reloj y un modo carrera que desbloquea autos, mejoras y personalizaciones. Los jugadores pueden ejecutar derrapes, usar impulsos y activar potenciadores para superar a los rivales en pistas coloridas y familiares.",
       "cover": "",
       "genre": {
         "en": "Racing",
         "es": "Carreras"
       },
       "releaseDate": {
-        "en": "2017-11-17",
-        "es": "2017-11-17"
+        "en": "2017-10-31",
+        "es": "2017-10-31"
       },
       "publisher": {
         "en": "Warner Bros. Interactive Entertainment",
@@ -85819,7 +85819,7 @@
       ],
       "link": "https://filecrypt.cc/Container/95FF74B919.html",
       "trailer": "https://www.youtube.com/embed/4rQIT2Rq0Is",
-      "sinopsis": "Tobal No. 1 es un juego de lucha que combina combates uno a uno con un modo aventura tipo misión. Los jugadores eligen entre varios luchadores, todos creados por Akira Toriyama, y se enfrentan a oponentes en torneos y escenarios variados. El diseño de los sistemas de combate fue elaborado junto al veterano diseñador de peleas Seiichi Ishii, ofreciendo movimientos especiales y combos fluidos. Además del modo versus tradicional, el juego incluye una ruta de exploración donde se deben completar objetivos para avanzar, mezclando acción de pelea con una ligera progresión de historia.",
+      "sinopsis": "En Tobal No. 1, los jugadores se sumergen en un torneo de artes marciales donde ocho combatientes, creados por Akira Toriyama, se enfrentan con estilos únicos. Cada luchador posee movimientos especiales y combos que se combinan en duelos intensos, mientras el modo aventura permite explorar un mapa de ciudades y cavernas, descubriendo objetos y desafíos adicionales. El diseño de los combates, influido por el renombrado creador de juegos de lucha, brinda una jugabilidad fluida y estratégica, ofreciendo tanto enfrentamientos rápidos como batallas más tácticas.",
       "cover": "",
       "genre": {
         "es": "Fighting"
@@ -102727,8 +102727,20 @@
       ],
       "link": "https://send.now/pou99sfmc61h",
       "trailer": "https://www.youtube.com/embed/BulAZykC_6Y",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Ziggurat sigue a un hechicero ambicioso que busca fama adentrándose en un laberinto misterioso lleno de peligros de una antigua mazmorra. Inspirado en clásicos como Heretic y Hexen, el juego ofrece acción en primera persona con disparos rápidos y mecánicas de shooter tradicionales. Los niveles se generan proceduralmente, garantizando partidas únicas, y el progreso requiere subir de nivel y mejorar habilidades para sobrevivir a hordas de enemigos. Un sistema de perks permite personalizar el estilo, eligiendo entre mayor velocidad de movimiento o menor regeneración de salud y maná. No hay inventario; solo se gestionan armas, salud y maná.",
+      "cover": "https://media.rawg.io/media/screenshots/929/92962e1c3902b9a89b91c09c8f1a17b2.jpg",
+      "genre": {
+        "es": "Action, Shooter, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2014-10-22"
+      },
+      "publisher": {
+        "es": "Milkstone Studios"
+      },
+      "developer": {
+        "es": "Milkstone Studios"
+      }
     },
     {
       "id": "a4b197a2",
@@ -102747,8 +102759,20 @@
       ],
       "link": "https://send.now/r8p1cs54jc20",
       "trailer": "https://www.youtube.com/embed/Li7ORmJUa_E",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Has sido marcado. En la ciudad H de Tokio circula un rumor siniestro: una extraña cicatriz, semejante a una mancha de nacimiento grotesca, aparece en algunas personas y quienes la reciben mueren rápidamente por causas horribles e inexplicables. Sin recuerdos, llegas a una mansión que supuestamente protege a los portadores de la Marca. Al abrirse las puertas, la cuenta regresiva hacia la muerte ya ha comenzado. Deberás explorar la casa, entrevistar a los residentes y desentrañar el origen de la Marca, tomando decisiones que determinarán quién sobrevive.",
+      "cover": "https://media.rawg.io/media/screenshots/4be/4be4860cce1f8bb67fa0263b32c0760b.jpg",
+      "genre": {
+        "es": "Adventure"
+      },
+      "releaseDate": {
+        "es": "2018-10-31"
+      },
+      "publisher": {
+        "es": "Aksys Games"
+      },
+      "developer": {
+        "es": "Aksys Games, Experience"
+      }
     },
     {
       "id": "68cdec35",
@@ -102764,8 +102788,17 @@
       ],
       "link": "https://send.now/51svy23v8ew0",
       "trailer": "https://www.youtube.com/embed/sJLZHBMceSg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En el Infierno, la vida es un mar de facciones políticas y religiosas que luchan por el dominio. El protagonista lleva el Subyugador, un dispositivo de muñeca que permite invocar demonios. El juego ofrece más de 150 demonios para capturar, fusionar y formar un equipo de cuatro. Al combinarse, los demonios heredan hasta cuatro hechizos o habilidades de progenitores. Puedes crear armas y armaduras, completar misiones secundarias para conseguir demonios legendarios y participar en mini‑juegos al estilo JRPG de los 90. La herencia de habilidades permite, por ejemplo, dar a un Clammy Cura‑Total fusionando un Whisper entrenado con un Skullray.",
+      "cover": "https://media.rawg.io/media/screenshots/bd1/bd1ea40a616e69cd784aaaa1331a9fb1.jpg",
+      "genre": {
+        "es": "RPG"
+      },
+      "publisher": {
+        "es": "Fordesoft"
+      },
+      "developer": {
+        "es": "Fordesoft"
+      }
     },
     {
       "id": "7b90a956",
@@ -102780,8 +102813,24 @@
       ],
       "link": "https://send.now/t4afy4hu2ej9",
       "trailer": "https://www.youtube.com/embed/SeKH-rqYVjE",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En SCP: Extraction Protocol, el jugador encarna a un operativo de la Fundación altamente equipado, encargado de asegurar objetos anómalos SCP dentro de instalaciones abandonadas. La historia muestra una serie de brechas de contención en las que debes localizar, extraer y volver a confinar entidades peligrosas mientras descubres los extraños sucesos que rodean cada sitio. La jugabilidad combina disparos en primera persona, sigilo táctico y resolución de puzzles, exigiendo una gestión cuidadosa de recursos y reflejos rápidos. Ambientes oscuros, comportamientos impredecibles de los SCP y suministros limitados generan una constante tensión, ofreciendo una intensa experiencia de horror de supervivencia.",
+      "cover": "",
+      "genre": {
+        "en": "Survival horror, first-person shooter",
+        "es": "Horror de supervivencia, disparos en primera persona"
+      },
+      "releaseDate": {
+        "en": "2022-08-02",
+        "es": "2022-08-02"
+      },
+      "publisher": {
+        "en": "Mongol",
+        "es": "Mongol"
+      },
+      "developer": {
+        "en": "Mongol",
+        "es": "Mongol"
+      }
     },
     {
       "id": "45558e1f",
@@ -102816,8 +102865,20 @@
       ],
       "link": "https://send.now/a44myo9q44nf",
       "trailer": "https://www.youtube.com/embed/rPfQyiGP6nU",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Bienvenido a la jungla de puzzles de encaje de la edición canina de Fit My Cat. Imagina que tus amigos perros quieren pasar el día más perezoso en una casa acogedora con habitaciones cómodas, solo para ellos. Sin embargo, todos compiten por un espacio en una enorme cama para perros y dependen de tu destreza para organizarlos. Cada nivel presenta distintas razas, 27 en total, desde juguetones Poodles hasta cariñosos Bulldogs, majestuosos Golden Retrievers y alargados Dachshunds. Con 96 camas por rellenar, deberás encajar cada perro según su forma y tamaño.",
+      "cover": "https://media.rawg.io/media/screenshots/26b/26b245f842115014e125b8cfec6af663.jpg",
+      "genre": {
+        "es": "Simulation, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-11-14"
+      },
+      "publisher": {
+        "es": "RedDeer.Games"
+      },
+      "developer": {
+        "es": "RedDeer.Games"
+      }
     },
     {
       "id": "dd813002",
@@ -102947,8 +103008,20 @@
       ],
       "link": "https://send.now/7wy8gof55818",
       "trailer": "https://www.youtube.com/embed/HyPfyY6ZRAQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Constance, te adentras en una mansión oscura y escalofriante donde cada habitación guarda misterios y secretos. Encarnas a un personaje decidido a descubrir la verdad tras el lugar encantado. El juego se centra en resolver complejos rompecabezas que exigen observación aguda, pensamiento crítico y exploración minuciosa del entorno. Cada pista encontrada te acerca más a la revelación final, mientras manipulas objetos y descubres pasadizos ocultos. La atmósfera opresiva y la creciente tensión crean una sensación constante de peligro, impulsándote a desentrañar el secreto de Constance.",
+      "cover": "https://media.rawg.io/media/screenshots/a6e/a6e179bbcea42c3209efe8f1ef826b09.jpg",
+      "genre": {
+        "es": "Indie"
+      },
+      "releaseDate": {
+        "es": "2024-12-14"
+      },
+      "publisher": {
+        "es": "HGN_cr0cQ_Games"
+      },
+      "developer": {
+        "es": "cr0cQ"
+      }
     },
     {
       "id": "c35fd5a2",
@@ -103073,8 +103146,24 @@
       ],
       "link": "https://send.now/d2tupwjejrc3",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "El juego sigue a un viajero solitario que recorre un extenso reino lleno de entornos variados, desde aldeas bulliciosas hasta ruinas misteriosas. Los jugadores descubren la historia oculta del mundo completando misiones, resolviendo acertijos y participando en combates en tiempo real contra enemigos diversos. La exploración recompensa con mejoras, equipo y fragmentos de lore que profundizan la narrativa. La combinación de libertad de mundo abierto, progresión de personaje y batallas estratégicas crea una aventura cautivadora que enfatiza el descubrimiento y el crecimiento personal dentro de un vasto escenario de fantasía.",
+      "cover": "",
+      "genre": {
+        "en": "Adventure RPG",
+        "es": "Aventura RPG"
+      },
+      "releaseDate": {
+        "en": "N/A",
+        "es": "N/D"
+      },
+      "publisher": {
+        "en": "N/A",
+        "es": "N/D"
+      },
+      "developer": {
+        "en": "N/A",
+        "es": "N/D"
+      }
     },
     {
       "id": "67f4c568",
@@ -103089,8 +103178,24 @@
       ],
       "link": "https://send.now/cdvmwv2plu9r",
       "trailer": "https://www.youtube.com/embed/W6jH88yCVa8",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Sunshore City invita a los jugadores a diseñar y gestionar una vibrante metrópolis costera en Nintendo Switch. Partiendo de una modesta costa, zonificas áreas residenciales, comerciales y recreativas, equilibras el presupuesto y atiendes las necesidades de los ciudadanos, como transporte, servicios públicos y ocio. El clima dinámico y los eventos estacionales influyen en el turismo y la producción de recursos, mientras que retos opcionales, como desastres naturales, ponen a prueba tu planificación. El juego combina controles intuitivos en pantalla táctil con profundidad estratégica, premiando diseños creativos y servicios urbanos eficientes a medida que la ciudad crece.",
+      "cover": "",
+      "genre": {
+        "en": "Simulation, City-building",
+        "es": "Simulación, construcción de ciudades"
+      },
+      "releaseDate": {
+        "en": "2022-03-15",
+        "es": "15/03/2022"
+      },
+      "publisher": {
+        "en": "Indie Studios",
+        "es": "Indie Studios"
+      },
+      "developer": {
+        "en": "Sunshore Studios",
+        "es": "Sunshore Studios"
+      }
     },
     {
       "id": "bd0a34bb",
@@ -103102,8 +103207,24 @@
       ],
       "link": "https://send.now/llaeuir0bgsf",
       "trailer": "https://www.youtube.com/embed/U-0tJAaTT0U",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "R-Type DX sitúa al jugador al mando de una nave de combate que atraviesa una hostil armada alienígena. La trama gira en torno a una defensa desesperada contra una amenaza extraterrestre abrumadora, con misiones que llevan al piloto por entornos variados y enfrentamientos contra jefes intensos. La jugabilidad destaca por la maniobrabilidad precisa, el uso estratégico de armas cargables y la gestión de potenciadores, ofreciendo una experiencia rápida y desafiante que premia la puntería y la memorización de patrones. El arte pixelado retro y la banda sonora sintética refuerzan la atmósfera arcade clásica. Los jugadores pueden recoger íconos de mejora para potenciar el fuego y la resistencia del escudo, añadiendo profundidad a cada nivel.",
+      "cover": "",
+      "genre": {
+        "en": "Horizontal scrolling shooter",
+        "es": "Shooter de desplazamiento horizontal"
+      },
+      "releaseDate": {
+        "en": "1991-09-02",
+        "es": "02/09/1991"
+      },
+      "publisher": {
+        "en": "Irem",
+        "es": "Irem"
+      },
+      "developer": {
+        "en": "Irem",
+        "es": "Irem"
+      }
     },
     {
       "id": "0d3d8623",
@@ -103115,8 +103236,20 @@
       ],
       "link": "https://send.now/mq72wyhg67fy",
       "trailer": "https://www.youtube.com/embed/YR2ZSly6lwM",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En BAD END THEATER te sumerges en un teatro de fatalidades donde eliges a tu protagonista y navegas entre múltiples destinos desastrosos. Cada decisión que tomas en una historia altera el curso de las demás, y puedes activar diferentes comportamientos para desbloquear rutas alternativas, aunque todas culminan en un final negativo. El objetivo es descubrir si existe alguna forma de salvar al desafortunado elenco. Con más de 16 000 palabras, 600 ilustraciones y más de 40 finales, el juego combina narrativa y puzles, ofreciendo entre 2 y 3 horas para explorar todos los desenlaces.",
+      "cover": "https://media.rawg.io/media/games/66a/66a7661970fc90f6e1008c8724391579.jpg",
+      "genre": {
+        "es": "Simulation"
+      },
+      "releaseDate": {
+        "es": "2021-10-25"
+      },
+      "publisher": {
+        "es": "NomnomNami"
+      },
+      "developer": {
+        "es": "NomnomNami"
+      }
     },
     {
       "id": "39136c4a",
@@ -103142,8 +103275,20 @@
       ],
       "link": "https://send.now/sdwss4hzl713",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "KANADE es una novela visual escrita por Asou Ei con ilustraciones de Yusano. La historia sigue a Kanade, una chica mitad humana mitad alienígena que canta para intentar salvar el mundo en lugar de su madre, y a Yuuto, un chico que vive en una ciudad invadida por vegetación. Tras intercambiar cartas mediante palomas mensajeras, Kanade aparece en la puerta de Yuuto y le pide que se enamore de ella para que pueda cantar la canción de amor que salvará la Tierra. Juntos exploran su primer amor mientras la naturaleza crece a su alrededor.",
+      "cover": "https://media.rawg.io/media/screenshots/acd/acddd107f828f9c8cae0778c0adc882d.jpg",
+      "genre": {
+        "es": "Adventure, Casual"
+      },
+      "releaseDate": {
+        "es": "2025-06-11"
+      },
+      "publisher": {
+        "es": "Frontwing USA, GOOD SMILE COMPANY"
+      },
+      "developer": {
+        "es": "Frontwing"
+      }
     },
     {
       "id": "b8288705",
