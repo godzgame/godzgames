@@ -104258,8 +104258,20 @@
       ],
       "link": "https://send.now/fad9febi4cb4",
       "trailer": "https://www.youtube.com/embed/xhBjc5jmnsA",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Prepárate para la guerra en los campos de batalla de desplazamiento lateral de Swords & Soldiers. Recluta y dirige fuerzas mientras luchas por el oro y la energía en un constante tira y afloja. Elige entre cuatro facciones totalmente distintas: los feroces vikingos, los astutos aztecas, los ingeniosos chinos y el ejército del Jefe Carne, cada una con su propia razón para combatir y una campaña única. Despliega unidades disparatadas como berserkers, enormes rocas y mono ninjas. El juego combina estrategia y acción 2D, ofrece campañas para un solo jugador y duelos cara a cara en pantalla dividida.",
+      "cover": "https://media.rawg.io/media/screenshots/2f9/2f91d65ac9d4ef4e4f4e3aff968f059e.jpg",
+      "genre": {
+        "es": "Strategy"
+      },
+      "releaseDate": {
+        "es": "2009-05-15"
+      },
+      "publisher": {
+        "es": "Two Tribes Publishing, Ronimo Games"
+      },
+      "developer": {
+        "es": "Two Tribes, Ronimo Games, Circle Entertainment, Ronimo"
+      }
     },
     {
       "id": "b49b5737",
@@ -104305,8 +104317,20 @@
       ],
       "link": "https://send.now/sus9fyezrq9q",
       "trailer": "https://www.youtube.com/embed/QpXR8EbVJZk",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En un futuro cercano, en los confines del cinturón de asteroides, estalla una sangrienta revuelta a bordo del Artemis. Asumes el papel de la teniente Camina Drummer, líder de una escuadra de saqueadores que persigue un tesoro misterioso. Tus decisiones, junto a las de los carismáticos miembros de la tripulación, determinarán el destino de la nave y de su gente. Deberás enfrentarte a la revuelta, explorar zonas más allá del cinturón y decidir qué hacer con la verdad, Bosmang, mientras la historia avanza según tus elecciones.",
+      "cover": "https://media.rawg.io/media/games/70a/70aefcec2ce50c815534611b0cc91c60.jpg",
+      "genre": {
+        "es": "Adventure, RPG, Platformer"
+      },
+      "releaseDate": {
+        "es": "2023-07-27"
+      },
+      "publisher": {
+        "es": "Alcon Interactive Group, Telltale"
+      },
+      "developer": {
+        "es": "Telltale Games, Deck Nine, CyclopicSpider"
+      }
     },
     {
       "id": "0585f617",
@@ -104352,8 +104376,17 @@
       ],
       "link": "https://send.now/llfhswwgp6kg",
       "trailer": "https://www.youtube.com/embed/Mb6cHGB1KZQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En \"BEFORE I GO\", creado para GMTKJam 2020, el jugador se sumerge en una experiencia de exploración donde cada acción puede revelar un detalle oculto. No se ofrece una narrativa tradicional; en su lugar, el juego invita a descubrir su mecánica y ambiente por sí mismo, manteniendo la sensación de que nada es un simple error. Los personajes y el entorno son minimalistas, con animaciones de rig y idle provistas por Mixamo y un sombreado toon de Roystan, mientras todo el resto del arte y código fueron desarrollados por el propio equipo.",
+      "cover": "https://media.rawg.io/media/screenshots/ece/ece1aecc0d6460674797c143a9537032.jpg",
+      "genre": {
+        "es": "Puzzle"
+      },
+      "releaseDate": {
+        "es": "2020-07-12"
+      },
+      "developer": {
+        "es": "TwelveOThirteen, Sarcelle Cannelle"
+      }
     },
     {
       "id": "88fc137e",
@@ -104369,8 +104402,20 @@
       ],
       "link": "https://send.now/9q3k7k12uwhq",
       "trailer": "https://www.youtube.com/embed/BNnDrUnKaHw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En 'Anthology of The Killer' acompañamos a BB, una creadora de fanzines, mientras recorre un mundo surrealista plagado de aves bebibles, habitaciones secretas y parques acuáticos. Cada uno de los nueve episodios—Voz, Manos, Saliva, Ojos, Carne, Sangre, Oídos, Corazón y Cara—ofrece una mecánica distinta: desde investigar ruidos en un centro de llamadas, explorar paredes infestadas de manos, bucear bajo azoteas, hasta infiltrarse en un freeport y sobrevivir a un teatro inmersivo. El objetivo es descubrir los oscuros secretos que acechan a BB y sus compañeros antes de que el Asesino los elimine.",
+      "cover": "https://media.rawg.io/media/screenshots/f28/f28ae0cf21218b4d9e18621d19e1259d.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-10-08"
+      },
+      "publisher": {
+        "es": "harmony corp central committee"
+      },
+      "developer": {
+        "es": "thecatamites"
+      }
     },
     {
       "id": "75be6fe2",
@@ -104382,8 +104427,20 @@
       ],
       "link": "https://send.now/h3p6k2t644bu",
       "trailer": "https://www.youtube.com/embed/nk-M-Uvvi1o",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Enfréntate a un malvado imperio de comida rápida en este RPG narrativo por turnos lleno de picante. Dos hermanas pilotan un mech espiritual que pueden mejorar y cocinan platos deliciosos mientras combaten corporaciones corruptas. A medida que avanzas, aumentas tu reputación entre las comunidades locales y reconstruyes lazos con tus seres queridos. Cada batalla por turnos combina estrategia culinaria y combate, y la mejora del mech permite nuevas recetas y habilidades. La historia sigue su lucha por liberar la ciudad del dominio del imperio y reconciliarse con su pasado.",
+      "cover": "",
+      "genre": {
+        "es": "RPG, Family, Indie"
+      },
+      "releaseDate": {
+        "es": "2026-04-14"
+      },
+      "publisher": {
+        "es": "Outersloth"
+      },
+      "developer": {
+        "es": "Outerloop Games"
+      }
     },
     {
       "id": "de4234ef",
@@ -104397,8 +104454,24 @@
       ],
       "link": "https://send.now/t2vvf9ithx9t",
       "trailer": "https://www.youtube.com/embed/N79h3diGIgQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "A Storied Life Tabitha es un juego de aventura centrado en la narrativa para Nintendo Switch que sumerge al jugador en un mundo detallado donde cada decisión influye en la historia. El jugador explora distintos escenarios, conversa con un elenco variado y descubre secretos mediante diálogos y resolución de acertijos. La jugabilidad combina exploración, interacción con personajes y elementos estratégicos ligeros, invitando a reflexionar sobre la memoria, la identidad y el crecimiento personal. Su estilo visual y la música atmosférica refuerzan la emotiva narración, ofreciendo una experiencia contemplativa que premia la curiosidad y decisiones cuidadosas.",
+      "cover": "",
+      "genre": {
+        "en": "Adventure",
+        "es": "Aventura"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "125444d5",
@@ -104411,8 +104484,20 @@
       ],
       "link": "https://send.now/0my2vmz1p0pu",
       "trailer": "https://www.youtube.com/embed/rGUlL7-HwDg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Actraiser Renacimiento combina acción de plataformas en 2D, conocida como Actos del Reino, con una simulación de construcción de ciudades, Gestión del Reino, para enfrentar la lucha definitiva entre el bien y el mal. El jugador encarna al Señor de la Luz y su fiel ángel, guiándolos por entornos peligrosos mientras destruyen las fuerzas oscuras. Tras cada nivel, se administra la ciudad, construyendo y mejorando edificios para que la humanidad prospere. La fusión de combate ágil y estrategia de gestión brinda una experiencia dinámica donde la luz protege y expande el reino frente al caos.",
+      "cover": "https://media.rawg.io/media/screenshots/054/054a3d28b7102f0597571e5ef8dd3ad7.jpg",
+      "genre": {
+        "es": "Action, RPG, Strategy, Simulation"
+      },
+      "releaseDate": {
+        "es": "2021-09-23"
+      },
+      "publisher": {
+        "es": "Square Enix"
+      },
+      "developer": {
+        "es": "Square Enix, Sonic Powered"
+      }
     },
     {
       "id": "4acb64e5",
@@ -104803,8 +104888,24 @@
       ],
       "link": "https://send.now/ekv4e8tkc5ha",
       "trailer": "https://www.youtube.com/embed/ku5jW4c9iv8",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En un reino donde una antigua orden rige cada aspecto de la vida, un grupo de héroes improbables despierta ante una inminente ruptura. Los jugadores guían al grupo por un mundo detallado, descubriendo historias ocultas mientras combaten enemigos en combates estratégicos por turnos. La exploración, el desarrollo de personajes y las decisiones moldean la narrativa, combinando una historia épica con una jugabilidad táctica. La travesía equilibra motivaciones personales con la misión mayor de restaurar el equilibrio, ofreciendo una profunda experiencia RPG en la Switch.",
+      "cover": "",
+      "genre": {
+        "en": "Role-Playing Game (RPG)",
+        "es": "Juego de rol (RPG)"
+      },
+      "releaseDate": {
+        "en": "2022-11-15",
+        "es": "15/11/2022"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "2118b01c",
@@ -104820,8 +104921,20 @@
       ],
       "link": "https://send.now/op38te9e0uu9",
       "trailer": "https://www.youtube.com/embed/iK2GMXncJZE",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Cuidado con las sombras y la oscuridad silenciosa, las puertas cerradas y los espejos que susurran. El escritor Sebastian P. Husher desapareció junto a su familia; su editor envió a un asistente a buscarlo, pero este nunca volvió. La investigación revela a una entidad sin nombre, La Presencia, que acecha en los rincones y persigue al jugador. Un AI avanzado controla a La Presencia, adaptándose a cada decisión. Puedes elegir entre varios personajes, cada uno con su perspectiva y habilidades únicas; la muerte es permanente y la historia continúa con el siguiente investigador, mientras resuelves acertijos en lugares siniestros.",
+      "cover": "https://media.rawg.io/media/games/4ba/4baba3d0e9b5b959ee37c40b72a886dd.jpg",
+      "genre": {
+        "es": "Adventure"
+      },
+      "releaseDate": {
+        "es": "2019-10-30"
+      },
+      "publisher": {
+        "es": "Raiser Games"
+      },
+      "developer": {
+        "es": "Protocol Games"
+      }
     },
     {
       "id": "bc15e844",
@@ -104837,8 +104950,20 @@
       ],
       "link": "https://send.now/itzwps7aolwo",
       "trailer": "https://www.youtube.com/embed/7rkYOOdebiY",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "SwooshCat es un platformer de precisión protagonizado por un felino adorable que debe dominar saltos y carreras para iniciar una aventura desafiante y divertida. Su carrera sirve como hoja de combate y llave de puzles, permitiendo cortar, aparar, romper y esquivar obstáculos. El gato recorre junglas exuberantes y desiertos abrasadores repletos de trampas mortales y mecanismos astutos que ponen a prueba su habilidad y estrategia. Al derrotar enemigos puede usarlos como plataformas, encadenando ataques y rebotes para alcanzar rincones aparentemente imposibles. Los controles son suaves y el diseño de niveles, profundo.",
+      "cover": "https://media.rawg.io/media/screenshots/7a9/7a92a6f17276f1eb57c879596004488a.jpg",
+      "genre": {
+        "es": "Action, Adventure, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-08-13"
+      },
+      "publisher": {
+        "es": "PixelForestStudio"
+      },
+      "developer": {
+        "es": "PixelForestStudio"
+      }
     },
     {
       "id": "836e1924",
@@ -104855,8 +104980,24 @@
       ],
       "link": "https://send.now/ev33sxw68vc9",
       "trailer": "https://www.youtube.com/embed/cW7sBUKjaAg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Scorpion Island Warfare, los jugadores son lanzados a una extensa arena tropical donde facciones rivales chocan por el dominio. El juego combina combates cuerpo a cuerpo de ritmo rápido con posicionamiento estratégico, permitiendo usar una variedad de armas y habilidades especiales. A medida que la batalla avanza, la historia se revela mediante indicios ambientales y breves cinemáticas que insinúan un premio oculto en la isla. Los modos multijugador admiten partidas en solitario o por equipos, fomentando tácticas agresivas, reflejos rápidos y adaptabilidad mientras los peligros de la isla cambian cada ronda. Cada partida presenta condiciones climáticas cambiantes, como lluvias intensas y tormentas eléctricas, que alteran la visibilidad y la movilidad, obligando a los jugadores a adaptar sus estrategias en tiempo real.",
+      "cover": "",
+      "genre": {
+        "en": "Action",
+        "es": "Acción"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "be745b86",
@@ -104870,8 +105011,24 @@
       ],
       "link": "https://send.now/bqrdn3ci88nq",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En esta escalofriante aventura de horror, un niño solo despierta en una casa misteriosa donde los juguetes cobran vida con intenciones siniestras. El jugador debe explorar habitaciones sombrías, resolver acertijos ambientales y evadir los juguetes animados que acechan los pasillos. Fuentes de luz limitadas y una linterna frágil aumentan la tensión mientras el niño descubre pistas sobre el oscuro pasado de la vivienda. La jugabilidad combina sigilo, resolución de puzles y sustos repentinos, ofreciendo una experiencia tensa que pone a prueba el valor y la rapidez mental al desvelar la verdad detrás de los juguetes malditos.",
+      "cover": "",
+      "genre": {
+        "en": "Horror Adventure",
+        "es": "Aventura de horror"
+      },
+      "releaseDate": {
+        "en": "2022-06-09",
+        "es": "2022-06-09"
+      },
+      "publisher": {
+        "en": "Killer Toys",
+        "es": "Killer Toys"
+      },
+      "developer": {
+        "en": "Killer Toys",
+        "es": "Killer Toys"
+      }
     },
     {
       "id": "37fdaac6",
