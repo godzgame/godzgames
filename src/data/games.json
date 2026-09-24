@@ -85819,7 +85819,7 @@
       ],
       "link": "https://filecrypt.cc/Container/95FF74B919.html",
       "trailer": "https://www.youtube.com/embed/4rQIT2Rq0Is",
-      "sinopsis": "Tobal No. 1 es un juego de lucha que combina combates rápidos con un modo aventura tipo búsqueda. El jugador controla a uno de varios luchadores, todos diseñados por Akira Toriyama, cada uno con movimientos especiales y estilos únicos. A medida que avanza, debe recorrer distintas áreas, enfrentarse a enemigos en duelos uno‑a‑uno y desbloquear rutas secretas que amplían la historia del torneo. El sistema de combate, creado con la ayuda del diseñador de peleas Seiichi Ishii, ofrece combos precisos, bloqueos y contraataques, proporcionando una experiencia dinámica y estratégica.",
+      "sinopsis": "Tobal No. 1 es un juego de peleas que combina combates uno‑contra‑uno con un modo de aventura tipo quest. Los jugadores eligen entre varios luchadores, todos creados por Akira Toriyama, y se enfrentan en intensas batallas cuyo sistema fue desarrollado con la ayuda del diseñador de juegos de lucha Seiichi Ishii. Además del modo versus tradicional, el juego ofrece una misión exploratoria donde los personajes deben avanzar por distintas áreas, descubrir secretos y desbloquear técnicas especiales. La combinación de artes marciales y exploración brinda una experiencia dinámica y única dentro del género.",
       "cover": "",
       "genre": {
         "es": "Fighting"
@@ -100842,8 +100842,14 @@
       ],
       "link": "https://send.now/5qtetpxu2h1l",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En la cancha de tenis, los jugadores se sumergen en una acción arcade trepidante protagonizada por sus estrellas favoritas de Nickelodeon. Puedes personalizar a personajes icónicos como Bob Esponja, Aang, Garfield y muchos más, adaptando su aspecto y habilidades. Cada partida ofrece partidos cooperativos en sofá, diseñados para ser accesibles y divertidos para todas las edades. El enfoque se centra en la rivalidad amistosa y la estrategia de golpeo, mientras los héroes compiten en partidos rápidos y llenos de humor, manteniendo la esencia de sus mundos originales.",
+      "cover": "https://media.rawg.io/media/screenshots/e83/e8395e448937da1b8f31b4ba91d26b06.jpg",
+      "genre": {
+        "es": "Sports, Arcade"
+      },
+      "releaseDate": {
+        "es": "2026-05-28"
+      }
     },
     {
       "id": "2a650e7a",
@@ -100903,8 +100909,20 @@
       ],
       "link": "https://send.now/s9922ksaoi0n",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Una risa misteriosa resonó desde el lago en una noche de verano agitada. Un paso descuidado fuera de la tienda te arrastra a un mundo oscuro de pantanos cambiantes, habitado por criaturas extrañas y secretos ocultos. Un gato parlante te convence de adentrarte en el castillo inhóspito que se alza sobre el pantano, mientras una bruja de la casa de jengibre te enseña los fundamentos de la elaboración de pociones. Deberás resolver acertijos, mezclar brebajes y explorar cada zona para descubrir el siniestro misterio que oculta el pantano. Gráficos dibujados a mano dan vida a este entorno.",
+      "cover": "https://media.rawg.io/media/screenshots/c38/c387f8e2534f8a350b4facc2a85dcc83.jpg",
+      "genre": {
+        "es": "Adventure, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-10-09"
+      },
+      "publisher": {
+        "es": "WildOmul"
+      },
+      "developer": {
+        "es": "WildOmul"
+      }
     },
     {
       "id": "48be499b",
@@ -101157,8 +101175,24 @@
       ],
       "link": "https://multiup.io/download/2f90c9cb04ab9c7ed6661ddb0d4f2fe2/Elementallis%20[0100771025398000][v0][Base].rar",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Elementalis, los jugadores controlan un espíritu errante capaz de manipular fuego, agua, tierra y aire. El juego combina rompecabezas y plataformas, permitiendo usar habilidades elementales para superar obstáculos, activar mecanismos y enfrentar peligros ambientales. Cada nivel está diseñado alrededor de interacciones elementales, fomentando combinaciones creativas y pensamiento estratégico. La historia se revela mediante imágenes atmosféricas y pistas sutiles, guiando al espíritu en una misión para restaurar el equilibrio de un mundo desgarrado por el caos elemental. Los controles simples y el arte vibrante hacen la experiencia accesible pero profunda.",
+      "cover": "",
+      "genre": {
+        "en": "Puzzle-Adventure",
+        "es": "Puzzle-Aventura"
+      },
+      "releaseDate": {
+        "en": "2023-01-01",
+        "es": "2023-01-01"
+      },
+      "publisher": {
+        "en": "Indie Studio",
+        "es": "Estudio Indie"
+      },
+      "developer": {
+        "en": "Indie Studio",
+        "es": "Estudio Indie"
+      }
     },
     {
       "id": "72b35194",
@@ -101172,8 +101206,20 @@
       ],
       "link": "https://multiup.io/download/cf0bce84616ed4035d15041566dc11ec/Quartet%20[0100C3D018624000][v0][Base].rar",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Quartet es un arcade de 1986 que permite de uno a cuatro jugadores. Cada jugador elige a uno de los cuatro héroes: Joe (amarillo), Mary (rojo), Lee (azul) o Edgar (verde), y los guía por una base invadida por un ejército de robots. Los niveles se desplazan lateralmente; los jugadores deben avanzar enfrentándose a enemigos que emergen de portales en las paredes. Al llegar al final, deben derrotar a un jefe que lleva la llave necesaria para abrir la puerta de salida del nivel y así completar la misión.",
+      "cover": "https://media.rawg.io/media/screenshots/4b3/4b3732bed2ba53698fc3c5186bf40810.jpg",
+      "genre": {
+        "es": "Action, Platformer"
+      },
+      "releaseDate": {
+        "es": "1986-01-01"
+      },
+      "publisher": {
+        "es": "SEGA, Activision Blizzard"
+      },
+      "developer": {
+        "es": "SEGA, Probe Software"
+      }
     },
     {
       "id": "94560769",
