@@ -28,35 +28,43 @@ async function deploy() {
         });
 
         console.log("✅ Conexión FTP establecida.");
-        const initialPwd = await client.pwd();
-        console.log(`📂 PWD inicial: "${initialPwd}"`);
+        const currentPwd = await client.pwd();
+        console.log(`📂 PWD actual en servidor: "${currentPwd}"`);
 
         const distPath = path.join(__dirname, "../dist");
 
-        // Omitir uploads localmente para deploy ultrarrapido (las imágenes en servidor se conservan)
+        // Omitir uploads localmente para deploy ultrarrapido (las imágenes subidas en el servidor persisten)
         const localUploads = path.join(distPath, "uploads");
         if (fs.existsSync(localUploads)) {
-            console.log("⚡ Omitiendo re-subida de uploads/...");
+            console.log("⚡ Omitiendo re-subida de uploads/ local...");
             fs.rmSync(localUploads, { recursive: true, force: true });
         }
 
-        const topItems = await client.list("./");
-        const hasPublicHtml = topItems.some(item => item.name === "public_html" && item.isDirectory);
-
-        const targetDirs = ["./"];
-        if (hasPublicHtml) {
-            targetDirs.push("./public_html/");
+        // Limpiar assets antiguos en el servidor para forzar actualización de bundles JS/CSS
+        try {
+            console.log("🧹 Limpiando directorio assets/ antiguo en el servidor...");
+            await client.clearDir("./assets/");
+        } catch (clearErr) {
+            console.warn("⚠️ No se pudo limpiar assets/ (posiblemente no existía):", clearErr.message);
         }
 
-        console.log(`🎯 Rutas objetivo para despliegue: ${JSON.stringify(targetDirs)}`);
+        console.log(`🚀 Subiendo código compilado a la raíz del sitio FTP ("./")...`);
+        await client.uploadFromDir(distPath, "./");
+        console.log("✅ Subida completada.");
 
-        for (const targetDir of targetDirs) {
-            console.log(`🚀 Subiendo código compilado a "${targetDir}"...`);
-            await client.uploadFromDir(distPath, targetDir);
-            console.log(`✅ Subida a "${targetDir}" completada.`);
+        // Si existe una subcarpeta secundaria public_html, sincronizar también
+        const rootItems = await client.list("./");
+        const hasSubPublicHtml = rootItems.some(item => item.name === "public_html" && item.isDirectory);
+        if (hasSubPublicHtml) {
+            console.log("🚀 Sincronizando también con subcarpeta ./public_html/...");
+            try {
+                await client.clearDir("./public_html/assets/");
+            } catch (e) {}
+            await client.uploadFromDir(distPath, "./public_html/");
+            console.log("✅ Subida a ./public_html/ completada.");
         }
 
-        console.log("🎉 ¡DESPLIEGUE COMPLETADO CON ÉXITO EN LA RAÍZ DEL SITIO!");
+        console.log("🎉 ¡DESPLIEGUE COMPLETADO CON ÉXITO EN SITEGROUND!");
     } catch (err) {
         console.error("❌ ERROR DURANTE EL DESPLIEGUE FTP:", err);
         process.exit(1);
