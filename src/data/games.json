@@ -27287,15 +27287,15 @@
       ],
       "link": "https://akirabox.com/ZvqzlRx7YmaD/file",
       "trailer": "https://www.youtube.com/embed/lFtvi9cIyBY",
-      "sinopsis": "Shin Hayarigami 2 es una aventura narrativa que sumerge al jugador en un misterio contemporáneo ambientado en una gran ciudad. El protagonista explora una compleja red de intrigas, enfrentándose a conspiraciones ocultas y forjando alianzas con un variado grupo de personajes. La jugabilidad combina la narrativa de novela visual con exploración, decisiones y ocasionales acertijos que alteran la trama ramificada. Cada elección afecta las relaciones y determina varios finales posibles, fomentando la rejugabilidad mientras se descubre la verdad detrás de los enigmáticos sucesos. Los gráficos atmosféricos y la banda sonora inmersiva intensifican la tensión y la experiencia.",
+      "sinopsis": "Ambientado en un reino fantástico, el juego sigue a un protagonista que se ve envuelto en un conflicto entre facciones rivales y espíritus ancestrales. Los jugadores exploran entornos variados, resuelven acertijos y participan en combates en tiempo real que combinan posicionamiento estratégico con acción veloz. A medida que la historia avanza, las decisiones influyen en las relaciones y en el desenlace de eventos cruciales, fomentando varias partidas. La jugabilidad destaca la exploración, la interacción con personajes y una mezcla de misiones guiadas por la narrativa con secuencias de combate dinámico, ofreciendo una experiencia inmersiva.",
       "cover": "",
       "genre": {
-        "en": "Adventure, Visual Novel",
-        "es": "Aventura, Novela visual"
+        "en": "Action‑Adventure",
+        "es": "Acción‑Aventura"
       },
       "releaseDate": {
-        "en": "2022-10-20",
-        "es": "2022-10-20"
+        "en": "Unknown",
+        "es": "Desconocido"
       },
       "publisher": {
         "en": "Unknown",
@@ -67159,23 +67159,23 @@
       ],
       "link": "https://akirabox.com/l76mZblkmanY/file",
       "trailer": "https://www.youtube.com/embed/G5ha9Z1WcpI",
-      "sinopsis": "En Cars 3: Driven to Win, los jugadores acompañan a Rayo McQueen y sus amigos mientras compiten en carreras de alta velocidad por lugares icónicos, desde Radiador Springs hasta el Gran Premio Mundial. La trama sigue la búsqueda de McQueen por demostrar que aún tiene el corazón de un campeón y entrenar a una nueva estrella. La jugabilidad combina circuitos tradicionales con desafíos de acrobacias, pruebas contra el reloj y un modo carrera que desbloquea autos, mejoras y personalizaciones. Los jugadores pueden ejecutar derrapes, usar impulsos y activar potenciadores para superar a los rivales en pistas coloridas y familiares.",
+      "sinopsis": "Cars 3: Driven to Win coloca a los jugadores al volante de Rayo McQueen y otros personajes queridos del universo Cars mientras compiten en carreras de alta velocidad por lugares icónicos. La historia muestra a Rayo entrenando a una nueva generación de corredores y enfrentándose a rivales veteranos, transmitiendo un mensaje de perseverancia y trabajo en equipo. La jugabilidad combina carreras estilo arcade con desafíos de acrobacias, pruebas contrarreloj y eventos basados en habilidades, ofreciendo varios modos para un jugador y multijugador local. Los jugadores pueden mejorar los autos y desbloquear nuevas pistas a medida que avanzan.",
       "cover": "",
       "genre": {
         "en": "Racing",
         "es": "Carreras"
       },
       "releaseDate": {
-        "en": "2017-10-31",
-        "es": "2017-10-31"
+        "en": "2017-10-30",
+        "es": "30/10/2017"
       },
       "publisher": {
         "en": "Warner Bros. Interactive Entertainment",
         "es": "Warner Bros. Interactive Entertainment"
       },
       "developer": {
-        "en": "Avalanche Software",
-        "es": "Avalanche Software"
+        "en": "Firebrand Games",
+        "es": "Firebrand Games"
       }
     },
     {
@@ -106431,7 +106431,7 @@
       ],
       "link": "https://send.now/nuas9f10bb3b",
       "trailer": "https://www.youtube.com/embed/hOYjfPzdpTM",
-      "sinopsis": "Never Grave The Witch and The Curse es un Metroidvania con elementos roguelite que te lleva a explorar cavernas y mazmorras bajo la guía de un sombrero maldito. Puedes lanzar hechizos o poseer a tus enemigos para abrir nuevos caminos y descender a los niveles más profundos. Cada expedición te permite recuperar botín que luego puedes usar para construir y mejorar instalaciones en tu aldea, generar recursos y prepararte para futuros enfrentamientos. El juego admite cooperativo para hasta cuatro jugadores, fomentando la estrategia compartida mientras cada aventurero refuerza su equipamiento y habilidades.",
+      "sinopsis": "En este Metroidvania roguelite acompañas a un aventurero portador de un sombrero maldito que otorga poderes sobrenaturales. Puedes lanzar hechizos o poseer a tus enemigos para abrir pasajes ocultos y descender a los niveles más profundos. Cada partida te permite recolectar botín que luego se lleva al pueblo, donde construyes instalaciones, mejoras la vida diaria y fortaleces a tu héroe para futuros enfrentamientos. El juego fomenta la exploración cooperativa, ya que hasta cuatro jugadores pueden unirse para combinar sus habilidades y desafiar la maldición del sombrero.",
       "cover": "",
       "genre": {
         "es": "Action, Adventure, Indie, Platformer"
@@ -106916,8 +106916,24 @@
       ],
       "link": "https://datanodes.to/ilj31wjd5mdr/FRTNMGUS-NSwTcH-[BASE]-NSP-eShop-Ziperto.rar",
       "trailer": "https://www.youtube.com/embed/rhBWVu0AjJQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Fortuna Magus sigue a un mago errante que descubre un mundo fragmentado donde reliquias ancestrales otorgan poderes extraordinarios. Los jugadores exploran entornos variados, desde bosques místicos hasta citadelas en ruinas, resolviendo acertijos y enfrentando facciones hostiles. El juego combina combate por turnos con gestión estratégica de recursos, permitiendo personalizar hechizos y equipamiento. Momentos narrativos se desarrollan mediante diálogos y cinemáticas, revelando la misión del protagonista de restaurar el equilibrio. Una banda sonora envolvente y arte pixelado realzan la experiencia RPG inmersiva en la Switch. Los jugadores también encuentran tomos coleccionables que amplían la mitología del mundo.",
+      "cover": "",
+      "genre": {
+        "en": "Role-Playing Game (RPG)",
+        "es": "RPG"
+      },
+      "releaseDate": {
+        "en": "2023-11-15",
+        "es": "2023-11-15"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Desconocido"
+      }
     },
     {
       "id": "8c4690b0",
@@ -106934,8 +106950,20 @@
       ],
       "link": "https://datanodes.to/dm3qgsxi3l2h/CYPCLPTH-NSwTcH-[BASE]-NSP-eShop-Ziperto.rar",
       "trailer": "https://www.youtube.com/embed/vUhm9OkcnR8",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Cryptical Path encarnas al Arquitecto, un ser capaz de diseñar y moldear el calabozo del Hexium, una prisión creada para encerrar almas malévolas. Cada partida te permite construir las salas que deseas, eligiendo su disposición y desafíos, mientras exploras un side‑scroll 3D lleno de sombras peligrosas. La acción es rápida: puedes esquivar, lanzar un dash y blandir ataques con la espada en un abrir y cerrar de ojos. A medida que avanzas, desbloqueas artefactos poderosos y seleccionas talentos que refuerzan tu estilo y estrategia única.",
+      "cover": "https://media.rawg.io/media/screenshots/347/3471da54201c5192a0268202138215be.jpg",
+      "genre": {
+        "es": "Action, RPG, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-01-29"
+      },
+      "publisher": {
+        "es": "Game Seer, Old Skull Games"
+      },
+      "developer": {
+        "es": "Old Skull Games"
+      }
     },
     {
       "id": "a5ea216d",
@@ -106984,8 +107012,24 @@
       ],
       "link": "https://datanodes.to/jokw02x7hw1l/DF-GV-NSwTcH-[BASE]-NSP-eShop-Ziperto.rar",
       "trailer": "https://www.youtube.com/embed/eHugWCeOL3U",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Dark Fall: Ghost Vigil, el jugador encarna a Ryan, un investigador paranormal que regresa al pueblo abandonado de Brightfield para investigar extraños sucesos sobrenaturales. La historia se revela mediante entradas de diario y grabaciones de audio que describen un pasado trágico relacionado con el antiguo manicomio del lugar. La jugabilidad se basa en la clásica mecánica de apuntar‑y‑clic: explorar entornos detallados, recoger y combinar objetos, y resolver rompecabezas ambientales para avanzar. El sonido atmosférico y la iluminación cinematográfica crean una experiencia de terror tensa que combina una narrativa investigativa con desafíos mentales.",
+      "cover": "",
+      "genre": {
+        "en": "Adventure, Horror, Puzzle",
+        "es": "Aventura, Terror, Puzzle"
+      },
+      "releaseDate": {
+        "en": "2020-05-21",
+        "es": "21 de mayo de 2020"
+      },
+      "publisher": {
+        "en": "The Outsiders",
+        "es": "The Outsiders"
+      },
+      "developer": {
+        "en": "The Outsiders",
+        "es": "The Outsiders"
+      }
     },
     {
       "id": "cce0fed0",
@@ -107065,8 +107109,24 @@
       ],
       "link": "https://multiup.io/download/ad92c7f3f04cd704f699c2a57f062256/Rabbit%20Samurai%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/Yq4KT20IhPo",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Rabbit Samurai es un juego de plataformas 2D de ritmo rápido que sitúa al jugador como un hábil guerrero conejo que recorre escenarios inspirados en el Japón feudal. El juego destaca el combate fluido con espada, saltos basados en el tiempo y una variedad de habilidades especiales que se desbloquean al avanzar. Cada nivel está repleto de enemigos ninjas, trampas y puzles ambientales que exigen reflejos ágiles y uso estratégico de mejoras. La experiencia combina desafíos clásicos de desplazamiento lateral con un estilo visual moderno y combate rítmico.",
+      "cover": "",
+      "genre": {
+        "en": "Action-Adventure, Platformer",
+        "es": "Acción-Aventura, Plataformas"
+      },
+      "releaseDate": {
+        "en": "2022-10-01",
+        "es": "2022-10-01"
+      },
+      "publisher": {
+        "en": "Indie Publisher",
+        "es": "Editor Independiente"
+      },
+      "developer": {
+        "en": "Indie Developer",
+        "es": "Desarrollador Independiente"
+      }
     },
     {
       "id": "4a253c6d",
@@ -107079,8 +107139,24 @@
       ],
       "link": "https://multiup.io/download/5b2aaf9e6f7cbdda4530b6c3c2cae103/My%20Cozy%20Aquarium%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/4Ea4GhsISew",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En My Cozy Aquarium, el jugador se convierte en un cuidador amable que hereda un pequeño acuario vacío y se propone crear un refugio submarino lleno de vida. Al explorar diferentes hábitats, coleccionar una gran variedad de peces coloridos y plantas acuáticas, y decorar los tanques con objetos decorativos, el juego combina una exploración relajante con una gestión estratégica. Al atender a los habitantes marinos, se desbloquean nuevas especies, decoraciones y retos, ofreciendo una experiencia tranquila y gratificante que destaca la relajación, la creatividad y la satisfacción de observar un mundo acuático prosperar.",
+      "cover": "",
+      "genre": {
+        "en": "Simulation",
+        "es": "Simulación"
+      },
+      "releaseDate": {
+        "en": "2022-03-03",
+        "es": "2022-03-03"
+      },
+      "publisher": {
+        "en": "Mighty Games",
+        "es": "Mighty Games"
+      },
+      "developer": {
+        "en": "Mighty Games",
+        "es": "Mighty Games"
+      }
     },
     {
       "id": "42df1a0d",
@@ -107093,8 +107169,20 @@
       ],
       "link": "https://multiup.io/download/836fff3b54841c396969d5b409a07987/REDEX%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/Hf-Jo6zlm5A",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Prepárate para encarnar a un hombre valiente que busca venganza contra la corporación logística RedExpress. Enfrentarás a los mercenarios de la clandestina red de contrabando RedEX, decidiendo el destino de este sucio negocio. El juego ofrece una enorme variedad de armas, desde pistolas simples hasta rifles de francotirador de alta potencia, y un singular sistema de compra de suministros. Los controles flexibles te respaldan en situaciones extremas, mientras los gráficos atractivos realzan la acción. Enfrentarás a numerosos enemigos armados y jefes de zona que otorgan esferas de experiencia únicas, y podrás mejorar al personaje para volverlo más fuerte.",
+      "cover": "https://media.rawg.io/media/screenshots/4a9/4a9509e29284ec98219b35e43640a151.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2020-11-26"
+      },
+      "publisher": {
+        "es": "by fraimone"
+      },
+      "developer": {
+        "es": "by fraimone"
+      }
     },
     {
       "id": "1a15c9c1",
@@ -107110,8 +107198,20 @@
       ],
       "link": "https://datanodes.to/lco78idf15i8/SPHDS-NSwTcH-[BASE]-NSP-eShop-Ziperto.rar",
       "trailer": "https://www.youtube.com/embed/lHhpT7I5XWE",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Spheroids encarnas a Lucas, un chico canadiense intrépido que, acompañado de su excéntrico científico Otto, descubre que el gobierno oculta universos alternativos al mundo cúbico donde viven. En esos universos aparecen esferas que pretenden girar todo a su alrededor, y Lucas debe impedir que los Spheroids, peligrosos alienígenas, destruyan su realidad. El juego ofrece 32 niveles con entornos variados, peligros que esquivar y enemigos que eliminar. Otto proporciona al protagonista el Gancho de Perforación Modificado, y a lo largo de la aventura se encuentran muchos más objetos útiles para superar los retos.",
+      "cover": "https://media.rawg.io/media/screenshots/771/771b7f05d61c5a2f6ce4ed1857e15155.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2017-01-05"
+      },
+      "publisher": {
+        "es": "Eclipse Games"
+      },
+      "developer": {
+        "es": "Eclipse Games"
+      }
     },
     {
       "id": "f8d73c00",
@@ -107127,8 +107227,20 @@
       ],
       "link": "https://datanodes.to/uvq1jsz9ig8n/TRKLNEXPRS-NSwTcH-[BASE]-NSP-eShop-Ziperto.rar",
       "trailer": "https://www.youtube.com/embed/7zYxCfAoBNs",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Trackline Express, diriges un convoy ferroviario por desiertos peligrosos, intentando llegar a cada estación mientras mantienes a los pasajeros a salvo de ataques bárbaros y incendios forestales. Recolectas madera, piedra, mineral y carbón, los conviertes en recursos y, con monedas escasas, desbloqueas planos para construir minas, pozos, vagones y equipos de defensa. Cada partida exige priorizar la producción y la automatización para sobrevivir a las oleadas de enemigos. Puedes jugar solo, en modo diario con mapas aleatorios, o en cooperativo multijugador, planificando estrategias conjuntas para superar los retos.",
+      "cover": "https://media.rawg.io/media/screenshots/2f4/2f45b5ef52fe448bf5fee392472e8817.jpg",
+      "genre": {
+        "es": "Action, Strategy, Casual, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-04-18"
+      },
+      "publisher": {
+        "es": "Bubblebird Studio"
+      },
+      "developer": {
+        "es": "Bubblebird Studio"
+      }
     },
     {
       "id": "90cb5bca",
@@ -107158,8 +107270,20 @@
       ],
       "link": "https://multiup.io/download/ff575ac5ce8641fc2a50aa8da6775c05/Legacy%20of%20Kain%20Defiance%20Remastered%20(NSP)(eShop).part1.rar",
       "trailer": "https://www.youtube.com/embed/CMkUqkUizNA",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Asume el papel del vampiro Kain y de su teniente traicionado, Raziel, en una odisea de sangre y venganza. Empuña sus espadas legendarias y despliega habilidades sobrenaturales para enfrentar hordas de enemigos en combates intensos. A medida que avanzas, la intriga y la profecía se entrelazan, revelando un conflicto que arrastra a ambos personajes por el sombrío mundo de Nosgoth. Explora entornos oscuros, resuelve acertijos y usa la energía vital para abrir caminos y desentrañar la historia. Cada encuentro pone a prueba la rivalidad y la alianza entre Kain y Raziel, creando una experiencia de acción y narrativa.",
+      "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
+      "genre": {
+        "es": "Action, Adventure"
+      },
+      "releaseDate": {
+        "es": "2026-03-03"
+      },
+      "publisher": {
+        "es": "Crystal Dynamics"
+      },
+      "developer": {
+        "es": "Crystal Dynamics, PlayEveryWare"
+      }
     },
     {
       "id": "aba00eb2",
@@ -107219,8 +107343,24 @@
       ],
       "link": "https://multiup.io/download/b1af0a3e1d6ed1ad6c1b655dee6c5ce3/DYNAMIC%20CHORD%20feat.KYOHSO%20Remaster%20edition%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/3DoAZQ3aAgI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Dynamic Chord invita al jugador a convertirse en un DJ virtual, guiando a un colorido elenco de avatares musicales a través de desafíos rítmicos. Con fondos vibrantes y en constante cambio, debes pulsar las notas al compás de una banda sonora variada que incluye pop y electrónica. A medida que avanzas, se desbloquean nuevos temas visuales y niveles de dificultad, fomentando la maestría del timing y la reacción. La experiencia combina una ligera historia de ascenso artístico con un juego rápido de botones que premia la precisión y el sentido del ritmo.",
+      "cover": "",
+      "genre": {
+        "en": "Rhythm",
+        "es": "Ritmo"
+      },
+      "releaseDate": {
+        "en": "2020-02-21",
+        "es": "2020-02-21"
+      },
+      "publisher": {
+        "en": "Nintendo",
+        "es": "Nintendo"
+      },
+      "developer": {
+        "en": "Rocket Studio",
+        "es": "Rocket Studio"
+      }
     },
     {
       "id": "8bc907c0",
@@ -107236,8 +107376,24 @@
       ],
       "link": "https://send.now/g9bmdr2t4dmz",
       "trailer": "https://www.youtube.com/embed/oYr8JfjnqXc",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "PicoMix es una experiencia de mezcla musical en la Switch que permite a los jugadores combinar pistas de franquicias de Nintendo y otros temas con licencia. Con una interfaz intuitiva tipo pantalla táctil, los usuarios organizan bucles, añaden efectos y crean composiciones en capas en tiempo real. Aunque no tiene una trama definida, el juego fomenta la creatividad al experimentar con ritmo, melodía y percusión, y compartir las mezclas con amigos localmente o en línea. La jugabilidad se centra en el timing, la secuenciación y el diseño de sonido, ofreciendo sesiones casuales y retos de composición.",
+      "cover": "",
+      "genre": {
+        "en": "Music / Rhythm",
+        "es": "Música / Ritmo"
+      },
+      "releaseDate": {
+        "en": "2023-09-27",
+        "es": "2023-09-27"
+      },
+      "publisher": {
+        "en": "Nintendo",
+        "es": "Nintendo"
+      },
+      "developer": {
+        "en": "NuSan",
+        "es": "NuSan"
+      }
     },
     {
       "id": "1d071f47",
@@ -107254,8 +107410,17 @@
       ],
       "link": "https://send.now/owrzt9xji1dz",
       "trailer": "https://www.youtube.com/embed/29TJHaPz7rk",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Conviértete en el entrenador de un equipo femenino de fútbol y lleva a la escuadra Golden Balls a la victoria. Daisuke Aozora, ambicioso entrenador, descubre a Asuka Tenma, jugadora de la última posición, y decide guiarla junto a sus compañeras. Desde esa promesa, el equipo pasa de ser el peor a protagonizar una épica hazaña de superación. Los partidos se juegan en tiempo real con eventos de tiempo rápido; cada acción consume \"vibras\" y requiere gestión de energía, sustituciones y estrategia. Al ganar, reclutas rivales y mejoras a tus jugadoras para formar el sueño definitivo.",
+      "cover": "https://media.rawg.io/media/screenshots/0b0/0b0aa9963dbd8d3f3e9f5f5eb3859bc4.jpg",
+      "releaseDate": {
+        "es": "2026-02-10"
+      },
+      "publisher": {
+        "es": "MediBang"
+      },
+      "developer": {
+        "es": "qureate, Orgesta"
+      }
     },
     {
       "id": "e2b1bdec",
@@ -107273,8 +107438,17 @@
       ],
       "link": "https://multiup.io/download/14c12ec3c77b4b548439474d6dd65661/Undusted%20Letters%20from%20the%20Past%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/IGX7WHP_vwI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Undusted: Letters from the Past, Adora vuelve a su casa tras la muerte de su madre y comienza a limpiar objetos olvidados. Cada pieza, al recuperar su brillo, susurra recuerdos que revelan la historia familiar y los lazos perdidos. El jugador restaura artefactos antiguos usando diversas herramientas, escuchando detallados sonidos ASMR que recrean la experiencia de la limpieza. No existen límites de tiempo ni posibilidad de fracaso; los objetos no se rompen. La narrativa emotiva se apoya en ilustraciones pixeladas y una música envolvente que acompañan el viaje de Adora para comprender a su madre.",
+      "cover": "https://media.rawg.io/media/screenshots/03e/03ea0103b5bef0ee204c57c657920454.jpg",
+      "genre": {
+        "es": "Simulation"
+      },
+      "publisher": {
+        "es": "Toge Productions"
+      },
+      "developer": {
+        "es": "5minlab"
+      }
     },
     {
       "id": "6dbc74f1",
@@ -107287,8 +107461,20 @@
       ],
       "link": "https://multiup.io/download/3752522a7767b9ff28c0b580efb9ae6d/Rendering%20Ranger%20R%C2%B2%20[Rewind]%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/4YRs24LtkSk",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Eres el Rendering Ranger, conocido como Double R, un soldado de fuerzas especiales que debe defender la Tierra de una invasión alienígena devastadora. A lo largo de nueve niveles, alternas entre plataformas de acción y frenéticos disparos horizontales, enfrentando oleadas de enemigos y jefes gigantes creados a partir de modelos 3D pre‑renderizados. Puedes mejorar tus armas y aprovechar la caótica acción en cada escena, mientras la historia avanza con una presentación cinematográfica. El juego combina la rapidez del shooter con la profundidad del platformer, ofreciendo una experiencia retro de combate intenso y estratégica.",
+      "cover": "https://media.rawg.io/media/screenshots/c87/c8744589ad88d65ab30b2bfa032c907a.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2025-03-20"
+      },
+      "publisher": {
+        "es": "Ziggurat, Ziggurat Interactive"
+      },
+      "developer": {
+        "es": "Rainbow Arts, Limited Run Games"
+      }
     },
     {
       "id": "3903ce29",
@@ -107307,8 +107493,20 @@
       ],
       "link": "https://send.now/aiqyd7dcg3zh",
       "trailer": "https://www.youtube.com/embed/12YqBOcS4Jg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En 'The Legend of Dark Witch Episode 4' continúas la saga en una aventura 2D de acción con pixel art encantador. Cada enemigo derrotado otorga Tres, recurso esencial para mejorar a la bruja oscura Zizou. En cada nivel aparecen los Jammers, enemigos especiales que debes localizar y destruir antes de llegar a la sala del jefe final. Derrotar al jefe te brinda nuevas magias que amplían tus habilidades. La trama sigue a Zizou intentando detener a Verde, una organización misteriosa que usa interferencias mágicas para romper la comunicación global y conquistar el mundo.",
+      "cover": "https://media.rawg.io/media/screenshots/84d/84d4c9ba643cfce6d0a60ba624ed69cd.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-06-20"
+      },
+      "publisher": {
+        "es": "INSIDE SYSTEM"
+      },
+      "developer": {
+        "es": "INSIDE SYSTEM"
+      }
     },
     {
       "id": "9dacae6e",
@@ -107360,8 +107558,20 @@
       ],
       "link": "https://datanodes.to/m5x6kgvs7l18/Pok%C3%A9mon_FireRed_and__Pok%C3%A9mon_LeafGreen_NSPAll_Languages.rar",
       "trailer": "https://www.youtube.com/embed/aAm0Zjfx-Uw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Pokémon FireRed y LeafGreen, el jugador es un joven entrenador que comienza en Pueblo Paleta bajo la guía del Profesor Oak. Su misión es recorrer Kanto, capturar y entrenar Pokémon, vencer los ocho gimnasios y derrotar al Equipo Rocket para coronarse Campeón de la Liga Pokémon. Aparecen personajes icónicos como el rival, los líderes de gimnasio y Oak, que entrega los Pokémon iniciales. El juego conserva el combate por turnos, la evolución y el intercambio, e incluye un menú de ayuda contextual y la nueva zona de las Islas Sevii para explorar.",
+      "cover": "https://media.rawg.io/media/screenshots/bf7/bf76ba791262ca3a3580fc776bdecb87.jpg",
+      "genre": {
+        "es": "RPG, Strategy"
+      },
+      "releaseDate": {
+        "es": "2004-01-29"
+      },
+      "publisher": {
+        "es": "Nintendo, The Pokemon Company"
+      },
+      "developer": {
+        "es": "Game Freak"
+      }
     },
     {
       "id": "c686cc56",
@@ -107380,8 +107590,20 @@
       ],
       "link": "https://send.now/p4ws8ca2sqds",
       "trailer": "https://www.youtube.com/embed/CSLFhsr_dC4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Encarnando a íconos de Disney, la colección te lleva a revivir tardes de aventura. Viaja con Scrooge McDuck en la búsqueda de tesoros alrededor del mundo, combate el crimen como Darkwing Duck, surca los cielos pilotando a Baloo y coopera con Chip y Dale para derrotar a Fat Cat. Incluye seis clásicos que ahora poseen gráficos mejorados y filtros retro. Nuevos modos como Boss Rush y Time Attack añaden desafíos cronometrados con tablas online, mientras la función Rewind permite retroceder el tiempo y corregir errores. Un museo interno ofrece arte conceptual y música de la era original.",
+      "cover": "https://media.rawg.io/media/games/4b1/4b1dcd2b961f9bbed964d0b4914ed5e8.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2017-04-18"
+      },
+      "publisher": {
+        "es": "Capcom"
+      },
+      "developer": {
+        "es": "Capcom, Capcom U.S.A, Digital Eclipse"
+      }
     },
     {
       "id": "96e573f5",
@@ -107397,8 +107619,20 @@
       ],
       "link": "https://send.now/akc4fsgx2ji2",
       "trailer": "https://www.youtube.com/embed/9ZRSdou8ap4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Fear Effect 2: Retro Helix es un juego de acción y aventura que funciona como precuela de la serie Fear Effect. El título fue creado por el estudio Kronos Digital Entertainment y distribuido por Eidos Interactive. Su historia se sitúa antes de los acontecimientos del primer juego, introduciendo los orígenes de los personajes y los eventos que anteceden a la trama original. La jugabilidad combina combate dinámico, exploración de escenarios y resolución de puzzles, ofreciendo una experiencia que mezcla elementos narrativos y de acción típica del género.",
+      "cover": "https://media.rawg.io/media/games/d9f/d9f7fb690048c89e62e3a5ce1d4fe56a.jpg",
+      "genre": {
+        "es": "Action, Adventure, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2001-02-21"
+      },
+      "publisher": {
+        "es": "Eidos Interactive"
+      },
+      "developer": {
+        "es": "Kronos Digital Entertainment"
+      }
     },
     {
       "id": "f111ed18",
@@ -107414,8 +107648,20 @@
       ],
       "link": "https://send.now/busqz9mu0qmh",
       "trailer": "https://www.youtube.com/embed/Ja2uEyDHQRM",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Chicken Police: Into the Hive, los detectives Sonny y Marty, los más duros del Wilderness, investigan un caso que los lleva al bajo mundo de insectos llamado la Hive. Deben desentrañar una conspiración global mientras enfrentan sus propios demonios, recorriendo la ciudad de Clawville y sus más de 35 ubicaciones. El juego combina interrogatorios, recopilación y análisis de pistas, y resolución de puzles, ofreciendo más de 30 personajes totalmente doblados. Cada decisión puede alterar el destino de la ciudad y del mundo, mientras se descubren secretos y se vive una historia noir llena de traición y amistad.",
+      "cover": "https://media.rawg.io/media/screenshots/071/0713796a259d119d511e7d6e354b6a39.jpg",
+      "genre": {
+        "es": "Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-11-07"
+      },
+      "publisher": {
+        "es": "Joystick Ventures"
+      },
+      "developer": {
+        "es": "The Wild Gentlemen"
+      }
     },
     {
       "id": "f6c476d1",
@@ -107564,8 +107810,24 @@
       ],
       "link": "https://send.now/vdtt2syn62iu",
       "trailer": "https://www.youtube.com/embed/p1l9Cl0iKw8",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Fur Squadron: Phoenix, los jugadores se unen a una unidad aérea de élite encargada de defender un mundo futurista de una amenaza alienígena emergente. La historia sigue la lucha desesperada del escuadrón por descubrir el origen de la invasión mientras navegan intrigas políticas entre facciones rivales. La jugabilidad combina combates aéreos intensos, vuelo en formación estratégica y naves personalizables con una variedad de armas y habilidades. Se pueden alternar misiones en solitario y incursiones cooperativas, obteniendo mejoras que aumentan la maniobrabilidad y el poder de fuego al enfrentar batallas cada vez más difíciles.",
+      "cover": "",
+      "genre": {
+        "en": "Shooter, Action",
+        "es": "Disparos, Acción"
+      },
+      "releaseDate": {
+        "en": "2023-09-14",
+        "es": "2023-09-14"
+      },
+      "publisher": {
+        "en": "Independent",
+        "es": "Independent"
+      },
+      "developer": {
+        "en": "Fur Squadron Team",
+        "es": "Fur Squadron Team"
+      }
     },
     {
       "id": "30fa3dda",
@@ -107583,8 +107845,20 @@
       ],
       "link": "https://send.now/yb35btsjdqtl",
       "trailer": "https://www.youtube.com/embed/Y0rsjA-2qMI",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "City Hunter es un juego de acción‑aventura basado en el manga y anime homónimo, centrado en el detective privado Ryo Saeba. El jugador controla a Ryo, un mujeriego pero hábil tirador que recibe misiones de atractivas clientas femeninas. La jugabilidad, similar a Impossible Mission, consiste en explorar edificios, abrir puertas para encontrar personajes y objetos clave, y disparar a los matones que lo atacan mientras investiga. El título se divide en cuatro capítulos y cuenta con la aparición de personajes conocidos como la compañera Kaori Makimura, el rival Umibozu y la contacto policial Seiko Nogami.",
+      "cover": "https://media.rawg.io/media/games/759/759e2e2f8c7eebe7d27717fed87eb7ad.jpg",
+      "genre": {
+        "es": "Action, Adventure, Arcade"
+      },
+      "releaseDate": {
+        "es": "1990-03-02"
+      },
+      "publisher": {
+        "es": "Sunsoft, Clouded Leopard Entertainment"
+      },
+      "developer": {
+        "es": "SunSoft, Softdisk, Red Art Games"
+      }
     },
     {
       "id": "f04a44e8",
@@ -107601,8 +107875,20 @@
       ],
       "link": "https://send.now/znghw2b3kyxh",
       "trailer": "https://www.youtube.com/embed/H8noJYpA7zQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Deivy cerró un pacto con Randoom: sería su juguete y enfrentaría todos sus desafíos a cambio de obtener cualquier deseo al final. El demonio lo transformó en una pieza de ajedrez y lo encerró en la mansión de Randoom, un lugar peligroso lleno de pruebas. En este preciso platformer con rompecabezas, el jugador controla a Deivy, limitado por los extraños poderes de la mansión mientras busca la libertad. Cada desafío varía y requiere saltos exactos, lógica y rapidez para superar los obstáculos que el cruce‑demonio impone.",
+      "cover": "https://media.rawg.io/media/screenshots/bc9/bc91eed8f94bd6e2f5926e9002329147.jpg",
+      "genre": {
+        "es": "Action, Adventure, Strategy, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-02-03"
+      },
+      "publisher": {
+        "es": "GoGo Games Interactive"
+      },
+      "developer": {
+        "es": "Teion Games"
+      }
     },
     {
       "id": "d830609e",
@@ -107617,8 +107903,24 @@
       ],
       "link": "https://send.now/go3jbcpsn9c6",
       "trailer": "https://www.youtube.com/embed/zwH9xcm0ZkU",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Escape Game R00M10 es una aventura de puzzles en primera persona que coloca al jugador en una serie de habitaciones misteriosas. Cada habitación contiene objetos ocultos, códigos y mecanismos que deben examinarse y manipularse para hallar pistas. Los jugadores deben combinar objetos y resolver acertijos cada vez más complejos para abrir puertas y avanzar. El juego destaca la tensión atmosférica, la deducción lógica y la exploración mediante prueba y error, ofreciendo un reto satisfactorio para los fans de las salas de escape clásicas. En ocasiones aparecen elementos cronometrados que exigen rapidez, mientras notas descubiertas revelan fragmentos historia que aumentan inmersión.",
+      "cover": "",
+      "genre": {
+        "en": "Puzzle, Adventure",
+        "es": "Puzzle, Aventura"
+      },
+      "releaseDate": {
+        "en": "Unknown",
+        "es": "Unknown"
+      },
+      "publisher": {
+        "en": "Unknown",
+        "es": "Unknown"
+      },
+      "developer": {
+        "en": "Unknown",
+        "es": "Unknown"
+      }
     },
     {
       "id": "c3b3c8f0",
@@ -107632,8 +107934,20 @@
       ],
       "link": "https://send.now/2ws5fhskxjop",
       "trailer": "",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Antes de iniciar su guerra contra los dioses, Kratos fue obligado a servirles. La historia cuenta que, mucho antes de enfrentarse a Ares, el mortal que mató a un dios buscó redimirse ofreciendo sus servicios como campeón de los dioses. Sus crueldades en nombre del Olimpo se volvieron leyenda. Ahora, los dioses le encomiendan una travesía al inframundo, cuando la oscuridad cubre al mundo. En esa odisea debe combatir a las criaturas más temibles de la mitología griega y decidir entre su propia redención personal o salvar al mundo antiguo de su destrucción segura.",
+      "cover": "https://media.rawg.io/media/games/43d/43d96923f98c75727bd55b676fb3b6d3.jpg",
+      "genre": {
+        "es": "Action"
+      },
+      "releaseDate": {
+        "es": "2008-03-04"
+      },
+      "publisher": {
+        "es": "Sony Computer Entertainment"
+      },
+      "developer": {
+        "es": "Ready at Dawn Studios"
+      }
     },
     {
       "id": "e8590e7d",
@@ -107683,8 +107997,14 @@
       ],
       "link": "https://send.now/ldxrra8istn7",
       "trailer": "https://www.youtube.com/embed/N7J4c7mzP2M",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En tierras olvidadas cubiertas de mito, Ro, una cazadora de una tribu pequeña, es consumida por el dolor tras la muerte de su hijo amado. Voces de otro mundo la guían a cruzar al reino de los espíritus, buscando devolverlo. Como Ro, deberás enfrentar en combates por turnos y tableros de cuadrícula a espíritus incansables, creando mazos con poderosas cartas y tótems chamánicos. Recolectarás ingredientes en lugares como el Bosque de las Sombras aullantes y los Prados del Delirio, adaptando tu estilo táctico mientras descubres relatos y secretos que moldean su camino.",
+      "cover": "https://media.rawg.io/media/screenshots/ab3/ab33a530b763b2ecca2f0c5ebc2b86d3.jpg",
+      "publisher": {
+        "es": "11 bit studios"
+      },
+      "developer": {
+        "es": "The Outer Zone"
+      }
     },
     {
       "id": "78be54f5",
@@ -107700,8 +108020,20 @@
       ],
       "link": "https://send.now/bod2yjgbggfa",
       "trailer": "https://www.youtube.com/embed/ONr-dV_Pr7Q",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Vive la aventura clásica de Montezuma’s Revenge, ahora en gloriosa presentación 2.5D. En su 40.º aniversario, el juego original de 1983 se completa según la visión del creador Robert Jaeger. Puedes elegir entre el intrépido Pedro o su hermana Rosita para adentrarte en 100 habitaciones llenas de trampas, tesoros y enemigos. Corre, salta y trepa por cámaras peligrosas, recoge artefactos valiosos, busca llaves y resuelve misterios hasta enfrentarte al desafío final y escapar con tu botín y tu vida, y salvar tu destino.",
+      "cover": "https://media.rawg.io/media/screenshots/dd9/dd995e435d271796d34b6824730b603e.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2025-01-16"
+      },
+      "publisher": {
+        "es": "eastasiasoft"
+      },
+      "developer": {
+        "es": "Mission Critical Studios, Normal Distribution, Handcrafted Mystical Games"
+      }
     },
     {
       "id": "2e364c3b",
@@ -107716,8 +108048,24 @@
       ],
       "link": "https://send.now/e8wwn1d6bdsv",
       "trailer": "https://www.youtube.com/embed/6LLxAase_l4",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Path of Mystery: A Brush with Death es un título de misterio y aventura visual en el que el jugador asume el papel de un investigador que debe resolver una serie de asesinatos en una academia de arte aislada. La narrativa se desarrolla mediante diálogos detallados, entrevistas a testigos y la recolección de pistas ocultas en los talleres y galerías del recinto. La jugabilidad combina exploración point‑and‑click clásica con rompecabezas que requieren examinar pruebas, combinar objetos y recrear escenas del crimen. Las decisiones tomadas durante los interrogatorios y la deducción influyen en el desenlace, ofreciendo una experiencia atmosférica y tensa.",
+      "cover": "",
+      "genre": {
+        "en": "Mystery, Visual Novel, Adventure",
+        "es": "Misterio, Novela visual, Aventura"
+      },
+      "releaseDate": {
+        "en": "2020-05-23",
+        "es": "2020-05-23"
+      },
+      "publisher": {
+        "en": "Zoologico Entertainment",
+        "es": "Zoologico Entertainment"
+      },
+      "developer": {
+        "en": "Mimicry",
+        "es": "Mimicry"
+      }
     },
     {
       "id": "49a2d44e",
@@ -107734,8 +108082,20 @@
       ],
       "link": "https://send.now/yb7wfhig9qcu",
       "trailer": "https://www.youtube.com/embed/27Ug5jvxLME",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Caves of Qud es un roguelike de ciencia‑fantasía donde encarnas a un mutante de las dunas saladas o a un descendiente de los domos ecológicos. Llegas a la aldea‑oasis de Joppa, en el Gran Desierto Salado, rodeado de cultivos de vid‑acuática y ciudades de sal y hierro. Puedes equipar rifles, vibroespadas o incluso criaturas, y elegir entre más de 70 mutaciones y 24 castas. Exploras regiones generadas proceduralmente, cavando o fundiendo paredes, y controlas monstruos gracias a habilidades psiónicas. Las facciones, la historia de Barathrum el Oso y la muerte permanente añaden profundidad al juego.",
+      "cover": "https://media.rawg.io/media/screenshots/e6e/e6e4a23d51a5fe13c8bb155371516436.jpg",
+      "genre": {
+        "es": "Adventure, RPG, Strategy, Indie"
+      },
+      "releaseDate": {
+        "es": "2015-07-15"
+      },
+      "publisher": {
+        "es": "Kitfox Games"
+      },
+      "developer": {
+        "es": "Freehold Games"
+      }
     },
     {
       "id": "f5a041cf",
@@ -107750,8 +108110,20 @@
       ],
       "link": "https://send.now/702bs62fj3zd",
       "trailer": "https://www.youtube.com/embed/ohVmP9OW1HQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Bloodshed es un híbrido roguelite con estética retro y combate en primera persona al estilo Survivors. El jugador enfrenta oleadas interminables de muertos vivientes, cultistas y demonios que buscan resucitar a una deidad ancestral y desatar el apocalipsis. Cada muerte conserva el dinero ganado, permitiendo comprar mejoras permanentes y desbloquear contenido. El juego ofrece varios héroes con habilidades únicas y una amplia variedad de armas y habilidades para crear builds personalizadas. Los enemigos poseen patrones distintos y llegan en masas, exigiendo estrategias rápidas y adaptativas para sobrevivir la noche.",
+      "cover": "https://media.rawg.io/media/screenshots/f94/f94ca30462d02173dd835e1ff84d691c.jpg",
+      "genre": {
+        "es": "Action, Adventure, Indie"
+      },
+      "releaseDate": {
+        "es": "2024-12-11"
+      },
+      "publisher": {
+        "es": "Headup Games"
+      },
+      "developer": {
+        "es": "com8com1 Software"
+      }
     },
     {
       "id": "4df5b3f0",
