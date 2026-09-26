@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1790396904811,
+  "updatedAt": 1790420908210,
   "articles": [
     {
       "id": "50388917483c8183d18b87cb023d03fc",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790396889019_237.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790420899811_405.jpg",
       "link": "https://www.theguardian.com/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
       "en": {
-        "title": "Father and 22-year-old son revisit first co-op Call of Duty session",
-        "description": "The author has spent three weeks living with his 22-year-old son in a two‑bedroom flat that the son refers to as the “brotel”. During this period t...",
-        "fullContent": "The author has spent three weeks living with his 22-year-old son in a two‑bedroom flat that the son refers to as the “brotel”. During this period they have prepared meals together, watched films, and played video games. The first cooperative video game they played together was Call of Duty: Modern Warfare 2 in 2009, when the son was five years old. At that time they did not complete the two Special Ops missions that were available in the game.\n\nThe pair returned to those missions nearly two decades later. The first mission, officially titled “Evasion”, is described by the author as “the guard dogs in the snow”. The author notes a cautious approach using a sniper scope and crawling, while his son moves quickly and engages enemies directly, which triggers the in‑game guard dogs."
+        "title": "Father and 22-year-old son revisit Call of Duty: Modern Warfare 2 after 15 years",
+        "description": "Dominik Diamond reports that he has spent the past three weeks residing in a two‑bedroom flat with his 22‑year‑old son, a space the son refers to a...",
+        "fullContent": "Dominik Diamond reports that he has spent the past three weeks residing in a two‑bedroom flat with his 22‑year‑old son, a space the son refers to as the “brotel.” During this period they have prepared meals together, watched films, and played video games. The first cooperative video game they played together was Call of Duty: Modern Warfare 2 in 2009, when the son was five years old.\n\nDiamond and his son returned to the game to attempt the two Special Ops missions that they had not completed during the original playthrough. The first mission, officially titled “Evasion,” is described by them as “the guard dogs in the snow.” Diamond notes his cautious approach using a sniper scope, while his son advances quickly, triggering in‑game enemies. The attempt reflects changes in their abilities, including Diamond’s left‑handedness and the son’s increased experience."
       },
       "es": {
-        "title": "Padre y su hijo de 22 años revisitan su primera partida cooperativa de Call of Duty",
-        "description": "El autor ha pasado tres semanas viviendo con su hijo de 22 años en un piso de dos habitaciones que el hijo denomina “brotel”. Durante ese tiempo ha...",
-        "fullContent": "El autor ha pasado tres semanas viviendo con su hijo de 22 años en un piso de dos habitaciones que el hijo denomina “brotel”. Durante ese tiempo han preparado comidas, visto películas y jugado videojuegos. El primer juego cooperativo que jugaron juntos fue Call of Duty: Modern Warfare 2 en 2009, cuando el hijo tenía cinco años. En esa ocasión no completaron las dos misiones Special Ops del juego.\n\nLa pareja volvió a intentar esas misiones casi dos décadas después. La primera misión, titulada oficialmente “Evasion”, es referida por el autor como “los perros guardianes en la nieve”. El autor describe una estrategia cautelosa con la mira de francotirador y arrastrándose, mientras su hijo avanza rápidamente y dispara directamente, lo que activa a los perros guardianes del juego."
+        "title": "Padre y su hijo de 22 años vuelven a jugar Call of Duty: Modern Warfare 2 tras 15 años",
+        "description": "Dominik Diamond indica que ha pasado las últimas tres semanas viviendo en un piso de dos habitaciones con su hijo de 22 años, un espacio que el jov...",
+        "fullContent": "Dominik Diamond indica que ha pasado las últimas tres semanas viviendo en un piso de dos habitaciones con su hijo de 22 años, un espacio que el joven llama “brotel”. Durante ese tiempo han preparado comidas, visto películas y jugado videojuegos. El primer juego cooperativo que compartieron fue Call of Duty: Modern Warfare 2 en 2009, cuando el hijo tenía cinco años.\n\nDiamond y su hijo retomaron el juego para intentar las dos misiones Special Ops que no habían completado en la primera ocasión. La primera misión, titulada oficialmente “Evasion”, la describen como “los perros guardianes en la nieve”. Diamond menciona su estilo de juego cauteloso con la mira de francotirador, mientras su hijo avanza rápidamente y activa a los enemigos del juego. La partida muestra cambios en sus habilidades, incluida la zurdera de Diamond y la mayor experiencia del hijo."
+      }
+    },
+    {
+      "id": "155326d4ed847f581bc8cdfb2bea2030",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790420901783_942.jpg",
+      "link": "https://www.videogameschronicle.com/news/starfield-2-will-likely-never-happen-because-the-first-wasnt-anywhere-near-successful-enough-former-dev-says/",
+      "en": {
+        "title": "Former Starfield lead designer says sequel unlikely due to insufficient success",
+        "description": "In an interview with FRVR, Kurt Kuhlmann, who served as lead systems designer on Starfield, said he does not expect Bethesda Game Studios to releas...",
+        "fullContent": "In an interview with FRVR, Kurt Kuhlmann, who served as lead systems designer on Starfield, said he does not expect Bethesda Game Studios to release a follow‑up title. He stated that he would be surprised if a Starfield 2 were announced and that the first game was \"anywhere near successful enough\" to justify a sequel.\n\nKuhlmann added that Bethesda is currently focusing its resources on The Elder Scrolls 6 while continuing to issue DLC and updates for Starfield. He also noted that, in his assessment, the original release did not fully achieve director Todd Howard’s initial vision, and that a sequel might have brought the series closer to that vision."
+      },
+      "es": {
+        "title": "Ex‑diseñador principal de Starfield afirma que una secuela es poco probable por falta de éxito",
+        "description": "En una entrevista con FRVR, Kurt Kuhlmann, quien fue lead systems designer de Starfield, declaró que no espera que Bethesda Game Studios lance un t...",
+        "fullContent": "En una entrevista con FRVR, Kurt Kuhlmann, quien fue lead systems designer de Starfield, declaró que no espera que Bethesda Game Studios lance un título sucesor. Indicó que le sorprendería que anunciaran Starfield 2 y que el primer juego no fue \"en absoluto lo suficientemente exitoso\" como para justificar una secuela.\n\nKuhlmann también comentó que Bethesda está centrando sus esfuerzos en The Elder Scrolls 6, aunque sigue publicando DLC y actualizaciones para Starfield. Añadió que, según su evaluación, el lanzamiento original no alcanzó plenamente la visión inicial del director Todd Howard, y que una secuela podría haber acercado la serie a esa visión."
       }
     },
     {
       "id": "3caf847471ec30528d08f9cdd776d6e9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790396894876_629.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790420903869_809.jpg",
       "link": "https://www.bbc.com/news/articles/ckvgyzjpy2eno",
       "en": {
-        "title": "Silent Hill: Townfall released, set on fictional Scottish island",
-        "description": "The new installment of the Silent Hill series, Silent Hill: Townfall, takes place on a fictional Scottish island called St Amelia. The game begins ...",
-        "fullContent": "The new installment of the Silent Hill series, Silent Hill: Townfall, takes place on a fictional Scottish island called St Amelia. The game begins with the player navigating a fog‑filled environment and encountering a sign for a Sunday roast. It marks the first appearance of the franchise, originally created in Japan and typically set in the United States, in a United Kingdom location.\n\nJon McKellan, director of the Glasgow‑based studio Screen Burn, said that developing a title under the Silent Hill brand was a challenging prospect for the small team. The game launched on Thursday for PlayStation 5; initial testing reported stable performance, although other users have noted occasional issues. The narrative is set in 1996 and follows an American character named Simon Ordell, who arrives on St Amelia with a red hospital identification band and an intravenous drip."
+        "title": "Silent Hill: Townfall launches with Scottish setting",
+        "description": "The new entry in the Silent Hill series, Silent Hill: Townfall, takes place on a fictional Scottish island and includes familiar elements such as a...",
+        "fullContent": "The new entry in the Silent Hill series, Silent Hill: Townfall, takes place on a fictional Scottish island and includes familiar elements such as a sign advertising a Sunday roast. The game marks the first occasion the franchise, originally created in Japan and traditionally set in the United States, is set in the United Kingdom.\nDirector Jon McKellan of the Glasgow‑based studio Screen Burn described the prospect of working with the established brand as \"absolutely terrifying\" for the relatively small development team. The reviewer played the title on a PlayStation 5, noting that it ran smoothly, although other reports have mentioned occasional performance issues.\nSet in 1996, Silent Hill: Townfall follows an American character named Simon Ordell who arrives on the island of St Amelia with a red hospital identification band on his wrist and an IV drip attached to his arm."
       },
       "es": {
-        "title": "Silent Hill: Townfall se lanza y se ambienta en una isla escocesa ficticia",
-        "description": "El nuevo título de la serie Silent Hill, Silent Hill: Townfall, está ambientado en una isla escocesa ficticia llamada St Amelia. El juego comienza ...",
-        "fullContent": "El nuevo título de la serie Silent Hill, Silent Hill: Townfall, está ambientado en una isla escocesa ficticia llamada St Amelia. El juego comienza con el jugador recorriendo una niebla densa y encontrando un cartel que anuncia un asado dominical. Es la primera vez que la franquicia, creada originalmente en Japón y habitualmente situada en Estados Unidos, se desarrolla en una ubicación del Reino Unido.\n\nJon McKellan, director del estudio con sede en Glasgow, Screen Burn, indicó que asumir la responsabilidad de una marca tan grande representó un desafío para su pequeño equipo. El juego se lanzó el jueves para PlayStation 5; las pruebas iniciales mostraron un funcionamiento estable, aunque algunos usuarios han reportado problemas de rendimiento. La historia se sitúa en 1996 y sigue a un personaje estadounidense llamado Simon Ordell, quien llega a St Amelia con una pulsera de identificación hospitalaria roja y una vía intravenosa."
-      }
-    },
-    {
-      "id": "8c750215929624f790348d27524124ea",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790396898127_339.jpg",
-      "link": "https://www.motherjones.com/politics/2026/09/microsoft-blizzard-blizzcon-video-game-union-wow-overwatch-studio-contract/",
-      "en": {
-        "title": "Blizzard Employees Ratify Union Contract at BlizzCon",
-        "description": "At BlizzCon, 1,900 Blizzard Entertainment employees finalized a collective bargaining agreement that includes provisions for job security, remote w...",
-        "fullContent": "At BlizzCon, 1,900 Blizzard Entertainment employees finalized a collective bargaining agreement that includes provisions for job security, remote work options, wage terms and the ability to negotiate over the use of artificial intelligence. The agreement follows a 2022 labor neutrality accord between Blizzard’s parent company Microsoft and the Communications Workers of America.\n\nDuring the convention, the union’s supply of colored pins representing the seven bargaining units was exhausted as attendees gathered to acknowledge the vote. Senior World of Warcraft designer Paul Cox noted that many participants asked how they could become involved with unions. Since 2024, workers in quality assurance locations in Albany, New York, and Austin, Texas, as well as staff from World of Warcraft, story development, technology, Overwatch and Diablo, have joined the union in successive steps."
-      },
-      "es": {
-        "title": "Trabajadores de Blizzard ratifican contrato sindical en BlizzCon",
-        "description": "En el marco de BlizzCon, 1.900 empleados de Blizzard Entertainment firmaron un convenio colectivo que contempla disposiciones sobre seguridad labor...",
-        "fullContent": "En el marco de BlizzCon, 1.900 empleados de Blizzard Entertainment firmaron un convenio colectivo que contempla disposiciones sobre seguridad laboral, opciones de trabajo remoto, salarios y la capacidad de negociar el uso de inteligencia artificial. El acuerdo se produce tras un pacto de neutralidad laboral de 2022 entre Microsoft, empresa matriz de Blizzard, y el sindicato Communications Workers of America.\n\nDurante el evento, se agotaron los pines de colores que representaban los siete unidades de negociación, mientras los asistentes se acercaban para felicitar el resultado. El diseñador senior de World of Warcraft, Paul Cox, comentó que varios presentes preguntaron cómo involucrarse en sindicatos. Desde 2024, trabajadores de control de calidad en Albany, Nueva York, y Austin, Texas, así como personal de World of Warcraft, desarrollo de historia, tecnología, Overwatch y Diablo, se han afiliado al sindicato en etapas sucesivas."
+        "title": "Silent Hill: Townfall se lanza con ambientación escocesa",
+        "description": "El nuevo título de la saga Silent Hill, Silent Hill: Townfall, está ambientado en una isla escocesa ficticia e incluye elementos como un cartel que...",
+        "fullContent": "El nuevo título de la saga Silent Hill, Silent Hill: Townfall, está ambientado en una isla escocesa ficticia e incluye elementos como un cartel que anuncia un asado dominical. Es la primera vez que la franquicia, creada en Japón y habitualmente situada en Estados Unidos, se sitúa en el Reino Unido.\nEl director Jon McKellan, de la desarrolladora de Glasgow Screen Burn, calificó el reto de trabajar con la marca como \"absolutamente aterrador\" para el equipo, que es relativamente pequeño. El juego se probó en una PlayStation 5, donde funcionó sin problemas visibles, aunque se han registrado algunos informes de incidencias de rendimiento.\nLa trama, situada en 1996, sigue a Simon Ordell, un estadounidense que llega a la isla de St Amelia con una pulsera de identificación hospitalaria roja en la muñeca y una perfusión intravenosa conectada a su brazo."
       }
     },
     {
       "id": "ba77b92ed4a9909d92f8e105a022110e",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790396901043_550.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790420905892_633.jpg",
       "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/the-six-year-journey-behind-big-walk",
       "en": {
-        "title": "Bloomberg Describes Its Role in Business and Financial Information Delivery",
-        "description": "The article titled \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\" includes a statement from Bloomberg. Bloomberg sta...",
-        "fullContent": "The article titled \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\" includes a statement from Bloomberg. Bloomberg states that it connects decision makers to a dynamic network of information, people and ideas, and that it delivers business and financial information, news and insight quickly and accurately worldwide. The same description appears twice in the text.\n\nNo additional details about the development of the video game or other topics are provided in the excerpt."
+        "title": "Bloomberg reports on six-year development of 'Big Walk'",
+        "description": "Bloomberg published an article titled \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games.\" The piece references the devel...",
+        "fullContent": "Bloomberg published an article titled \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games.\" The piece references the development period of the video game \"Big Walk.\" \n\nThe article also contains Bloomberg's standard corporate description, stating that the company connects decision makers to a dynamic network of information, people and ideas, and that it quickly and accurately delivers business and financial information, news and insight around the world."
       },
       "es": {
-        "title": "Bloomberg Describe Su Función en la Distribución de Información Empresarial y Financiera",
-        "description": "El artículo titulado \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\" contiene una declaración de Bloomberg. Bloomberg...",
-        "fullContent": "El artículo titulado \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\" contiene una declaración de Bloomberg. Bloomberg indica que conecta a los tomadores de decisiones con una red dinámica de información, personas e ideas, y que entrega información empresarial y financiera, noticias y análisis de forma rápida y precisa a nivel mundial. La misma descripción se repite dos veces en el texto.\n\nNo se incluyen detalles adicionales sobre el desarrollo del videojuego ni sobre otros temas en el fragmento proporcionado."
+        "title": "Bloomberg informa sobre el desarrollo de seis años de 'Big Walk'",
+        "description": "Bloomberg publicó un artículo titulado \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\". El texto hace referencia al p...",
+        "fullContent": "Bloomberg publicó un artículo titulado \"The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games\". El texto hace referencia al período de desarrollo del videojuego \"Big Walk\".\n\nEl artículo también incluye la descripción corporativa habitual de Bloomberg, indicando que la empresa conecta a los tomadores de decisiones con una red dinámica de información, personas e ideas, y que entrega de manera rápida y precisa información empresarial y financiera, noticias y análisis a nivel mundial."
       }
     },
     {
-      "id": "3a69430e2dee1d3cf53e470ed6c021ff",
+      "id": "8c750215929624f790348d27524124ea",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790396904719_507.jpg",
-      "link": "https://www.svg.com/2264250/best-beat-em-up-arcade-games-all-time-ranked/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790420908208_994.jpg",
+      "link": "https://www.motherjones.com/politics/2026/09/microsoft-blizzard-blizzcon-video-game-union-wow-overwatch-studio-contract/",
       "en": {
-        "title": "Five Arcade Beat 'Em Up Games Ranked",
-        "description": "The beat 'em up genre originated with titles such as \"Kung-Fu Master\" and \"Double Dragon\" and has been a recurring presence in arcade venues. The g...",
-        "fullContent": "The beat 'em up genre originated with titles such as \"Kung-Fu Master\" and \"Double Dragon\" and has been a recurring presence in arcade venues. The genre combines action-oriented combat with the option for cooperative multiplayer, and several properties from the 1980s and 1990s were adapted into beat 'em up games.\nThe current list evaluates five arcade beat 'em up titles, limiting the selection to games that were originally released in arcades. Consequently, titles that were exclusive to home consoles, for example \"Streets of Rage\" and \"Guardian Heroes,\" are not part of this ranking.\nCapcom is noted for its contributions to the arcade beat 'em up market. Among its releases, the 1991 fantasy title \"Knights of the Round\" allows up to three players to control characters from the Arthurian legend, includes role‑playing elements such as character progression, and features a blocking mechanic that reflects the company's experience with action RPGs and fighting games."
+        "title": "Blizzard Workers Ratify Union Contract at BlizzCon",
+        "description": "At BlizzCon, the annual convention of Blizzard Entertainment, 1,900 unionized employees confirmed a contract that includes provisions for job secur...",
+        "fullContent": "At BlizzCon, the annual convention of Blizzard Entertainment, 1,900 unionized employees confirmed a contract that includes provisions for job security, remote work, wage adjustments, and collective bargaining over artificial intelligence. The event saw all 7,000 colored pins representing the bargaining units distributed, and attendees continued to exchange pins and ask questions about union involvement after the ceremony, according to senior World of Warcraft designer Paul Cox.\n\nSince 2024, various groups within Blizzard—including quality‑assurance staff in Albany, New York, and Austin, Texas, as well as teams working on World of Warcraft, story development, technology, Overwatch, and Diablo—have organized under the Communications Workers of America. Blizzard and its parent company Microsoft have recognized the 1,900 union members following a 2022 labor‑neutrality agreement with the union. The announcement comes amid broader industry reports of long work weeks and post‑release staff reductions in video‑game development."
       },
       "es": {
-        "title": "Cinco Juegos Beat 'Em Up de Arcade Clasificados",
-        "description": "El género beat 'em up surgió con títulos como \"Kung-Fu Master\" y \"Double Dragon\" y ha mantenido una presencia constante en los salones de arcade. E...",
-        "fullContent": "El género beat 'em up surgió con títulos como \"Kung-Fu Master\" y \"Double Dragon\" y ha mantenido una presencia constante en los salones de arcade. El género combina combates intensos con la posibilidad de juego cooperativo, y varias franquicias de los años 80 y 90 se adaptaron a este estilo.\nLa lista actual clasifica cinco juegos beat 'em up que fueron lanzados originalmente en arcade, excluyendo los títulos que solo estuvieron disponibles en consolas domésticas, como \"Streets of Rage\" y \"Guardian Heroes\".\nCapcom es mencionado por su participación en la producción de juegos beat 'em up para arcade. Entre sus lanzamientos se encuentra \"Knights of the Round\" (1991), un título de fantasía que permite hasta tres jugadores, incorpora elementos de juego de rol como la progresión de personajes y utiliza una mecánica de bloqueo, reflejando la experiencia de la compañía en RPG de acción y juegos de lucha."
+        "title": "Trabajadores de Blizzard ratifican contrato sindical en BlizzCon",
+        "description": "En BlizzCon, la convención anual de Blizzard Entertainment, 1.900 empleados sindicalizados confirmaron un contrato que contempla medidas de segurid...",
+        "fullContent": "En BlizzCon, la convención anual de Blizzard Entertainment, 1.900 empleados sindicalizados confirmaron un contrato que contempla medidas de seguridad laboral, trabajo remoto, ajustes salariales y la posibilidad de negociar colectivamente sobre inteligencia artificial. Durante el evento se agotaron los 7.000 pins de colores que representaban a cada unidad de negociación, y los asistentes continuaron intercambiándolos y formulando preguntas sobre la participación en sindicatos, según informó Paul Cox, diseñador senior de World of Warcraft.\n\nDesde 2024, varios grupos dentro de Blizzard —incluyendo personal de aseguramiento de calidad en Albany, Nueva York, y Austin, Texas, así como equipos de World of Warcraft, desarrollo de historias, tecnología, Overwatch y Diablo—se han organizado bajo la Communications Workers of America. Blizzard y su empresa matriz Microsoft reconocieron a los 1.900 trabajadores sindicalizados tras un acuerdo de neutralidad laboral firmado en 2022 con el sindicato. La información se enmarca en reportes más amplios del sector que describen jornadas extensas y reducciones de personal después del lanzamiento de los videojuegos."
       }
     }
   ]
