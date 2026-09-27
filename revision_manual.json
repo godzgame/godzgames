@@ -12930,76 +12930,64 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "e11b4050",
-    "title": "Daymare 1994 Sandcastle",
+    "id": "bc869a32",
+    "title": "Poppy Playtime Chapter 4",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "41f09735",
+    "title": "Where The Heart Leads",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "f006f73f",
+    "title": "Kamen Rider Climax Fighters",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "29b919c2",
+    "title": "Call of Duty Modern Warfare Remastered",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "23c23c7b",
-    "title": "Outbreak Lost Hope",
+    "id": "a6ba0f84",
+    "title": "Kona",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "8a66fe03",
-    "title": "Rogue Lords",
+    "id": "212d5d1e",
+    "title": "Aliens Fireteam Elite",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "53e043f6",
-    "title": "Contra Anniversary Collection",
+    "id": "f78ab9ee",
+    "title": "Salt and Sacrifice",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "ed036885",
-    "title": "Castlevania Requiem Symphony of The Night and Rondo of Blood",
+    "id": "208c8edf",
+    "title": "Tibetan Quest Beyond The Worlds End",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "6be3b935",
-    "title": "The Last Blade 2",
+    "id": "fc32af93",
+    "title": "Cat and Ghostly Road",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "2f3c3c37",
-    "title": "Kandagawa Jet Girls",
+    "id": "dc0146a1",
+    "title": "Tales of Symphonia Remastered",
     "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "1fb7526c",
-    "title": "Neonwall",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "055aa0fb",
-    "title": "MLB The Show 23",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "30a28428",
-    "title": "ReadySet Heroes",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "f8f500c0",
-    "title": "Nightmare Boy",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "2d5e131c",
-    "title": "Knack",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
+    "razon": "Verificación rechazó genérico: El pueblo de Mizuho no forma parte del universo de Tales of Symphonia; Lloyd es originario de la aldea de Karis, por lo que esa ubicación está mal atribuida."
   },
   {
     "id": "ef92879a",
@@ -13014,16 +13002,40 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
+    "id": "0605f013",
+    "title": "Star Wars Episode I The Phantom Menace",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
     "id": "cd655f37",
     "title": "Kona 2 Brume",
     "console": "PS4",
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "bc869a32",
-    "title": "Poppy Playtime Chapter 4",
+    "id": "850de214",
+    "title": "Ghosts N Goblins Resurrection",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "efbef785",
+    "title": "Just Shapes and Beats",
     "console": "PS4",
     "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "4f71a592",
+    "title": "SoulCalibur Broken Destiny",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a4f68bca",
+    "title": "Beyond Two Souls",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "caa8f239",
@@ -13032,8 +13044,44 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
+    "id": "3fc3704e",
+    "title": "Moonscars",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "36a9e076",
+    "title": "Little Big Workshop",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "ef1cb4ab",
     "title": "FAR Changing Tides",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a8649822",
+    "title": "Inscryption",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c96e3dc0",
+    "title": "NBA 2K15",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "719c4c0c",
+    "title": "NBA 2K16",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3a2a6b5b",
+    "title": "Hundred Days Winemaking Simulator",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13056,100 +13104,10 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "08e71caf",
-    "title": "Whispike Survivors Sword of the Necromancer",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "395e7e62",
-    "title": "Citadel Forged With Fire",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "39886d99",
     "title": "Galagi Shooter",
     "console": "PS4",
     "razon": "posible coincidencia incorrecta en RAWG"
-  },
-  {
-    "id": "965585a4",
-    "title": "Cocoon",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "27cad455",
-    "title": "Horatio Goes Snowboarding",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "d1cab8ba",
-    "title": "Animal Kart Racer 2",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "97667498",
-    "title": "NORTH",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "34e44eb2",
-    "title": "Snow Madness",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "90b163d4",
-    "title": "Paw Paw Paw",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "6aa0e4ea",
-    "title": "Breakneck City",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "36c805fb",
-    "title": "Horror Tales The Wine",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "41f09735",
-    "title": "Where The Heart Leads",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "f006f73f",
-    "title": "Kamen Rider Climax Fighters",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "dc0146a1",
-    "title": "Tales of Symphonia Remastered",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "efbef785",
-    "title": "Just Shapes and Beats",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "0605f013",
-    "title": "Star Wars Episode I The Phantom Menace",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
   },
   {
     "id": "74d36831",
@@ -13158,32 +13116,8 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "e60605bf",
-    "title": "Loop8 Summer of Gods",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "a09dd8f9",
-    "title": "Stray Souls",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "4a43c31a",
-    "title": "The Bridge Curse 2 The Extrication",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "c3d69e3e",
     "title": "Metal Dogs",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "add53783",
-    "title": "Atomicrops Deluxe Edition",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13194,50 +13128,8 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "aa0c1d8b",
-    "title": "Asterigos Curse of The Stars Deluxe Edition",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "cee8634d",
-    "title": "Mr Pumpkin Adventure",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "d9e91a6b",
-    "title": "Dreamals Dream Quest",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "3d313370",
-    "title": "Element4l",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "0eb1b9d6",
     "title": "Radio Hammer Station",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "9606d741",
-    "title": "Impact Winter",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "8fc26bef",
-    "title": "Haunted House",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "dc5283ef",
-    "title": "Unalive 010",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13248,68 +13140,8 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "3c563c75",
-    "title": "Ultros",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "19d366a8",
     "title": "Kaiji VR The Nightmare Bridge",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "d950ccd6",
-    "title": "Super Destronaut DX",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "73bc5ccf",
-    "title": "Life Goes On",
-    "console": "PS4",
-    "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "49cf5eed",
-    "title": "Iron Snout",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "ee9f9fe0",
-    "title": "Little Triangle",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "368ed56d",
-    "title": "High on Life",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "8f0f161f",
-    "title": "Super Monkey Ball Banana Blitz HD",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "9f94a913",
-    "title": "Tenebris Pictura",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "4987e550",
-    "title": "Fight of Gods",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "34902520",
-    "title": "Five Hearts Under One Roof",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13371,7 +13203,7 @@
     "id": "181b5409",
     "title": "Injustice Gods Among Us Ultimate Edition",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "e404a982",
@@ -13440,6 +13272,12 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
+    "id": "73bc5ccf",
+    "title": "Life Goes On",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
     "id": "a7e5759f",
     "title": "Retromania Wrestling",
     "console": "PS4",
@@ -13448,6 +13286,12 @@
   {
     "id": "cdaed541",
     "title": "Spyro Reignited Trilogy",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "aaa885e9",
+    "title": "Like A Dragon Infinite Wealth Ultimate Edition",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13617,7 +13461,7 @@
     "id": "32405cbe",
     "title": "Mountain Racing",
     "console": "PS4",
-    "razon": "Verificación rechazó genérico: Error de red"
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "ce90753d",
@@ -13632,16 +13476,16 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
+    "id": "24478b75",
+    "title": "Crazy Chicken Xtreme",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "8ca1428f",
     "title": "Crazy Chicken Kart 2",
     "console": "PS4",
     "razon": "Fallback genérico falló."
-  },
-  {
-    "id": "7807d351",
-    "title": "Crazy Chicken Jump N Run Traps and Treasures",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "06a6c367",
@@ -13659,11 +13503,17 @@
     "id": "cf4aebe4",
     "title": "Lost Artifacts Frozen Queen",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "825ad75c",
     "title": "Lost Artifacts Mysterious Book",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f4c5f241",
+    "title": "Collab Ball",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13712,12 +13562,6 @@
   {
     "id": "d68a9695",
     "title": "Super Kids Racing Jungle Edition",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "5c0c990e",
-    "title": "Midnight Fight Express",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -13887,7 +13731,7 @@
     "id": "cda1e876",
     "title": "Police Chase",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "2baac995",
@@ -13947,7 +13791,7 @@
     "id": "9ad5d884",
     "title": "Skelattack",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "15663ea1",
@@ -13958,6 +13802,12 @@
   {
     "id": "68ffc36c",
     "title": "Truck and Logistics Simulator",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ab394f89",
+    "title": "Have a Nice Death",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14073,7 +13923,7 @@
     "id": "31c137c2",
     "title": "Jitsu Squad",
     "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
+    "razon": "Fallback genérico falló."
   },
   {
     "id": "7cb4f70a",
@@ -14220,6 +14070,12 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
+    "id": "af270f5f",
+    "title": "Far Cry 6",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "50225e06",
     "title": "Gunlord X",
     "console": "PS4",
@@ -14316,6 +14172,12 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
+    "id": "ffda1499",
+    "title": "GORN",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "70eaf7e9",
     "title": "UNRAILED!",
     "console": "PS4",
@@ -14331,7 +14193,7 @@
     "id": "6cb71bde",
     "title": "Operation Wolf Returns First Mission",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "09158a99",
@@ -14349,7 +14211,7 @@
     "id": "a195ec6e",
     "title": "Agatha Christie Murder on The Orient Express",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "Verificación rechazó genérico: Error de red"
   },
   {
     "id": "29aa2178",
@@ -14427,17 +14289,11 @@
     "id": "8cafdd4a",
     "title": "POSTAL Redux",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "52e99797",
     "title": "Hotel Transylvania Scary Tale Adventures",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
-    "id": "3bd136a6",
-    "title": "Lumote The Mastermote Chronicles",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14457,7 +14313,7 @@
     "id": "82b32f15",
     "title": "Teslagrad 2",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "cf1a80ce",
@@ -14466,8 +14322,8 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "1b2a8680",
-    "title": "Capcom Fighting Collection",
+    "id": "13e0f631",
+    "title": "Vampire The Masquerade Swansong Primogen Edition",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14553,7 +14409,7 @@
     "id": "6f870810",
     "title": "Helvetii",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "47f147f8",
@@ -14586,16 +14442,10 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "4f587055",
-    "title": "The Callisto Protocol",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "f7179739",
     "title": "Martha is Dead",
     "console": "PS4",
-    "razon": "Verificación rechazó genérico: Error de red"
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "ad8682b6",
@@ -14691,7 +14541,7 @@
     "id": "7b5f2de7",
     "title": "From Shadows",
     "console": "PS4",
-    "razon": "Verificación rechazó genérico: Error de red"
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "7ce31292",
@@ -14745,7 +14595,7 @@
     "id": "4446f549",
     "title": "BDSM Big Drunk Satanic Massacre",
     "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
+    "razon": "Fallback genérico falló."
   },
   {
     "id": "6dd9708d",
@@ -14769,13 +14619,13 @@
     "id": "3f369a4e",
     "title": "Tower of Time",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "68d93443",
     "title": "The Colonists",
     "console": "PS4",
-    "razon": "Fallback genérico falló."
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "d86e2137",
@@ -14790,8 +14640,68 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
+    "id": "9d3084f2",
+    "title": "Moon Raider",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "101ad870",
+    "title": "0 Degrees",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2c508eae",
+    "title": "Beautiful Desolation",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8053dab9",
+    "title": "King of Seas",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4b06bd09",
+    "title": "Neptunia Sisters Vs Sisters",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fc8f3976",
+    "title": "Dungeon and Gravestone",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9755d692",
+    "title": "Radon Blast",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e95367c3",
+    "title": "Monster Blast",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "d963f56d",
     "title": "PGA Tour 2K23",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6bb5bdee",
+    "title": "Rain World",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fc21aee5",
+    "title": "NBA 2K23",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14808,14 +14718,92 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
+    "id": "1f52df39",
+    "title": "Amnesia Rebirth",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ea174245",
+    "title": "WrestleQuest",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "439e6051",
+    "title": "World Splitter",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "59a9cca6",
+    "title": "Super Star Blast",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "79227369",
+    "title": "Poker Pretty Girls Battle Fantasy World Edition",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "09878a95",
     "title": "R Type Final 3",
     "console": "PS4",
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
+    "id": "451062d7",
+    "title": "Mayhem Brawler",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
     "id": "db839717",
     "title": "Tank Mechanic Simulator",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8d2ca223",
+    "title": "Pretty Girls Klondike Solitaire",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9d34015e",
+    "title": "Sniper Elite 5",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "be293b30",
+    "title": "MouseBot Escape From CatLab",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7635ba21",
+    "title": "Within The Blade",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "72a9223f",
+    "title": "Rise Eterna",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "088033cb",
+    "title": "Akinofa",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "63d9cdaa",
+    "title": "Evoland Legendary Edition",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14826,20 +14814,20 @@
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "78ed9d89",
-    "title": "Disney Classic Games Collection",
+    "id": "1599314f",
+    "title": "Samurai Bringer",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "b1d7b614",
-    "title": "The Forgotten City",
+    "id": "bce7230c",
+    "title": "Crocs World Run",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "ea6873f4",
-    "title": "Crocs World",
+    "id": "f5b152c7",
+    "title": "Syphon Filter 3",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
@@ -14850,16 +14838,28 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "9b83715c",
-    "title": "The Elder Scrolls V Skyrim VR",
-    "console": "PS4",
-    "razon": "IA falló al traducir o devolvió texto vacío."
-  },
-  {
     "id": "545b5606",
     "title": "Star Wars Battlefront 2",
     "console": "PS4",
     "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d19da042",
+    "title": "Guitar Hero Live",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "449e003a",
+    "title": "RWBY Grimm Eclipse",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "95178308",
+    "title": "Lords of The Fallen Complete Edition",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
     "id": "770f7871",
@@ -14868,21 +14868,4401 @@
     "razon": "posible coincidencia incorrecta en RAWG"
   },
   {
-    "id": "51d2ee52",
-    "title": "WRC 8 FIA World Rally Championship",
+    "id": "4bf2a04c",
+    "title": "What Remains of Edith Finch",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "e269ee40",
-    "title": "Yakuza Kiwami 2",
+    "id": "4e238140",
+    "title": "Steel Rats",
     "console": "PS4",
     "razon": "IA falló al traducir o devolvió texto vacío."
   },
   {
-    "id": "57f32bd2",
-    "title": "Shin Megami Tensei",
+    "id": "5375fe65",
+    "title": "Ganbare Goemon Ooedo Daikaiten",
     "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7bfc33fb",
+    "title": "Goujin Senki",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c7ab511b",
+    "title": "MTVs Celebrity Deathmatch",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "90bddb7b",
+    "title": "Dungeon Siege Throne of Agony",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "f051b8cc",
+    "title": "Hack Link",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1c06c084",
+    "title": "Sega Rally Revo",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6d6f1663",
+    "title": "Initial D Street Stage",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "280024c0",
+    "title": "Brightis",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "884ba2e5",
+    "title": "Parasite Eve 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "65521b0b",
+    "title": "Silhouette Mirage",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a7246aba",
+    "title": "Casper and The Ghostly Trio",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "dcd9761c",
+    "title": "Caspers Scare School",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "546417d1",
+    "title": "Batman Beyond Return of The Joker",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a25a1bd3",
+    "title": "Rabbit",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "78de1885",
+    "title": "Sega Ages I Love Mickey Mouse and I Love Donald Duck",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "87136094",
+    "title": "WWE SmackDown Here Comes the Pain",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3a89c512",
+    "title": "Casper Spirit Dimensions",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "09413a6f",
+    "title": "Star Wars Battlefront 2 (2005)",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2f0e4a19",
+    "title": "Guilty Gear X",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "7c6b647d",
+    "title": "Normal Tanks",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Menciona explícitamente \"World of Tanks\", que es una franquicia distinta a \"Normal Tanks\", indicando una conexión errónea o inventada con otra serie de videojuegos."
+  },
+  {
+    "id": "18477da3",
+    "title": "Pac Man Championship Edition",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "cc840172",
+    "title": "Naruto Shippuden Ultimate Ninja 5 Plus",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Menciona 'Naruto Shippuden: Ultimate Ninja Storm 5', un título que no existe en la franquicia oficial; es una atribución inventada."
+  },
+  {
+    "id": "c1ad460a",
+    "title": "FIFA World Cup Germany 2006",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "19da00fc",
+    "title": "Broken Sword The Sleeping Dragon",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e47582fa",
+    "title": "Power Smash New Generation",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3416fdaa",
+    "title": "Agent Armstrong",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "ba740f28",
+    "title": "Final Fight Streetwise",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "57da978a",
+    "title": "Crusty Demons",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "c9eaf002",
+    "title": "Dragon Ball Z Budokai 3 (Greatest Hits)",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "3487b1a7",
+    "title": "Virtua Cop Elite Edition",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "92695bf3",
+    "title": "Virtua Fighter 4",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b13dbc09",
+    "title": "Guilty Gear X2",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "5a8d8188",
+    "title": "Team Losi RC Racer",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "833a2237",
+    "title": "Batman Vengeance",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "f67023ec",
+    "title": "Silverload",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "4433a746",
+    "title": "Batman and Robin",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "1656f0ba",
+    "title": "All Star Fighters",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "c7293d5c",
+    "title": "Zombie Virus",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "99d6464f",
+    "title": "Rayman M",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "7a9773ba",
+    "title": "Forgotten Realms Demon Stone",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4ed5e1f2",
+    "title": "Tony Hawks Underground 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fbc558c2",
+    "title": "Tony Hawks Project 8",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2fc868e2",
+    "title": "Tony Hawks Proving Ground",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d5ff212e",
+    "title": "Tony Hawks Downhill Jam",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "028c9970",
+    "title": "Tony Hawks American Wasteland",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cdd601a9",
+    "title": "Genji Dawn of the Samurai",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "be900a23",
+    "title": "Ultimate Spider Man",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "5e11fce0",
+    "title": "Zill Oll Infinite",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "184bea04",
+    "title": "Gun",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ced4e522",
+    "title": "Silent Scope 2 Dark Silhouette",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2d350d86",
+    "title": "Dawn of Mana",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "90def542",
+    "title": "Resident Evil Survivor 2 Code Veronica",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b6d4bbb2",
+    "title": "James Bond 007 From Russia with Love",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "bd33f66c",
+    "title": "James Bond 007 Everything or Nothing",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8621bb72",
+    "title": "Yu Gi Oh Forbidden Memories",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "abb65c60",
+    "title": "AirBlade",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "83f19252",
+    "title": "Tom Clancys Splinter Cell Chaos Theory",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "07316dd8",
+    "title": "Johnny Bravo Date o Rama",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bb4c1b27",
+    "title": "Kingdom Hearts Re Chain of Memories",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2b23a144",
+    "title": "Airboure Troops Countdown to D Day",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "2728b10e",
+    "title": "Wipeout Fusion",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "fe01bc8a",
+    "title": "Tom Clancys Splinter Cell",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "290e7323",
+    "title": "Disney Pixars Cars",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "96dc4bfe",
+    "title": "25 to Life",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "bcc41eea",
+    "title": "RLH Run Like Hell",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dddf8a16",
+    "title": "Colin McRae Rally 2.0",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0da05b6f",
+    "title": "Threads of Fate",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "900fcd48",
+    "title": "Coconut Dodge",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "197b9676",
+    "title": "Rumble Racing",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "c5c49cbd",
+    "title": "NARC",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "cdf41654",
+    "title": "NBA Street V 3",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "787059a7",
+    "title": "X Men Legends",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "070cf987",
+    "title": "Blade 2",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "24f2c0ab",
+    "title": "Blade",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "576b5022",
+    "title": "Hot Wheels Beat That",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c28ec5f7",
+    "title": "Azur and Asmar",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "3a98d5b9",
+    "title": "The Story of Thor 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "40b6be2f",
+    "title": "Tomb Raider",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8be5de22",
+    "title": "Clockwork Knight 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c98eae00",
+    "title": "Rayman",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8488baaf",
+    "title": "Batman Forever The Arcade Game",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e461f182",
+    "title": "Clockwork Knight",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "62ece98e",
+    "title": "Criticom",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2adb8dbf",
+    "title": "Shinobi X",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "05428c46",
+    "title": "Resident Evil",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "82292829",
+    "title": "Dead or Alive",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "35d43c59",
+    "title": "Shining Force Collection",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "46983533",
+    "title": "Guardian Heroes",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "7340933b",
+    "title": "Earthworm Jim 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "340b7f81",
+    "title": "Burning Rangers",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f94f80e4",
+    "title": "Ape Escape Pumped and Primed",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "3cdcef83",
+    "title": "World War 2 Prisoner of War",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6ea9e795",
+    "title": "Raging Blades",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1e73d466",
+    "title": "Mat Hoffmans Pro BMX",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "29759b36",
+    "title": "JB Harold Blue Chicago Blues",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "418a04b0",
+    "title": "Aladdin",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8a6cf65a",
+    "title": "Descent Maximum",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e09e05c3",
+    "title": "Spider Man 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "051aaefd",
+    "title": "Nights into Dreams",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0f55179d",
+    "title": "Kurohyou Ryu ga Gotoku Shinshou",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "50aec5ec",
+    "title": "Virtua Fighter 10th Anniversary",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0dcf4b3c",
+    "title": "Largo Winch Empire Under Threat",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "bc5b2764",
+    "title": "Mercenaries Playground of Destruction",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a095e079",
+    "title": "Mercenaries 2 World In Flames",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2a069920",
+    "title": "Hack Fragment",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "51712cce",
+    "title": "Hack Part 1 Infection",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0d6cb5e8",
+    "title": "Hack Part 2 Mutation",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b6aaac0b",
+    "title": "Hack Part 3 Outbreak",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "108129aa",
+    "title": "Hack Part 4 Quarantine",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d071cba8",
+    "title": "Hack GU Vol 1 Rebirth",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a248af70",
+    "title": "Hack GU Vol 2 Reminisce",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ea6873f4",
+    "title": "Crocs World",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "476c323b",
+    "title": "Dark Savior",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "54802a1c",
+    "title": "Disneys 102 Dalmatians Puppies to The Rescue",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "a261b1a6",
+    "title": "Mario Forever",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "9b1a76e7",
+    "title": "The Shadow of Zorro",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "d1a831fd",
+    "title": "Ibara",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "dab9516a",
+    "title": "Last Bronx",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "39166a19",
+    "title": "Evolution Snowboarding",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ba9249d5",
+    "title": "Alpine Racer 3",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0d2e8f8c",
+    "title": "Winter Sports 2008 The Ultimate Challenge",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "1ba2922f",
+    "title": "The Grinch",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "a4eddcd1",
+    "title": "Beavis and Butt Head in Virtual Stupidity",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "e3440823",
+    "title": "Monopoly Party",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "d77fb9b1",
+    "title": "Buffy The Vampire Slayer Chaos Bleeds",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "02ea70aa",
+    "title": "Beatdown Fists of Vengeance",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "9a15a6f4",
+    "title": "Pride FC Fighting Championships",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "8a0d6506",
+    "title": "Hack GU Vol 3 Redemption",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bd38a471",
+    "title": "Time Crisis 3",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "99625a25",
+    "title": "Time Crisis 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2459fd67",
+    "title": "Tim Burtons The Nightmare Before Christmas Oogies Revenge",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3607f1d2",
+    "title": "Metal Gear Acid",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "48d93190",
+    "title": "Corpse Party Book of Shadows",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "30af3bdd",
+    "title": "Patapon 2 Remastered",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fd46e7b0",
+    "title": "Rise of The Kasai",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0dac4d1c",
+    "title": "ADK Damashii",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1eae5ab9",
+    "title": "Rocky",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0a8c2aab",
+    "title": "Rocky Legends",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4a81cf89",
+    "title": "The Operative No One Lives Forever",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5242999a",
+    "title": "Teenage Mutant Ninja Turtles 2 Battle Nexus",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "c33ae159",
+    "title": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "400049be",
+    "title": "Teenage Mutant Ninja Turtles Mutant Melee",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5bc948e5",
+    "title": "Blood Omen 2 Legacy of Kain",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "21b60725",
+    "title": "Mafia",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a734906a",
+    "title": "Celeste Classic",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0d1f1e6f",
+    "title": "GrimGrimoire",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7ecdc9b9",
+    "title": "Ghost in The Shell",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "66f0e185",
+    "title": "Ghost in The Shell Stand Alone Complex",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "309ecba6",
+    "title": "Teenage Mutant Ninja Turtles Shredders Re Revenge",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b338df47",
+    "title": "Nightshade",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "61eb9bd7",
+    "title": "Blitz The League",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7c4b44f9",
+    "title": "Dance UK XL Lite",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "253cf70d",
+    "title": "Wallace and Gromit in Project Zoo",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "fb226b34",
+    "title": "Mr Bones",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "a8f0207a",
+    "title": "Saturn Bomberman",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "692a61cc",
+    "title": "Street Smart",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "30146b99",
+    "title": "The Chronicles of Narnia The Lion The Witch and The Wardrobe",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2857d48e",
+    "title": "BioHazard Outbreak",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "069a5ab3",
+    "title": "BioHazard Outbreak File 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e2b26e9a",
+    "title": "Alias",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "65727f1d",
+    "title": "Rogue Ops",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "bf9cfd30",
+    "title": "STOLEN",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8f68534b",
+    "title": "Motorsiege Warriors of Primetime",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5e105123",
+    "title": "Noddy and The Magic Book",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2e411e0b",
+    "title": "Sky Odyssey",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3ba651a0",
+    "title": "James Camerons Dark Angel",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f05fbc8e",
+    "title": "The Secret Saturdays Beasts of The 5th Sun",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e7405646",
+    "title": "PaRappa The Rapper",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0cec4a57",
+    "title": "Plants vs Zombies",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4f524790",
+    "title": "Gale Racer",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "11775124",
+    "title": "Funky Head Boxers Plus",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "588b176e",
+    "title": "Paranoia Scape",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0c60f824",
+    "title": "Dark Tales From The Lost Soul",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "dab9d78f",
+    "title": "Touge Max G",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "631be324",
+    "title": "Touge Max 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "eb5e7819",
+    "title": "Peak Performance",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b4e816f8",
+    "title": "Advan Racing",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1d30685a",
+    "title": "Toyota Netz Racing",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "1f517e89",
+    "title": "Elemental Gearbolt",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c4d5d081",
+    "title": "Guitar Hero 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ccf8a6d2",
+    "title": "Sengoku Basara 2 Heroes",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dcb5e85c",
+    "title": "Sonic 3D Flickies Island",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0bd47330",
+    "title": "Castleween",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "edd903e8",
+    "title": "Fighters History Dynamite (Karnovs Revenge)",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "51619d3f",
+    "title": "Sega Ages Fantasy Zone",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cb6f3ea7",
+    "title": "Capcom Generation Dai 5 Shuu Kakutouka tachi",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "098ac842",
+    "title": "Capcom Generation Dai 3 Shuu Koko ni Rekishi Hajimaru",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "71a9a075",
+    "title": "Capcom Generation Dai 2 Shuu Makai to Kishi",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "73307a4a",
+    "title": "Capcom Generation Dai 1 Shuu Gekitsuiou no Jidai",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "687f2c0b",
+    "title": "Blazing Heroes (Mystaria The Realms of Lore)",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "d9d30efc",
+    "title": "Brave The Search for Spirit Dancer",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "b45bbdda",
+    "title": "Xenosaga Trilogy",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "95cbac8a",
+    "title": "WWE SmackDown vs RAW",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9ef0ba01",
+    "title": "WWF SmackDown Just Bring It",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c44fa265",
+    "title": "Mr Driller G",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "32a77838",
+    "title": "The Da Vinci Code",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "da9fab69",
+    "title": "Shadow Hearts",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fe4a40f3",
+    "title": "Starsky and Hutch",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "061a2112",
+    "title": "True Crime New York City",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "c66cd72d",
+    "title": "McFarlane Evil Prophecy",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cf821854",
+    "title": "Fire Pro Wrestling Z",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "2557e2aa",
+    "title": "Knight Rider The Game",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "534cf301",
+    "title": "Knight Rider 2 The Game",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "b8071655",
+    "title": "WCW NWO Thunder",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f95a97b8",
+    "title": "WCW Mayhem",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "39ea550d",
+    "title": "WCW Nitro",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5f2ce1a9",
+    "title": "WCW Backstage Assault",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0a384b9b",
+    "title": "WCW Vs The World",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8d1be7a4",
+    "title": "Army Men Air Attack",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d44cbc45",
+    "title": "Gex",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d87835d8",
+    "title": "Grand Theft Auto Mission Pack 1 London 1969",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "aae7491a",
+    "title": "Um Jammer Lammy",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "30f32c0e",
+    "title": "Ridge Racer",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "30f3e4fa",
+    "title": "Xenogears",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "61e4cf86",
+    "title": "Tomb Raider 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "36240e08",
+    "title": "Suikoden 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1d8baebe",
+    "title": "Suikoden",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d6faee42",
+    "title": "Heart of Darkness",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "e746aaa4",
+    "title": "Cool Boarders 3",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "05fabd89",
+    "title": "Punky Skunk",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9b5f3f08",
+    "title": "Cool Boarders 2001",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dde01baf",
+    "title": "Pitfall 3D Beyond The Jungle",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1f9cb025",
+    "title": "Brain Dead 13",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "909f9b61",
+    "title": "Snowboarding",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a80eed99",
+    "title": "Raycrisis Series Termination",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "7e11ebce",
+    "title": "Fade To Black",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "d98e71b8",
+    "title": "The Fifth Element",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1894627a",
+    "title": "Attack of the Saucerman",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "aee2a2e7",
+    "title": "Defcon 5 Piece Has A Price",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "db7a52aa",
+    "title": "The Land Before Time Great Valley Racing Adventure",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "76edcdaf",
+    "title": "The Land Before Time Big Water Adventure",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "58c5d826",
+    "title": "Rayman Rush",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "90820a99",
+    "title": "Porsche Challenge",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "29669713",
+    "title": "Road Rash 3D",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "88948140",
+    "title": "Contra Legacy of War",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8e98d823",
+    "title": "C The Contra Adventure",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "35bcba3a",
+    "title": "Rampage Through Time",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9aa963e4",
+    "title": "Rampage 2 Universal Tour",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9c304f5b",
+    "title": "Trick N Snowboarder",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "52308a52",
+    "title": "Bugs Bunny and Taz Time Busters",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "62d4bdf3",
+    "title": "Midway Presents Arcades Greatest Hits The Atari Collection 2",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "4701db8a",
+    "title": "Atari Anniversary Edition Redux",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "90a4229b",
+    "title": "Judge Dredd",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5da78695",
+    "title": "The Simpsons Wrestling",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f841b3ce",
+    "title": "SpongeBob SquarePants SuperSponge",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "961d036d",
+    "title": "Scooby Doo and The Cyber Chase",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a54ea2aa",
+    "title": "Bubble Bobble Feat Rainbow Islands",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6c92ef30",
+    "title": "Time Crisis Project Titan",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7c22cf08",
+    "title": "Front Mission 3",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dccc0f06",
+    "title": "Independence Day",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "1e0eff54",
+    "title": "Stuart Little 2",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "cb688c04",
+    "title": "Disneys The Little Mermaid 2",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5ab7185c",
+    "title": "Fantastic Four",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "fe63bc7e",
+    "title": "Iron Man X O Manowar In Heavy Metal",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a94bd342",
+    "title": "Kirikou",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0b39dd63",
+    "title": "Chou Kousoku Grandoll [Premium Edition]",
+    "console": "PS4",
+    "razon": "Título sospechoso detectado"
+  },
+  {
+    "id": "919ede89",
+    "title": "Tai Fu Wrath of The Tiger",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "21814cdb",
+    "title": "Spriggan Lunar Verse",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "89041d3c",
+    "title": "Groove Adventure Rave Plue no Daibouken",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "923a5b33",
+    "title": "LazyNES Emulator (imbNES)",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "76c06b3c",
+    "title": "Mickeys Wild Adventure",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1e561a29",
+    "title": "Army Men Team Assault",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "01ff4bad",
+    "title": "Army Men Sarges Heroes",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "483022a0",
+    "title": "Army Men Air Attack 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "23fd6aac",
+    "title": "Action Man Operation Extreme",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5a1d773c",
+    "title": "Phix The Adventure",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "da3b47b8",
+    "title": "Assault Retribution",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "74ee390d",
+    "title": "Arthur Ready To Race",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "94e7edae",
+    "title": "Army Men World War Land Sea and Air",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "aa6bec7c",
+    "title": "Cotton 100% [Superlite 1500 Series]",
+    "console": "PS4",
+    "razon": "Título sospechoso detectado"
+  },
+  {
+    "id": "894664fd",
+    "title": "Fantastic Night Dreams Cotton Original",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9d354a5c",
+    "title": "Thrill Kill",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2ffa7d14",
+    "title": "Tintin Destination Adventure",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b9b7e91a",
+    "title": "Digimon World",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3bf098fe",
+    "title": "Carmageddon",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9844f64c",
+    "title": "Mille Miglia",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "383fe4ae",
+    "title": "Army Men World War",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "c5352991",
+    "title": "Ark of Time",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "217b823f",
+    "title": "Animaniacs in Ten Pin Alley",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0516f4b4",
+    "title": "American Pool",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0f6fe86c",
+    "title": "Alexi Lalas International Soccer",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d975b648",
+    "title": "Air Hockey",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ae90bdc2",
+    "title": "The Incredible Hulk The Pantheon Saga",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "36ae1bb8",
+    "title": "Adidas Power Soccer International 97",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "236b1158",
+    "title": "Actua Soccer 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6d8b4519",
+    "title": "1Xtreme",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4b9d2b0d",
+    "title": "X Men vs Street Fighter",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1e279806",
+    "title": "Ball Breakers",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "03639b5c",
+    "title": "Asterix",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c964f73f",
+    "title": "Agile Warrior F 111X",
+    "console": "PS4",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "0b2c1a0d",
+    "title": "Adidas Power Soccer 98",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "7c788467",
+    "title": "Blaster Master Blasting Again",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8c6bfe69",
+    "title": "Bishi Bashi Special",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8b7ed468",
+    "title": "Beatmania",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "85171c7e",
+    "title": "Battle Arena Toshinden",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ec6a8ba2",
+    "title": "Battle Arena Toshinden 3",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "909144df",
+    "title": "Batman Gotham City Racer",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6c97275b",
+    "title": "Bass Rise",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "4f1a2d14",
+    "title": "Bases Loaded 96 Double Headed",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d968a14c",
+    "title": "Ballerburg Castle Chaos",
+    "console": "PS4",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "85d2c9e5",
+    "title": "Bushido Blade 2",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fa61f889",
+    "title": "BursTrick Wake Boarding",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "746c890f",
+    "title": "Bubsy 3D",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f70cfd6b",
+    "title": "Break Point",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8ad06b69",
+    "title": "Boxing",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2c8ceee1",
+    "title": "Bomberman Fantasy Race",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "55b027e8",
+    "title": "Blood Lines",
+    "console": "PS4",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "af4e754c",
+    "title": "Dexter Laboratory Mandarks Lab",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "93833315",
+    "title": "David Beckham Soccer",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dc1ba252",
+    "title": "Darkstone",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fc3f2c82",
+    "title": "Darkstalkers 3",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c5bdd5a4",
+    "title": "Blueys Quest For The Gold Pen",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "584a6e07",
+    "title": "Moonring DX",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "431edaf6",
+    "title": "Clown Is Hungry",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b6606176",
+    "title": "Tenshi no Uta The Angel Verse",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6709f9ce",
+    "title": "Scorched Lands",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6f4abb37",
+    "title": "Dead Gears Space of War",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9c0040e4",
+    "title": "RV ROADTRIP SIMULATOR",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "2a650e7a",
+    "title": "LumenTale Memories of Trey",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "442346e5",
+    "title": "Gobliiins Collection",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e61178c0",
+    "title": "Néro and Sci Integral Edition",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "48be499b",
+    "title": "Judero",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3e21837b",
+    "title": "Flight Simulator 2026",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "52088d1a",
+    "title": "Poppy Playtime Chapter 5",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "f43d0edf",
+    "title": "Timberdoku",
+    "console": "SWITCH",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "071890a2",
+    "title": "Gurei",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bf5cbfa8",
+    "title": "Realm of Ink",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2a7dc5a4",
+    "title": "Expelled",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ca055d3f",
+    "title": "The Jackbox Survey Scramble",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1f5694b3",
+    "title": "Clicker Heroes",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c22558f8",
+    "title": "Space Adventure Cobra The Awakening",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2fa7ce4c",
+    "title": "Olympia Soiree Catharsis",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "13a40d6b",
+    "title": "Soul Nomad and the World Eaters",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fbd31c80",
+    "title": "Firework",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "948401e1",
+    "title": "Half Past Fate Romantic Distancing",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2825e403",
+    "title": "Q with Vtubers",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "19380156",
+    "title": "Elementallis",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "94560769",
+    "title": "Psyvariar 3",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2bae6af4",
+    "title": "Farming Simulator 26",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "28d2aebc",
+    "title": "Shadow Trigger Covert Ops",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2add3655",
+    "title": "Spirit Swap Lofi Beats to Match 3 To",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1c972211",
+    "title": "Hades Uprising",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4a14209b",
+    "title": "The Frogs Adventure",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d12f62fe",
+    "title": "Pick and Place",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "eb32a049",
+    "title": "Solitaire Legends Fables and Fairytales",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5e9b02d4",
+    "title": "King of Tokyo Richard Garfield",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "01282f28",
+    "title": "Atomic Owl",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9691d54d",
+    "title": "Sapphire Tempest",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "80171f7e",
+    "title": "Heroine Anthem Zero 2 Scalescars Oath",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "dc57c653",
+    "title": "MotionRec",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d2a79771",
+    "title": "This is Fine Maximum Cope",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3bec6570",
+    "title": "R Type Dimensions 3",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b4a0279a",
+    "title": "Lost Islands",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "56ef9a5e",
+    "title": "How to take off your Mask Remastered",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b9eda737",
+    "title": "The Amazing Shinsengumi Heroes in Love",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cb8aa023",
+    "title": "Beat of Life",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8dcd0ff4",
+    "title": "puffies",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "22808716",
+    "title": "Night Swarm",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b931563e",
+    "title": "QUALIA The Path of Promise",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5b99b20b",
+    "title": "The Ouroboros King",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f9e66763",
+    "title": "Venture Towns",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a639c2c3",
+    "title": "Lovish",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1cd361a6",
+    "title": "Micro Mages Maker",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "908e42f2",
+    "title": "Love is All Around 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c5bc3d3c",
+    "title": "Skyforge Trails",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "57f9a306",
+    "title": "Middle Evil The Priest",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b50e7068",
+    "title": "Cook the Word",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "cf9569ec",
+    "title": "Mr Stackman",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2e954377",
+    "title": "Lines 98 Classic",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "bd9d9491",
+    "title": "Ace Thunder Aircraft Wingman Simulator",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8d8cef13",
+    "title": "YOLKED",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3c3d0cc8",
+    "title": "FPS Dinosaurs",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "31371236",
+    "title": "Paranormal Observation",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a2227247",
+    "title": "Underling Uprising",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c67f652f",
+    "title": "Yomi 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2808992a",
+    "title": "Zombie Rollerz The Last Ship",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "baa56dd1",
+    "title": "Solo Shift",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "15a25ab5",
+    "title": "The Fable Manga Build Roguelike",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7eece537",
+    "title": "inKONBINI One Store Many Stories",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b5ad2d1d",
+    "title": "Monster Crown Sin Eater",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f833fdec",
+    "title": "Call of the Elder Gods",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "55dbfaec",
+    "title": "Fireside",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8811464c",
+    "title": "Nubla 2",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "e3353a51",
+    "title": "Nubla",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "772db198",
+    "title": "The Fine Art of Murder",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9ab07235",
+    "title": "Who Needs a Hero",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0bbdd062",
+    "title": "Plumber Puzzles",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e276712e",
+    "title": "Twin Shot Deluxe",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d57d7f5e",
+    "title": "Bearnard",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "16cadb5b",
+    "title": "Akuma Rise",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "b3d6584e",
+    "title": "Declines Drops",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "64ac9e50",
+    "title": "KILL IT WITH FIRE 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "bfe9e352",
+    "title": "Barbarous Survivors Quest",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3f4cab70",
+    "title": "Lost Twins 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3434d858",
+    "title": "TetherGeist",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "29a0b284",
+    "title": "Akita Legends Squad",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ae731005",
+    "title": "Blackspot The Card Game",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2041afd7",
+    "title": "Antique Backgammon",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "84561e86",
+    "title": "Claim the Forest Settling Peace",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3442f1ad",
+    "title": "Island Survive Simulator",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4444a3de",
+    "title": "To Farm Lands Sowing Fields",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8589b4aa",
+    "title": "Drift and Stunt Mania",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5672a7aa",
+    "title": "Doll Defenders",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d3c86fb8",
+    "title": "Rune Dice",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "45dd8bbd",
+    "title": "Love Too Easily 2 Summer Pocha",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "beb373e3",
+    "title": "Thief Simulator 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8bd1c949",
+    "title": "Time Treker",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d62af7fc",
+    "title": "Dawnfolk",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ce88ae5d",
+    "title": "Only Up Remaster",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "37bac22e",
+    "title": "Necroking",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0be97051",
+    "title": "A Dance of Fire and Ice",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3bad9535",
+    "title": "Fit My Zoo",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c39ae656",
+    "title": "Toree Saturn",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6d58f4b0",
+    "title": "Death Mask",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "7b90a956",
+    "title": "SCP Extraction Protocol",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "45558e1f",
+    "title": "Astra GalaxyX",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "dd813002",
+    "title": "Moomintroll Winters Warmth",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "aa52b967",
+    "title": "Rooster Wars Arena MFC Combat Battle",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f12a8769",
+    "title": "Protocol Annihilation",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5e846089",
+    "title": "Garbage Truck Sim Driver Simulator 26",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c3a39bd5",
+    "title": "Destinys Princess A War Story A Love Story",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "342fcbc1",
+    "title": "Winx Club The Magic is Back",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5706925c",
+    "title": "MULLET MADJACK",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c35fd5a2",
+    "title": "KAZUMA KANEKOS TSUKUYOMI",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a06e23d2",
+    "title": "Magin The Rat Project Stories",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "53601459",
+    "title": "Save My Scrap",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3f8ce75f",
+    "title": "Dungeon Clawler",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f23be055",
+    "title": "Dragon Snack From Ice to Ember",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c9fe64c9",
+    "title": "Minos Trials",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "34c97fb4",
+    "title": "Kingdom Trails",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "67f4c568",
+    "title": "Sunshore City",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bd0a34bb",
+    "title": "R TYPE DX Music Encore",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "39136c4a",
+    "title": "Tiny Auto Knights",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b8288705",
+    "title": "Dracamar",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "816ede5f",
+    "title": "Destind Mr Almost Right",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "100f4b31",
+    "title": "Super Chipflake Ü Quest for the Uncooked Schnitzel",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1d59cb40",
+    "title": "Ys Memoire Revelations in Celceta",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9be28c7f",
+    "title": "Toads Soul Hopper",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0a8f67a6",
+    "title": "Snails Knock Out",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "99a9b7ed",
+    "title": "Octos Balloon Challenge",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6ed783f1",
+    "title": "Pirarucus Money Rush",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "39ff3f80",
+    "title": "BUNNY GARDEN 2",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "08de5a5b",
+    "title": "Volontes",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0f32b41e",
+    "title": "Romance MD Always On Call",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "454ceb79",
+    "title": "Poopy Time",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "7047659f",
+    "title": "OPUS Prism Peak",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "33dc38a9",
+    "title": "Drop Duchy Complete Edition",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6dd398fb",
+    "title": "Food Truck Chef Full Course Edition",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1e6ca891",
+    "title": "Rumbral",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dba26fae",
+    "title": "Robo Hop",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b2a8e76b",
+    "title": "Traysia",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e424ee3d",
+    "title": "GluMe",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "39636fdd",
+    "title": "Monster Meals",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "768311eb",
+    "title": "Sky Escort",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "84550175",
+    "title": "Dunkadillo",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d7ee1bd8",
+    "title": "Cook For Love",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8211081f",
+    "title": "Reptilian Rising",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "80add099",
+    "title": "Dead Stride",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9b57ce75",
+    "title": "Dragon Is Dead",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3d4c7cac",
+    "title": "Alice in Wonder Underland AIWU",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "7be3cc93",
+    "title": "Cozy Snow Friends",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b5938130",
+    "title": "AVILION forever Retro JRPG",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "aee8c88a",
+    "title": "Emoji Battlefield Summer Vacation",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5a6184c3",
+    "title": "Crypt Carnage",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2c77f0c8",
+    "title": "Vampire Crawlers The Turbo Wildcard from Vampire Survivors",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bb5242b0",
+    "title": "Gecko Gods",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a7a3e290",
+    "title": "Foreign Sun",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9643d913",
+    "title": "Dragons Lair Trilogy",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1697e7b0",
+    "title": "Primal Dinosaur Shooter Dino Killer",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b10ba203",
+    "title": "Prison Life Sim 2025 Survival",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0554999d",
+    "title": "My Winter Drive",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "eb863465",
+    "title": "ZPF",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0f1cb5aa",
+    "title": "TOBAL No 1",
+    "console": "PS4",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9281881a",
+    "title": "Numbala",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "93460831",
+    "title": "Sunrock Lake",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "b49b5737",
+    "title": "Shepherds Crossing",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ac4eb293",
+    "title": "Curse Warrior",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0585f617",
+    "title": "Lucky Tower Ultimate",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "1cd7a95a",
+    "title": "Death by Scrolling",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "de4234ef",
+    "title": "A Storied Life Tabitha",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4acb64e5",
+    "title": "Virtual Boy Nintendo Classics",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9d2eafc3",
+    "title": "Hakuoki SSL Sweet School Life",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bbe801a5",
+    "title": "Otome Daoshi Fighting For Love",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6ca1838c",
+    "title": "Cloudberry Kingdom",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "add83b11",
+    "title": "The Confinement",
+    "console": "SWITCH",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "a155c9a9",
+    "title": "Tomodachi Life Living the Dream",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "16eb0c24",
+    "title": "SHIKA Q",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ab88756b",
+    "title": "Arcadia Fallen 2",
+    "console": "SWITCH",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "af1221e7",
+    "title": "SP L R ITE",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2092c18e",
+    "title": "Lost Lands Stories about the Sorceress the Prince and the Minotaur",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "cd349254",
+    "title": "Football Cup 2026",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "02c1813e",
+    "title": "DeadZone Survival Ops Zombie Shooter",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "50f6f167",
+    "title": "WW2 Soldiers of Honor Warzone Assault",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c0b5491a",
+    "title": "Antique Checkers",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fd7a3156",
+    "title": "Kawaii Force Liberty Line",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "fbbe0029",
+    "title": "Samurai Obby",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2665a487",
+    "title": "Empire Hike",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f5483855",
+    "title": "Bad Girls Naughty Hands",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c9e68264",
+    "title": "ChainStaff",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "42a9989a",
+    "title": "Demon Castle Story",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a5ae3a4c",
+    "title": "Incantation",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5bfb1c9c",
+    "title": "Legends Aligned Land of Order",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "836e1924",
+    "title": "Scorpion Champions Island Warfare",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "be745b86",
+    "title": "Killer Toys",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "37fdaac6",
+    "title": "Zumba Treasures of Marble Island",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "238d43ce",
+    "title": "Revenge on Gold Diggers",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "e13d0814",
+    "title": "Eko and the Bewitched Lands",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "049fb3f9",
+    "title": "Five Hearts Under One Roof season2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "906449b7",
+    "title": "Spellcaster University",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "16a601c5",
+    "title": "Kemono Teatime",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9d39704c",
+    "title": "Night Reverie",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "75be6fe2",
+    "title": "Dosa Divas",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "974c0be9",
+    "title": "Cozy Bay Hike",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3f6e11f4",
+    "title": "Parking Pro Top Down Challenge",
+    "console": "SWITCH",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "7c96ab4c",
+    "title": "Hoodbound",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d7df7a53",
+    "title": "Dog Chaos",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0191009d",
+    "title": "Fishing Rush",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6065447e",
+    "title": "Cloud Roll",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "15160ee0",
+    "title": "Shardpunk",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "649cd46d",
+    "title": "Morkull Ascend to the Gods",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e6c97e73",
+    "title": "Not Human Nightmare",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "82b67690",
+    "title": "Duck Battle Royale",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6db445af",
+    "title": "European TRUCK Simulator",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "612afdae",
+    "title": "Spy Guy Europe",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ae189485",
+    "title": "Wander Stars",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8c8be8cd",
+    "title": "Etrange Overlord",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e8d7d1a7",
+    "title": "Ariana and the Elder Codex",
+    "console": "SWITCH",
+    "razon": "Título sospechoso detectado"
+  },
+  {
+    "id": "903db68f",
+    "title": "Winning Post 10 2026",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "914ddddc",
+    "title": "Mega Man Star Force Legacy Collection",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "82e01dc0",
+    "title": "Easy Delivery Co",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ff2a83f1",
+    "title": "Primal Planet",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8d76cd1c",
+    "title": "Smash it Wild",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "772d0a3e",
+    "title": "Homicipher",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f8d55d8f",
+    "title": "ChildStory",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9bf3653f",
+    "title": "Escape game R00M11",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6d0d3e17",
+    "title": "GoodNightGirls",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "56f89e1b",
+    "title": "SHINONOME ABYSS The Maiden Exorcist",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "08106057",
+    "title": "The Knights of the Cross",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0df7faa1",
+    "title": "Devil Jam",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a7a83b01",
+    "title": "Dungeon Minesweeper",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "74669a8c",
+    "title": "Mystic Explorer",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "99b922d0",
+    "title": "Aarik And The Ruined Kingdom",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fd9dea30",
+    "title": "Distorted The Living Manor",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1721de2d",
+    "title": "Car Flipper Simulator 2024",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8502887c",
+    "title": "Overpowered 2 Crux of Fate",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7084510b",
+    "title": "Mistfall Ruins",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d3dfbba0",
+    "title": "Shadow Fight 2",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c5eaed88",
+    "title": "Ghost Master Resurrection",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b030a91e",
+    "title": "Pumuckl and the Crown of the Pirate King",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "b3f96cf7",
+    "title": "Kingdoms Return Time Eating Fruit and the Ancient Monster",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3479f5d4",
+    "title": "Machine Gun Fury",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4b14b63d",
+    "title": "Samurai Simulator Kensei Warrior",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6365c250",
+    "title": "Taito Milestones 4",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "54685b61",
+    "title": "Stellar Wanderer DX",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "5ce7a923",
+    "title": "Ebola Village",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9ac19cda",
+    "title": "Wrack Reclamation",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5dee77b1",
+    "title": "UFOPHILIA",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "aad78857",
+    "title": "R TYPE TACTICS I･II COSMOS",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ce77322e",
+    "title": "Bean Beasts",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a614c403",
+    "title": "1 CatLine",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "107c7b18",
+    "title": "Neko Bento",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d1145e9d",
+    "title": "Six Seven Nights",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "31ee4bba",
+    "title": "Sand Seeker",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8187129b",
+    "title": "Jukai Maze",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "d42fe77c",
+    "title": "Zumba Galactic Marble Blast",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b332a806",
+    "title": "Dustland Delivery",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "36d860ba",
+    "title": "Seafrog",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5c035def",
+    "title": "Japanese Rural Life Adventure",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "49a3b403",
+    "title": "Outbound",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "f3b97726",
+    "title": "Unrailed 2 Back on Track",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "054c97b2",
+    "title": "Vault of the Void",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "de328901",
+    "title": "WiZmans World ReTry",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "60da9f9c",
+    "title": "Bulb Boy 2 Jar of Despair",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "676049a7",
+    "title": "Cooking Cat Astrophe",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "69887b26",
+    "title": "Noire Police Detective Gangster Drama Simulator",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1bfcd82b",
+    "title": "VoidFront Galactic Warfare",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b4764e2c",
+    "title": "UNLOGICAL",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ae97c215",
+    "title": "Garten of Banban 8 Anti Devil",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "45aeb244",
+    "title": "DYNAMIC CHORD feat apple polisher Remaster edition",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "144657cb",
+    "title": "Neko nin exHeart",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "50189bf4",
+    "title": "Greedland",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "de9b241b",
+    "title": "PLATFORM 0",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "54c4c55e",
+    "title": "Little Strays 2",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a5d655e4",
+    "title": "Shrink Rooms",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "3bb22b9b",
+    "title": "PiyoRide",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "dfb854ea",
+    "title": "The Last Case of John Morley",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b98f3010",
+    "title": "ELEVRAL",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6ec971ce",
+    "title": "Who is Here",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "136766ea",
+    "title": "The Last Ninja Collection plus Bonus Games",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a5ea216d",
+    "title": "Ratcheteer DX",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "36ca1620",
+    "title": "Pirate Simulator Corsair Skull and Sails",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "1e9d0dbe",
+    "title": "Dark Fall Ghost Vigil",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cce0fed0",
+    "title": "Back to the Dawn",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f941d2f6",
+    "title": "Planet of Lana 2",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "cab8dba6",
+    "title": "Lil Gator Game Gator of the Year Edition",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5ee0efc1",
+    "title": "Rabbit Samurai",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4a253c6d",
+    "title": "My Cozy Aquarium",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "aba00eb2",
+    "title": "Scott Pilgrim EX",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0bcc3cab",
+    "title": "Minishoot Adventures",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c8b64dbc",
+    "title": "DYNAMIC CHORD feat KYOHSO Remaster edition",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8bc907c0",
+    "title": "PicoMix by NuSan",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9dacae6e",
+    "title": "Asfalia Panic at the Mansion",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f6c476d1",
+    "title": "Arcade Archives Rave Racer",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ccf09b07",
+    "title": "Tales of Berseria Remastered",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "92278a23",
+    "title": "RAIDEN FIGHTERS REMIX COLLECTION",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "61bb880a",
+    "title": "Sands of Aura",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5caa6b83",
+    "title": "Laysara Summit Kingdom",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "a7744d1a",
+    "title": "FUR Squadron Phoenix",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d830609e",
+    "title": "Escape game R00M10",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e8590e7d",
+    "title": "Emoji Battlefield Island Warfare",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3587040c",
+    "title": "CASSETTE BOY",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2e364c3b",
+    "title": "Path of Mystery A Brush with Death",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4df5b3f0",
+    "title": "BattleTanks Animal Wars",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "856f0182",
+    "title": "BAROQUE Become a Meta Being Revive",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "52eb6ba8",
+    "title": "BAROQUE SHOOTING REVERSED",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bd3a4bc3",
+    "title": "PARANORMASIGHT The Mermaids Curse",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "01f31240",
+    "title": "Temirana The Lucky Princess and the Tragic Knights",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "54e2f8f1",
+    "title": "Calamity Angels Special Delivery",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cec51ed3",
+    "title": "Hello Mario",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e5ad773b",
+    "title": "PEAK The Adventure Begins",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0da743db",
+    "title": "Book of Korvald",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d84edcfd",
+    "title": "Lost In Space The First Adventure",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ff6cfdb7",
+    "title": "Cute Astro",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "deae6d12",
+    "title": "Temari Trials Dojos Test",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9bd8d623",
+    "title": "Dragon Snack",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5dab88a4",
+    "title": "UNDER THE ISLAND",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e097c45b",
+    "title": "All Hands on Deck",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fb1052d9",
+    "title": "True Fear Forsaken Souls Part 3",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "87866ee7",
+    "title": "Dinosaur Survival Simulator Prehistoric RPG",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "89ed2c06",
+    "title": "Cozy Caravan",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ba0ea9fe",
+    "title": "Rayman 30th Anniversary Edition",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b23ee097",
+    "title": "READY OR DIE",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8ec1773f",
+    "title": "Blazblue Entropy Effect X",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8584624e",
+    "title": "Glass Heart Princess",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "93b170cb",
+    "title": "KUUKIYOMI 4 Consider It",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "36307518",
+    "title": "HELLCARD",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "0f3ea2c3",
+    "title": "Final Frontier Story",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2f253875",
+    "title": "Extremely Powerful Capybaras",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2051243e",
+    "title": "Cozy Tiny Home",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9ba9d30c",
+    "title": "Pocket Nook",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "86220fa4",
+    "title": "Softly Placed",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "93926909",
+    "title": "Cartagra",
+    "console": "SWITCH",
+    "razon": "Verificación rechazó genérico: Error de red"
+  },
+  {
+    "id": "17b2f9a1",
+    "title": "STREAMER SIMULATOR 2026",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "9673d74c",
+    "title": "Arcade Archives TOKYO WARS",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "bb051d60",
+    "title": "Arcade Archives TOUCHDOWN FEVER",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "2d99dad1",
+    "title": "Arcade Archives THE OUTFOXIES",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e78ba0ca",
+    "title": "Arcade Archives SPACE INVADERS PART 2",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2c2076b9",
+    "title": "Arcade Archives SPACE INVADERS",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7eca5009",
+    "title": "Arcade Archives BERMUDA TRIANGLE",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "972e4a2f",
+    "title": "Arcade Archives BOMB BEE",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c86c028e",
+    "title": "Arcade Archives ROC N ROPE",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "aff7ba3c",
+    "title": "Arcade Archives KARATE BLAZERS",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "ff76341d",
+    "title": "Arcade Archives GALACTIC WARRIORS",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "fb474b54",
+    "title": "Snow Bros Classic Collection",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "79923247",
+    "title": "4PGP",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "a0d8a375",
+    "title": "Frostholm Isle",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "6721d1a7",
+    "title": "SnapCat Mias Cozy Adventure",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "015e3f60",
+    "title": "Leap Year",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "c9627ea4",
+    "title": "Leo And Tig",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "05baa98e",
+    "title": "DunHero",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "6e974dc3",
+    "title": "Pin Strike 3",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "515f0365",
+    "title": "DRAGON QUEST 7 Reimagined",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "34c30ca8",
+    "title": "Running Fable Petite Party",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "6aaeaa16",
+    "title": "Clover Cove",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "53bf6e33",
+    "title": "Hole Digging Beach Simulator",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c00a8f89",
+    "title": "The Perfect Pencil",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8d66a968",
+    "title": "Nickelodeon Splat Pack",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ecd8cfab",
+    "title": "Dark Auction",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f4c91c8a",
+    "title": "Quick Whiskers",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "33e10645",
+    "title": "Find the Four Leaf Clover",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8905ce38",
+    "title": "Is this potato",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "7d0243bf",
+    "title": "Asfalia The Cranky Volcano",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "56ceb65e",
+    "title": "EGGCONSOLE Crystal Chaser Overlords Orb of the Sky Refined PC 9801",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3a616666",
+    "title": "Cthulhu Mythos ADV Lunatic Whispers and The Isle Of Ubohoth",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "661dfdc5",
+    "title": "Yggdra Kingdom",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "70464831",
+    "title": "ドカポン3・2・1 スーパーコレクション!",
+    "console": "SWITCH",
+    "razon": "Título sospechoso detectado"
+  },
+  {
+    "id": "43ee58b0",
+    "title": "Astro Party EX",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b50f00d1",
+    "title": "ユグドラ・キングダム",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "e656a07f",
+    "title": "ACA NEOGEO Selection Vol 10",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "c0a4ded1",
+    "title": "ACA NEOGEO SELECTION Vol 9",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "27cc70c1",
+    "title": "Quarantine Zone Border Zombie Checkpoint",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "dd89721b",
+    "title": "Wall Of Insanity 2",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "8cb9348c",
+    "title": "Touhou Blossom Blade",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "562f8005",
+    "title": "Two Hands Hospital Assistant Simulator",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "0ca91e2b",
+    "title": "Ultimate Sheep Raccoon",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "b158ebbd",
+    "title": "QQQbeats",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "3cfcf965",
+    "title": "God bless or Goddess",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f2fe1173",
+    "title": "Fortuna Magus",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "14b15ac5",
+    "title": "Trigodpats",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "804e1dc8",
+    "title": "Capybara Madness",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "5e73995c",
+    "title": "SHIP SIMULATOR OCEAN FISHING",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "0eac9b5b",
+    "title": "Suika Game Planet",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9694b83a",
+    "title": "1989 After the War",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d660fcaa",
+    "title": "Arcade Archives SCRAMBLED EGG",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "941b7c7e",
+    "title": "Arcade Archives STEEL WORKER",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f42b7f10",
+    "title": "Arcade Archives STINGER",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4474d3ba",
+    "title": "Arcade Archives SUPER WORLD COURT",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "040efa3b",
+    "title": "Camper Van Make it Home",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "51919da4",
+    "title": "ReSetna",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "f6d1b997",
+    "title": "DEATH FOREST REMAKE",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "2c64165c",
+    "title": "I Am Future Cozy Apocalypse Survival",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9e0b5448",
+    "title": "Five Hearts Under One Roof",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d8715d3a",
+    "title": "Rudolph the Red Nosed Reindeer",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "5f310236",
+    "title": "Big Hops",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "89878260",
+    "title": "Axis Football 2026",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dae2b56f",
+    "title": "Neko Bento 2",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "487cb809",
+    "title": "Go Kart Island",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9ebc3b85",
+    "title": "Hero Seekers",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "02288d00",
+    "title": "Mist",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "4cfc1327",
+    "title": "Detective Instinct Farewell My Beloved",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "816342fa",
+    "title": "FAIRY TAIL DUNGEONS",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "8dc128a3",
+    "title": "Owlen and the Spirits of the Past",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "4646e561",
+    "title": "Storm Chasing Sim 2025 Tornado Hunter",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "ab04d488",
+    "title": "The Murder Hotel",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "563d56b3",
+    "title": "Simpli Casa",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "f04c0e71",
+    "title": "Construction Sim City and Road Builder",
+    "console": "SWITCH",
+    "razon": "posible coincidencia incorrecta en RAWG"
+  },
+  {
+    "id": "45ba0641",
+    "title": "Gridz Keeper",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9ae962ae",
+    "title": "Zombie Gorge Survival Defense",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "dd2ec65a",
+    "title": "Super Hero Fight Club Reloaded",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "9550dfe5",
+    "title": "The Jackbox Party Pack 11",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "cd1b4837",
+    "title": "The Bunny Graveyard",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b4feeecf",
+    "title": "Alruna and the Necro Industrialists",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "feabb5d6",
+    "title": "ROLLING STAR",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e66614fb",
+    "title": "Arcade Archives PUNK SHOT",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "e20bb00b",
+    "title": "Arcade Archives RYUKYU",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7503298e",
+    "title": "Arcade Archives SCION",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "35c09653",
+    "title": "Arcade Archives NEBULASRAY",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "d014c47c",
+    "title": "Tetsudou Nippon Real Pro Choukyori Unten Tokkyuu Hinotori Kinki Nippon Tetsudou Hen",
+    "console": "SWITCH",
+    "razon": "Fallback genérico falló."
+  },
+  {
+    "id": "4fc999a6",
+    "title": "Blablublas Battle Royale Shooter",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "7ef1ac64",
+    "title": "We Were Here",
+    "console": "SWITCH",
+    "razon": "IA falló al traducir o devolvió texto vacío."
+  },
+  {
+    "id": "b3ec97a9",
+    "title": "Ram Simulator",
+    "console": "SWITCH",
     "razon": "IA falló al traducir o devolvió texto vacío."
   }
 ]
