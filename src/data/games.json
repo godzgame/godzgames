@@ -106431,7 +106431,7 @@
       ],
       "link": "https://send.now/nuas9f10bb3b",
       "trailer": "https://www.youtube.com/embed/hOYjfPzdpTM",
-      "sinopsis": "En Never Grave: The Witch and The Curse, el jugador encarna a un aventurero que, guiado por un sombrero maldito, explora un mundo interconectado al estilo Metroidvania con mecánicas roguelite. Con la ayuda del sombrero, puede lanzar hechizos variados o poseer a los enemigos para avanzar hacia los niveles más profundos. Cada expedición permite recoger botín que se lleva de regreso al pueblo, donde se construyen nuevas instalaciones y se mejora la vida cotidiana de los habitantes. Al fortalecerse, el héroe se prepara para futuros enfrentamientos. Además, hasta cuatro jugadores pueden unirse cooperativamente para explorar y compartir recompensas.",
+      "sinopsis": "En Never Grave: The Witch and The Curse, el jugador recorre un mundo estilo Metroidvania y roguelite guiado por un sombrero maldito que concede poderes. Con la ayuda del sombrero, se puede lanzar diferentes hechizos o poseer a los enemigos para acceder a zonas más profundas. Cada partida ofrece botín que sirve para construir nuevas instalaciones en la aldea, ganarse la vida y reforzar al héroe antes del próximo enfrentamiento. El modo cooperativo permite que hasta cuatro jugadores exploren juntos, combinando sus habilidades para superar los retos que acechan en los niveles más bajos.",
       "cover": "",
       "genre": {
         "es": "Action, Adventure, Indie, Platformer"
@@ -112984,8 +112984,20 @@
       ],
       "link": "https://multiup.io/download/c42a34488e38881f9a51da9f3c6481e3/Becastled%20(NSP)(eShop).rar",
       "trailer": "https://www.youtube.com/embed/AAH2J8xmgy8",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Becastled, el jugador se sumerge en un mundo de fantasía donde debe construir y fortificar su propio castillo para resistir asedios implacables. La historia gira en torno a un conflicto ancestral entre la luz y la oscuridad, que se refleja en cada decisión estratégica. Administrar recursos como madera, piedra y oro es esencial para erigir murallas, torres y estructuras defensivas. Además, el jugador entrena y dirige un ejército, reclutando guerreros y caballeros para repeler a los invasores. Cada asedio pone a prueba la planificación y la capacidad de supervivencia del castillo y sus defensores.",
+      "cover": "https://media.rawg.io/media/screenshots/e8c/e8cc165f42c87b15ff5497e3fbaa37f9.jpg",
+      "genre": {
+        "es": "Strategy, Indie"
+      },
+      "releaseDate": {
+        "es": "2021-02-07"
+      },
+      "publisher": {
+        "es": "Mana Potion Studios"
+      },
+      "developer": {
+        "es": "Mana Potion Studios"
+      }
     },
     {
       "id": "4a341b9e",
@@ -113102,8 +113114,17 @@
       ],
       "link": "https://send.now/hu3jtznq2ooh",
       "trailer": "https://www.youtube.com/embed/MBdKNrW8NAw",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En \"Bullets and Brains\" la pesadilla apocalíptica se centra en criaturas que, a diferencia de los zombis tradicionales, conservan rasgos humanos: piel desgarrada, ropa rota y ojos rojos y blancos, pero aún mantienen una apariencia familiar. El jugador debe sobrevivir al caos, enfrentándose a estos horrores mientras gestiona balas escasas y protege su propia inteligencia. Cada encuentro exige decidir entre disparar o usar el ingenio para evitar la sangre que se seca. El objetivo es mantenerse con vida el mayor tiempo posible, explorando entornos desolados y descubriendo la historia del creador Bharath Velkur y el arte de kenny.nl.",
+      "cover": "https://media.rawg.io/media/screenshots/520/520b81a878ba960cf48098ad022804c3.jpg",
+      "genre": {
+        "es": "Shooter"
+      },
+      "releaseDate": {
+        "es": "2020-05-11"
+      },
+      "developer": {
+        "es": "chopper1819"
+      }
     },
     {
       "id": "4c74cb86",
@@ -113590,8 +113611,20 @@
       ],
       "link": "https://send.now/xzf5jkhaqkl3",
       "trailer": "https://www.youtube.com/embed/sXGxibBu7YE",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En Cauldron encarnas a una bruja que busca el título de Reina Bruja, enfrentándose al malvado Pumpking. El objetivo es derrotar a este enemigo para alcanzar la coronación. El juego combina dos estilos: niveles de disparos verticales donde la bruja lanza hechizos y se desplaza por el aire, y secciones de plataformas que requieren saltar y esquivar obstáculos. Cada nivel ofrece una modalidad distinta, lo que obliga al jugador a alternar entre la acción frenética de los disparos y la precisión de la plataforma. La dificultad es alta, poniendo a prueba la habilidad y la estrategia del jugador.",
+      "cover": "https://media.rawg.io/media/games/fea/fea71a62ab4772523d9ba32e0ae7d09c.jpg",
+      "genre": {
+        "es": "Adventure"
+      },
+      "releaseDate": {
+        "es": "1985-01-01"
+      },
+      "publisher": {
+        "es": "Palace Software"
+      },
+      "developer": {
+        "es": "Palace Software"
+      }
     },
     {
       "id": "5c454f78",
