@@ -1,6 +1,7 @@
 import './style.css';
 import latestNewsData from './data/latest_news.json';
 import fallbackGamesData from './data/games.json';
+import fallbackAffiliateSuggestions from './data/affiliate-suggestions.json';
 
 document.addEventListener('DOMContentLoaded', async () => {
   window.setCanonical = (url) => {
@@ -272,26 +273,26 @@ document.addEventListener('DOMContentLoaded', async () => {
   const openModal = (newsItem) => {
     const loc = getLocalizedNews(newsItem);
     
-    modalImage.src = newsItem.image || '';
-    modalTag.textContent = loc.tag;
-    modalTitle.textContent = loc.title;
+    if (modalImage) modalImage.src = newsItem.image || '';
+    if (modalTag) modalTag.textContent = loc.tag;
+    if (modalTitle) modalTitle.textContent = loc.title;
     
     const paragraphs = loc.fullContent
       ? loc.fullContent.split('\n\n').map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('')
       : `<p>${loc.description}</p>`;
-    modalBody.innerHTML = paragraphs;
+    if (modalBody) modalBody.innerHTML = paragraphs;
     
-    modal.style.display = 'flex';
+    if (modal) modal.style.display = 'flex';
     document.body.style.overflow = 'hidden';
   };
 
   const closeModal = () => {
-    modal.style.display = 'none';
+    if (modal) modal.style.display = 'none';
     document.body.style.overflow = '';
   };
 
-  modalClose.addEventListener('click', closeModal);
-  modalBackdrop.addEventListener('click', closeModal);
+  if (modalClose) modalClose.addEventListener('click', closeModal);
+  if (modalBackdrop) modalBackdrop.addEventListener('click', closeModal);
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closeModal();
   });
@@ -1018,11 +1019,20 @@ Output ONLY valid JSON:
     adminEditStatus.style.display = 'none';
     adminEditStatus.className = 'admin-status-message';
     
+    const safeSetVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.value = val;
+    };
+    const safeGetVal = (id, defaultVal = '') => {
+      const el = document.getElementById(id);
+      return el ? el.value.trim() : defaultVal;
+    };
+
     const details = await fetchGameDetails(game.title, game.console, game.id);
     
-    document.getElementById('admin-edit-cover').value = details.customCover || '';
-    document.getElementById('admin-edit-screen1').value = (details.customScreens && details.customScreens[0]) || '';
-    document.getElementById('admin-edit-screen2').value = (details.customScreens && details.customScreens[1]) || '';
+    safeSetVal('admin-edit-cover', details.customCover || '');
+    safeSetVal('admin-edit-screen1', (details.customScreens && details.customScreens[0]) || '');
+    safeSetVal('admin-edit-screen2', (details.customScreens && details.customScreens[1]) || '');
     
     const getVal = (obj, langKey) => {
       if (!obj) return '';
@@ -1030,27 +1040,27 @@ Output ONLY valid JSON:
       return obj;
     };
     
-    document.getElementById('admin-edit-genre-en').value = getVal(details.genre, 'en');
-    document.getElementById('admin-edit-genre-es').value = getVal(details.genre, 'es');
-    document.getElementById('admin-edit-size-en').value = getVal(details.size, 'en');
-    document.getElementById('admin-edit-size-es').value = getVal(details.size, 'es');
-    document.getElementById('admin-edit-dev-en').value = getVal(details.developer, 'en');
-    document.getElementById('admin-edit-dev-es').value = getVal(details.developer, 'es');
-    document.getElementById('admin-edit-pub-en').value = getVal(details.publisher, 'en');
-    document.getElementById('admin-edit-pub-es').value = getVal(details.publisher, 'es');
-    document.getElementById('admin-edit-date-en').value = getVal(details.releaseDate, 'en');
-    document.getElementById('admin-edit-date-es').value = getVal(details.releaseDate, 'es');
+    safeSetVal('admin-edit-genre-en', getVal(details.genre, 'en'));
+    safeSetVal('admin-edit-genre-es', getVal(details.genre, 'es'));
+    safeSetVal('admin-edit-size-en', getVal(details.size, 'en'));
+    safeSetVal('admin-edit-size-es', getVal(details.size, 'es'));
+    safeSetVal('admin-edit-dev-en', getVal(details.developer, 'en'));
+    safeSetVal('admin-edit-dev-es', getVal(details.developer, 'es'));
+    safeSetVal('admin-edit-pub-en', getVal(details.publisher, 'en'));
+    safeSetVal('admin-edit-pub-es', getVal(details.publisher, 'es'));
+    safeSetVal('admin-edit-date-en', getVal(details.releaseDate, 'en'));
+    safeSetVal('admin-edit-date-es', getVal(details.releaseDate, 'es'));
     
-    document.getElementById('admin-edit-desc-en').value = getVal(details.description, 'en');
-    document.getElementById('admin-edit-desc-es').value = getVal(details.description, 'es');
+    safeSetVal('admin-edit-desc-en', getVal(details.description, 'en'));
+    safeSetVal('admin-edit-desc-es', getVal(details.description, 'es'));
     
-    document.getElementById('admin-edit-tiktok-feature').value = details.tiktokFeature || '';
-    document.getElementById('admin-edit-tiktok-script').value = details.tiktokScript || '';
+    safeSetVal('admin-edit-tiktok-feature', details.tiktokFeature || '');
+    safeSetVal('admin-edit-tiktok-script', details.tiktokScript || '');
     
     const customLinks = details.customLinks || [];
-    document.getElementById('admin-edit-link1').value = customLinks[0] || game.link || '';
-    document.getElementById('admin-edit-link2').value = customLinks[1] || game.link || '';
-    document.getElementById('admin-edit-link3').value = customLinks[2] || game.link || '';
+    safeSetVal('admin-edit-link1', customLinks[0] || game.link || '');
+    safeSetVal('admin-edit-link2', customLinks[1] || game.link || '');
+    safeSetVal('admin-edit-link3', customLinks[2] || game.link || '');
 
     // Show existing image previews
     [
@@ -1067,53 +1077,58 @@ Output ONLY valid JSON:
       }
     });
     
-    adminDashboard.style.display = 'none';
-    adminEditor.style.display = 'block';
+    if (adminDashboard) adminDashboard.style.display = 'none';
+    if (adminEditor) adminEditor.style.display = 'block';
   };
 
   // Save admin game edits directly to localStorage or GitHub
   const saveAdminGameEdits = async () => {
     if (!activeEditingGame) return;
 
-    const customCover = document.getElementById('admin-edit-cover').value.trim();
+    const safeGetVal = (id, defaultVal = '') => {
+      const el = document.getElementById(id);
+      return el ? el.value.trim() : defaultVal;
+    };
+
+    const customCover = safeGetVal('admin-edit-cover');
     const customScreens = [
-      document.getElementById('admin-edit-screen1').value.trim(),
-      document.getElementById('admin-edit-screen2').value.trim()
+      safeGetVal('admin-edit-screen1'),
+      safeGetVal('admin-edit-screen2')
     ].filter(url => url.length > 0);
 
     const customLinks = [
-      document.getElementById('admin-edit-link1').value.trim(),
-      document.getElementById('admin-edit-link2').value.trim(),
-      document.getElementById('admin-edit-link3').value.trim()
+      safeGetVal('admin-edit-link1'),
+      safeGetVal('admin-edit-link2'),
+      safeGetVal('admin-edit-link3')
     ].filter(url => url.length > 0);
 
     const savedData = {
       genre: {
-        en: document.getElementById('admin-edit-genre-en').value.trim(),
-        es: document.getElementById('admin-edit-genre-es').value.trim()
+        en: safeGetVal('admin-edit-genre-en'),
+        es: safeGetVal('admin-edit-genre-es')
       },
       size: {
-        en: document.getElementById('admin-edit-size-en').value.trim(),
-        es: document.getElementById('admin-edit-size-es').value.trim()
+        en: safeGetVal('admin-edit-size-en'),
+        es: safeGetVal('admin-edit-size-es')
       },
       developer: {
-        en: document.getElementById('admin-edit-dev-en').value.trim(),
-        es: document.getElementById('admin-edit-dev-es').value.trim()
+        en: safeGetVal('admin-edit-dev-en'),
+        es: safeGetVal('admin-edit-dev-es')
       },
       publisher: {
-        en: document.getElementById('admin-edit-pub-en').value.trim(),
-        es: document.getElementById('admin-edit-pub-es').value.trim()
+        en: safeGetVal('admin-edit-pub-en'),
+        es: safeGetVal('admin-edit-pub-es')
       },
       releaseDate: {
-        en: document.getElementById('admin-edit-date-en').value.trim(),
-        es: document.getElementById('admin-edit-date-es').value.trim()
+        en: safeGetVal('admin-edit-date-en'),
+        es: safeGetVal('admin-edit-date-es')
       },
       description: {
-        en: document.getElementById('admin-edit-desc-en').value.trim(),
-        es: document.getElementById('admin-edit-desc-es').value.trim()
+        en: safeGetVal('admin-edit-desc-en'),
+        es: safeGetVal('admin-edit-desc-es')
       },
-      tiktokFeature: document.getElementById('admin-edit-tiktok-feature').value.trim(),
-      tiktokScript: document.getElementById('admin-edit-tiktok-script').value.trim(),
+      tiktokFeature: safeGetVal('admin-edit-tiktok-feature'),
+      tiktokScript: safeGetVal('admin-edit-tiktok-script'),
       customCover: customCover || undefined,
       customScreens: customScreens.length > 0 ? customScreens : undefined,
       customLinks: customLinks.length > 0 ? customLinks : undefined
@@ -1295,8 +1310,10 @@ Output ONLY valid JSON:
     }
 
     // Toggle active state on language switcher buttons
-    document.getElementById('lang-en').classList.toggle('active', lang === 'en');
-    document.getElementById('lang-es').classList.toggle('active', lang === 'es');
+    const btnEn = document.getElementById('lang-en');
+    const btnEs = document.getElementById('lang-es');
+    if (btnEn) btnEn.classList.toggle('active', lang === 'en');
+    if (btnEs) btnEs.classList.toggle('active', lang === 'es');
 
     // Re-render dynamic elements
     renderNav();
@@ -1377,6 +1394,12 @@ Output ONLY valid JSON:
         } catch (e) {
           const localRes = await fetch('/src/data/affiliate-suggestions.json?t=' + Date.now());
           if (localRes.ok) data = await localRes.json();
+        }
+        
+        if (!Array.isArray(data) || data.length === 0) {
+          if (Array.isArray(fallbackAffiliateSuggestions) && fallbackAffiliateSuggestions.length > 0) {
+            data = fallbackAffiliateSuggestions;
+          }
         }
         
         if (!Array.isArray(data) || data.length === 0) {
@@ -1617,14 +1640,20 @@ Output ONLY valid JSON:
     setupAffiliatesTab();
 
     // Attach switch language listeners
-    document.getElementById('lang-en').addEventListener('click', (e) => {
-      e.preventDefault();
-      updateLanguage('en');
-    });
-    document.getElementById('lang-es').addEventListener('click', (e) => {
-      e.preventDefault();
-      updateLanguage('es');
-    });
+    const langEnBtn = document.getElementById('lang-en');
+    if (langEnBtn) {
+      langEnBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        updateLanguage('en');
+      });
+    }
+    const langEsBtn = document.getElementById('lang-es');
+    if (langEsBtn) {
+      langEsBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        updateLanguage('es');
+      });
+    }
 
     // Attach click listeners to return home
     if (logo) logo.addEventListener('click', goToHome);
@@ -1711,16 +1740,17 @@ Output ONLY valid JSON:
     const adminGenerateTiktokBtn = document.getElementById('admin-generate-tiktok-btn');
     if (adminGenerateTiktokBtn) {
       adminGenerateTiktokBtn.addEventListener('click', async (e) => {
-        e.preventDefault();
-        const feature = document.getElementById('admin-edit-tiktok-feature').value.trim();
+        const feature = document.getElementById('admin-edit-tiktok-feature')?.value?.trim() || '';
         const statusEl = document.getElementById('admin-tiktok-status');
         const scriptEl = document.getElementById('admin-edit-tiktok-script');
         
         if (!activeEditingGame) return;
         
-        statusEl.style.display = 'block';
-        statusEl.className = 'admin-status-message';
-        statusEl.textContent = '⏳ Generando guion viral con IA... (Esto puede tomar 10-20 segundos)';
+        if (statusEl) {
+          statusEl.style.display = 'block';
+          statusEl.className = 'admin-status-message';
+          statusEl.textContent = '⏳ Generando guion viral con IA... (Esto puede tomar 10-20 segundos)';
+        }
         
         const aiPrompt = `Actúa como un creador de contenido experto en videos verticales virales (TikTok/Shorts) sobre videojuegos. Escribe un guión de 15 a 20 segundos optimizado para retención total sobre el juego "${activeEditingGame.title}".
 

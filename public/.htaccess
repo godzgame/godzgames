@@ -1,58 +1,40 @@
-DirectoryIndex index.html index.php
-
-# =============================================================
-# DESACTIVAR CACHÉ DE 6 MESES (max-age=15552000) DE SITEGROUND
-# =============================================================
-SetEnvIfAlways X-SG-Cache-Bypass 1
-SetEnvIfAlways X-Cache-Enabled 0
-
-<IfModule mod_headers.c>
-  # Eliminar cabeceras de caché prolongada impuestas por el servidor
-  Header unset Cache-Control
-  Header unset Expires
-  Header unset ETag
-  Header unset Last-Modified
-  FileETag None
-
-  # Forzar respuesta siempre fresca sin caché para el navegador y NGINX
-  Header always set Cache-Control "no-cache, no-store, must-revalidate, max-age=0, s-maxage=0"
-  Header always set Pragma "no-cache"
-  Header always set Expires "0"
-  Header always set X-SG-Cache-Bypass "1"
-  Header always set X-Cache-Enabled "0"
-</IfModule>
-
-ErrorDocument 404 /404.html
+DirectoryIndex index.html
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  
-  # Redirigir siempre a HTTPS
+  RewriteBase /
+
+  # Redirigir siempre HTTP a HTTPS
   RewriteCond %{HTTPS} off
   RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Si el archivo o directorio existe físicamente, servirlo directamente
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Para cualquier otra ruta (fallback SPA), servir index.html
+  RewriteRule ^ index.html [L]
 </IfModule>
 
-# Reglas específicas por tipo de archivo
+# Gestión de cabeceras de caché (mod_headers)
 <IfModule mod_headers.c>
-  # HTML - jamás cachear
-  <FilesMatch "\.(html)$">
-    Header unset Cache-Control
-    Header unset Expires
+  # HTML - No cachear para forzar actualizaciones instantáneas
+  <FilesMatch "\.(html|htm)$">
     Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
     Header set Pragma "no-cache"
     Header set Expires "0"
-    Header set X-Cache-Enabled "0"
-    Header set X-SG-Cache-Bypass "1"
   </FilesMatch>
 
-  # JS y CSS compilados de Vite (tienen hash único)
+  # JS y CSS
   <FilesMatch "\.(js|css)$">
-    Header unset Cache-Control
     Header set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
   </FilesMatch>
 
   # Imágenes estáticas
-  <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|eot)$">
-    Header set Cache-Control "public, max-age=2592000, immutable"
+  <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+    Header set Cache-Control "public, max-age=604800"
   </FilesMatch>
 </IfModule>
+
+ErrorDocument 404 /index.html
