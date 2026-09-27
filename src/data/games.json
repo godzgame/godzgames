@@ -106431,7 +106431,7 @@
       ],
       "link": "https://send.now/nuas9f10bb3b",
       "trailer": "https://www.youtube.com/embed/hOYjfPzdpTM",
-      "sinopsis": "En Never Grave: The Witch and The Curse, el jugador recorre un mundo estilo Metroidvania mezclado con roguelite, guiado por un sombrero maldito que concede habilidades sobrenaturales. Puedes lanzar una variedad de hechizos o poseer a los enemigos para descender a los niveles más profundos. Cada partida te permite recuperar botín, el cual sirve para construir y mejorar instalaciones en tu aldea, ganando recursos y reforzándote para el próximo enfrentamiento. Además, el modo cooperativo permite que hasta cuatro jugadores exploren juntos, combinando estrategias y compartiendo el progreso mientras la maldición del sombrero los persigue.",
+      "sinopsis": "En Never Grave: The Witch and The Curse, el jugador encarna a un aventurero que, guiado por un sombrero maldito, explora un mundo interconectado al estilo Metroidvania con mecánicas roguelite. Con la ayuda del sombrero, puede lanzar hechizos variados o poseer a los enemigos para avanzar hacia los niveles más profundos. Cada expedición permite recoger botín que se lleva de regreso al pueblo, donde se construyen nuevas instalaciones y se mejora la vida cotidiana de los habitantes. Al fortalecerse, el héroe se prepara para futuros enfrentamientos. Además, hasta cuatro jugadores pueden unirse cooperativamente para explorar y compartir recompensas.",
       "cover": "",
       "genre": {
         "es": "Action, Adventure, Indie, Platformer"
@@ -112376,8 +112376,20 @@
       ],
       "link": "https://send.now/j3tlpx1rg2iw",
       "trailer": "https://www.youtube.com/embed/6lMaDDY7ACY",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Access Denied es un juego de puzzles ambientado en un mundo donde los datos personales se guardan en dispositivos especiales con forma de cajas protegidas. El jugador asume el papel de un experto en romper esas cajas, un cracker profesional que debe infiltrarse y descifrar los mecanismos de seguridad. Cada nivel presenta un nuevo desafío, con 36 escenarios diferentes que ponen a prueba la lógica, la paciencia y la creatividad del jugador. La experiencia combina tensión narrativa con rompecabezas ingeniosos, invitando al jugador a superar barreras digitales y a demostrar su dominio del hackeo.",
+      "cover": "https://media.rawg.io/media/screenshots/c8d/c8d4aa4a85a53dfe447a30d852a1b782.jpg",
+      "genre": {
+        "es": "Casual, Indie, Puzzle"
+      },
+      "releaseDate": {
+        "es": "2016-12-16"
+      },
+      "publisher": {
+        "es": "Ratalaika Games, Stately Snail"
+      },
+      "developer": {
+        "es": "Ratalaika Games, Stately Snail"
+      }
     },
     {
       "id": "45b6d57a",
@@ -112676,8 +112688,24 @@
       ],
       "link": "https://send.now/6x8omi8py45g",
       "trailer": "https://www.youtube.com/embed/bM-WjGBUZFg",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En este título para Switch, los jugadores dirigen a un protagonista misterioso a través de un extenso mundo plagado de criaturas hostiles y secretos ocultos. La narrativa se desarrolla mediante la ambientación y diálogos esporádicos, mostrando una lucha contra una oscuridad creciente que amenaza la región. La jugabilidad combina exploración, resolución de puzzles y combate en tiempo real, permitiendo al héroe obtener y mejorar armas, aprender nuevas habilidades y personalizar su equipamiento. Encuentros dinámicos y retos de plataformas exigen tiempo y estrategia, mientras misiones secundarias variadas enriquecen la experiencia e invitan a explorar cada zona.",
+      "cover": "",
+      "genre": {
+        "en": "Action‑adventure",
+        "es": "Acción‑aventura"
+      },
+      "releaseDate": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "publisher": {
+        "en": "N/A",
+        "es": "N/A"
+      },
+      "developer": {
+        "en": "N/A",
+        "es": "N/A"
+      }
     },
     {
       "id": "dc4bcbe0",
