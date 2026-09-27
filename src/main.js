@@ -302,7 +302,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const loc = getLocalizedNews(news);
     return `
       <div class="featured-item" data-id="${news.id}">
-        <img src="${news.image || ''}" alt="${loc.title}" loading="lazy" />
+        <img src="${news.image || ''}" alt="${loc.title}" loading="lazy" onerror="if(!this.dataset.tried){this.dataset.tried='1';this.src=this.src.replace('https://raw.githubusercontent.com/godzgame/godzgames/main/public','');}" />
         <div class="featured-overlay">
           <span class="featured-category">${loc.tag}</span>
           <h3 class="featured-title" style="margin-bottom: 5px;">${loc.title}</h3>
