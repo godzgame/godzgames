@@ -49,7 +49,7 @@ Actualmente, el m√©todo oficial y garantizado para desplegar cambios a producci√
 3. **Sugerencias de Afiliados con Datos Reales Exclusivos:**
    - Solo se muestran productos reales obtenidos y validados desde la API oficial de Mercado Libre (`scripts/generate_affiliate_suggestions.cjs`).
    - Queda estrictamente prohibido usar precios ficticios, ratings falsos o fallbacks con datos inventados.
-   - En el cliente (`src/main.js`), si la API remota no responde, se usa `fallbackAffiliateSuggestions` empaquetado en el bundle.
+   - En el cliente (`src/main.js`), si la API remota no responde o es bloqueada (por ej. escudos de navegadores o respuestas HTML), se usa `safeFetchJSON` para validar la respuesta sin lanzar excepciones y se recurre limpiamente a `fallbackAffiliateSuggestions` empaquetado en el bundle.
 4. **Manejo Defensivo del DOM en JavaScript (`src/main.js`):**
    - **PROHIBIDO** hacer `document.getElementById('ID').addEventListener(...)` o acceder a propiedades (`.value`, `.style`, `.innerHTML`) sin verificar previamente si el elemento existe en el DOM.
    - Todo selector debe estar protegido por comprobaciones de nulidad (`if (el) { ... }` o encadenamiento opcional `?.`).

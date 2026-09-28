@@ -1333,18 +1333,29 @@ Output ONLY valid JSON:
     }
   };
 
+  const safeFetchJSON = async (url) => {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) return null;
+      const text = await res.text();
+      const trimmed = text.trim();
+      if (trimmed.startsWith('{') || trimmed.startsWith('[')) {
+        return JSON.parse(trimmed);
+      }
+      return null;
+    } catch (e) {
+      return null;
+    }
+  };
+
   const loadSavedAffiliates = async () => {
     const tbody = document.getElementById('admin-saved-affiliates-tbody');
     if (!tbody) return;
     
     try {
-      let data = [];
-      try {
-        const res = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliates.json?t=' + Date.now());
-        if (res.ok) data = await res.json();
-      } catch (e) {
-        const localRes = await fetch('/src/data/affiliates.json?t=' + Date.now());
-        if (localRes.ok) data = await localRes.json();
+      let data = await safeFetchJSON('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliates.json?t=' + Date.now());
+      if (!Array.isArray(data) || data.length === 0) {
+        data = await safeFetchJSON('/src/data/affiliates.json?t=' + Date.now());
       }
       
       if (!Array.isArray(data) || data.length === 0) {
@@ -1387,13 +1398,10 @@ Output ONLY valid JSON:
       gridEl.innerHTML = '';
       
       try {
-        let data = [];
-        try {
-          const res = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliate-suggestions.json?t=' + Date.now());
-          if (res.ok) data = await res.json();
-        } catch (e) {
-          const localRes = await fetch('/src/data/affiliate-suggestions.json?t=' + Date.now());
-          if (localRes.ok) data = await localRes.json();
+        let data = await safeFetchJSON('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/affiliate-suggestions.json?t=' + Date.now());
+        
+        if (!Array.isArray(data) || data.length === 0) {
+          data = await safeFetchJSON('/src/data/affiliate-suggestions.json?t=' + Date.now());
         }
         
         if (!Array.isArray(data) || data.length === 0) {
@@ -1608,29 +1616,15 @@ Output ONLY valid JSON:
     }
 
     // Try to fetch the absolute latest news live from GitHub, bypassing static bundle
-    try {
-      const liveNewsRes = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/latest_news.json?t=' + Date.now());
-      if (liveNewsRes.ok) {
-        const liveNewsData = await liveNewsRes.json();
-        if (liveNewsData && liveNewsData.articles) {
-          aiNews = liveNewsData.articles;
-        }
-      }
-    } catch (err) {
-      console.warn("Could not fetch live news, using bundled fallback.");
+    const liveNewsData = await safeFetchJSON('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/latest_news.json?t=' + Date.now());
+    if (liveNewsData && liveNewsData.articles) {
+      aiNews = liveNewsData.articles;
     }
 
-    try {
-      const liveGamesRes = await fetch('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/games.json?t=' + Date.now());
-      if (liveGamesRes.ok) {
-        const liveGamesData = await liveGamesRes.json();
-        if (liveGamesData && liveGamesData.games) {
-          games = liveGamesData.games;
-          consoles = liveGamesData.consoles;
-        }
-      }
-    } catch (err) {
-      console.warn("Could not fetch live games, using bundled fallback.");
+    const liveGamesData = await safeFetchJSON('https://raw.githubusercontent.com/godzgame/godzgames/main/src/data/games.json?t=' + Date.now());
+    if (liveGamesData && liveGamesData.games) {
+      games = liveGamesData.games;
+      consoles = liveGamesData.consoles;
     }
 
     // Render games immediately with bundled data (no waiting for backend)
