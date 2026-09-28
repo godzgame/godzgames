@@ -1417,8 +1417,9 @@ Output ONLY valid JSON:
               ${item.thumbnail ? `<img src="${item.thumbnail}" width="60" height="60" style="object-fit:cover; border-radius:4px;"/>` : ''}
               <div>
                 <h4 style="margin:0; font-size:1rem;">${item.title}</h4>
-                <div style="color:var(--color-primary); font-weight:bold;">$${item.price}</div>
-                <div style="font-size:0.8rem; color:var(--color-text-muted);">
+                <div style="color:var(--color-primary); font-weight:bold;">$${item.price} MXN</div>
+                <div style="font-size:0.75rem; color:#aaa; margin-top:2px; line-height:1.2;">Precio de referencia al momento de generar la sugerencia — verifica el precio actual en Mercado Libre.</div>
+                <div style="font-size:0.8rem; color:var(--color-text-muted); margin-top:4px;">
                   ${item.rating ? `⭐ ${item.rating}` : ''} 
                   ${item.soldQuantity ? `📦 ${item.soldQuantity} vendidos` : ''}
                 </div>
