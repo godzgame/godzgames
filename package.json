@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "generate:suggestions": "node scripts/generate_affiliate_suggestions.cjs",
-    "build": "node scripts/update_news.cjs && node scripts/generate_affiliate_suggestions.cjs && node scripts/generate_rss.cjs && vite build",
+    "build": "node scripts/update_news.cjs && node scripts/generate_affiliate_suggestions.cjs && node scripts/generate_rss.cjs && node scripts/generate_news_rss.cjs && vite build",
     "preview": "vite preview"
   },
   "keywords": [],
