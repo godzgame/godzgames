@@ -106431,7 +106431,7 @@
       ],
       "link": "https://send.now/nuas9f10bb3b",
       "trailer": "https://www.youtube.com/embed/hOYjfPzdpTM",
-      "sinopsis": "En Never Grave: The Witch and The Curse, el jugador recorre un mundo estilo Metroidvania y roguelite guiado por un sombrero maldito que concede poderes. Con la ayuda del sombrero, se puede lanzar diferentes hechizos o poseer a los enemigos para acceder a zonas más profundas. Cada partida ofrece botín que sirve para construir nuevas instalaciones en la aldea, ganarse la vida y reforzar al héroe antes del próximo enfrentamiento. El modo cooperativo permite que hasta cuatro jugadores exploren juntos, combinando sus habilidades para superar los retos que acechan en los niveles más bajos.",
+      "sinopsis": "Never Grave: The Witch and The Curse es un Metroidvania roguelite que sigue a un aventurero guiado por un sombrero maldito. El jugador recorre cavernas y ruinas, usando diversas hechicerías o poseyendo a los enemigos para abrir nuevos caminos y descender a los niveles más profundos. Cada partida genera botín que puede emplearse para construir y mejorar instalaciones en la aldea, proporcionando recursos para futuras expediciones. El modo cooperativo permite que hasta cuatro jugadores colaboren, combinando sus habilidades y estrategias mientras fortalecen a su personaje para el próximo enfrentamiento.",
       "cover": "",
       "genre": {
         "es": "Action, Adventure, Indie, Platformer"
@@ -113653,8 +113653,14 @@
       ],
       "link": "https://send.now/hs7bih4uhivl",
       "trailer": "https://www.youtube.com/embed/nnPtz2_2CSQ",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "A veces quieres ayudar a la gente, pero simplemente no sabes cómo. La única solución es adentrarse en lo desconocido y descubrirlo por ti mismo. En el juego, tus decisiones pueden provocar que personas mueran y casas se quemen, todo bajo la premisa de un bien mayor que, en realidad, es tu propio beneficio. Esta experiencia fue presentada como entrada al Slavic Game Jam 2017. Fue desarrollada por Piotr Swiatowski, Marcin «Szagi» Iwanowski, Pawel Legowski, Jurek Netzel, Jacek «Asterix» Kozieja y Lukasz Junczyk, bajo el estudio Orbital Knight.",
+      "cover": "https://media.rawg.io/media/screenshots/7bd/7bdd75f0e68f2bcfc5c12ad39c584006.jpg",
+      "releaseDate": {
+        "es": "2017-07-29"
+      },
+      "developer": {
+        "es": "PanMadzior"
+      }
     },
     {
       "id": "2c238221",
@@ -113904,8 +113910,20 @@
       ],
       "link": "https://send.now/6sn2hwqj5l8z",
       "trailer": "https://www.youtube.com/embed/o2r-Z-NPn6M",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "Eres prisionero de una pesadilla interminable y sólo puedes escapar adentrándote en el sueño. Un mercader de sueños, atrapado también en la pesadilla, te guiará para encontrar la salida. En tu camino aparecerán monstruos poderosos; estudia sus movimientos y contraataca con paradas precisas. Podrás elegir entre varias armas, combinándolas según tu estilo y su sinergia, y cambiar entre ellas en combate. Explora los sueños para recuperar los objetos perdidos del mercader y desbloquear el tótem, que otorga habilidades útiles. Cada muerte solo reinicia el sueño, ofreciendo nuevas oportunidades para cambiar su estructura.",
+      "cover": "https://media.rawg.io/media/screenshots/7cb/7cbfebe47f99459cfb927adf6b6aaca3.jpg",
+      "genre": {
+        "es": "Action, Indie"
+      },
+      "releaseDate": {
+        "es": "2022-01-06"
+      },
+      "publisher": {
+        "es": "Maetdol Games"
+      },
+      "developer": {
+        "es": "Maetdol Games"
+      }
     },
     {
       "id": "bbcf16b2",
@@ -114090,8 +114108,20 @@
       ],
       "link": "https://send.now/my6ojhl9vzju",
       "trailer": "https://www.youtube.com/embed/0bsaTluSXmY",
-      "sinopsis": "",
-      "cover": ""
+      "sinopsis": "En TCG Empire Card Shop Simulator, el jugador abre y dirige su propia tienda de cartas. Gestiona el inventario vendiendo paquetes de sobres y cajas, organiza estanterías y mesas para que los clientes compren sin problemas. Define el formato y la tarifa de los torneos que se celebran en el local, y mantén el espacio limpio para que los jugadores no se vayan. Abre los sobres, descubre cartas raras y decide si venderlas o completarlas en tu colección. También puedes pedir más paquetes y cajas por teléfono y recibirlos directamente en la tienda.",
+      "cover": "https://media.rawg.io/media/screenshots/c5e/c5ee80a93e68cccdbe2ca7230ad10e8f.jpg",
+      "genre": {
+        "es": "Simulation"
+      },
+      "releaseDate": {
+        "es": "2024-08-06"
+      },
+      "publisher": {
+        "es": "OPNeon Games"
+      },
+      "developer": {
+        "es": "OPNeon Games"
+      }
     },
     {
       "id": "3d4c427c",
