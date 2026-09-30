@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1790744486325,
+  "updatedAt": 1790770587428,
   "articles": [
-    {
-      "id": "7963bb5092c571a04bd8696e2a858a38",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744477315_946.jpg",
-      "link": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
-      "en": {
-        "title": "GTA 6 map will be twice the size of GTA 5 and feature localized weather",
-        "description": "Rockstar announced that the map for Grand Theft Auto VI will be twice as large as the map of Grand Theft Auto V, making it the largest environment ...",
-        "fullContent": "Rockstar announced that the map for Grand Theft Auto VI will be twice as large as the map of Grand Theft Auto V, making it the largest environment the studio has created to date, according to a preview in the latest issue of Game Informer.\n\nThe preview describes a weather system that can produce localized conditions across the fictional state of Leonida, a representation of Florida. The system may allow clear skies in one area while heavy rain occurs nearby, reflecting the variability typical of Florida weather.\n\nOwen Shepherd, vice president of art for lighting and rendering at Rockstar, said the weather system has been re‑engineered to be more localized and persistent, with the goal of giving the world a greater sense of scale."
-      },
-      "es": {
-        "title": "Mapa de GTA 6 será el doble de grande que GTA 5 y contará con clima localizado",
-        "description": "Rockstar informó que el mapa de Grand Theft Auto VI será el doble de grande que el de Grand Theft Auto V, convirtiéndose en el entorno más extenso ...",
-        "fullContent": "Rockstar informó que el mapa de Grand Theft Auto VI será el doble de grande que el de Grand Theft Auto V, convirtiéndose en el entorno más extenso que la compañía ha desarrollado, según una vista previa publicada en la última edición de Game Informer.\n\nLa misma publicación indica que el juego incluirá un sistema meteorológico capaz de generar condiciones localizadas en la versión ficticia de Florida, llamada Leonida. El sistema permitiría que en una zona haya cielo despejado mientras a poca distancia caiga lluvia intensa, reproduciendo la variabilidad climática típica de la región.\n\nOwen Shepherd, vicepresidente de arte para iluminación y renderizado en Rockstar, declaró que el sistema de clima ha sido rediseñado para ser más localizado y persistente, con el objetivo de aportar una mayor sensación de escala al mundo del juego."
-      }
-    },
     {
       "id": "2914ca396bef6b16e04dec2833547e34",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744479905_499.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790770576436_802.jpg",
       "link": "https://theconversation.com/what-was-the-original-first-person-shooter-two-largely-forgotten-computer-games-from-the-1970s-ushered-in-the-genre-290696",
       "en": {
-        "title": "Maze War and Spasim Recognized as Early First-Person Shooters from the 1970s",
-        "description": "The Curious Kids series, which invites questions from readers of any age, received an inquiry from James, a 12‑year‑old from Batesville, Arkansas, ...",
-        "fullContent": "The Curious Kids series, which invites questions from readers of any age, received an inquiry from James, a 12‑year‑old from Batesville, Arkansas, asking which video game can be considered the first first‑person shooter (FPS). The response identifies \"Maze War,\" a project that began at a NASA research center in 1973, as the earliest known FPS. A subsequent title, \"Spasim,\" was released a year later in 1974 and was created by developers at the University of Illinois.\n\nBoth games employed a first‑person perspective, allowing players to view the environment through the eyes of a character and engage opponents with weapons. Implementing this perspective required the creation of a three‑dimensional world, a technical challenge at the time. Contemporary hardware such as the systems used for \"PONG\" and the Magnavox Odyssey lacked the processing power needed to render the depth and movement required for true 3D navigation."
+        "title": "Maze War and Spasim Identified as Early First-Person Shooter Games",
+        "description": "A question from a 12‑year‑old reader, James from Batesville, Arkansas, asked which video game can be considered the first first‑person shooter (FPS...",
+        "fullContent": "A question from a 12‑year‑old reader, James from Batesville, Arkansas, asked which video game can be considered the first first‑person shooter (FPS). According to the source, the game known as \"Maze War\" was created at a NASA research center starting in 1973 and is commonly cited as the earliest FPS. The following year, another game called \"Spasim\" was released, having been developed at the University of Illinois.\n\nFirst‑person shooters present the action from the player’s viewpoint, allowing the use of weapons to engage opponents. Implementing this perspective required a three‑dimensional environment, which was challenging for the hardware available in the early 1970s. At that time, the computing power used for popular arcade titles such as \"PONG\" and early home consoles like the Magnavox Odyssey was insufficient to render the depth needed for players to move forward within a virtual space."
       },
       "es": {
-        "title": "Maze War y Spasim son reconocidos como los primeros shooters en primera persona de los años setenta",
-        "description": "El programa Curious Kids, que recibe preguntas de lectores de cualquier edad, recibió una consulta de James, un niño de 12 años de Batesville, Arka...",
-        "fullContent": "El programa Curious Kids, que recibe preguntas de lectores de cualquier edad, recibió una consulta de James, un niño de 12 años de Batesville, Arkansas, sobre cuál fue el primer videojuego de disparos en primera persona (FPS). La respuesta señala a \"Maze War\", un proyecto iniciado en 1973 en un centro de investigación de la NASA, como el FPS más antiguo conocido. Un año después, en 1974, se lanzó \"Spasim\", desarrollado por investigadores de la Universidad de Illinois.\n\nAmbos títulos utilizaban una perspectiva en primera persona, permitiendo a los jugadores ver el entorno a través de los ojos del personaje y enfrentarse a oponentes con armas. Para lograr esta visión se necesitó crear un mundo tridimensional, lo que representó un desafío técnico en esa época. Los sistemas de hardware de la época, como los utilizados para \"PONG\" y la Magnavox Odyssey, no disponían de la capacidad de procesamiento suficiente para renderizar la profundidad y el movimiento requeridos para una navegación 3D real."
+        "title": "Maze War y Spasim Identificados como los Primeros Juegos de Disparos en Primera Persona",
+        "description": "Un lector de 12 años, James de Batesville, Arkansas, preguntó cuál fue el primer videojuego de disparos en primera persona (FPS). Según la informac...",
+        "fullContent": "Un lector de 12 años, James de Batesville, Arkansas, preguntó cuál fue el primer videojuego de disparos en primera persona (FPS). Según la información disponible, el juego llamado \"Maze War\" se desarrolló en un centro de investigación de la NASA a partir de 1973 y suele mencionarse como el primer FPS. Un año después, en 1974, se lanzó \"Spasim\", creado en la Universidad de Illinois.\n\nLos juegos de disparos en primera persona muestran la acción desde la perspectiva del jugador, permitiendo el uso de armas para atacar a los oponentes. Lograr esta vista requería un entorno tridimensional, lo cual representaba un desafío para el hardware de principios de la década de 1970. En ese período, la capacidad de los sistemas que alimentaban juegos de arcade populares como \"PONG\" y las primeras consolas domésticas, como la Magnavox Odyssey, no era suficiente para renderizar la profundidad necesaria para que los jugadores avanzaran en un espacio virtual."
+      }
+    },
+    {
+      "id": "dd324b00f3c38c91f3cf5f255069a069",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790770579901_639.jpg",
+      "link": "https://www.wftv.com/news/local/these-retro-video-games-could-be-worth-hundreds-or-even-thousands/7VSORDNOURBE7NY5YR2I5B3DMQ/",
+      "en": {
+        "title": "Analysis shows select retro games and consoles valued up to $2,562",
+        "description": "ORLANDO, Fla. – An analysis conducted by playcasino.com reviewed recent North American sales data for a range of titles and hardware from the Ninte...",
+        "fullContent": "ORLANDO, Fla. – An analysis conducted by playcasino.com reviewed recent North American sales data for a range of titles and hardware from the Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, original PlayStation and Sega Genesis eras. The study identified EarthBound for the Super Nintendo as the highest‑valued item, with a complete set that includes the cartridge, original box and manual priced at approximately $2,562, while the cartridge alone fetched about $394.\n\nA boxed Pikachu edition of the Nintendo 64 console ranked second with an estimated value of $1,225, followed by a Pokémon Special Edition Game Boy Color at roughly $1,063. The report also noted that Super Mario World, which was bundled with the Super Nintendo at its 1991 North American launch, sells as a loose cartridge for around $17, but a complete copy with box and manual is valued at about $677, roughly 39 times the price of the cartridge alone."
+      },
+      "es": {
+        "title": "Análisis revela que videojuegos retro pueden alcanzar hasta $2,562",
+        "description": "ORLANDO, Fla. – Un análisis realizado por playcasino.com examinó los precios de venta recientes en Norteamérica de varios títulos y consolas de las...",
+        "fullContent": "ORLANDO, Fla. – Un análisis realizado por playcasino.com examinó los precios de venta recientes en Norteamérica de varios títulos y consolas de las épocas del Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, PlayStation original y Sega Genesis. El estudio ubicó a EarthBound para Super Nintendo como el artículo de mayor valor, con una copia completa que incluye cartucho, caja original y manual valorada en aproximadamente $2,562, mientras que el cartucho por sí solo se cotizó en torno a $394.\n\nEn segundo lugar se encontró la consola Nintendo 64 edición Pikachu en caja, con un valor estimado de $1,225, seguida por la Game Boy Color edición especial de Pokémon, valorada en cerca de $1,063. El informe también indica que Super Mario World, incluido con el Super Nintendo al lanzar la consola en Norteamérica en 1991, se vende como cartucho suelto por alrededor de $17, pero una copia completa con caja y manual alcanza aproximadamente $677, lo que representa unas 39 veces el precio del cartucho sin empaque."
       }
     },
     {
       "id": "91f4f31485ec34ab42797f5a2daff652",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744481668_743.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790770581899_434.jpg",
       "link": "https://www.cbc.ca/kidsnews/post/why-the-u.s-government-made-video-games-about-political-issues",
       "en": {
-        "title": "U.S. government launches Arcade.gov website with political-themed games",
-        "description": "Earlier this month the White House released a new website, Arcade.gov, that hosts a collection of arcade-style video games addressing topics such a...",
-        "fullContent": "Earlier this month the White House released a new website, Arcade.gov, that hosts a collection of arcade-style video games addressing topics such as immigration. Among the titles is \"Rio Run,\" which is presented as a remake of the classic game Snake.\n\nAccording to experts, the creation of such games reflects a broader trend in which governments and game developers use interactive media to shape public perception. The experts also advise that children and teenagers be attentive to the origins of the games they play, the objectives behind them, and how they portray real-world issues."
+        "title": "White House launches Arcade.gov with games on political topics",
+        "description": "The White House released a website called Arcade.gov earlier this month, offering a collection of arcade‑style video games that address subjects su...",
+        "fullContent": "The White House released a website called Arcade.gov earlier this month, offering a collection of arcade‑style video games that address subjects such as immigration. Experts note that governments and developers are increasingly using video games to shape public perception, and they advise children and teenagers to be aware of the source, purpose, and real‑world representation of these games. One of the titles available on the platform, Rio Run, is a remake of the classic arcade game Snake."
       },
       "es": {
-        "title": "Gobierno de EE. UU. lanza sitio Arcade.gov con juegos sobre temas políticos",
-        "description": "A principios de este mes la Casa Blanca puso a disposición un nuevo sitio web, Arcade.gov, que reúne varios videojuegos de estilo arcade que aborda...",
-        "fullContent": "A principios de este mes la Casa Blanca puso a disposición un nuevo sitio web, Arcade.gov, que reúne varios videojuegos de estilo arcade que abordan asuntos como la inmigración. Uno de los juegos, llamado \"Rio Run\", se describe como una versión renovada del clásico Snake.\n\nExpertos señalan que la producción de estos juegos forma parte de una tendencia más amplia en la que gobiernos y desarrolladores utilizan los videojuegos para influir en la percepción pública. Asimismo, recomiendan que niños y adolescentes presten atención al origen de los juegos, a sus intenciones y a la manera en que representan la realidad."
+        "title": "La Casa Blanca lanza Arcade.gov con juegos sobre temas políticos",
+        "description": "La Casa Blanca puso en línea un sitio llamado Arcade.gov a principios de este mes, ofreciendo una serie de videojuegos de estilo arcade que tratan ...",
+        "fullContent": "La Casa Blanca puso en línea un sitio llamado Arcade.gov a principios de este mes, ofreciendo una serie de videojuegos de estilo arcade que tratan asuntos como la inmigración. Expertos indican que los gobiernos y los desarrolladores están usando cada vez más los videojuegos para influir en la forma en que se perciben ciertos temas, y recomiendan a niños y adolescentes que consideren el origen, la intención y la representación del mundo real de estos juegos. Uno de los títulos disponibles, Rio Run, es una versión renovada del clásico juego de arcade Snake."
+      }
+    },
+    {
+      "id": "cbfc38dfe7a1ed206207187c06b3dd46",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790770584793_200.jpg",
+      "link": "https://www.ksl.com/article/51630171/man-with-long-history-of-theft-now-accused-of-stealing-video-game-consoles",
+      "en": {
+        "title": "47-year-old South Salt Lake man charged with theft and burglary after video game console robbery",
+        "description": "Darren Jack Scott, a 47-year-old resident of South Salt Lake, was charged on Monday in the 3rd District Court with theft, a second-degree felony, a...",
+        "fullContent": "Darren Jack Scott, a 47-year-old resident of South Salt Lake, was charged on Monday in the 3rd District Court with theft, a second-degree felony, and burglary, a third-degree felony. Police responded to a burglary report at NintendoOneStop, located at 3910 South Main Street, on September 11. Surveillance footage reviewed by investigators showed a man identified as Scott making multiple trips inside the store between approximately 2 a.m. and 4 a.m., and authorities believe he was also involved in a prior theft at the same location on August 21.\n\nAccording to the charging documents, at least 100 PS Vita 2000 consoles were taken, valued at roughly $12,000, and additional DSI LL and DSIXL consoles were also stolen. The store estimated the total loss from the burglary at about $20,000, while a police affidavit noted that the victim estimated the overall merchandise taken to be approximately $50,000. Scott was subsequently arrested by South Salt Lake police in connection with an unrelated investigation."
+      },
+      "es": {
+        "title": "Hombre de 47 años de South Salt Lake es acusado de hurto y allanamiento tras robo de consolas de videojuegos",
+        "description": "Darren Jack Scott, de 47 años y residente de South Salt Lake, fue acusado el lunes en el Tribunal del Distrito 3 de hurto, delito calificado como f...",
+        "fullContent": "Darren Jack Scott, de 47 años y residente de South Salt Lake, fue acusado el lunes en el Tribunal del Distrito 3 de hurto, delito calificado como felonía de segundo grado, y allanamiento, felonía de tercer grado. La policía respondió a una denuncia de allanamiento en NintendoOneStop, ubicada en 3910 South Main Street, el 11 de septiembre. Las imágenes de vigilancia revisadas por los investigadores mostraron a un hombre identificado como Scott realizando múltiples recorridos dentro de la tienda entre aproximadamente las 2 a.m. y las 4 a.m., y se cree que también estuvo implicado en un robo previo en el mismo establecimiento el 21 de agosto.\n\nSegún los documentos de acusación, al menos 100 consolas PS Vita 2000 fueron sustraídas, con un valor aproximado de 12,000 dólares, y también se llevaron consolas DSI LL y DSIXL. La tienda estimó la pérdida total del allanamiento en alrededor de 20,000 dólares, mientras que una declaración policial indica que la víctima calculó el valor total de la mercancía robada en aproximadamente 50,000 dólares. Posteriormente, Scott fue arrestado por la policía de South Salt Lake en relación con una investigación no vinculada al caso."
       }
     },
     {
       "id": "56c74d3298181be3eff349d7168ec694",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744483716_807.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790770587408_85.jpg",
       "link": "https://www.history.com/articles/nintendo-sega-rivalry-1990s-consoles",
       "en": {
-        "title": "1990s Console Competition Between Nintendo and Sega Reshaped the Video Game Industry",
-        "description": "The source outlines a comprehensive survey of major historical chapters, ranging from Indigenous origins in America to contemporary times, and incl...",
-        "fullContent": "The source outlines a comprehensive survey of major historical chapters, ranging from Indigenous origins in America to contemporary times, and includes global histories, major wars, periods from prehistory through antiquity to the 21st century, as well as cultural elements such as faiths, food, entertainment, holidays, pivotal discoveries, inventors, and natural phenomena.\n\nIt reports that the competition between Nintendo and Sega during the 1990s altered the video‑game industry and contributed to defining a generation of gamers."
+        "title": "Nintendo and Sega's 1990s Console Competition Reshaped the Video Game Industry",
+        "description": "The source outlines that history includes major chapters ranging from Indigenous beginnings in America to the present day, as well as events from p...",
+        "fullContent": "The source outlines that history includes major chapters ranging from Indigenous beginnings in America to the present day, as well as events from prehistory, antiquity, and the 21st century. It references worldwide wars, the evolution of societies, and cultural elements such as faiths, food, entertainment, and holidays that have shaped the world.\n\nAccording to the article, the intense competition between Nintendo and Sega during the 1990s altered the video game industry and contributed to defining a generation of gamers."
       },
       "es": {
-        "title": "La competencia de consolas de los años 90 entre Nintendo y Sega transformó la industria de los videojuegos",
-        "description": "La fuente describe una revisión amplia de los principales capítulos históricos, desde los orígenes indígenas en América hasta la actualidad, e incl...",
-        "fullContent": "La fuente describe una revisión amplia de los principales capítulos históricos, desde los orígenes indígenas en América hasta la actualidad, e incluye historias mundiales, grandes guerras, períodos que abarcan desde la prehistoria y la antigüedad hasta el siglo XXI, así como aspectos culturales como religiones, gastronomía, entretenimiento, festividades, descubrimientos clave, inventores y fenómenos naturales.\n\nSe indica que la rivalidad entre Nintendo y Sega en la década de 1990 modificó la industria de los videojuegos y ayudó a definir una generación de jugadores."
-      }
-    },
-    {
-      "id": "9fdc7c793a10f14af5358451ae0964b5",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744486303_271.jpg",
-      "link": "https://www.svg.com/2271036/nintendo-switch-2-best-games/",
-      "en": {
-        "title": "Five Nintendo Switch 2 Games Released Specifically for the Platform",
-        "description": "More than a year after the launch of the Nintendo Switch 2, the console’s library has expanded with a number of titles. According to the source, fi...",
-        "fullContent": "More than a year after the launch of the Nintendo Switch 2, the console’s library has expanded with a number of titles. According to the source, first‑party games continue to represent the majority of highlighted releases, while third‑party titles are largely ports of earlier games. The list referenced includes only games that were launched with the Switch 2 in mind; ports or upgraded versions are excluded, whereas games released alongside the original Switch during the past year are considered.\n\nAmong the five games mentioned is Donkey Kong Bananza, which was released in July 2025, shortly after the Switch 2’s debut. The title marks the first fully 3‑D platformer in the Donkey Kong series since Donkey Kong 64 and introduces mechanics that involve digging, climbing, and combat on Igot Isle, featuring the characters Donkey Kong and Pauline."
-      },
-      "es": {
-        "title": "Cinco juegos de Nintendo Switch 2 lanzados específicamente para la consola",
-        "description": "Más de un año después del lanzamiento de la Nintendo Switch 2, la biblioteca de la consola ha crecido con varios títulos. Según la fuente, los jueg...",
-        "fullContent": "Más de un año después del lanzamiento de la Nintendo Switch 2, la biblioteca de la consola ha crecido con varios títulos. Según la fuente, los juegos de primera parte siguen representando la mayor parte de los lanzamientos destacados, mientras que los títulos de terceros son en su mayoría puertos de juegos anteriores. La lista citada incluye únicamente los juegos que se lanzaron pensando en la Switch 2; no se consideran puertos ni versiones mejoradas, aunque sí se incluyen los juegos publicados junto a la Switch original durante el último año.\n\nEntre los cinco juegos mencionados se encuentra Donkey Kong Bananza, que se lanzó en julio de 2025, poco después del debut de la Switch 2. Este título constituye el primer platformer completamente en 3D de la serie Donkey Kong desde Donkey Kong 64 y presenta mecánicas de excavación, escalada y combate en Igot Isle, con los personajes Donkey Kong y Pauline."
+        "title": "La competencia de consolas de Nintendo y Sega en los años 90 transformó la industria de los videojuegos",
+        "description": "La fuente indica que la historia abarca capítulos importantes desde los orígenes indígenas en América hasta la actualidad, incluyendo períodos desd...",
+        "fullContent": "La fuente indica que la historia abarca capítulos importantes desde los orígenes indígenas en América hasta la actualidad, incluyendo períodos desde la prehistoria, la antigüedad y el siglo XXI. También menciona guerras mundiales, descubrimientos, inventores y fenómenos naturales, así como aspectos culturales como religiones, gastronomía, entretenimiento y festividades que influyen en la sociedad.\n\nEl artículo señala que la rivalidad entre Nintendo y Sega en la década de 1990 cambió la industria de los videojuegos y ayudó a definir una generación de jugadores."
       }
     }
   ]
