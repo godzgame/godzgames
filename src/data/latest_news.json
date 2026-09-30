@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1790685084130,
+  "updatedAt": 1790744486325,
   "articles": [
+    {
+      "id": "7963bb5092c571a04bd8696e2a858a38",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744477315_946.jpg",
+      "link": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
+      "en": {
+        "title": "GTA 6 map will be twice the size of GTA 5 and feature localized weather",
+        "description": "Rockstar announced that the map for Grand Theft Auto VI will be twice as large as the map of Grand Theft Auto V, making it the largest environment ...",
+        "fullContent": "Rockstar announced that the map for Grand Theft Auto VI will be twice as large as the map of Grand Theft Auto V, making it the largest environment the studio has created to date, according to a preview in the latest issue of Game Informer.\n\nThe preview describes a weather system that can produce localized conditions across the fictional state of Leonida, a representation of Florida. The system may allow clear skies in one area while heavy rain occurs nearby, reflecting the variability typical of Florida weather.\n\nOwen Shepherd, vice president of art for lighting and rendering at Rockstar, said the weather system has been re‑engineered to be more localized and persistent, with the goal of giving the world a greater sense of scale."
+      },
+      "es": {
+        "title": "Mapa de GTA 6 será el doble de grande que GTA 5 y contará con clima localizado",
+        "description": "Rockstar informó que el mapa de Grand Theft Auto VI será el doble de grande que el de Grand Theft Auto V, convirtiéndose en el entorno más extenso ...",
+        "fullContent": "Rockstar informó que el mapa de Grand Theft Auto VI será el doble de grande que el de Grand Theft Auto V, convirtiéndose en el entorno más extenso que la compañía ha desarrollado, según una vista previa publicada en la última edición de Game Informer.\n\nLa misma publicación indica que el juego incluirá un sistema meteorológico capaz de generar condiciones localizadas en la versión ficticia de Florida, llamada Leonida. El sistema permitiría que en una zona haya cielo despejado mientras a poca distancia caiga lluvia intensa, reproduciendo la variabilidad climática típica de la región.\n\nOwen Shepherd, vicepresidente de arte para iluminación y renderizado en Rockstar, declaró que el sistema de clima ha sido rediseñado para ser más localizado y persistente, con el objetivo de aportar una mayor sensación de escala al mundo del juego."
+      }
+    },
     {
       "id": "2914ca396bef6b16e04dec2833547e34",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790685073163_547.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744479905_499.jpg",
       "link": "https://theconversation.com/what-was-the-original-first-person-shooter-two-largely-forgotten-computer-games-from-the-1970s-ushered-in-the-genre-290696",
       "en": {
-        "title": "Maze War and Spasim identified as earliest first-person shooter games from the 1970s",
-        "description": "The Curious Kids series invites questions from children of all ages; a 12‑year‑old reader from Arkansas asked what the first \"first‑person shooter\"...",
-        "fullContent": "The Curious Kids series invites questions from children of all ages; a 12‑year‑old reader from Arkansas asked what the first \"first‑person shooter\" video game was. The response references two titles from the early 1970s.\n\nMaze War, often cited as the earliest example of the genre, began development at a NASA research center in 1973. The following year, Spasim was released after being created at the University of Illinois. Both games required a first‑person perspective, in which players view the environment through the eyes of a character and use a weapon to engage opponents. Implementing this perspective required rendering a three‑dimensional space, a technical challenge for the period.\n\nAt the time, the hardware used for popular arcade games such as Pong and for the first home video‑game system, the Magnavox Odyssey, lacked the capability to produce the depth cues needed for players to move forward in a virtual environment with distant objects displayed correctly."
+        "title": "Maze War and Spasim Recognized as Early First-Person Shooters from the 1970s",
+        "description": "The Curious Kids series, which invites questions from readers of any age, received an inquiry from James, a 12‑year‑old from Batesville, Arkansas, ...",
+        "fullContent": "The Curious Kids series, which invites questions from readers of any age, received an inquiry from James, a 12‑year‑old from Batesville, Arkansas, asking which video game can be considered the first first‑person shooter (FPS). The response identifies \"Maze War,\" a project that began at a NASA research center in 1973, as the earliest known FPS. A subsequent title, \"Spasim,\" was released a year later in 1974 and was created by developers at the University of Illinois.\n\nBoth games employed a first‑person perspective, allowing players to view the environment through the eyes of a character and engage opponents with weapons. Implementing this perspective required the creation of a three‑dimensional world, a technical challenge at the time. Contemporary hardware such as the systems used for \"PONG\" and the Magnavox Odyssey lacked the processing power needed to render the depth and movement required for true 3D navigation."
       },
       "es": {
-        "title": "Maze War y Spasim son los primeros videojuegos de disparos en primera persona de la década de 1970",
-        "description": "La serie Curious Kids recibe preguntas de niños de todas las edades; un lector de 12 años de Arkansas preguntó cuál fue el primer videojuego \"first...",
-        "fullContent": "La serie Curious Kids recibe preguntas de niños de todas las edades; un lector de 12 años de Arkansas preguntó cuál fue el primer videojuego \"first‑person shooter\". La respuesta menciona dos títulos de principios de los años setenta.\n\nMaze War, frecuentemente citado como el ejemplo más antiguo del género, comenzó su desarrollo en un centro de investigación de la NASA en 1973. Un año después, Spasim se lanzó después de ser creado en la Universidad de Illinois. Ambos juegos requerían una perspectiva en primera persona, en la que los jugadores ven el entorno a través de los ojos del personaje y utilizan un arma para enfrentarse a los oponentes. Implementar esta perspectiva implicaba representar un espacio tridimensional, lo que representaba un desafío técnico para la época.\n\nEn ese momento, el hardware utilizado para juegos de arcade populares como Pong y para la primera consola doméstica, la Magnavox Odyssey, no tenía la capacidad de generar los indicadores de profundidad necesarios para que los jugadores avanzaran en un entorno virtual con objetos distantes mostrados correctamente."
+        "title": "Maze War y Spasim son reconocidos como los primeros shooters en primera persona de los años setenta",
+        "description": "El programa Curious Kids, que recibe preguntas de lectores de cualquier edad, recibió una consulta de James, un niño de 12 años de Batesville, Arka...",
+        "fullContent": "El programa Curious Kids, que recibe preguntas de lectores de cualquier edad, recibió una consulta de James, un niño de 12 años de Batesville, Arkansas, sobre cuál fue el primer videojuego de disparos en primera persona (FPS). La respuesta señala a \"Maze War\", un proyecto iniciado en 1973 en un centro de investigación de la NASA, como el FPS más antiguo conocido. Un año después, en 1974, se lanzó \"Spasim\", desarrollado por investigadores de la Universidad de Illinois.\n\nAmbos títulos utilizaban una perspectiva en primera persona, permitiendo a los jugadores ver el entorno a través de los ojos del personaje y enfrentarse a oponentes con armas. Para lograr esta visión se necesitó crear un mundo tridimensional, lo que representó un desafío técnico en esa época. Los sistemas de hardware de la época, como los utilizados para \"PONG\" y la Magnavox Odyssey, no disponían de la capacidad de procesamiento suficiente para renderizar la profundidad y el movimiento requeridos para una navegación 3D real."
       }
     },
     {
-      "id": "dd324b00f3c38c91f3cf5f255069a069",
+      "id": "91f4f31485ec34ab42797f5a2daff652",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790685075677_200.jpg",
-      "link": "https://www.wftv.com/news/local/these-retro-video-games-could-be-worth-hundreds-or-even-thousands/7VSORDNOURBE7NY5YR2I5B3DMQ/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744481668_743.jpg",
+      "link": "https://www.cbc.ca/kidsnews/post/why-the-u.s-government-made-video-games-about-political-issues",
       "en": {
-        "title": "Retro video games can fetch hundreds to thousands of dollars",
-        "description": "A study conducted by playcasino.com examined recent North American sales data for a range of video games and consoles from the Nintendo Entertainme...",
-        "fullContent": "A study conducted by playcasino.com examined recent North American sales data for a range of video games and consoles from the Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, original PlayStation and Sega Genesis periods. The analysis focused on items that include original packaging and manuals, as well as loose cartridges.\n\nThe highest‑valued item was a complete copy of EarthBound for the Super Nintendo, which was listed at approximately $2,562, while the cartridge alone was priced around $394. A boxed Pikachu edition of the Nintendo 64 console was valued at about $1,225, and a Pokémon Special Edition Game Boy Color fetched roughly $1,063.\n\nSuper Mario World, originally bundled with the Super Nintendo at its 1991 North American launch, illustrated a price disparity: a loose cartridge sold for roughly $17, whereas a complete set with box and manual was valued at about $677, nearly 39 times the cartridge‑only price."
+        "title": "U.S. government launches Arcade.gov website with political-themed games",
+        "description": "Earlier this month the White House released a new website, Arcade.gov, that hosts a collection of arcade-style video games addressing topics such a...",
+        "fullContent": "Earlier this month the White House released a new website, Arcade.gov, that hosts a collection of arcade-style video games addressing topics such as immigration. Among the titles is \"Rio Run,\" which is presented as a remake of the classic game Snake.\n\nAccording to experts, the creation of such games reflects a broader trend in which governments and game developers use interactive media to shape public perception. The experts also advise that children and teenagers be attentive to the origins of the games they play, the objectives behind them, and how they portray real-world issues."
       },
       "es": {
-        "title": "Los videojuegos retro pueden alcanzar precios de cientos a miles de dólares",
-        "description": "Un estudio realizado por playcasino.com analizó los precios de venta recientes en Norteamérica de varios videojuegos y consolas de las épocas de Ni...",
-        "fullContent": "Un estudio realizado por playcasino.com analizó los precios de venta recientes en Norteamérica de varios videojuegos y consolas de las épocas de Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, PlayStation original y Sega Genesis. El análisis incluyó tanto unidades con caja y manual originales como cartuchos sueltos.\n\nEl artículo con mayor valor fue una copia completa de EarthBound para Super Nintendo, cotizada en aproximadamente 2.562 dólares, mientras que el cartucho por sí solo alcanzó alrededor de 394 dólares. Una consola Nintendo 64 edición Pikachu en caja se valoró en unos 1.225 dólares, y la edición especial de Pokémon para Game Boy Color tuvo un precio cercano a 1.063 dólares.\n\nSuper Mario World, incluido con la Super Nintendo cuando se lanzó en Norteamérica en 1991, mostró una diferencia de precios: un cartucho suelto se vende por cerca de 17 dólares, mientras que una copia completa con caja y manual se valoró en aproximadamente 677 dólares, casi 39 veces el precio del cartucho sin empaquetar."
+        "title": "Gobierno de EE. UU. lanza sitio Arcade.gov con juegos sobre temas políticos",
+        "description": "A principios de este mes la Casa Blanca puso a disposición un nuevo sitio web, Arcade.gov, que reúne varios videojuegos de estilo arcade que aborda...",
+        "fullContent": "A principios de este mes la Casa Blanca puso a disposición un nuevo sitio web, Arcade.gov, que reúne varios videojuegos de estilo arcade que abordan asuntos como la inmigración. Uno de los juegos, llamado \"Rio Run\", se describe como una versión renovada del clásico Snake.\n\nExpertos señalan que la producción de estos juegos forma parte de una tendencia más amplia en la que gobiernos y desarrolladores utilizan los videojuegos para influir en la percepción pública. Asimismo, recomiendan que niños y adolescentes presten atención al origen de los juegos, a sus intenciones y a la manera en que representan la realidad."
       }
     },
     {
-      "id": "ae9e7b6e10c499a0e921c2c4a1c81fb9",
+      "id": "56c74d3298181be3eff349d7168ec694",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790685078153_474.jpg",
-      "link": "https://gameinformer.com/2026/09/28/the-top-10-playstation-5-games",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744483716_807.jpg",
+      "link": "https://www.history.com/articles/nintendo-sega-rivalry-1990s-consoles",
       "en": {
-        "title": "Game Informer publishes a list of ten PlayStation 5 titles",
-        "description": "Game Informer’s editorial staff has compiled a list of ten games that they consider to represent the PlayStation 5’s most notable titles. The list ...",
-        "fullContent": "Game Informer’s editorial staff has compiled a list of ten games that they consider to represent the PlayStation 5’s most notable titles. The list is presented without a ranking order; entries are arranged in reverse chronological order, and the publication notes that the list will be updated as new releases are evaluated. Previous entries that are displaced by newer titles will be listed at the bottom of the article for reference.\n\nThe article highlights Capcom’s Resident Evil franchise, noting that Resident Evil Requiem was the most recent entry at the time of publication and is described as balancing exploration and action, with alternating gameplay segments featuring characters Grace Ashcroft and Leon. It also references Sucker Punch Studios, mentioning the studio’s history of titles such as Sly Cooper, Infamous and Ghost of Tsushima, and describing Ghost of Yōtei as a follow‑up that builds on the framework of Ghost of Tsushima with improvements to visuals and narrative."
+        "title": "1990s Console Competition Between Nintendo and Sega Reshaped the Video Game Industry",
+        "description": "The source outlines a comprehensive survey of major historical chapters, ranging from Indigenous origins in America to contemporary times, and incl...",
+        "fullContent": "The source outlines a comprehensive survey of major historical chapters, ranging from Indigenous origins in America to contemporary times, and includes global histories, major wars, periods from prehistory through antiquity to the 21st century, as well as cultural elements such as faiths, food, entertainment, holidays, pivotal discoveries, inventors, and natural phenomena.\n\nIt reports that the competition between Nintendo and Sega during the 1990s altered the video‑game industry and contributed to defining a generation of gamers."
       },
       "es": {
-        "title": "Game Informer publica una lista de diez juegos de PlayStation 5",
-        "description": "El equipo editorial de Game Informer ha elaborado una lista de diez juegos que consideran representan los títulos más destacados de PlayStation 5. ...",
-        "fullContent": "El equipo editorial de Game Informer ha elaborado una lista de diez juegos que consideran representan los títulos más destacados de PlayStation 5. La lista se presenta sin orden de clasificación; los juegos aparecen en orden cronológico inverso y el artículo indica que se actualizará a medida que se evalúen nuevos lanzamientos. Los títulos que sean desplazados por nuevas incorporaciones se incluirán al final del artículo como referencia.\n\nEn la publicación se menciona la franquicia Resident Evil de Capcom, señalando que Resident Evil Requiem era la entrega más reciente al momento de la redacción y se describe como un equilibrio entre exploración y acción, con segmentos de juego alternados entre los personajes Grace Ashcroft y Leon. También se hace referencia a Sucker Punch Studios, destacando su historial de juegos como Sly Cooper, Infamous y Ghost of Tsushima, y describiendo a Ghost of Yōtei como una continuación que mejora el marco de Ghost of Tsushima con cambios en los gráficos y la narrativa."
+        "title": "La competencia de consolas de los años 90 entre Nintendo y Sega transformó la industria de los videojuegos",
+        "description": "La fuente describe una revisión amplia de los principales capítulos históricos, desde los orígenes indígenas en América hasta la actualidad, e incl...",
+        "fullContent": "La fuente describe una revisión amplia de los principales capítulos históricos, desde los orígenes indígenas en América hasta la actualidad, e incluye historias mundiales, grandes guerras, períodos que abarcan desde la prehistoria y la antigüedad hasta el siglo XXI, así como aspectos culturales como religiones, gastronomía, entretenimiento, festividades, descubrimientos clave, inventores y fenómenos naturales.\n\nSe indica que la rivalidad entre Nintendo y Sega en la década de 1990 modificó la industria de los videojuegos y ayudó a definir una generación de jugadores."
       }
     },
     {
-      "id": "0046229146a8d5135471e96df6e6adcf",
+      "id": "9fdc7c793a10f14af5358451ae0964b5",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790685081420_20.jpg",
-      "link": "https://80.lv/articles/this-old-disney-style-action-game-feels-like-cuphead-meets-hollow-knight",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790744486303_271.jpg",
+      "link": "https://www.svg.com/2271036/nintendo-switch-2-best-games/",
       "en": {
-        "title": "Bugle Duck Announces Hand-Drawn Action Game Moylo",
-        "description": "Bugle Duck has revealed Moylo, an action title whose visuals are created through hand-drawn, frame‑by‑frame animation in a rubber‑hose cartoon styl...",
-        "fullContent": "Bugle Duck has revealed Moylo, an action title whose visuals are created through hand-drawn, frame‑by‑frame animation in a rubber‑hose cartoon style reminiscent of 1930s and 1940s animation. The development team has shared that each character, enemy, and environment was illustrated and animated manually, and a \"sketchy mode\" will allow players to view the raw, uncolored line work.\n\nMoylo features melee combat, patterned enemy encounters, and boss battles that require timing and skill. The game draws inspiration from titles such as Cuphead and Hollow Knight while maintaining its own visual identity. Set in a land trapped in perpetual night, players progress by learning enemy patterns, unlocking new abilities, and confronting bosses that each present distinct mechanics and visual themes."
+        "title": "Five Nintendo Switch 2 Games Released Specifically for the Platform",
+        "description": "More than a year after the launch of the Nintendo Switch 2, the console’s library has expanded with a number of titles. According to the source, fi...",
+        "fullContent": "More than a year after the launch of the Nintendo Switch 2, the console’s library has expanded with a number of titles. According to the source, first‑party games continue to represent the majority of highlighted releases, while third‑party titles are largely ports of earlier games. The list referenced includes only games that were launched with the Switch 2 in mind; ports or upgraded versions are excluded, whereas games released alongside the original Switch during the past year are considered.\n\nAmong the five games mentioned is Donkey Kong Bananza, which was released in July 2025, shortly after the Switch 2’s debut. The title marks the first fully 3‑D platformer in the Donkey Kong series since Donkey Kong 64 and introduces mechanics that involve digging, climbing, and combat on Igot Isle, featuring the characters Donkey Kong and Pauline."
       },
       "es": {
-        "title": "Bugle Duck anuncia juego de acción dibujado a mano, Moylo",
-        "description": "Bugle Duck ha presentado Moylo, un juego de acción cuyas imágenes se generan mediante animación dibujada a mano, fotograma a fotograma, en un estil...",
-        "fullContent": "Bugle Duck ha presentado Moylo, un juego de acción cuyas imágenes se generan mediante animación dibujada a mano, fotograma a fotograma, en un estilo de dibujos animados tipo \"rubber‑hose\" inspirado en la animación de los años 30 y 40. El equipo de desarrollo ha indicado que cada personaje, enemigo y entorno se creó manualmente y que el modo \"esbozado\" permitirá a los jugadores ver los trazos originales sin color ni limpieza.\n\nMoylo incluye combates cuerpo a cuerpo, patrones de enemigos y enfrentamientos contra jefes que exigen precisión y dominio del tiempo. El proyecto menciona influencias de Cuphead y Hollow Knight, aunque mantiene una estética propia. La trama se sitúa en una tierra sumida en una noche eterna; los jugadores avanzan aprendiendo los patrones de los enemigos, desbloqueando nuevas habilidades y enfrentándose a jefes, cada uno con mecánicas y estilos visuales diferentes."
-      }
-    },
-    {
-      "id": "f25a1b814ce176ff7c0a6e49f42ada3e",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790685084072_83.jpg",
-      "link": "https://www.svg.com/2265699/best-martio-party-games-ranked/",
-      "en": {
-        "title": "Nintendo's Mario Party Series: Overview and Original Game Details",
-        "description": "The Mario Party series began in 1998 on the Nintendo 64, incorporating characters from the Mario Kart franchise into a board-game format that alter...",
-        "fullContent": "The Mario Party series began in 1998 on the Nintendo 64, incorporating characters from the Mario Kart franchise into a board-game format that alternates between movement on themed boards and rounds of mini-games. Since its debut, the series has expanded to include more than a dozen entries across virtually all Nintendo platforms, including handheld consoles. The author of the source material identifies five installments as the highest‑ranked titles in the series, noting features such as distinctive mini-games, memorable board designs, and various gameplay elements that support extended play sessions.\n\nThe first installment, released in 1998 for the Nintendo 64, introduced boards such as Mario's Rainbow Castle and Eternal Star, each with its own visual theme. It also includes a single‑player mode called Mini‑Game Island, which presents a sequence of mini‑games as a challenge. The game’s mini‑games have been described as having a level of difficulty that led to a lawsuit against Nintendo concerning gameplay mechanics. Compared with later releases, the original title presents a darker visual tone in both its boards and mini‑games, distinguishing it from subsequent entries in the series."
-      },
-      "es": {
-        "title": "Serie Mario Party de Nintendo: Resumen y Detalles del Juego Original",
-        "description": "La serie Mario Party se lanzó en 1998 para Nintendo 64, integrando personajes de la franquicia Mario Kart en un formato de juego de mesa que altern...",
-        "fullContent": "La serie Mario Party se lanzó en 1998 para Nintendo 64, integrando personajes de la franquicia Mario Kart en un formato de juego de mesa que alterna entre desplazamiento en tableros temáticos y rondas de mini‑juegos. Desde su estreno, la serie ha crecido hasta superar una docena de entregas en prácticamente todas las plataformas de Nintendo, incluidas consolas portátiles. El autor del material original menciona cinco entregas como las mejor clasificadas, resaltando características como mini‑juegos distintivos, tableros memorables y diversos elementos de jugabilidad que favorecen sesiones prolongadas.\n\nEl primer título, publicado en 1998 para Nintendo 64, introdujo tableros como el Castillo Arcoíris de Mario y la Estrella Eterna, cada uno con un tema visual propio. Además, incluye un modo individual llamado Mini‑Game Island, que propone una serie de mini‑juegos como desafío. Los mini‑juegos de esta entrega han sido descritos como de dificultad suficiente para generar una demanda legal contra Nintendo relacionada con la mecánica del juego. En comparación con entregas posteriores, el juego original muestra un tono visual más oscuro tanto en los tableros como en los mini‑juegos, lo que lo diferencia de los títulos subsecuentes de la serie."
+        "title": "Cinco juegos de Nintendo Switch 2 lanzados específicamente para la consola",
+        "description": "Más de un año después del lanzamiento de la Nintendo Switch 2, la biblioteca de la consola ha crecido con varios títulos. Según la fuente, los jueg...",
+        "fullContent": "Más de un año después del lanzamiento de la Nintendo Switch 2, la biblioteca de la consola ha crecido con varios títulos. Según la fuente, los juegos de primera parte siguen representando la mayor parte de los lanzamientos destacados, mientras que los títulos de terceros son en su mayoría puertos de juegos anteriores. La lista citada incluye únicamente los juegos que se lanzaron pensando en la Switch 2; no se consideran puertos ni versiones mejoradas, aunque sí se incluyen los juegos publicados junto a la Switch original durante el último año.\n\nEntre los cinco juegos mencionados se encuentra Donkey Kong Bananza, que se lanzó en julio de 2025, poco después del debut de la Switch 2. Este título constituye el primer platformer completamente en 3D de la serie Donkey Kong desde Donkey Kong 64 y presenta mecánicas de excavación, escalada y combate en Igot Isle, con los personajes Donkey Kong y Pauline."
       }
     }
   ]
