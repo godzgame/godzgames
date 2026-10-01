@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1790859077816,
+  "updatedAt": 1790893923972,
   "articles": [
     {
-      "id": "9d668ade18a6b57244cde3ec302c5c1f",
+      "id": "dd324b00f3c38c91f3cf5f255069a069",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790859066384_351.jpg",
-      "link": "https://www.nippon.com/en/guide-to-japan/b00152/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790893913416_466.jpg",
+      "link": "https://www.wftv.com/news/local/these-retro-video-games-could-be-worth-hundreds-or-even-thousands/7VSORDNOURBE7NY5YR2I5B3DMQ/",
+      "en": {
+        "title": "Retro video games achieve high resale values in North America",
+        "description": "A recent analysis by playcasino.com examined recent North American sales prices for a range of well‑known titles and consoles from the Nintendo Ent...",
+        "fullContent": "A recent analysis by playcasino.com examined recent North American sales prices for a range of well‑known titles and consoles from the Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, original PlayStation and Sega Genesis periods. The study found that a complete copy of EarthBound for the Super Nintendo, including the game, original box and manual, was valued at approximately $2,562, while the cartridge alone was valued at about $394.\n\nThe second‑most valuable item identified was a boxed Pikachu Nintendo 64 console, priced at roughly $1,225, followed by a Pokémon Special Edition Game Boy Color at around $1,063. The analysis also noted that Super Mario World, which was bundled with the Super Nintendo at launch in 1991, sells as a loose cartridge for about $17, but a complete copy with its original box and manual commands a price of approximately $677, roughly 39 times the cartridge‑only price."
+      },
+      "es": {
+        "title": "Los videojuegos retro alcanzan altos precios de reventa en Norteamérica",
+        "description": "Un análisis reciente de playcasino.com revisó los precios de venta en Norteamérica de varios títulos y consolas reconocidos de las épocas del Ninte...",
+        "fullContent": "Un análisis reciente de playcasino.com revisó los precios de venta en Norteamérica de varios títulos y consolas reconocidos de las épocas del Nintendo Entertainment System, Super Nintendo, Nintendo 64, Game Boy, GameCube, PlayStation original y Sega Genesis. El estudio determinó que una copia completa de EarthBound para Super Nintendo, con el juego, la caja original y el manual, se valoró en aproximadamente 2.562 dólares, mientras que el cartucho solo se estimó en unos 394 dólares.\n\nEl artículo que ocupó el segundo lugar en valor fue una consola Nintendo 64 Pikachu en caja, con un precio cercano a 1.225 dólares, seguida de la edición especial de Pokémon para Game Boy Color, valorada en alrededor de 1.063 dólares. El análisis también indicó que Super Mario World, incluido con la Super Nintendo al lanzar en 1991, se vende como cartucho suelto por unos 17 dólares, pero una copia completa con su caja y manual original alcanza un precio aproximado de 677 dólares, cerca de 39 veces el valor del cartucho sin empaque."
+      }
+    },
+    {
+      "id": "cdbe686ff5455b37e8af791e97d893a2",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790893916081_840.jpg",
+      "link": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
+      "en": {
+        "title": "Capcom says it has a plan for when Resident Evil remakes conclude",
+        "description": "Executive producer Jun Takeuchi stated that Capcom already has a plan for the moment its remake line catches up and intersects with new entries in ...",
+        "fullContent": "Executive producer Jun Takeuchi stated that Capcom already has a plan for the moment its remake line catches up and intersects with new entries in the Resident Evil series. He made the comments in a recently published Japanese anniversary magazine.\n\nDuring the last ten years, Capcom released new numbered titles such as Resident Evil 7, Village and Requiem, while also publishing remakes of earlier games including Resident Evil 2, 3, 4 and the upcoming Veronica. Reports indicate that remakes of Resident Evil 0 and the original Resident Evil are in development, which would leave Resident Evil 5 and 6 as the only mainline entries not yet remade.\n\nTakeuchi explained that the current Resident Evil series is being developed on two tracks: the numbered titles allow players to follow the ongoing storyline, while the remake series lets them experience the franchise’s past. He said the company anticipates a \"crossover\" between the two tracks once the remake schedule is completed (RE News)."
+      },
+      "es": {
+        "title": "Capcom dice que tiene un plan para cuando terminen los remakes de Resident Evil",
+        "description": "El productor ejecutivo Jun Takeuchi declaró que Capcom ya cuenta con un plan para el momento en que su línea de remakes alcance a los nuevos título...",
+        "fullContent": "El productor ejecutivo Jun Takeuchi declaró que Capcom ya cuenta con un plan para el momento en que su línea de remakes alcance a los nuevos títulos de la serie Resident Evil. Las declaraciones se realizaron en una revista japonesa de aniversario publicada recientemente.\n\nEn la última década, Capcom lanzó nuevas entregas numeradas como Resident Evil 7, Village y Requiem, al mismo tiempo que publicó remakes de los juegos anteriores, entre ellos Resident Evil 2, 3, 4 y el próximo Veronica. Se ha informado que están en desarrollo los remakes de Resident Evil 0 y del primer juego de la saga, lo que dejaría a Resident Evil 5 y 6 como los únicos títulos principales que aún no se han remasterizado.\n\nTakeuchi explicó que la serie actual de Resident Evil se desarrolla en dos líneas: los títulos numerados permiten a los jugadores seguir la historia en curso, mientras que la serie de remakes les brinda la posibilidad de experimentar el pasado. Añadió que la compañía anticipa un \"crossover\" entre ambas líneas una vez que finalice el ciclo de remakes (RE News)."
+      }
+    },
+    {
+      "id": "121139e7b8b141ecbcfe585676aab427",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790893919081_823.jpg",
+      "link": "https://www.thegamebusiness.com/p/games-media-crisis-deepens-bloober",
+      "en": {
+        "title": "Industry updates: Bloober Team explores new horror concepts, New York Games Week launches, and layoffs reported in gaming media",
+        "description": "The latest edition includes two interviews: one with Bloober Team’s Broken Mirror label, which is seeking to create games reminiscent of the \"Backr...",
+        "fullContent": "The latest edition includes two interviews: one with Bloober Team’s Broken Mirror label, which is seeking to create games reminiscent of the \"Backrooms\" phenomenon, and another with the organizers of New York Games Week, which will begin its soft launch on October 4. In addition, several video game publications announced staff reductions this week.\n\nDuring the previous week’s podcast, a rumor was mentioned that Hideo Kojima was looking for $400 million to fund his upcoming title Physint, a claim that originated from speculation at the Tokyo Game Show. The host later clarified that the figure was unverified and that Xbox’s actual investment in the project is reported to be considerably lower, potentially under $200 million, indicating continued financial support for large‑scale developments despite other cost‑cutting measures."
+      },
+      "es": {
+        "title": "Actualizaciones de la industria: Bloober Team explora nuevos conceptos de horror, New York Games Week inicia y se reportan despidos en medios de videojuegos",
+        "description": "La última edición incluye dos entrevistas: una con la etiqueta Broken Mirror de Bloober Team, que está buscando crear juegos inspirados en el fenóm...",
+        "fullContent": "La última edición incluye dos entrevistas: una con la etiqueta Broken Mirror de Bloober Team, que está buscando crear juegos inspirados en el fenómeno \"Backrooms\", y otra con los organizadores de New York Games Week, cuyo lanzamiento suave está programado para el 4 de octubre. Además, varias publicaciones de videojuegos anunciaron reducciones de personal esta semana.\n\nEn el podcast de la semana anterior se mencionó un rumor de que Hideo Kojima estaba buscando $400 millones para financiar su próximo juego Physint, información que surgió de especulaciones en el Tokyo Game Show. Posteriormente, el presentador aclaró que la cifra no estaba confirmada y que la inversión real de Xbox en el proyecto se estima considerablemente menor, posiblemente por debajo de los $200 millones, lo que muestra un apoyo financiero continuo a proyectos de gran escala a pesar de otras medidas de reducción de costos."
+      }
+    },
+    {
+      "id": "8c1b10dad6973997b80c04e658847e36",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790893922194_938.jpg",
+      "link": "https://www.nippon.com/en/guide-to-japan/b00152/the-tokyo-game-show-turns-30-tracing-the-history-of-video-game-evolution.html",
       "en": {
         "title": "Tokyo Game Show Celebrates 30 Years with Historical Overview",
-        "description": "The Tokyo Game Show (TGS) marked its 30th anniversary this year. The inaugural edition took place in August 1996 and attracted more than 100,000 vi...",
-        "fullContent": "The Tokyo Game Show (TGS) marked its 30th anniversary this year. The inaugural edition took place in August 1996 and attracted more than 100,000 visitors during its three‑day public opening. Attendance has remained above the 100,000 threshold in every year except 2020 and 2021, when the event was held online because of the COVID‑19 pandemic. In 2018 the exhibition recorded 298,690 visitors over four days, and the number of exhibitors grew from 87 at the first show to a record 1,138 in 2026.\n\nThe event is organized by the Computer Entertainment Supplier’s Association (CESA), which was founded in 1995 and includes members from across the video‑game industry. Masuda Tsutomu, managing director of CESA, has overseen TGS and previously worked in marketing at Capcom, where he promoted titles such as Resident Evil and Monster Hunter. Masuda has stated that TGS was created to develop games into a major industry with cultural value.\n\nWhen TGS launched in 1996, Japan’s home‑console market was undergoing a transition. Nintendo’s Super Famicom, known internationally as the Super NES, had dominated the market, but newer systems capable of high‑quality 3D graphics were emerging. The Nintendo 64, Sega Saturn (which used optical discs), and Sony’s original PlayStation were all competing for market share at that time."
+        "description": "The Tokyo Game Show, inaugurated in August 1996, attracted more than 100,000 visitors during its three‑day public opening. Attendance has remained ...",
+        "fullContent": "The Tokyo Game Show, inaugurated in August 1996, attracted more than 100,000 visitors during its three‑day public opening. Attendance has remained at or above that level each year, except for 2020 and 2021 when the event was held online because of the COVID‑19 pandemic. In 2018 the exhibition recorded 298,690 visitors over four days, and the number of participating exhibitors increased from 87 at the first show to a record 1,138 in 2026.\n\nMasuda Tsutomu, managing director of the Computer Entertainment Supplier’s Association (CESA), states that the show was created to promote the development of games as a culturally valuable industry. CESA, founded in 1995, includes members from across the video‑game sector. Masuta’s career includes marketing roles at Capcom, where he oversaw promotion for titles such as Resident Evil and Monster Hunter. The 1996 edition coincided with a transition in Japan’s home‑console market, as the Super Famicom era gave way to newer systems capable of 3D graphics, including the Nintendo 64, Sega Saturn, and Sony PlayStation."
       },
       "es": {
         "title": "El Tokyo Game Show celebra 30 años con un repaso histórico",
-        "description": "El Tokyo Game Show (TGS) celebró su 30.º aniversario este año. La primera edición se realizó en agosto de 1996 y recibió más de 100.000 visitantes ...",
-        "fullContent": "El Tokyo Game Show (TGS) celebró su 30.º aniversario este año. La primera edición se realizó en agosto de 1996 y recibió más de 100.000 visitantes durante los tres días que estuvo abierto al público. La asistencia se ha mantenido por encima de los 100.000 asistentes en todos los años, salvo en 2020 y 2021, cuando el evento se trasladó al formato online a causa de la pandemia de COVID‑19. En 2018 la feria registró 298.690 visitantes en cuatro días, y el número de expositores pasó de 87 en la primera edición a un récord de 1.138 en 2026.\n\nEl evento es organizado por la Computer Entertainment Supplier’s Association (CESA), fundada en 1995 y con miembros de toda la industria de los videojuegos. Masuda Tsutomu, director general de CESA, ha supervisado TGS y anteriormente trabajó en el área de marketing de Capcom, donde promocionó títulos como Resident Evil y Monster Hunter. Masuda ha señalado que el objetivo de TGS es desarrollar los videojuegos como una industria importante con valor cultural.\n\nAl iniciar TGS en 1996, el mercado de consolas domésticas en Japón estaba en una fase de transición. La Super Famicom de Nintendo, conocida fuera del país como Super NES, había dominado el sector, pero estaban surgiendo nuevas plataformas capaces de ofrecer gráficos 3D de alta calidad. La Nintendo 64, la Sega Saturn (que utilizaba discos ópticos) y la PlayStation original de Sony competían por la cuota de mercado en ese momento."
+        "description": "El Tokyo Game Show, que se realizó por primera vez en agosto de 1996, recibió más de 100.000 visitantes durante sus tres días de apertura al públic...",
+        "fullContent": "El Tokyo Game Show, que se realizó por primera vez en agosto de 1996, recibió más de 100.000 visitantes durante sus tres días de apertura al público. Desde entonces la asistencia se ha mantenido por encima de esa cifra, salvo en 2020 y 2021, cuando el evento se trasladó a formato online a causa de la pandemia de COVID‑19. En 2018 la feria contó con 298.690 visitantes en cuatro días, y el número de expositores pasó de 87 en la edición inaugural a un récord de 1.138 en 2026.\n\nMasuda Tsutomu, director general de la Computer Entertainment Supplier’s Association (CESA), indica que el objetivo del espectáculo era impulsar el desarrollo de los videojuegos como una industria con valor cultural. CESA, creada en 1995, agrupa a representantes de distintas empresas del sector. La trayectoria de Masuda incluye trabajos de marketing en Capcom, donde gestionó la promoción de títulos como Resident Evil y Monster Hunter. La primera edición coincidió con una fase de transición en el mercado de consolas domésticas de Japón, donde el dominio del Super Famicom cedía paso a sistemas de nueva generación capaces de generar gráficos en 3D, como la Nintendo 64, la Sega Saturn y la PlayStation de Sony."
       }
     },
     {
-      "id": "56c74d3298181be3eff349d7168ec694",
+      "id": "91f4f31485ec34ab42797f5a2daff652",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790859069870_14.jpg",
-      "link": "https://www.history.com/articles/nintendo-sega-rivalry-1990s-consoles",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790893923972_341.jpg",
+      "link": "https://www.cbc.ca/kidsnews/post/why-the-u.s-government-made-video-games-about-political-issues",
       "en": {
-        "title": "Nintendo and Sega's 1990s Console War Reshaped the Video Game Industry",
-        "description": "The source outlines a comprehensive historical overview that includes major chapters of the American story from Indigenous beginnings to the presen...",
-        "fullContent": "The source outlines a comprehensive historical overview that includes major chapters of the American story from Indigenous beginnings to the present day, histories of countries and communities worldwide, and the world’s major wars. It also references periods ranging from prehistory and antiquity to the 21st century, as well as the cultural elements of faiths, food, entertainment, holidays, pivotal discoveries, visionary inventors, and natural phenomena.\n\nThe source states that the competition between Nintendo and Sega during the 1990s, commonly referred to as the console wars, reshaped the video‑game industry and helped define a generation of gaming."
+        "title": "White House launches Arcade.gov with games on political topics",
+        "description": "Earlier this month the White House released a website called Arcade.gov that offers a small collection of arcade‑style video games focused on polit...",
+        "fullContent": "Earlier this month the White House released a website called Arcade.gov that offers a small collection of arcade‑style video games focused on political subjects, such as immigration.\n\nExperts have indicated that governments and developers are increasingly using video games to shape public perception and have advised children and teenagers to consider the source, intended purpose, and how the games reflect real‑world issues. One of the games, titled Rio Run, is a remake of the classic Snake arcade game."
       },
       "es": {
-        "title": "La guerra de consolas de los años 90 entre Nintendo y Sega remodeló la industria de los videojuegos",
-        "description": "La fuente describe una visión histórica amplia que abarca los principales capítulos de la historia estadounidense, desde los orígenes indígenas has...",
-        "fullContent": "La fuente describe una visión histórica amplia que abarca los principales capítulos de la historia estadounidense, desde los orígenes indígenas hasta la actualidad, la historia de países y comunidades de todo el mundo y las grandes guerras del planeta. También menciona períodos que van desde la prehistoria y la antigüedad hasta el siglo XXI, así como los elementos culturales de religiones, alimentos, entretenimiento, festividades, descubrimientos decisivos, inventores visionarios y fenómenos naturales.\n\nLa fuente indica que la competencia entre Nintendo y Sega en la década de 1990, conocida como la guerra de consolas, remodeló la industria de los videojuegos y contribuyó a definir una generación de jugadores."
-      }
-    },
-    {
-      "id": "97b3d075d5c352db967e9b30f6b8a1ff",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790859072755_586.jpg",
-      "link": "https://defector.com/resident-evil-and-addiction-review",
-      "en": {
-        "title": "Zach Cregger's New Resident Evil Film Returns to Core Game Elements",
-        "description": "In a conversation about the Resident Evil franchise, the author outlines the typical elements of the video games—mutagenic virus outbreak, initial ...",
-        "fullContent": "In a conversation about the Resident Evil franchise, the author outlines the typical elements of the video games—mutagenic virus outbreak, initial pistol, later shotgun, canine attacks, locked doors with keys, frequent drawer searches, the Umbrella corporation, a house beginning and a laboratory ending—and notes that these moments were pointed out during a screening of Zach Cregger's latest Resident Evil adaptation. The film is described as a live‑action reinterpretation that removes many of the later cinematic additions found in previous installments, focusing instead on a courier who travels to Raccoon City on the night a viral outbreak begins.\n\nReviewers have highlighted that the movie attempts to reproduce the experience of playing the games, with David Ehrlich of IndieWire commenting on the \"white‑knuckled helplessness of entering a new room\" and the tension between exploring further and stopping. The author mentions personal reactions during a screening in Brooklyn, noting moments of laughter and surprise, and references the broader critical consensus that the film captures the atmosphere associated with the original titles."
-      },
-      "es": {
-        "title": "La nueva película de Resident Evil de Zach Cregger vuelve a los elementos básicos del juego",
-        "description": "En una conversación sobre la franquicia Resident Evil, el autor describe los elementos típicos de los videojuegos—un brote de virus mutagénico, una...",
-        "fullContent": "En una conversación sobre la franquicia Resident Evil, el autor describe los elementos típicos de los videojuegos—un brote de virus mutagénico, una pistola inicial seguida de una escopeta, ataques de perros, puertas cerradas con llaves, la apertura frecuente de cajones, la compañía farmacéutica Umbrella, un inicio en una casa y un final en un laboratorio—y señala que estos momentos fueron señalados durante una proyección de la última adaptación de Zach Cregger. La película se presenta como una reinterpretación en acción real que elimina muchas de las adiciones cinematográficas de entregas anteriores, centrándose en un mensajero que llega a Raccoon City la noche del brote viral.\n\nLos críticos han señalado que la película busca reproducir la experiencia de jugar los juegos, con David Ehrlich de IndieWire comentando la \"desesperación con los nudillos blancos al entrar en una nueva habitación\" y la tensión entre explorar más o detenerse. El autor menciona sus reacciones personales durante una proyección en Brooklyn, describiendo momentos de risa y sorpresa, y hace referencia al consenso crítico general que la película captura la atmósfera asociada a los títulos originales."
-      }
-    },
-    {
-      "id": "2914ca396bef6b16e04dec2833547e34",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790859075449_181.jpg",
-      "link": "https://theconversation.com/what-was-the-original-first-person-shooter-two-largely-forgotten-computer-games-from-the-1970s-ushered-in-the-genre-290696",
-      "en": {
-        "title": "Maze War and Spasim Identified as Early First-Person Shooter Games",
-        "description": "The Curious Kids series, which invites questions from children of all ages, received a query from James, a 12‑year‑old from Batesville, Arkansas, a...",
-        "fullContent": "The Curious Kids series, which invites questions from children of all ages, received a query from James, a 12‑year‑old from Batesville, Arkansas, asking what the first \"first‑person shooter\" video game was. The question was directed to the series' editorial team via the address CuriousKidsUS@theconversation.com.\n\nAccording to the information provided, \"Maze War\" was created at a NASA research center beginning in 1973 and is generally regarded as the earliest first‑person shooter. One year later, another game with a similar perspective, \"Spasim,\" was released by developers at the University of Illinois.\n\nBoth titles required a three‑dimensional environment that allowed players to view the action through the eyes of a character and use a weapon against opponents. At the time, the hardware used for popular arcade titles such as \"PONG\" and early home consoles like the Magnavox Odyssey did not have sufficient processing power to render the depth needed for such a perspective."
-      },
-      "es": {
-        "title": "Maze War y Spasim identificados como los primeros juegos de disparos en primera persona",
-        "description": "La serie Curious Kids, que recibe preguntas de niños de todas las edades, recibió una consulta de James, un niño de 12 años de Batesville, Arkansas...",
-        "fullContent": "La serie Curious Kids, que recibe preguntas de niños de todas las edades, recibió una consulta de James, un niño de 12 años de Batesville, Arkansas, sobre cuál fue el primer juego de video de \"disparos en primera persona\". La pregunta se envió al equipo editorial a través del correo CuriousKidsUS@theconversation.com.\n\nSegún la información disponible, \"Maze War\" se desarrolló en un centro de investigación de la NASA a partir de 1973 y se considera generalmente el primer juego de este tipo. Un año después, otro título con perspectiva similar, \"Spasim\", fue creado por desarrolladores de la Universidad de Illinois.\n\nAmbos juegos requerían un entorno tridimensional que permitiera a los jugadores experimentar la acción a través de los ojos del personaje y usar un arma contra enemigos. En esa época, el hardware de los videojuegos de arcade más populares, como \"PONG\", y de las primeras consolas domésticas, como la Magnavox Odyssey, no disponía de la capacidad de procesamiento necesaria para representar la profundidad requerida por esa perspectiva."
-      }
-    },
-    {
-      "id": "9b9565405d6cccdd9903c83e2c848da4",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1790859077780_173.jpg",
-      "link": "https://mashable.com/entertainment/gta-6-updates-everything-we-learned-this-week",
-      "en": {
-        "title": "New details about GTA 6 revealed in Game Informer cover story",
-        "description": "Game Informer published a cover story on Tuesday that includes interviews with Rockstar Games executives, among them co‑studio head Aaron Garbut an...",
-        "fullContent": "Game Informer published a cover story on Tuesday that includes interviews with Rockstar Games executives, among them co‑studio head Aaron Garbut and senior vice president of narrative Rupert Humphries. The interview provides additional information on the game's setting, systems and the scope of the map, expanding on the material shown in Netflix's extended preview released in August.\n\nAccording to the article, GTA VI will feature a playable duo, Jason Duval and Lucia Caminos, who can be switched between during missions and whose relationship can be developed or strained. The game returns to a fictional version of Miami called Vice City, located within the state of Leonida. Reported gameplay elements include a slow‑motion aiming mode, a morality indicator represented by a small demon head, interactions with NPCs similar to those in Red Dead Redemption 2, racing, base jumping and an enhanced car‑jacking system.\n\nThe piece also confirms the involvement of actor Stephen Root, who voices the character Brian Heder, a veteran drug runner who assigns missions and provides a residence for Jason Duval within the game."
-      },
-      "es": {
-        "title": "Nuevos detalles de GTA 6 aparecen en la portada de Game Informer",
-        "description": "Game Informer publicó una portada el martes que incluye entrevistas con ejecutivos de Rockstar Games, entre ellos el co‑director de estudio Aaron G...",
-        "fullContent": "Game Informer publicó una portada el martes que incluye entrevistas con ejecutivos de Rockstar Games, entre ellos el co‑director de estudio Aaron Garbut y el vicepresidente senior de narrativa Rupert Humphries. La entrevista aporta información adicional sobre el escenario del juego, sus sistemas y la extensión del mapa, ampliando lo mostrado en el avance extendido de Netflix de agosto.\n\nSegún el artículo, GTA VI presentará a una dupla jugable, Jason Duval y Lucia Caminos, que podrán alternarse durante las misiones y cuya relación podrá fortalecerse o deteriorarse. El juego regresa a una versión ficticia de Miami, Vice City, situada en el estado imaginario de Leonida. Entre los elementos de juego anunciados se encuentran un modo de apuntado en cámara lenta, un indicador de moralidad representado por una pequeña cabeza de demonio, interacciones con NPCs similares a las de Red Dead Redemption 2, carreras, salto base y un sistema de robo de vehículos más detallado.\n\nLa publicación también confirma la participación del actor Stephen Root, quien presta su voz al personaje Brian Heder, un traficante veterano que asigna misiones y ofrece una residencia a Jason Duval dentro del juego."
+        "title": "La Casa Blanca lanza Arcade.gov con juegos sobre temas políticos",
+        "description": "A principios de este mes la Casa Blanca puso en línea un sitio web llamado Arcade.gov que incluye una pequeña selección de videojuegos de estilo ar...",
+        "fullContent": "A principios de este mes la Casa Blanca puso en línea un sitio web llamado Arcade.gov que incluye una pequeña selección de videojuegos de estilo arcade centrados en temas políticos, entre ellos la inmigración.\n\nExpertos han señalado que los gobiernos y los desarrolladores están utilizando cada vez más los videojuegos para moldear la percepción pública y han recomendado que niños y adolescentes tengan en cuenta el origen, la intención y la forma en que estos juegos reflejan la realidad. Uno de los juegos, llamado Rio Run, es una versión renovada del clásico juego Snake."
       }
     }
   ]
