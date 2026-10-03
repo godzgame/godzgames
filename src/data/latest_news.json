@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1791026747184,
+  "updatedAt": 1791043335280,
   "articles": [
-    {
-      "id": "c334787219d86f97bc8c4da9e14d7e6a",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791026736625_415.jpg",
-      "link": "https://variety.com/2026/gaming/news/eminem-nerds-clothing-merch-marshalls-massacre-video-game-1236897557/",
-      "en": {
-        "title": "Eminem and NERDS Clothing to launch limited-edition merchandise and original video game at New York Comic Con",
-        "description": "Eminem is set to release a limited-edition merchandise collection in collaboration with streetwear and pop‑culture brand NERDS Clothing during New ...",
-        "fullContent": "Eminem is set to release a limited-edition merchandise collection in collaboration with streetwear and pop‑culture brand NERDS Clothing during New York Comic Con, which runs from October 8 to 11 at the Javits Convention Center in New York. The partnership includes original artwork created by NERDS, featuring a 16‑bit rendition of the rapper, as well as a range of apparel and accessories that will be sold in limited quantities at NERDS booth #3253.\n\nThe collaboration also involves a series of hand‑embellished arcade cabinets produced with New York artist Danny Cortes, inspired by the 16‑bit artwork. In addition, an original game titled “Marshall’s Massacre” will be launched. The game was developed by Fan Arcade, a company that creates interactive gaming experiences for artists and brands, and can be played online at marshallsmassacre.com."
-      },
-      "es": {
-        "title": "Eminem y NERDS Clothing lanzarán colección limitada y videojuego original en la New York Comic Con",
-        "description": "Eminem presentará una colección de mercancía en edición limitada en colaboración con la marca de streetwear y cultura pop NERDS Clothing durante la...",
-        "fullContent": "Eminem presentará una colección de mercancía en edición limitada en colaboración con la marca de streetwear y cultura pop NERDS Clothing durante la New York Comic Con, que se celebrará del 8 al 11 de octubre en el Javits Convention Center de Nueva York. La colaboración incluye una obra original de NERDS, que muestra una interpretación de 16 bits del rapero, y una línea de ropa y accesorios que se venderán en cantidades limitadas en el stand de NERDS, número 3253.\n\nEl proyecto también contempla una serie de cabinas de arcade decoradas a mano por el artista neoyorquino Danny Cortes, basadas en la ilustración de 16 bits. Además, se lanzará un videojuego original llamado “Marshall’s Massacre”, desarrollado por Fan Arcade, una empresa especializada en experiencias interactivas para artistas y marcas, y disponible para jugar en marshallsmassacre.com."
-      }
-    },
-    {
-      "id": "26a5736b8612c2ea8107fe2730e41dde",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791026739575_864.jpg",
-      "link": "https://gameinformer.com/opinion/2026/10/02/the-video-games-and-more-you-should-play-this-weekend-october-2-2026",
-      "en": {
-        "title": "Weekend Game Recommendations for October 2, 2026",
-        "description": "The article introduces the weekend of October 2, 2026, noting the seasonal shift toward what the entertainment industry refers to as \"spooky season...",
-        "fullContent": "The article introduces the weekend of October 2, 2026, noting the seasonal shift toward what the entertainment industry refers to as \"spooky season\" and indicating that the following list contains games suggested for weekend play. It also mentions that the publication released its Grand Theft Auto VI cover story earlier in the week.\n\nBandai's Ace Combat 8: Wings of Theve, developed by the Aces team, is scheduled for release this weekend. According to the source, the title expands on previous entries with larger battles, more intensive dogfights, and a narrative that follows a pilot who assumes the title \"Wings of Theve\" after the previous holder is shot down. The game involves missions aimed at reclaiming territory from invading forces and includes themes related to the effects of war and aerial combat against rival squadrons.\n\nEnd of Abyss is being developed by a team that previously worked on Little Nightmares. The source describes the game's atmosphere as comparable to Little Nightmares and Playdead's Inside, while its mechanics are likened to those of Metroid, featuring a large, ambiguous alien environment for exploration and ability-based progression."
-      },
-      "es": {
-        "title": "Recomendaciones de videojuegos para el fin de semana del 2 de octubre de 2026",
-        "description": "El artículo presenta el fin de semana del 2 de octubre de 2026, señalando el paso a la temporada que la industria del entretenimiento denomina \"tem...",
-        "fullContent": "El artículo presenta el fin de semana del 2 de octubre de 2026, señalando el paso a la temporada que la industria del entretenimiento denomina \"temporada de terror\" y anunciando una lista de videojuegos sugeridos para jugar durante el fin de semana. También indica que la publicación lanzó su historia de portada de Grand Theft Auto VI a principios de la semana.\n\nAce Combat 8: Wings of Theve, de Bandai y desarrollado por el equipo Aces, está programado para su lanzamiento este fin de semana. Según la fuente, el título amplía aspectos de entregas anteriores con batallas más grandes, combates aéreos más intensos y una narrativa centrada en un piloto que asume el título \"Wings of Theve\" tras la caída del titular anterior. El juego incluye misiones para recuperar territorio de fuerzas invasoras y aborda temáticas relacionadas con los efectos de la guerra y el combate aéreo contra escuadrones rivales.\n\nEnd of Abyss está siendo desarrollado por un equipo que anteriormente trabajó en Little Nightmares. La fuente describe la atmósfera del juego como comparable a la de Little Nightmares y Inside de Playdead, mientras que sus mecánicas se asemejan a las de Metroid, presentando un entorno alienígena amplio y ambiguo para la exploración y la progresión basada en habilidades."
-      }
-    },
-    {
-      "id": "35addabfb03802ec00e7ce26c8762991",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791026742498_65.jpg",
-      "link": "https://sports.yahoo.com/nba/article/miami-heat-to-play-as-vice-city-from-grand-theft-auto-vi-for-single-game-with-new-court-and-uniforms-212134941.html",
-      "en": {
-        "title": "Miami Heat to feature Vice City-themed court and uniforms for game against Milwaukee Bucks on Nov. 18",
-        "description": "The Miami Heat announced that the upcoming home game against the Milwaukee Bucks on November 18 will be presented as \"A Night in Vice City.\" The ev...",
-        "fullContent": "The Miami Heat announced that the upcoming home game against the Milwaukee Bucks on November 18 will be presented as \"A Night in Vice City.\" The event will include a court designed to reflect Vice City, the fictional version of Miami featured in Grand Theft Auto VI, and a new set of uniforms. Merchandise associated with the collection is already available for purchase.\n\nThe announcement coincides with the worldwide release of Grand Theft Auto VI on PlayStation 5 and Xbox Series X/S. The Heat previously introduced jerseys inspired by the 1980s television series \"Miami Vice,\" which also used a neon pink color scheme. The November 18 game will be Giannis Antetokounmpo's first appearance against the Bucks since his trade to Miami, which also involved Bobby Portis and sent a package of players and draft picks, including Tyler Herro, to Milwaukee."
-      },
-      "es": {
-        "title": "Miami Heat jugará con temática de Vice City contra los Milwaukee Bucks el 18 de noviembre",
-        "description": "El Miami Heat anunció que el próximo partido en casa contra los Milwaukee Bucks, programado para el 18 de noviembre, se presentará bajo el nombre \"...",
-        "fullContent": "El Miami Heat anunció que el próximo partido en casa contra los Milwaukee Bucks, programado para el 18 de noviembre, se presentará bajo el nombre \"A Night in Vice City\". El evento contará con una cancha diseñada para evocar a Vice City, la versión ficticia de Miami que aparece en Grand Theft Auto VI, y un nuevo conjunto de uniformes. La mercancía relacionada con la colección ya está a la venta.\n\nEl anuncio se produce coincidiendo con el lanzamiento mundial de Grand Theft Auto VI para PlayStation 5 y Xbox Series X/S. El Heat había introducido previamente camisetas inspiradas en la serie de televisión de los años 80 \"Miami Vice\", que también utilizaban una paleta de colores rosa neón. El partido del 18 de noviembre será la primera vez que Giannis Antetokounmpo se enfrente a los Bucks desde su traspaso a Miami, movimiento que también incluyó a Bobby Portis y envió a Milwaukee un paquete de jugadores y selecciones de draft, entre los que se destaca Tyler Herro."
-      }
-    },
-    {
-      "id": "908e1f74265f1bb46bc99847f83fd178",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791026745020_181.jpg",
-      "link": "https://aftermath.site/gta-6-every-animal/",
-      "en": {
-        "title": "Game Informer Reports Over 170 Animal Species in Grand Theft Auto VI",
-        "description": "Game Informer’s recent preview states that Grand Theft Auto VI will include more than 170 animal species, a number that exceeds the rosters of many...",
-        "fullContent": "Game Informer’s recent preview states that Grand Theft Auto VI will include more than 170 animal species, a number that exceeds the rosters of many games focused solely on animals. IGN has also identified a substantial portion of this animal roster.\n\nThe source article includes the author’s personal observations, noting a high ranking for dogs and describing them as energetic and fun‑loving, while comparing dogs and cats as classic animal choices. It also mentions an animal that has existed for approximately 110 million years and references a creature that can learn and remember despite lacking a brain.\n\nAdditionally, the article describes a particular armored mammal, a type of armadillo that cannot roll into a ball. According to the description, this armadillo can inflate its intestines to float in water or remain submerged, holding its breath for up to six minutes while walking along the riverbed."
-      },
-      "es": {
-        "title": "Game Informer informa que Grand Theft Auto VI contará con más de 170 especies animales",
-        "description": "Según un avance reciente de Game Informer, Grand Theft Auto VI incluirá más de 170 especies animales, una cifra que supera la de muchos juegos dedi...",
-        "fullContent": "Según un avance reciente de Game Informer, Grand Theft Auto VI incluirá más de 170 especies animales, una cifra que supera la de muchos juegos dedicados exclusivamente a los animales. IGN también ha identificado una parte importante de este listado.\n\nEl artículo original contiene observaciones del autor, quien otorga una alta posición a los perros describiéndolos como enérgicos y divertidos, y los compara con los gatos como opciones clásicas. Además, menciona un animal que ha existido durante aproximadamente 110 millones de años y señala una criatura que puede aprender y recordar a pesar de no tener cerebro.\n\nEl texto también describe a un mamífero acorazado, una variante de armadillo que no puede enrollarse en una bola. Según la descripción, este armadillo puede inflar sus intestinos para flotar en el agua o permanecer sumergido, manteniendo la respiración hasta seis minutos mientras camina por el lecho del río."
-      }
-    },
     {
       "id": "6c8f9a99d97891a61dc599c2b4bea38b",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791026747176_639.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791043324380_374.jpg",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-michael-b-jordan-battlefield-1236721166/",
       "en": {
-        "title": "Sony Pictures Leads Negotiations to Acquire Michael B. Jordan’s Battlefield Film Adaptation",
-        "description": "Sony Pictures is reported to be the leading contender in negotiations to acquire the film adaptation of the Battlefield video game franchise, accor...",
-        "fullContent": "Sony Pictures is reported to be the leading contender in negotiations to acquire the film adaptation of the Battlefield video game franchise, according to The Hollywood Reporter. The project, based on the series that began in 2002 with Battlefield 1942, has attracted interest from major Hollywood studios and streaming platforms.\n\nChristopher McQuarrie, known for his work on the Mission: Impossible series, is attached to write, direct and produce the feature. Michael B. Jordan, an Oscar‑winning actor, is also set to produce and is being considered for a starring role. The most recent entry in the franchise, Battlefield 6, was released last year as the 18th installment and was described as one of the most expensive games ever made, achieving the highest sales in the series and the top position among video games of 2025, surpassing Call of Duty.\n\nA Call of Duty film is concurrently in development at Paramount, which is owned by Skydance, with Taylor Sheridan co‑writing the script and Peter Berg attached as director. The Wrap was the first outlet to report Sony Pictures as a frontrunner for the Battlefield adaptation."
+        "title": "Sony Pictures Leads Negotiations to Acquire Rights for Michael B. Jordan’s “Battlefield” Film Adaptation",
+        "description": "Sony Pictures is reported to be the leading candidate in talks to acquire the film adaptation of the video game \"Battlefield,\" according to The Hol...",
+        "fullContent": "Sony Pictures is reported to be the leading candidate in talks to acquire the film adaptation of the video game \"Battlefield,\" according to The Hollywood Reporter. The project is linked to actor Michael B. Jordan, who is attached as a producer and is being considered for a starring role. Director Christopher McQuarrie, known for his work on the \"Mission: Impossible\" series, is set to write, direct and produce the movie.\n\nThe \"Battlefield\" franchise began in 2002 with \"Battlefield 1942\" and has expanded across multiple historical periods and futuristic settings. The latest installment, \"Battlefield 6,\" was released last year, is set roughly two years in the future, and has been reported as the franchise’s highest‑selling title and the top game of 2025, surpassing \"Call of Duty.\" A separate \"Call of Duty\" film is currently in development at Paramount, with Taylor Sheridan co‑writing the script and Peter Berg attached to direct.\n\nThe Wrap was the first outlet to identify Sony Pictures as a frontrunner in acquiring the \"Battlefield\" movie rights."
       },
       "es": {
-        "title": "Sony Pictures lidera negociaciones para adquirir la adaptación cinematográfica de Battlefield con Michael B. Jordan",
-        "description": "Según confirmó The Hollywood Reporter, Sony Pictures se ha convertido en el principal candidato en las negociaciones para adquirir la película basa...",
-        "fullContent": "Según confirmó The Hollywood Reporter, Sony Pictures se ha convertido en el principal candidato en las negociaciones para adquirir la película basada en la franquicia de videojuegos Battlefield. El proyecto, inspirado en la serie que debutó en 2002 con Battlefield 1942, ha sido objeto de interés por parte de importantes estudios de Hollywood y plataformas de streaming.\n\nChristopher McQuarrie, quien ha trabajado en la saga Mission: Impossible, está vinculado para escribir, dirigir y producir la película. Michael B. Jordan, ganador de un Oscar, también participará como productor y se contempla su posible participación como actor principal. Battlefield 6, el décimo octavo título de la serie, se lanzó el año pasado y ha sido descrito como uno de los videojuegos más costosos jamás producidos, alcanzando las mayores ventas de la franquicia y la posición número uno entre los videojuegos de 2025, superando a Call of Duty.\n\nParalelamente, se está desarrollando una película de Call of Duty en Paramount, empresa de Skydance, con Taylor Sheridan coescribiendo el guion y Peter Berg como director. The Wrap fue el primer medio en informar que Sony Pictures está a la cabeza de las negociaciones para la adaptación de Battlefield."
+        "title": "Sony Pictures lidera negociaciones para adquirir los derechos de la película \"Battlefield\" de Michael B. Jordan",
+        "description": "Según informa The Hollywood Reporter, Sony Pictures se encuentra como el principal candidato en las conversaciones para adquirir la adaptación cine...",
+        "fullContent": "Según informa The Hollywood Reporter, Sony Pictures se encuentra como el principal candidato en las conversaciones para adquirir la adaptación cinematográfica del videojuego \"Battlefield\". El proyecto está vinculado al actor Michael B. Jordan, quien participará como productor y está siendo considerado para un papel protagónico. El director Christopher McQuarrie, conocido por su trabajo en la serie \"Mission: Impossible\", está asignado para escribir, dirigir y producir la película.\n\nLa franquicia \"Battlefield\" se lanzó en 2002 con \"Battlefield 1942\" y ha abarcado diversos períodos históricos y escenarios futuristas. El último título, \"Battlefield 6\", salió al mercado el año pasado, está ambientado aproximadamente dos años en el futuro y ha sido reportado como el más vendido de la serie y el juego principal de 2025, superando a \"Call of Duty\". Por su parte, una película basada en \"Call of Duty\" está en desarrollo en Paramount, con Taylor Sheridan como coautor del guion y Peter Berg como director.\n\nThe Wrap fue el primer medio en señalar a Sony Pictures como candidato principal para adquirir los derechos de la película \"Battlefield\"."
+      }
+    },
+    {
+      "id": "a94986905bf8fd74d460207b30d69875",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791043327863_351.jpg",
+      "link": "https://variety.com/2026/film/news/michael-b-jordan-battlefield-video-game-movie-sony-1236731771/",
+      "en": {
+        "title": "Sony in talks to acquire film rights for Battlefield adaptation by Christopher McQuarrie and Michael B. Jordan",
+        "description": "Sony is reportedly negotiating to secure the film adaptation of Electronic Arts' \"Battlefield\" video game franchise, with Christopher McQuarrie att...",
+        "fullContent": "Sony is reportedly negotiating to secure the film adaptation of Electronic Arts' \"Battlefield\" video game franchise, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan attached as a producer and potential lead actor, subject to further conditions. Additional producers listed for the project include EA's Jesse Stern, Carter Swan of Emerald Neon, Roy Lee and Miri Yoon of Vertigo, and Elizabeth Raposo of Outlier Society.\n\nThe \"Battlefield\" series, launched in 2002 with \"Battlefield 1942,\" has spanned historical, alternate‑history and futuristic settings. The most recent entry, \"Battlefield 6,\" released last year, is set in 2027‑2028 and depicts a conflict between a fragmented NATO and a private military company. The title was the top‑selling first‑person shooter of the year and the highest‑selling game in the franchise's history, surpassing Activision's \"Call of Duty\".\n\nIn parallel, Paramount Pictures is developing a \"Call of Duty\" film directed by Peter Berg, scripted by Taylor Sheridan, with a planned theatrical release on June 30, 2028. McQuarrie’s involvement with \"Battlefield\" follows his recent work on \"Mission: Impossible – Dead Reckoning Part One\" and precedes an announced collaboration with Arnold Schwarzenegger on a new \"Conan the Barbarian\" project."
+      },
+      "es": {
+        "title": "Sony negocia adquirir derechos cinematográficos de la adaptación de Battlefield con Christopher McQuarrie y Michael B. Jordan",
+        "description": "Sony está en conversaciones para adquirir la adaptación cinematográfica de la franquicia de videojuegos \"Battlefield\" de Electronic Arts, con Chris...",
+        "fullContent": "Sony está en conversaciones para adquirir la adaptación cinematográfica de la franquicia de videojuegos \"Battlefield\" de Electronic Arts, con Christopher McQuarrie asignado como guionista, director y productor, y Michael B. Jordan como productor y posible protagonista, según condiciones que aún se definirán. Entre los productores adicionales se encuentran Jesse Stern de EA, Carter Swan de Emerald Neon, Roy Lee y Miri Yoon de Vertigo, y Elizabeth Raposo de Outlier Society.\n\nLa serie \"Battlefield\", que comenzó en 2002 con \"Battlefield 1942\", ha abarcado escenarios históricos, de historia alternativa y futuristas. El último lanzamiento, \"Battlefield 6\", salió al mercado el año pasado, se sitúa entre 2027 y 2028 y presenta un conflicto entre una OTAN fragmentada y una compañía militar privada. Este título se convirtió en el shooter en primera persona más vendido del año y el más exitoso de la franquicia, superando a \"Call of Duty\" de Activision.\n\nParalelamente, Paramount Pictures está desarrollando una película de \"Call of Duty\" dirigida por Peter Berg, con guion de Taylor Sheridan, programada para estrenarse el 30 de junio de 2028. La participación de McQuarrie en \"Battlefield\" sigue a su trabajo reciente en \"Misión Imposible – Dead Reckoning Part One\" y precede a un proyecto anunciado con Arnold Schwarzenegger para una nueva entrega de \"Conan the Barbarian\"."
+      }
+    },
+    {
+      "id": "216cb3ed25dbbee251f9ffdd22494f7a",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791043329897_128.jpg",
+      "link": "https://www.thewrap.com/creative-content/movies/battlefield-movie-michael-b-jordan-sony-pictures/",
+      "en": {
+        "title": "Sony Pictures leads negotiations to acquire Battlefield film rights",
+        "description": "Sony Pictures is reported to be the leading contender in discussions to secure the film rights to Electronic Arts' \"Battlefield\" franchise, accordi...",
+        "fullContent": "Sony Pictures is reported to be the leading contender in discussions to secure the film rights to Electronic Arts' \"Battlefield\" franchise, according to an exclusive report by TheWrap. The studio is among several that submitted bids, including Warner Bros. Discovery, Amazon MGM Studios, Universal and Netflix, in what has been described as a significant bidding process.\n\nChristopher McQuarrie is attached to write, direct and produce the adaptation, while actor Michael B. Jordan is set to produce and may also appear in a starring role. The project’s producers include Jesse Stern of Electronic Arts, Carter Swan of Emerald Neon, Roy Lee and Miri Yoon of Vertigo, and Elizabeth Raposo of Outlier Society.\n\nThe Battlefield series began with the release of Battlefield 1942 for PC and Mac in 2002 and has since expanded across multiple platforms and historical periods, most recently with Battlefield 6, which was noted as the franchise’s best‑selling title of the previous year."
+      },
+      "es": {
+        "title": "Sony Pictures lidera negociaciones para obtener los derechos cinematográficos de Battlefield",
+        "description": "Sony Pictures se encuentra como el principal candidato en las conversaciones para adquirir los derechos cinematográficos de la franquicia \"Battlefi...",
+        "fullContent": "Sony Pictures se encuentra como el principal candidato en las conversaciones para adquirir los derechos cinematográficos de la franquicia \"Battlefield\" de Electronic Arts, según informa de forma exclusiva TheWrap. La compañía está entre varias que presentaron ofertas, entre ellas Warner Bros. Discovery, Amazon MGM Studios, Universal y Netflix, en lo que se ha descrito como un proceso de licitación destacado.\n\nChristopher McQuarrie está asignado como escritor, director y productor de la adaptación, mientras que el actor Michael B. Jordan producirá y podría desempeñar un papel protagónico. Los productores del proyecto son Jesse Stern de Electronic Arts, Carter Swan de Emerald Neon, Roy Lee y Miri Yoon de Vertigo, y Elizabeth Raposo de Outlier Society.\n\nLa serie Battlefield se inició con el lanzamiento de Battlefield 1942 para PC y Mac en 2002 y desde entonces se ha expandido a múltiples plataformas y períodos históricos, destacándose recientemente Battlefield 6, señalado como el título más vendido de la franquicia en el año anterior."
+      }
+    },
+    {
+      "id": "25651f56d1161dbd813addc6493e8039",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791043332210_741.jpg",
+      "link": "https://variety.com/2026/gaming/news/rockstar-dan-houser-gta-6-new-games-absurd-ventures-1236894786/",
+      "en": {
+        "title": "Rockstar veteran Dan Houser discusses upcoming projects at Absurd Ventures",
+        "description": "Dan Houser, co‑founder and former head writer of Rockstar Games, spoke about his next video‑game projects on Variety’s “Strictly Business” podcast....",
+        "fullContent": "Dan Houser, co‑founder and former head writer of Rockstar Games, spoke about his next video‑game projects on Variety’s “Strictly Business” podcast. He confirmed that Absurd Ventures, the media company he launched in 2023 after leaving Rockstar in 2020, is developing two untitled titles: an open‑world game that emphasizes comedy and character memory, and a dystopian science‑fiction game that explores a video‑game development effort that fails, featuring a rogue artificial intelligence that has achieved sentience.\n\nHouser noted that the two projects are part of a broader slate that includes contributions from former Rockstar staff such as Jeffrey “Lazlow” Jones, Michael Unsworth, and Absurd’s game chief Greg Borrud. Absurd Ventures is also creating three original worlds—“A Better Paradise,” “American Caper,” and the “Absurdaverse”—and is releasing graphic novels, comics, fiction podcasts, books, and animated series to complement the forthcoming games. He said the goal is to build new intellectual property and deliver a transmedia experience across these properties."
+      },
+      "es": {
+        "title": "Veterano de Rockstar Dan Houser habla de próximos proyectos en Absurd Ventures",
+        "description": "Dan Houser, cofundador y exjefe de guion de Rockstar Games, habló sobre sus próximos proyectos de videojuegos en el podcast “Strictly Business” de ...",
+        "fullContent": "Dan Houser, cofundador y exjefe de guion de Rockstar Games, habló sobre sus próximos proyectos de videojuegos en el podcast “Strictly Business” de Variety. Confirmó que Absurd Ventures, la compañía mediática que fundó en 2023 tras su salida de Rockstar en 2020, está desarrollando dos títulos sin nombre: un juego de mundo abierto que se centra en la comedia y la memoria de los personajes, y un juego de ciencia ficción distópica que aborda un desarrollo de videojuegos que sale mal, con una inteligencia artificial rebelde que ha alcanzado la sensibilidad.\n\nHouser indicó que ambos proyectos forman parte de una cartera más amplia que incluye a antiguos colaboradores de Rockstar como Jeffrey “Lazlow” Jones, Michael Unsworth y el jefe de juegos de Absurd, Greg Borrud. Absurd Ventures también está creando tres mundos originales —“A Better Paradise”, “American Caper” y el “Absurdaverse”— y está publicando novelas gráficas, cómics, podcasts de ficción, libros y series animadas para complementar los juegos previstos. Según sus palabras, el objetivo es desarrollar nuevas propiedades intelectuales y ofrecer una experiencia transmidiática en cada una de estas nuevas propiedades."
+      }
+    },
+    {
+      "id": "389e006eb98697659e1b857332eae7d4",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791043335229_308.jpg",
+      "link": "https://www.publicbooks.org/retro-gaming-its-not-nostalgia-its-resistance/",
+      "en": {
+        "title": "Boxes Containing Vintage Video Game Consoles Discovered Among Family Belongings",
+        "description": "A series of boxes arrived at the author's residence, each bearing the author's mother‑in‑law's handwriting. The boxes were described as being stack...",
+        "fullContent": "A series of boxes arrived at the author's residence, each bearing the author's mother‑in‑law's handwriting. The boxes were described as being stacked outside the door, and the author noted having been warned about the contents. Friends of the author have reported similar situations in which aging parents clear out their homes, resulting in a sudden reappearance of items that had been stored elsewhere.\n\nInside the box labeled \"Video Games\" the author found a collection that includes a Sega Genesis, a Sega Saturn, a Dreamcast, a Nintendo 64, a Nintendo DS, a PlayStation 2, several older handheld devices, and a Game Boy that still powers on, with a tinted green screen that has faded over time. The assortment also contains groups of cartridges, some still in their original cases and others bearing continuation codes or handwritten cheat notes on the reverse side of the packaging."
+      },
+      "es": {
+        "title": "Cajas con consolas de videojuegos vintage encontradas entre pertenencias familiares",
+        "description": "Varias cajas llegaron a la residencia del autor, cada una con la caligrafía de la suegra. Las cajas fueron descritas como apiladas fuera de la puer...",
+        "fullContent": "Varias cajas llegaron a la residencia del autor, cada una con la caligrafía de la suegra. Las cajas fueron descritas como apiladas fuera de la puerta y el autor indicó que había recibido una advertencia sobre su contenido. Amigos del autor han mencionado situaciones similares en las que padres mayores vacían sus hogares, provocando la aparición repentina de objetos que habían sido almacenados en otro lugar.\n\nAl abrir la caja etiquetada \"Video Games\" el autor encontró una colección que incluye una Sega Genesis, una Sega Saturn, una Dreamcast, una Nintendo 64, una Nintendo DS, una PlayStation 2, varios dispositivos portátiles antiguos y un Game Boy que sigue encendido, con una pantalla verde tenue que se ha desvanecido con el tiempo. El conjunto también contiene grupos de cartuchos, algunos aún en sus cajas originales y otros con códigos de continuación o notas de trucos escritas a lápiz en la parte posterior del embalaje."
       }
     }
   ]
