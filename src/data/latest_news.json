@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1791550586385,
+  "updatedAt": 1791584956322,
   "articles": [
     {
-      "id": "400be7e4728a76d24478bb1cf4135b16",
+      "id": "ab96b66cbdec5d8ad459420ceff206a9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550575368_977.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-07/video-game-designer-behind-sky-journey-raises-35-million",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791584945440_460.jpg",
+      "link": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
       "en": {
-        "title": "Gardens Interactive Secures $35 Million Series B Funding",
-        "description": "Gardens Interactive, the studio behind the titles Sky: Children of the Light and Journey, announced on Wednesday that it has closed a Series B fina...",
-        "fullContent": "Gardens Interactive, the studio behind the titles Sky: Children of the Light and Journey, announced on Wednesday that it has closed a Series B financing round totaling $35 million. The round included participation from Sequoia Capital, Innovation Endeavors, the venture firm founded by Eric Schmidt, and venture capitalist Moritz Baier-Lentz.\n\nAccording to the company's statement, the new capital will be directed toward expanding its development efforts in the casual, socially oriented \"friendslop\" genre of video games."
+        "title": "Paramount Pictures to Develop Live‑Action Cyberpunk 2077 Film",
+        "description": "Paramount Pictures announced that it will develop a live‑action movie set in the world of Cyberpunk 2077, the narrative‑driven role‑playing game cr...",
+        "fullContent": "Paramount Pictures announced that it will develop a live‑action movie set in the world of Cyberpunk 2077, the narrative‑driven role‑playing game created by CD Projekt Red. CD Projekt Red will act as a producer on the project together with Lorenzo di Bonaventura, whose previous producing credits include Red and Shooter, The Meg and several Transformers films.\n\nThe development comes after reports in 2023 of a production agreement between CD Projekt Red and Anonymous Content, though it has not been confirmed whether the new film is part of that arrangement. No details regarding the plot, cast or schedule have been disclosed.\n\nCyberpunk 2077 itself is based on the tabletop role‑playing game Cyberpunk 2020. The franchise already includes the Netflix animated series Cyberpunk: Edgerunners, which is scheduled to return for a second season."
       },
       "es": {
-        "title": "Gardens Interactive Obtiene $35 Millones en Financiamiento Serie B",
-        "description": "Gardens Interactive, el estudio responsable de los juegos Sky: Children of the Light y Journey, anunció este miércoles el cierre de una ronda de fi...",
-        "fullContent": "Gardens Interactive, el estudio responsable de los juegos Sky: Children of the Light y Journey, anunció este miércoles el cierre de una ronda de financiación Serie B por un total de 35 millones de dólares. Entre los inversores se encuentran Sequoia Capital, Innovation Endeavors, la firma de capital de riesgo fundada por Eric Schmidt, y el capitalista de riesgo Moritz Baier-Lentz.\n\nSegún el comunicado de la compañía, los fondos se destinarán a ampliar sus esfuerzos de desarrollo dentro del género casual y socialmente orientado de videojuegos conocido como \"friendslop\"."
+        "title": "Paramount Pictures desarrollará película de acción real basada en Cyberpunk 2077",
+        "description": "Paramount Pictures informó que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol narrativo creado ...",
+        "fullContent": "Paramount Pictures informó que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol narrativo creado por CD Projekt Red. CD Projekt Red participará como productora junto a Lorenzo di Bonaventura, cuyo historial de producción incluye Red and Shooter, The Meg y varias películas de Transformers.\n\nEste anuncio se produce después de que en 2023 se diera a conocer un acuerdo de producción entre CD Projekt Red y Anonymous Content, aunque no se ha confirmado si el nuevo proyecto está relacionado con ese acuerdo. Hasta el momento no se han revelado detalles sobre la trama, el reparto ni el calendario de producción.\n\nCyberpunk 2077 es una adaptación del juego de rol de mesa Cyberpunk 2020. La franquicia ya cuenta con la serie animada Cyberpunk: Edgerunners en Netflix, la cual está programada para una segunda temporada."
+      }
+    },
+    {
+      "id": "a56ec057d52a45f915112c8f39f5483c",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791584949068_457.jpg",
+      "link": "https://gameinformer.com/preview/2026/10/08/potentially-the-best-ladder-climbing-in-all-of-video-games",
+      "en": {
+        "title": "Phantom Blade Zero Preview Highlights Early Access Session and Motion Capture Use",
+        "description": "The author first experienced Phantom Blade Zero at Gamescom in Cologne, Germany, in August, noting that the event occurred approximately five years...",
+        "fullContent": "The author first experienced Phantom Blade Zero at Gamescom in Cologne, Germany, in August, noting that the event occurred approximately five years prior to the current writing. During that visit, notes were taken for later reference. Two months ago, S-Game Studio provided the author with an opportunity to play the game from the beginning, including the introductory tutorial and initial storyline featuring the protagonist Soul.\n\nThe developer has emphasized the use of motion capture for the game's animation. According to the source, Wesley LeBlanc visited the studio in China last year and participated in a motion‑capture demonstration. The author observed that motion capture is a common technique in modern triple‑A titles. The gameplay segment included an opening combat encounter in which it is revealed that Soul suffered a heart wound and was given a replacement by a healer identified as The Flesh Sculptor, described as a tainted heart."
+      },
+      "es": {
+        "title": "Vista previa de Phantom Blade Zero destaca sesión de acceso temprano y uso de captura de movimiento",
+        "description": "El autor jugó por primera vez a Phantom Blade Zero en Gamescom, Cologne, Alemania, en agosto, y menciona que el evento tuvo lugar aproximadamente h...",
+        "fullContent": "El autor jugó por primera vez a Phantom Blade Zero en Gamescom, Cologne, Alemania, en agosto, y menciona que el evento tuvo lugar aproximadamente hace cinco años. Durante esa visita se tomaron notas para su posterior uso. Hace dos meses, S-Game Studio ofreció al autor la posibilidad de jugar desde el inicio del juego, incluyendo el tutorial introductorio y la historia inicial con el protagonista Soul.\n\nEl estudio ha señalado que la animación del juego se basa en captura de movimiento. Según la fuente, Wesley LeBlanc visitó el estudio en China el año pasado y participó en una demostración de captura de movimiento. El autor observó que esta técnica es habitual en los títulos triple‑A actuales. En el segmento jugable se muestra un enfrentamiento inicial en el que se revela que Soul sufrió una herida en el corazón y recibió un reemplazo de un sanador llamado The Flesh Sculptor, descrito como un corazón contaminado."
       }
     },
     {
       "id": "f72338222c3f4b9fa9b72204ec2f8760",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550578638_511.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791584951836_630.jpg",
       "link": "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/",
       "en": {
-        "title": "Paramount Announces Live-Action Cyberpunk 2077 Film",
-        "description": "Paramount Pictures is developing a live‑action movie set in the Cyberpunk 2077 universe, based on the role‑playing game created by CD Projekt Red. ...",
-        "fullContent": "Paramount Pictures is developing a live‑action movie set in the Cyberpunk 2077 universe, based on the role‑playing game created by CD Projekt Red. Lorenzo di Bonaventura is attached as producer together with CD Projekt Red, the Poland‑based studio that holds the franchise rights.\n\nThe game’s setting is Night City, a fictional cyberpunk metropolis located in California. The story follows V, a mercenary who receives a cybernetic biochip containing an engram of Johnny Silverhand, a rock‑star and terrorist; the two consciousnesses interact as they confront the megacorporation Arasaka.\n\nCyberpunk 2077 has sold over 40 million copies worldwide, while its expansion Cyberpunk 2077: Phantom Liberty has sold 15 million copies. Paramount’s current slate also includes a Street Fighter adaptation co‑produced with Legendary, scheduled to open on October 16, and a Call of Duty film directed by Peter Berg, with a script co‑written by Berg and Taylor Sheridan."
+        "title": "Paramount Pictures Begins Development of Live‑Action Cyberpunk 2077 Film",
+        "description": "Paramount Pictures announced that it is developing a live‑action movie set in the universe of CD Projekt Red’s role‑playing game Cyberpunk 2077. Lo...",
+        "fullContent": "Paramount Pictures announced that it is developing a live‑action movie set in the universe of CD Projekt Red’s role‑playing game Cyberpunk 2077. Lorenzo di Bonaventura is attached as producer together with CD Projekt Red, the Poland‑based developer that holds the franchise rights.\n\nThe game’s narrative takes place in Night City, a fictional Californian metropolis, and follows the mercenary known as V, who becomes linked to a cybernetic biochip containing an engram of the character Johnny Silverhand. The storyline involves V and Silverhand confronting the megacorporation Arasaka. Cyberpunk 2077 has sold more than 40 million copies worldwide, while its expansion, Cyberpunk 2077: Phantom Liberty, has sold 15 million copies.\n\nParamount’s current slate also includes other video‑game adaptations, such as a Street Fighter film co‑produced with Legendary that is scheduled to open on 16 October, and a Call of Duty movie directed by Peter Berg, with a script co‑written by Berg and Taylor Sheridan. Comments on Deadline Hollywood are being monitored."
       },
       "es": {
-        "title": "Paramount anuncia película de acción real de Cyberpunk 2077",
-        "description": "Paramount Pictures está desarrollando una película de acción real ambientada en el universo de Cyberpunk 2077, basada en el juego de rol creado por...",
-        "fullContent": "Paramount Pictures está desarrollando una película de acción real ambientada en el universo de Cyberpunk 2077, basada en el juego de rol creado por CD Projekt Red. Lorenzo di Bonaventura está vinculado como productor junto a CD Projekt Red, el estudio polaco que posee los derechos de la franquicia.\n\nEl juego se sitúa en Night City, una metrópolis cyberpunk ficticia ubicada en California. La trama sigue a V, un mercenario que recibe un biochip cibernético que contiene el engrama de Johnny Silverhand, rockero y terrorista; ambas conciencias interactúan mientras se enfrentan a la megacorporación Arasaka.\n\nCyberpunk 2077 ha vendido más de 40 millones de copias a nivel mundial, y su expansión Cyberpunk 2077: Phantom Liberty ha alcanzado 15 millones de copias vendidas. En la programación actual de Paramount también se encuentran una adaptación de Street Fighter coproducida con Legendary, prevista para el 16 de octubre, y una película de Call of Duty dirigida por Peter Berg, con guion coescrito por Berg y Taylor Sheridan."
+        "title": "Paramount Pictures inicia desarrollo de película de acción real basada en Cyberpunk 2077",
+        "description": "Paramount Pictures informó que está desarrollando una película de acción real ambientada en el universo del juego de rol Cyberpunk 2077, creado por...",
+        "fullContent": "Paramount Pictures informó que está desarrollando una película de acción real ambientada en el universo del juego de rol Cyberpunk 2077, creado por CD Projekt Red. Lorenzo di Bonaventura se incorpora como productor junto a CD Projekt Red, el desarrollador polaco que posee los derechos de la franquicia.\n\nEl juego se sitúa en Night City, una metrópolis ficticia de California, y sigue a V, un mercenario que recibe un biochip cibernético con el engrama del personaje Johnny Silverhand. La trama lleva a V y a Silverhand a enfrentarse a la megacorporación Arasaka. Cyberpunk 2077 ha vendido más de 40 millones de copias a nivel mundial, mientras que su expansión Cyberpunk 2077: Phantom Liberty ha alcanzado 15 millones de copias vendidas.\n\nEn la programación de Paramount también figuran otras adaptaciones de videojuegos, como la película de Street Fighter, coproducida con Legendary y prevista para el 16 de octubre, y una película basada en la saga Call of Duty dirigida por Peter Berg, con guion coescrito por Berg y Taylor Sheridan. Los comentarios en Deadline Hollywood están bajo supervisión."
       }
     },
     {
-      "id": "c6a76ff39b6011b6c80971e6c28d7958",
+      "id": "a0483e009105cadbebe0403e4fd616b6",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550580926_719.jpg",
-      "link": "https://www.bbc.com/news/articles/c60e048r02lgo",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791584953800_352.jpg",
+      "link": "https://www.bbc.com/news/articles/cm5yn7d351dpo",
       "en": {
-        "title": "Paramount Pictures to develop live‑action Cyberpunk 2077 film",
-        "description": "Paramount Pictures announced that it is developing a live‑action movie adaptation of the video game Cyberpunk 2077. The studio is working together ...",
-        "fullContent": "Paramount Pictures announced that it is developing a live‑action movie adaptation of the video game Cyberpunk 2077. The studio is working together with producer Lorenzo di Bonaventura, known for the Transformers franchise, and the game’s developer CD Projekt Red.\n\nCD Projekt Red joint‑chief executive Michał Nowakowski said the company is \"excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise\". No details about the film’s storyline, release schedule, or casting have been released.\n\nThe Cyberpunk 2077 game, which launched in 2020, has sold over 40 million copies worldwide. In the game, actor Keanu Reeves portrays Johnny Silverhand, a character whose consciousness is stored on a chip inside the body of the protagonist V."
+        "title": "Fuse Games CEO expresses mixed emotions before Star Wars: Galactic Racer launch",
+        "description": "Fuse Games, an independent studio based in Guildford, Surrey, released Star Wars: Galactic Racer on Tuesday, marking the first dedicated Star Wars ...",
+        "fullContent": "Fuse Games, an independent studio based in Guildford, Surrey, released Star Wars: Galactic Racer on Tuesday, marking the first dedicated Star Wars racing game in more than two decades. Matt Webster, the company's CEO, said the debut of the title generated a combination of anticipation, excitement, apprehension and a small amount of fear.\n\nWebster explained that the team is accustomed to focusing on potential issues rather than the positive aspects of the project. He also noted that Guildford has been a significant location for video game development for close to 40 years."
       },
       "es": {
-        "title": "Paramount Pictures desarrollará película de acción real basada en Cyberpunk 2077",
-        "description": "Paramount Pictures confirmó que está trabajando en una adaptación cinematográfica de acción real del videojuego Cyberpunk 2077. La productora colab...",
-        "fullContent": "Paramount Pictures confirmó que está trabajando en una adaptación cinematográfica de acción real del videojuego Cyberpunk 2077. La productora colabora con el productor Lorenzo di Bonaventura, conocido por la saga Transformers, y con el desarrollador del juego, CD Projekt Red.\n\nMichał Nowakowski, co‑director ejecutivo de CD Projekt Red, declaró que la compañía está \"emocionada por Paramount como futuro socio que comparte nuestras ambiciones creativas para la franquicia Cyberpunk\". Hasta el momento no se han revelado detalles sobre la trama, la fecha de estreno ni el reparto.\n\nEl juego Cyberpunk 2077, lanzado en 2020, ha vendido más de 40 millones de copias a nivel mundial. En él, el actor Keanu Reeves interpreta a Johnny Silverhand, un personaje cuya conciencia está almacenada en un chip dentro del cuerpo del protagonista V."
+        "title": "CEO de Fuse Games describe emociones mixtas antes del lanzamiento de Star Wars: Galactic Racer",
+        "description": "Fuse Games, un estudio independiente con sede en Guildford, Surrey, lanzó el martes Star Wars: Galactic Racer, el primer juego de carreras dedicado...",
+        "fullContent": "Fuse Games, un estudio independiente con sede en Guildford, Surrey, lanzó el martes Star Wars: Galactic Racer, el primer juego de carreras dedicado a Star Wars en más de veinte años. Matt Webster, director ejecutivo de la compañía, manifestó que el debut del título generó una combinación de anticipación, entusiasmo, aprensión y un leve temor.\n\nWebster explicó que el equipo tiende a centrarse en los posibles problemas más que en los aspectos positivos del proyecto. Además, señaló que Guildford ha sido un lugar influyente para el desarrollo de videojuegos durante casi 40 años."
       }
     },
     {
-      "id": "ab96b66cbdec5d8ad459420ceff206a9",
+      "id": "3efc080dcc2d8a1f553dd5e8b73d2e5a",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550583213_509.jpg",
-      "link": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791584956317_225.jpg",
+      "link": "https://www.cnn.com/2026/10/09/entertainment/video/hollywood-entertainment-video-games-star-wars-galactic-racer",
       "en": {
-        "title": "Paramount to Develop Live-Action Film Based on Cyberpunk 2077",
-        "description": "Paramount Pictures announced that it will produce a live‑action film set in the universe of Cyberpunk 2077, the role‑playing game created by CD Pro...",
-        "fullContent": "Paramount Pictures announced that it will produce a live‑action film set in the universe of Cyberpunk 2077, the role‑playing game created by CD Projekt Red. CD Projekt Red will serve as a producer on the project together with Lorenzo di Bonaventura, whose production credits include titles such as Red, Shooter, The Meg and several Transformers films directed by Michael Bay.\n\nThe development of the movie follows a recent trend of video‑game properties being adapted for the screen. The report does not clarify whether this effort is linked to the production agreement with Anonymous Content that was disclosed in 2023, and no details regarding storyline or casting have been released.\n\nCyberpunk 2077 itself is an adaptation of a tabletop role‑playing game, and the setting of Night City has already been featured in the Netflix animated series Cyberpunk: Edgerunners, which is slated to return for a second season."
+        "title": "Star Wars: Galactic Racer launches on consoles and Windows",
+        "description": "The video game \"Star Wars: Galactic Racer\" is now available for play on console systems and Microsoft Windows, according to a report by Rick Damige...",
+        "fullContent": "The video game \"Star Wars: Galactic Racer\" is now available for play on console systems and Microsoft Windows, according to a report by Rick Damigella. The title places players inside pod racing cockpits, allowing them to compete in high‑speed races set within the Star Wars universe.\n\nThe game is presented as a representation of the fastest sport in the galaxy, featuring mechanics that simulate pod racing competition. The release information was provided by CNN, which also included a QR code for downloading the CNN app from the Apple Store."
       },
       "es": {
-        "title": "Paramount desarrollará película de acción real basada en Cyberpunk 2077",
-        "description": "Paramount Pictures ha comunicado que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol creado por ...",
-        "fullContent": "Paramount Pictures ha comunicado que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol creado por CD Projekt Red. CD Projekt Red participará como productor junto a Lorenzo di Bonaventura, cuyos créditos como productor incluyen títulos como Red, Shooter, The Meg y varias películas de Transformers dirigidas por Michael Bay.\n\nEl proyecto se suma a la reciente actividad de adaptaciones de videojuegos al cine. La información disponible no indica si esta iniciativa está relacionada con el acuerdo de producción con Anonymous Content anunciado en 2023, y no se han publicado detalles sobre la trama ni el elenco.\n\nCyberpunk 2077 es, a su vez, una adaptación de un juego de rol de mesa, y el escenario de Night City ya apareció en la serie animada de Netflix Cyberpunk: Edgerunners, que se prepara para una segunda temporada."
-      }
-    },
-    {
-      "id": "9d8a26861b07646c8d608c97470d5f64",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550586373_865.jpg",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video",
-      "en": {
-        "title": "Cyberleek releases new 25‑minute GTA 6 leak showing story clips, gameplay and nudity",
-        "description": "A leak attributed to the source known as Cyberleek has been posted online, presenting a nearly 25‑minute video that includes a range of footage fro...",
-        "fullContent": "A leak attributed to the source known as Cyberleek has been posted online, presenting a nearly 25‑minute video that includes a range of footage from the upcoming Grand Theft Auto VI. The video, which is publicly accessible through social media platforms, follows the previous leak released in late August and provides additional visual material beyond the official \"Extended Look\" that was broadcast on Netflix in August.\n\nThe leaked footage contains several segments that are not safe for work, featuring the male protagonist, identified as Jason, walking fully nude, as well as a brief appearance of the female protagonist, Lucia, also depicted mostly nude near the end of the video. The characters' nudity does not trigger reactions from non‑player characters, and at one point the player spawns a tank, suggesting the use of developer tools or modifications not available in the final release. In addition to the NSFW content, the video shows vehicle races in both rural and urban settings, accompanied by introductory cutscenes, and a short demonstration of vehicle customization options such as engine and transmission upgrades."
-      },
-      "es": {
-        "title": "Cyberleek publica nuevo video de 25 minutos con filtraciones de GTA 6, incluyendo clips de historia, jugabilidad y desnudos",
-        "description": "Una filtración atribuida al origen conocido como Cyberleek ha sido publicada en línea, presentando un video de casi 25 minutos que incluye diversas...",
-        "fullContent": "Una filtración atribuida al origen conocido como Cyberleek ha sido publicada en línea, presentando un video de casi 25 minutos que incluye diversas imágenes del próximo Grand Theft Auto VI. El video, accesible públicamente a través de plataformas de redes sociales, sigue a la filtración anterior de finales de agosto y aporta material visual adicional al \"Extended Look\" oficial que se emitió en Netflix en agosto.\n\nEl material filtrado contiene varios segmentos que no son seguros para el trabajo, mostrando al protagonista masculino, identificado como Jason, caminando completamente desnudo, así como una breve aparición de la protagonista femenina, Lucia, también mostrada mayormente desnuda al final del video. La desnudez de los personajes no genera reacciones de los personajes no jugables y, en un momento, el jugador genera un tanque, lo que sugiere el uso de herramientas de desarrollo o modificaciones que no estarán disponibles en la versión final. Además del contenido para adultos, el video muestra carreras de vehículos tanto en entornos rurales como urbanos, acompañadas de cinemáticas de presentación, y una breve demostración de opciones de personalización de vehículos, como mejoras de motor y transmisión."
+        "title": "Star Wars: Galactic Racer se lanza en consolas y Windows",
+        "description": "El videojuego \"Star Wars: Galactic Racer\" está disponible para consolas y la plataforma Microsoft Windows, según informó Rick Damigella. El título ...",
+        "fullContent": "El videojuego \"Star Wars: Galactic Racer\" está disponible para consolas y la plataforma Microsoft Windows, según informó Rick Damigella. El título sitúa a los jugadores dentro de cabinas de pod racing, permitiéndoles competir en carreras de alta velocidad ambientadas en el universo de Star Wars.\n\nEl juego se describe como una representación del deporte más rápido de la galaxia, con mecánicas que simulan la competencia de pod racing. La información del lanzamiento fue proporcionada por CNN, que también incluyó un código QR para descargar la aplicación de CNN desde la Apple Store."
       }
     }
   ]
