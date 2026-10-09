@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1791524105215,
+  "updatedAt": 1791550586385,
   "articles": [
     {
       "id": "400be7e4728a76d24478bb1cf4135b16",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791524095475_379.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550575368_977.jpg",
       "link": "https://www.bloomberg.com/news/articles/2026-10-07/video-game-designer-behind-sky-journey-raises-35-million",
       "en": {
         "title": "Gardens Interactive Secures $35 Million Series B Funding",
-        "description": "Gardens Interactive, the studio behind Sky: Children of the Light and Journey, announced a $35 million Series B financing round on Wednesday. The r...",
-        "fullContent": "Gardens Interactive, the studio behind Sky: Children of the Light and Journey, announced a $35 million Series B financing round on Wednesday. The round includes participation from Sequoia Capital, Innovation Endeavors—founded by Eric Schmidt—and venture investor Moritz Baier‑Lentz.\n\nThe company said the capital will be applied to the development of new titles within the casual, socially oriented “friendslop” genre of video games."
+        "description": "Gardens Interactive, the studio behind the titles Sky: Children of the Light and Journey, announced on Wednesday that it has closed a Series B fina...",
+        "fullContent": "Gardens Interactive, the studio behind the titles Sky: Children of the Light and Journey, announced on Wednesday that it has closed a Series B financing round totaling $35 million. The round included participation from Sequoia Capital, Innovation Endeavors, the venture firm founded by Eric Schmidt, and venture capitalist Moritz Baier-Lentz.\n\nAccording to the company's statement, the new capital will be directed toward expanding its development efforts in the casual, socially oriented \"friendslop\" genre of video games."
       },
       "es": {
-        "title": "Gardens Interactive recibe 35 millones de dólares en ronda Serie B",
-        "description": "El estudio Gardens Interactive, responsable de Sky: Children of the Light y Journey, informó el miércoles la obtención de 35 millones de dólares en...",
-        "fullContent": "El estudio Gardens Interactive, responsable de Sky: Children of the Light y Journey, informó el miércoles la obtención de 35 millones de dólares en una ronda de financiación Serie B. Entre los inversores se encuentran Sequoia Capital, Innovation Endeavors, fundada por Eric Schmidt, y el capitalista de riesgo Moritz Baier‑Lentz.\n\nEl estudio indicó que los fondos se destinarán al desarrollo de nuevos juegos dentro del género casual y social conocido como “friendslop”."
-      }
-    },
-    {
-      "id": "a0483e009105cadbebe0403e4fd616b6",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791524097941_160.jpg",
-      "link": "https://www.bbc.com/news/articles/cm5yn7d351dpo",
-      "en": {
-        "title": "Fuse Games launches first Star Wars racing game in over 20 years",
-        "description": "Fuse Games, an independent studio based in Guildford, released Star Wars: Galactic Racer on Tuesday, marking the first dedicated Star Wars racing t...",
-        "fullContent": "Fuse Games, an independent studio based in Guildford, released Star Wars: Galactic Racer on Tuesday, marking the first dedicated Star Wars racing title in more than two decades. CEO Matt Webster described the launch as a significant moment for the company and noted that the experience was emotionally varied.\n\nWebster said he felt a mix of anticipation, excitement, apprehension and a little bit of fear leading up to the release. He added that the team often focuses on identifying potential issues rather than highlighting the positive aspects of the project.\n\nThe studio also referenced Guildford's long-standing role in the video‑game industry, describing the city as an influential location for game development for close to 40 years."
-      },
-      "es": {
-        "title": "Fuse Games lanza primer juego de carreras de Star Wars en más de 20 años",
-        "description": "Fuse Games, un estudio independiente con sede en Guildford, lanzó el martes Star Wars: Galactic Racer, el primer juego de carreras dedicado a Star ...",
-        "fullContent": "Fuse Games, un estudio independiente con sede en Guildford, lanzó el martes Star Wars: Galactic Racer, el primer juego de carreras dedicado a Star Wars en más de dos décadas. El director general, Matt Webster, calificó el lanzamiento como un momento importante para la compañía y señaló que la experiencia fue emocionalmente diversa.\n\nWebster explicó que sentía una combinación de anticipación, entusiasmo, aprensión y un poco de miedo antes de la salida del título. Añadió que el equipo suele centrarse en detectar posibles problemas en lugar de resaltar los aspectos positivos del proyecto.\n\nEl estudio también recordó el papel de Guildford en la industria de los videojuegos, describiéndola como una ubicación influyente para el desarrollo de juegos durante cerca de 40 años."
+        "title": "Gardens Interactive Obtiene $35 Millones en Financiamiento Serie B",
+        "description": "Gardens Interactive, el estudio responsable de los juegos Sky: Children of the Light y Journey, anunció este miércoles el cierre de una ronda de fi...",
+        "fullContent": "Gardens Interactive, el estudio responsable de los juegos Sky: Children of the Light y Journey, anunció este miércoles el cierre de una ronda de financiación Serie B por un total de 35 millones de dólares. Entre los inversores se encuentran Sequoia Capital, Innovation Endeavors, la firma de capital de riesgo fundada por Eric Schmidt, y el capitalista de riesgo Moritz Baier-Lentz.\n\nSegún el comunicado de la compañía, los fondos se destinarán a ampliar sus esfuerzos de desarrollo dentro del género casual y socialmente orientado de videojuegos conocido como \"friendslop\"."
       }
     },
     {
       "id": "f72338222c3f4b9fa9b72204ec2f8760",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791524100235_474.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550578638_511.jpg",
       "link": "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/",
       "en": {
-        "title": "Paramount Developing Live-Action Cyberpunk 2077 Film",
-        "description": "Paramount Pictures announced that it is developing a live‑action movie set in the universe of CD Projekt Red’s role‑playing game Cyberpunk 2077. Lo...",
-        "fullContent": "Paramount Pictures announced that it is developing a live‑action movie set in the universe of CD Projekt Red’s role‑playing game Cyberpunk 2077. Lorenzo di Bonaventura is listed as a producer, working together with CD Projekt Red, the Polish studio that holds the franchise rights.\nThe game takes place in the fictional Night City, a cyberpunk metropolis in California, and follows the mercenary V, who becomes linked to a cybernetic biochip containing the consciousness of rock‑star rebel Johnny Silverhand. The storyline involves V and Silverhand confronting the megacorporation Arasaka. Cyberpunk 2077 has sold more than 40 million copies worldwide, and its expansion, Cyberpunk 2077: Phantom Liberty, has sold 15 million copies.\nParamount’s slate also includes other video‑game adaptations, such as a Street Fighter film co‑produced with Legendary that is scheduled to open on October 16, and a Call of Duty movie directed by Peter Berg, with a script co‑written by Berg and Taylor Sheridan."
+        "title": "Paramount Announces Live-Action Cyberpunk 2077 Film",
+        "description": "Paramount Pictures is developing a live‑action movie set in the Cyberpunk 2077 universe, based on the role‑playing game created by CD Projekt Red. ...",
+        "fullContent": "Paramount Pictures is developing a live‑action movie set in the Cyberpunk 2077 universe, based on the role‑playing game created by CD Projekt Red. Lorenzo di Bonaventura is attached as producer together with CD Projekt Red, the Poland‑based studio that holds the franchise rights.\n\nThe game’s setting is Night City, a fictional cyberpunk metropolis located in California. The story follows V, a mercenary who receives a cybernetic biochip containing an engram of Johnny Silverhand, a rock‑star and terrorist; the two consciousnesses interact as they confront the megacorporation Arasaka.\n\nCyberpunk 2077 has sold over 40 million copies worldwide, while its expansion Cyberpunk 2077: Phantom Liberty has sold 15 million copies. Paramount’s current slate also includes a Street Fighter adaptation co‑produced with Legendary, scheduled to open on October 16, and a Call of Duty film directed by Peter Berg, with a script co‑written by Berg and Taylor Sheridan."
       },
       "es": {
-        "title": "Paramount desarrolla película de acción real de Cyberpunk 2077",
-        "description": "Paramount Pictures ha confirmado que está trabajando en una película de acción real ambientada en el universo del juego de rol Cyberpunk 2077, crea...",
-        "fullContent": "Paramount Pictures ha confirmado que está trabajando en una película de acción real ambientada en el universo del juego de rol Cyberpunk 2077, creado por CD Projekt Red. Lorenzo di Bonaventura figura como productor, colaborando con CD Projekt Red, el estudio polaco titular de los derechos de la franquicia.\nEl juego se sitúa en Night City, una metrópolis cyberpunk ficticia de California, y sigue a V, un mercenario que recibe un biochip que contiene la conciencia del rockero y rebelde Johnny Silverhand. La trama lleva a V y a Silverhand a enfrentarse a la megacorporación Arasaka. Cyberpunk 2077 ha vendido más de 40 millones de copias a nivel mundial, y su expansión Cyberpunk 2077: Phantom Liberty ha alcanzado 15 millones de copias.\nEn la programación de Paramount también aparecen otras adaptaciones de videojuegos, entre ellas una película de Street Fighter co‑producida con Legendary, prevista para el 16 de octubre, y una película basada en la saga Call of Duty, dirigida por Peter Berg, con guion coescrito por Berg y Taylor Sheridan."
+        "title": "Paramount anuncia película de acción real de Cyberpunk 2077",
+        "description": "Paramount Pictures está desarrollando una película de acción real ambientada en el universo de Cyberpunk 2077, basada en el juego de rol creado por...",
+        "fullContent": "Paramount Pictures está desarrollando una película de acción real ambientada en el universo de Cyberpunk 2077, basada en el juego de rol creado por CD Projekt Red. Lorenzo di Bonaventura está vinculado como productor junto a CD Projekt Red, el estudio polaco que posee los derechos de la franquicia.\n\nEl juego se sitúa en Night City, una metrópolis cyberpunk ficticia ubicada en California. La trama sigue a V, un mercenario que recibe un biochip cibernético que contiene el engrama de Johnny Silverhand, rockero y terrorista; ambas conciencias interactúan mientras se enfrentan a la megacorporación Arasaka.\n\nCyberpunk 2077 ha vendido más de 40 millones de copias a nivel mundial, y su expansión Cyberpunk 2077: Phantom Liberty ha alcanzado 15 millones de copias vendidas. En la programación actual de Paramount también se encuentran una adaptación de Street Fighter coproducida con Legendary, prevista para el 16 de octubre, y una película de Call of Duty dirigida por Peter Berg, con guion coescrito por Berg y Taylor Sheridan."
       }
     },
     {
-      "id": "5c46b266aa3187e9269a0d4d0e830a99",
+      "id": "c6a76ff39b6011b6c80971e6c28d7958",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791524102722_855.jpg",
-      "link": "https://mashable.com/entertainment/grand-theft-auto-6-cyberleek-leaks-everything-so-far",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550580926_719.jpg",
+      "link": "https://www.bbc.com/news/articles/c60e048r02lgo",
       "en": {
-        "title": "Cyberleek leaks GTA 6 gameplay and map details; Take‑Two subpoenas Microsoft, Discord, Google and X Corp",
-        "description": "Since August, an individual or group using the name Cyberleek has released multiple gameplay clips of Grand Theft Auto VI. On August 20, Take‑Two I...",
-        "fullContent": "Since August, an individual or group using the name Cyberleek has released multiple gameplay clips of Grand Theft Auto VI. On August 20, Take‑Two Interactive, the parent company of Rockstar Games, filed subpoenas directed at Microsoft and Discord, followed shortly by subpoenas to Google and X Corp. The subpoenas referenced \"stolen content,\" indicating that at least some of the Cyberleek videos are considered authentic by the publisher.\n\nThe leaks that appeared before the August \"Extended Look\" trailer on Netflix provided the first publicly visible gameplay footage of the title. After the Netflix trailer, the leaker paused for more than a month and resumed activity in October with a 24‑minute gameplay video. To date, Cyberleek has posted more than a dozen gameplay clips and map screenshots, some of which include cutscene excerpts and minor story details that may reveal plot elements.\n\nAmong the visual material released are two cropped sections of the in‑game map: one showing a location labeled Dalton Island, and another displaying areas named Tequesta Retreat, Gloriana Key and Catalan Key. A separate clip depicts the protagonist, Jason Duval, participating in a basketball mini‑game by shooting a ball into a hoop."
+        "title": "Paramount Pictures to develop live‑action Cyberpunk 2077 film",
+        "description": "Paramount Pictures announced that it is developing a live‑action movie adaptation of the video game Cyberpunk 2077. The studio is working together ...",
+        "fullContent": "Paramount Pictures announced that it is developing a live‑action movie adaptation of the video game Cyberpunk 2077. The studio is working together with producer Lorenzo di Bonaventura, known for the Transformers franchise, and the game’s developer CD Projekt Red.\n\nCD Projekt Red joint‑chief executive Michał Nowakowski said the company is \"excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise\". No details about the film’s storyline, release schedule, or casting have been released.\n\nThe Cyberpunk 2077 game, which launched in 2020, has sold over 40 million copies worldwide. In the game, actor Keanu Reeves portrays Johnny Silverhand, a character whose consciousness is stored on a chip inside the body of the protagonist V."
       },
       "es": {
-        "title": "Filtraciones de Cyberleek revelan jugabilidad y mapas de GTA 6; Take‑Two emite citaciones a Microsoft, Discord, Google y X Corp",
-        "description": "Desde agosto, una persona o grupo bajo el nombre de Cyberleek ha compartido varios clips de jugabilidad de Grand Theft Auto VI. El 20 de agosto, Ta...",
-        "fullContent": "Desde agosto, una persona o grupo bajo el nombre de Cyberleek ha compartido varios clips de jugabilidad de Grand Theft Auto VI. El 20 de agosto, Take‑Two Interactive, empresa matriz de Rockstar Games, presentó citaciones contra Microsoft y Discord, y poco después contra Google y X Corp. Las citaciones mencionan \"contenido robado\", lo que sugiere que al menos algunos de los videos de Cyberleek son considerados auténticos por el editor.\n\nLos filtrados que se difundieron antes del tráiler \"Extended Look\" de agosto en Netflix ofrecieron la primera visión pública de la jugabilidad del título. Tras el tráiler de Netflix, el filtrador permaneció inactivo durante más de un mes y reapareció en octubre con un video de 24 minutos de duración. Hasta la fecha, Cyberleek ha publicado más de una docena de clips de juego y capturas de pantalla del mapa, algunos de los cuales incluyen fragmentos de cutscenes y detalles menores de la historia que pueden revelar elementos de la trama.\n\nEntre el material visual publicado se encuentran dos secciones recortadas del mapa del juego: una que muestra una ubicación denominada Dalton Island y otra que presenta áreas llamadas Tequesta Retreat, Gloriana Key y Catalan Key. Un clip adicional muestra al protagonista, Jason Duval, participando en un mini‑juego de baloncesto al lanzar la pelota a un aro."
+        "title": "Paramount Pictures desarrollará película de acción real basada en Cyberpunk 2077",
+        "description": "Paramount Pictures confirmó que está trabajando en una adaptación cinematográfica de acción real del videojuego Cyberpunk 2077. La productora colab...",
+        "fullContent": "Paramount Pictures confirmó que está trabajando en una adaptación cinematográfica de acción real del videojuego Cyberpunk 2077. La productora colabora con el productor Lorenzo di Bonaventura, conocido por la saga Transformers, y con el desarrollador del juego, CD Projekt Red.\n\nMichał Nowakowski, co‑director ejecutivo de CD Projekt Red, declaró que la compañía está \"emocionada por Paramount como futuro socio que comparte nuestras ambiciones creativas para la franquicia Cyberpunk\". Hasta el momento no se han revelado detalles sobre la trama, la fecha de estreno ni el reparto.\n\nEl juego Cyberpunk 2077, lanzado en 2020, ha vendido más de 40 millones de copias a nivel mundial. En él, el actor Keanu Reeves interpreta a Johnny Silverhand, un personaje cuya conciencia está almacenada en un chip dentro del cuerpo del protagonista V."
       }
     },
     {
-      "id": "64b2eb109543f05bc184fb806eb03aaa",
+      "id": "ab96b66cbdec5d8ad459420ceff206a9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791524105180_745.jpg",
-      "link": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550583213_509.jpg",
+      "link": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
       "en": {
-        "title": "New leak shows GTA VI characters can play entire game unclothed",
-        "description": "A recently surfaced gameplay video of the upcoming title Grand Theft Auto VI depicts the game’s main protagonists moving through various environmen...",
-        "fullContent": "A recently surfaced gameplay video of the upcoming title Grand Theft Auto VI depicts the game’s main protagonists moving through various environments without any clothing. The footage appears to be a continuous, extended segment of gameplay, illustrating the characters in a state of nudity throughout the sequence.\n\nThe video was shared online and has been referenced in discussions about ongoing leaks related to the title. No official comment has been issued by Rockstar Games regarding the content of the clip."
+        "title": "Paramount to Develop Live-Action Film Based on Cyberpunk 2077",
+        "description": "Paramount Pictures announced that it will produce a live‑action film set in the universe of Cyberpunk 2077, the role‑playing game created by CD Pro...",
+        "fullContent": "Paramount Pictures announced that it will produce a live‑action film set in the universe of Cyberpunk 2077, the role‑playing game created by CD Projekt Red. CD Projekt Red will serve as a producer on the project together with Lorenzo di Bonaventura, whose production credits include titles such as Red, Shooter, The Meg and several Transformers films directed by Michael Bay.\n\nThe development of the movie follows a recent trend of video‑game properties being adapted for the screen. The report does not clarify whether this effort is linked to the production agreement with Anonymous Content that was disclosed in 2023, and no details regarding storyline or casting have been released.\n\nCyberpunk 2077 itself is an adaptation of a tabletop role‑playing game, and the setting of Night City has already been featured in the Netflix animated series Cyberpunk: Edgerunners, which is slated to return for a second season."
       },
       "es": {
-        "title": "Nueva filtración muestra a personajes de GTA VI sin ropa durante todo el juego",
-        "description": "Un video de jugabilidad recientemente difundido del próximo título Grand Theft Auto VI muestra a los protagonistas principales del juego desplazánd...",
-        "fullContent": "Un video de jugabilidad recientemente difundido del próximo título Grand Theft Auto VI muestra a los protagonistas principales del juego desplazándose por diferentes entornos sin ropa. La grabación parece ser un segmento continuo y extenso de juego, en el que los personajes aparecen desnudos a lo largo de la secuencia.\n\nEl video se compartió en línea y ha sido mencionado en conversaciones sobre las filtraciones que continúan circulando sobre el título. Hasta el momento, Rockstar Games no ha emitido ningún comentario oficial respecto al contenido del clip."
+        "title": "Paramount desarrollará película de acción real basada en Cyberpunk 2077",
+        "description": "Paramount Pictures ha comunicado que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol creado por ...",
+        "fullContent": "Paramount Pictures ha comunicado que producirá una película de acción real ambientada en el universo de Cyberpunk 2077, el juego de rol creado por CD Projekt Red. CD Projekt Red participará como productor junto a Lorenzo di Bonaventura, cuyos créditos como productor incluyen títulos como Red, Shooter, The Meg y varias películas de Transformers dirigidas por Michael Bay.\n\nEl proyecto se suma a la reciente actividad de adaptaciones de videojuegos al cine. La información disponible no indica si esta iniciativa está relacionada con el acuerdo de producción con Anonymous Content anunciado en 2023, y no se han publicado detalles sobre la trama ni el elenco.\n\nCyberpunk 2077 es, a su vez, una adaptación de un juego de rol de mesa, y el escenario de Night City ya apareció en la serie animada de Netflix Cyberpunk: Edgerunners, que se prepara para una segunda temporada."
+      }
+    },
+    {
+      "id": "9d8a26861b07646c8d608c97470d5f64",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1791550586373_865.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video",
+      "en": {
+        "title": "Cyberleek releases new 25‑minute GTA 6 leak showing story clips, gameplay and nudity",
+        "description": "A leak attributed to the source known as Cyberleek has been posted online, presenting a nearly 25‑minute video that includes a range of footage fro...",
+        "fullContent": "A leak attributed to the source known as Cyberleek has been posted online, presenting a nearly 25‑minute video that includes a range of footage from the upcoming Grand Theft Auto VI. The video, which is publicly accessible through social media platforms, follows the previous leak released in late August and provides additional visual material beyond the official \"Extended Look\" that was broadcast on Netflix in August.\n\nThe leaked footage contains several segments that are not safe for work, featuring the male protagonist, identified as Jason, walking fully nude, as well as a brief appearance of the female protagonist, Lucia, also depicted mostly nude near the end of the video. The characters' nudity does not trigger reactions from non‑player characters, and at one point the player spawns a tank, suggesting the use of developer tools or modifications not available in the final release. In addition to the NSFW content, the video shows vehicle races in both rural and urban settings, accompanied by introductory cutscenes, and a short demonstration of vehicle customization options such as engine and transmission upgrades."
+      },
+      "es": {
+        "title": "Cyberleek publica nuevo video de 25 minutos con filtraciones de GTA 6, incluyendo clips de historia, jugabilidad y desnudos",
+        "description": "Una filtración atribuida al origen conocido como Cyberleek ha sido publicada en línea, presentando un video de casi 25 minutos que incluye diversas...",
+        "fullContent": "Una filtración atribuida al origen conocido como Cyberleek ha sido publicada en línea, presentando un video de casi 25 minutos que incluye diversas imágenes del próximo Grand Theft Auto VI. El video, accesible públicamente a través de plataformas de redes sociales, sigue a la filtración anterior de finales de agosto y aporta material visual adicional al \"Extended Look\" oficial que se emitió en Netflix en agosto.\n\nEl material filtrado contiene varios segmentos que no son seguros para el trabajo, mostrando al protagonista masculino, identificado como Jason, caminando completamente desnudo, así como una breve aparición de la protagonista femenina, Lucia, también mostrada mayormente desnuda al final del video. La desnudez de los personajes no genera reacciones de los personajes no jugables y, en un momento, el jugador genera un tanque, lo que sugiere el uso de herramientas de desarrollo o modificaciones que no estarán disponibles en la versión final. Además del contenido para adultos, el video muestra carreras de vehículos tanto en entornos rurales como urbanos, acompañadas de cinemáticas de presentación, y una breve demostración de opciones de personalización de vehículos, como mejoras de motor y transmisión."
       }
     }
   ]
