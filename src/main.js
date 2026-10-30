@@ -1135,8 +1135,7 @@ document.addEventListener('DOMContentLoaded', async () => {
           loadBtn.style.display = 'inline-block';
           archivedNewsLoaded = false;
         }
-
-
+      });
 
       return;
     }
