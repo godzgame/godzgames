@@ -1,0 +1,184 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-10-27T00:11:43Z",
+  "description": "Historical archive of all GodZGames news articles",
+  "articles": [
+    {
+      "id": "manuel_otto_twitch_2026",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/manuel_otto.jpg",
+      "link": "https://www.eurogamer.net/manuel-otto-dies",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "es": {
+        "title": "Desarrollador alemán de videojuegos Manuel Otto muere durante transmisión en Twitch",
+        "description": "El diseñador y creador de contenido alemán Manuel Otto, de 30 años, falleció mientras transmitía en directo en Twitch, dejando una profunda huella en la comunidad de videojuegos independientes alemana.",
+        "fullContent": "El diseñador y creador de contenido alemán Manuel Otto, de 30 años, falleció mientras transmitía en directo en Twitch. Manuel era conocido por su trabajo en el desarrollo de videojuegos independientes y por su activa comunidad en redes sociales.\n\nLa noticia causó una gran conmoción en la comunidad de videojuegos alemana y mundial. Amigos, seguidores y colegas de la industria expresaron sus condolencias a través de las redes sociales.\n\nManuel Otto fue una figura querida dentro de la escena indie alemana, conocido por su pasión por los videojuegos y su dedicación a compartir su proceso creativo con su audiencia."
+      },
+      "en": {
+        "title": "German video game developer Manuel Otto dies during Twitch stream",
+        "description": "German game designer and content creator Manuel Otto, 30, passed away while live streaming on Twitch, leaving a profound impact on the German indie gaming community.",
+        "fullContent": "German game designer and content creator Manuel Otto, 30, passed away while live streaming on Twitch. Manuel was known for his work in independent game development and his active social media community.\n\nThe news shocked the German and worldwide gaming community. Friends, followers and colleagues from the industry expressed their condolences on social media.\n\nManuel Otto was a beloved figure in the German indie scene, known for his passion for video games and his dedication to sharing his creative process with his audience."
+      }
+    },
+    {
+      "id": "639d5c99d20f9515a83152837792e32a",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276360008_288.jpg",
+      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "en": {
+        "title": "Congressman Ritchie Torres Introduces 'Power To The Players' Bill to Secure Gamer Ownership Rights",
+        "description": "Congressman Ritchie Torres (NY-15) and Congresswoman Grace Meng (NY-6) issued a joint letter, supported by a group of New York representatives, add...",
+        "fullContent": "Congressman Ritchie Torres (NY-15) and Congresswoman Grace Meng (NY-6) issued a joint letter, supported by a group of New York representatives, addressed to Senate Majority Leader John Thune, Senate Minority Leader Chuck Schumer, Agriculture Committee Chairman John Boozman, and Ranking Member Amy Klobuchar. The letter outlines the proposed legislation known as the Power To The Players Act, which seeks to ensure that consumers retain ownership of the video games they purchase.\n\nIn a separate communication, Congressman Torres and Senator Kirsten Gillibrand sent a follow‑up letter, joined by several New York representatives, to U.S. Department of Health and Human Services Secretary Robert F. Kennedy Jr. The letter requests the restoration of terminated Teen Pregnancy Prevention Program grants in New York State and the release of FY2026 funding for the program.\n\nAdditionally, Congressman Torres addressed Federal Reserve Vice Chair for Supervision Michelle W. Bowman, FDIC Chairman Travis Hill, and Comptroller of the Currency Jonathan V. Gould, asking that federal banking regulators lower the risk weight applied to Low‑Income Housing Tax Credit equity investments and related loans from 100 percent to 20 percent."
+      },
+      "es": {
+        "title": "El congresista Ritchie Torres presenta la iniciativa 'Power To The Players' para garantizar la propiedad de los videojuegos por parte de los jugadores",
+        "description": "El congresista Ritchie Torres (NY-15) y la congresista Grace Meng (NY-6) enviaron una carta conjunta, respaldada por un grupo de representantes de ...",
+        "fullContent": "El congresista Ritchie Torres (NY-15) y la congresista Grace Meng (NY-6) enviaron una carta conjunta, respaldada por un grupo de representantes de Nueva York, dirigida al líder mayoritario del Senado John Thune, al líder minoritario Chuck Schumer, al presidente del Comité de Agricultura John Boozman y a la miembro ranking Amy Klobuchar. La carta describe la propuesta legislativa denominada Power To The Players Act, cuyo objetivo es asegurar que los consumidores mantengan la propiedad de los videojuegos que adquieren.\n\nEn una comunicación separada, el congresista Torres y la senadora Kirsten Gillibrand enviaron una carta de seguimiento, acompañada por varios representantes de Nueva York, al secretario del Departamento de Salud y Servicios Humanos (HHS) Robert F. Kennedy Jr. La carta solicita la restauración de los fondos terminados del Programa de Prevención del Embarazo Adolescente en el estado de Nueva York y la liberación de la financiación del año fiscal 2026 para dicho programa.\n\nAsimismo, el congresista Torres se dirigió a la Vicepresidenta de Supervisión de la Reserva Federal, Michelle W. Bowman, al presidente de la FDIC, Travis Hill, y al Contralor de la Moneda, Jonathan V. Gould, pidiendo que los reguladores bancarios federales reduzcan el peso de riesgo asignado a las inversiones de capital del Crédito Fiscal para Viviendas de Bajos Ingresos y a los préstamos asociados, pasando del 100 % al 20 %."
+      }
+    },
+    {
+      "id": "432caaaef7de6cbd3087c0572e948081",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276365828_693.jpg",
+      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "en": {
+        "title": "U.S. Representative Ritchie Torres Introduces Bill to Define Video Game Purchases as Ownership",
+        "description": "Representative Ritchie Torres (D-NY) has introduced legislation known as the Power to Players Act, which seeks to establish regulations that would ...",
+        "fullContent": "Representative Ritchie Torres (D-NY) has introduced legislation known as the Power to Players Act, which seeks to establish regulations that would treat the purchase of a video game as ownership rather than a license. The bill proposes that consumers retain the right to access games for an extended period after their release and includes provisions for the Federal Trade Commission to address related issues.\n\nThe legislation cites the case of NBA 2K25, released on September 6, 2025, which is scheduled to become unplayable on December 31, 2025, due to planned server shutdowns. The bill directs the FTC to take action to prevent similar outcomes in the future.\n\nIn an interview with Kotaku, Torres stated, \"I think there should be a simple rule: if you pay for it, you own it,\" and referenced a return to the ownership model common in the 1990s. The proposal arrives amid ongoing discussions about video game preservation and consumer rights, including reactions to Sony's announcement regarding the discontinuation of physical media releases for PlayStation games."
+      },
+      "es": {
+        "title": "Representante EE.UU. Ritchie Torres presenta proyecto de ley para definir la compra de videojuegos como propiedad",
+        "description": "El representante Ritchie Torres (D-NY) ha presentado una iniciativa legislativa denominada Power to Players Act, que tiene como objetivo establecer...",
+        "fullContent": "El representante Ritchie Torres (D-NY) ha presentado una iniciativa legislativa denominada Power to Players Act, que tiene como objetivo establecer normas que consideren la compra de un videojuego como una forma de propiedad y no como una licencia. El proyecto propone que los consumidores mantengan el derecho de acceder a los juegos durante un período prolongado después de su lanzamiento y contempla que la Comisión Federal de Comercio (FTC) intervenga en asuntos relacionados.\n\nLa legislación menciona el caso de NBA 2K25, lanzado el 6 de septiembre de 2025, y programado para volverse injugable el 31 de diciembre de 2025 debido al cierre de sus servidores. El proyecto dirige a la FTC a tomar medidas para evitar situaciones similares en el futuro.\n\nEn una entrevista con Kotaku, Torres declaró: \"Creo que debería haber una regla simple: si lo pagas, lo posees\", y aludió a un retorno al modelo de propiedad que predominaba en la década de 1990. La iniciativa se produce en medio de debates sobre la preservación de videojuegos y los derechos del consumidor, incluyendo la reacción de algunos usuarios a la decisión de Sony de discontinuar los lanzamientos en formato físico para juegos de PlayStation."
+      }
+    },
+    {
+      "id": "f18369c256049fe11c9ba8049fceed2d",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276373095_27.jpg",
+      "link": "https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/",
+      "en": {
+        "title": "New Live-Action 'Street Fighter' Film Announces Cast and Production Details",
+        "description": "Paramount Pictures and Legendary Entertainment are releasing a live-action adaptation of the long‑running fighting‑game franchise, set in the 1990s...",
+        "fullContent": "Paramount Pictures and Legendary Entertainment are releasing a live-action adaptation of the long‑running fighting‑game franchise, set in the 1990s and centered on an international tournament. The film features the series’ recurring protagonists Ken Masters, portrayed by Noah Centineo, and Ryu, portrayed by Andrew Koji, alongside characters such as Chun‑Li (Callina Liang), M. Bison (David Dastmalchian), Cammy (Mel Jarnson) and Vega (Orville Peck). The roster also includes professional martial‑arts athletes and professional wrestling personalities, with Roman Reigns cast as Akuma, Cody Rhodes as Guile, and Oliver Richters as Zangief.\n\nThe project is directed by Kitao Sakurai, known for his work on series such as \"Beef,\" \"Dave\" and \"The Eric Andre Show.\" Earlier development stages listed Danny and Michael Philippou as attached directors. This release is the third cinematic entry in the franchise, following the 1994 self‑titled \"Street Fighter\" film and the 2009 \"Street Fighter: The Legend of Chun‑Li,\" each of which featured distinct casts.\n\nIn the new storyline, Ken is described as a former celebrity fighter attempting to restore his competitive standing after Ryu achieves the title of world champion. The film’s casting and production details have been released through official channels."
+      },
+      "es": {
+        "title": "Nueva película de acción real de 'Street Fighter' presenta elenco y datos de producción",
+        "description": "Paramount Pictures y Legendary Entertainment están estrenando una adaptación en acción real de la franquicia de videojuegos de lucha, ambientada en...",
+        "fullContent": "Paramount Pictures y Legendary Entertainment están estrenando una adaptación en acción real de la franquicia de videojuegos de lucha, ambientada en la década de 1990 y centrada en un torneo internacional. La película incluye a los protagonistas recurrentes Ken Masters, interpretado por Noah Centineo, y Ryu, interpretado por Andrew Koji, junto a personajes como Chun‑Li (Callina Liang), M. Bison (David Dastmalchian), Cammy (Mel Jarnson) y Vega (Orville Peck). El elenco también cuenta con atletas profesionales de artes marciales y personalidades de la lucha libre, con Roman Reigns como Akuma, Cody Rhodes como Guile y Oliver Richters como Zangief.\n\nEl proyecto está dirigido por Kitao Sakurai, conocido por su trabajo en series como \"Beef\", \"Dave\" y \"The Eric Andre Show\". En etapas anteriores del desarrollo, Danny y Michael Philippou estaban vinculados como directores. Esta entrega constituye la tercera película cinematográfica de la franquicia, después de la película autoconocida de 1994 \"Street Fighter\" y la de 2009 \"Street Fighter: The Legend of Chun‑Li\", ambas con elencos diferentes.\n\nEn la nueva trama, Ken se describe como un ex‑estrella de la lucha que busca recuperar su posición competitiva tras el ascenso de Ryu al título de campeón mundial. Los detalles del reparto y la producción han sido publicados por los canales oficiales."
+      }
+    },
+    {
+      "id": "f6ac7f131800b217c2949ae439cd8443",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276377343_843.jpg",
+      "link": "https://mashable.com/entertainment/drunken-goddess-reflux-steam-ai-demo-canceled",
+      "en": {
+        "title": "Indie developer cancels public demo of \"Drunken Goddess Reflux\" over AI cloning concerns",
+        "description": "The creators of the upcoming indie title Drunken Goddess Reflux have announced the cancellation of a planned public demo session. The game, which c...",
+        "fullContent": "The creators of the upcoming indie title Drunken Goddess Reflux have announced the cancellation of a planned public demo session. The game, which centers on a player attempting to consume alcohol until a demon expels its soul, was set to be showcased to a broader audience, but the developers cited concerns that artificial‑intelligence tools could be used to replicate the game's presentation and mechanics before its official release.\n\nIn a post on X, Alliance Arts explained that the decision also reflects difficulties in enforcing a rule against livestreaming the demo. Instead, the studio will conduct closed demo sessions with a limited number of participants. Earlier reports from Kotaku noted instances of indie games being cloned with AI, and recent activity on Steam shows an increase in titles that incorporate AI in their development pipeline.\n"
+      },
+      "es": {
+        "title": "Desarrollador indie cancela demo pública de \"Drunken Goddess Reflux\" por temores de clonación con IA",
+        "description": "Los creadores del próximo título indie Drunken Goddess Reflux han anunciado la cancelación de una sesión de demostración pública que estaba previst...",
+        "fullContent": "Los creadores del próximo título indie Drunken Goddess Reflux han anunciado la cancelación de una sesión de demostración pública que estaba prevista. El juego, cuyo objetivo es que el jugador beba alcohol hasta que un demonio expulse su alma, iba a ser presentado a un público más amplio, pero los desarrolladores señalaron que herramientas de inteligencia artificial podrían utilizarse para replicar la presentación y la jugabilidad antes de su lanzamiento oficial.\n\nEn un mensaje publicado en X, Alliance Arts indicó que la medida también responde a la dificultad de aplicar una norma que prohíba la transmisión en vivo de la demo. En su lugar, la empresa realizará sesiones cerradas con un número limitado de participantes. Informes anteriores de Kotaku describieron casos de juegos indie clonados mediante IA, y recientemente se ha observado un aumento de títulos en Steam que emplean IA durante su proceso de desarrollo.\n"
+      }
+    },
+    {
+      "id": "3929b9aa3aa824fa3f2e90d5e654cd58",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276381010_918.jpg",
+      "link": "https://editorial.rottentomatoes.com/article/how-street-fighter-1994-created-one-of-the-strangest-cult-fighting-game-characters/",
+      "en": {
+        "title": "Captain Sawada's Appearance in the 1994 Street Fighter Film Gains Recognition",
+        "description": "The 1994 live‑action adaptation of Capcom's Street Fighter series, directed by Steven E. de Souza, incorporated most of the characters from Street ...",
+        "fullContent": "The 1994 live‑action adaptation of Capcom's Street Fighter series, directed by Steven E. de Souza, incorporated most of the characters from Street Fighter II, including a roster of fifteen fighters. Among the cast, Japanese actor Kenya Sawada portrayed Captain Sawada, a character created specifically for the film. The role appears in a limited number of scenes, primarily serving as a conduit for exposition delivered by Colonel William F. Guile.\n\nCaptain Sawada is the sole original character introduced in the movie, separate from the established Street Fighter roster. According to reports, Capcom expressed interest in casting Sawada for the role of Ryu, referencing his previous experience playing a comparable character in a Japanese series."
+      },
+      "es": {
+        "title": "La aparición de Captain Sawada en la película de Street Fighter de 1994 recibe atención",
+        "description": "La adaptación cinematográfica de 1994 de la serie Street Fighter de Capcom, dirigida por Steven E. de Souza, incluyó a la mayoría de los personajes...",
+        "fullContent": "La adaptación cinematográfica de 1994 de la serie Street Fighter de Capcom, dirigida por Steven E. de Souza, incluyó a la mayoría de los personajes de Street Fighter II, sumando quince luchadores al elenco. En el reparto, el actor japonés Kenya Sawada interpretó a Captain Sawada, un personaje creado exclusivamente para la película. El papel aparece en unas cuantas escenas, principalmente como medio para que el coronel William F. Guile proporcione información esencial.\n\nCaptain Sawada es el único personaje original introducido en la cinta, distinto del elenco ya conocido de Street Fighter. Según la información disponible, Capcom mostró interés en asignar a Sawada el papel de Ryu, basándose en su experiencia previa al interpretar a un personaje similar en una serie japonesa."
+      }
+    },
+    {
+      "id": "ae6f2ad03b3a8eb5a6541f93c5dbbbc7",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793053850130_829.jpg",
+      "link": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
+      "en": {
+        "title": "Lara Croft Turns 30, Milestones and Marketing Campaigns Highlighted",
+        "description": "The character Lara Croft reaches the 30‑year mark since her debut, with over 100 million Tomb Raider games sold to date. The franchise has included...",
+        "fullContent": "The character Lara Croft reaches the 30‑year mark since her debut, with over 100 million Tomb Raider games sold to date. The franchise has included multiple titles, film adaptations, reboots and reissues, and a promotional event involving a virtual house cleaning activity.\n\nLara Croft's likeness has appeared on various consumer products, including cereal, soft drinks and a Spanish hatchback. In 1999 a German women’s magazine featured a promotional image in which the character is shown with a wedding dress made of meringue. A Dreamcast advertisement presented the console using language associated with anti‑ageing moisturiser.\n\nThe original game was developed by a small team in Derby in 1996. After the publisher Eidos identified commercial potential, a schedule was established that resulted in a new Tomb Raider title being released each year."
+      },
+      "es": {
+        "title": "Lara Croft cumple 30 años, se destacan hitos y campañas publicitarias",
+        "description": "El personaje Lara Croft celebra 30 años desde su debut, con más de 100 millones de copias de juegos Tomb Raider vendidas hasta la fecha. La franqui...",
+        "fullContent": "El personaje Lara Croft celebra 30 años desde su debut, con más de 100 millones de copias de juegos Tomb Raider vendidas hasta la fecha. La franquicia ha incluido varios títulos, adaptaciones cinematográficas, reinicios, reediciones y un evento promocional que mostraba una actividad de limpieza de una casa virtual.\n\nLa imagen de Lara Croft se ha utilizado para promocionar diferentes productos de consumo, como cereales, refrescos y un coche compacto español. En 1999 una revista femenina alemana la presentó con un vestido de boda de merengue. Un anuncio de Dreamcast describió la consola con un lenguaje asociado a cremas anti‑arrugas.\n\nEl juego original fue creado por un pequeño equipo en Derby en 1996. Tras la identificación del potencial comercial por parte del editor Eidos, se estableció un calendario que llevó a la publicación de un nuevo título de Tomb Raider cada año."
+      }
+    },
+    {
+      "id": "cb672bf988e0eac4c7e1114944f96c2f",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793053852293_589.jpg",
+      "link": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
+      "en": {
+        "title": "Konami kept Silent Hill development teams separate, says director",
+        "description": "At the MCM London Comic Con, Jon McKellan, founder of Screen Burn and director of Silent Hill Townfall, stated that Konami deliberately kept the st...",
+        "fullContent": "At the MCM London Comic Con, Jon McKellan, founder of Screen Burn and director of Silent Hill Townfall, stated that Konami deliberately kept the studios working on different Silent Hill projects apart, preventing them from seeing each other's work.\n\nMcKellan said his team only became aware of other Silent Hill titles when those projects were publicly announced, and that Konami continued to limit information sharing between the teams even after the announcements.\n\nHe added that series producer Okamoto‑san was focused on avoiding cross‑influence among the projects and on minimizing compromises."
+      },
+      "es": {
+        "title": "Konami mantuvo separados los equipos de desarrollo de Silent Hill, afirma director",
+        "description": "En la MCM London Comic Con, Jon McKellan, fundador de Screen Burn y director de Silent Hill Townfall, declaró que Konami mantuvo deliberadamente a ...",
+        "fullContent": "En la MCM London Comic Con, Jon McKellan, fundador de Screen Burn y director de Silent Hill Townfall, declaró que Konami mantuvo deliberadamente a los estudios que trabajaban en diferentes proyectos de Silent Hill separados, impidiéndoles conocer el trabajo de los demás.\n\nMcKellan explicó que su equipo solo se enteró de los otros proyectos de Silent Hill cuando fueron anunciados públicamente, y que Konami siguió limitando el intercambio de información entre los equipos incluso después de los anuncios.\n\nAñadió que el productor de la serie, Okamoto‑san, estaba interesado en evitar la influencia cruzada entre los proyectos y en minimizar los compromisos."
+      }
+    },
+    {
+      "id": "9cb2ce69fa63c4c931f93c697e0498dc",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793053854722_660.jpg",
+      "link": "https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/",
+      "en": {
+        "title": "Sucker Punch Announces Layoffs of 24 Employees",
+        "description": "Sucker Punch, the Sony-owned studio behind Ghost of Tsushima and Ghost of Yotei, confirmed that 24 staff members have been let go. The figure corre...",
+        "fullContent": "Sucker Punch, the Sony-owned studio behind Ghost of Tsushima and Ghost of Yotei, confirmed that 24 staff members have been let go. The figure corrects an earlier report that cited 26 departures.\n\nIn an internal email obtained by Aftermath, studio leadership stated that the decision follows an assessment of market conditions and staffing requirements for the company's next project. The message indicated that several positions across the studio will be eliminated and that the company will provide support to the affected employees during the transition.\n\nThe studio employs fewer than 200 people, making the reduction roughly one‑tenth of its total workforce."
+      },
+      "es": {
+        "title": "Sucker Punch anuncia despidos de 24 empleados",
+        "description": "Sucker Punch, el estudio propiedad de Sony responsable de Ghost of Tsushima y Ghost of Yotei, confirmó que 24 empleados han sido desvinculados. Est...",
+        "fullContent": "Sucker Punch, el estudio propiedad de Sony responsable de Ghost of Tsushima y Ghost of Yotei, confirmó que 24 empleados han sido desvinculados. Esta cifra corrige una información previa que mencionaba 26 bajas.\n\nEn un correo interno al personal, obtenido por Aftermath, la dirección del estudio explicó que la medida se tomó tras evaluar los retos del mercado y las necesidades de personal para su próximo proyecto. El comunicado señaló que se eliminarán varios puestos en distintas áreas y que se brindará apoyo a los colegas afectados durante la transición.\n\nEl estudio cuenta con menos de 200 empleados, por lo que la reducción representa aproximadamente una décima parte de su plantilla total."
+      }
+    },
+    {
+      "id": "4bf5b392bbbae5af0e58a25c14114851",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793053857851_279.jpg",
+      "link": "https://dailybruin.com/2026/10/25/game-review-marvels-wolverine-bares-its-claws-but-fails-to-leave-a-mark",
+      "en": {
+        "title": "Marvel’s Wolverine released on PS5 with Logan confronting Bolivar Trask",
+        "description": "Marvel’s Wolverine launched on September 15 for the PlayStation 5. The action‑adventure title was developed by Insomniac Games and published by Son...",
+        "fullContent": "Marvel’s Wolverine launched on September 15 for the PlayStation 5. The action‑adventure title was developed by Insomniac Games and published by Sony Interactive Entertainment, and it is available exclusively on the PS5 platform. The narrative follows James “Logan” Howlett, a mutant who must navigate a world increasingly hostile toward his kind while confronting the billionaire Bolivar Trask, who seeks to eliminate mutants.\n\nAccording to the source, the game presents Logan’s backstory as deliberately ambiguous, revealing that he endured invasive experiments that bonded his skeleton with adamantium and granted him regenerative abilities and retractable claws. The article notes that Insomniac emphasizes Logan’s emotional pain prominently. It also reports that the source identifies weak writing as a recurring issue, describing the dialogue as expository and referencing the “Focus, M” style, which the source says hampers puzzle solving and event interpretation."
+      },
+      "es": {
+        "title": "Marvel’s Wolverine se estrena en PS5 con Logan enfrentándose a Bolivar Trask",
+        "description": "Marvel’s Wolverine se lanzó el 15 de septiembre para la PlayStation 5. El juego de acción‑aventura fue desarrollado por Insomniac Games y publicado...",
+        "fullContent": "Marvel’s Wolverine se lanzó el 15 de septiembre para la PlayStation 5. El juego de acción‑aventura fue desarrollado por Insomniac Games y publicado por Sony Interactive Entertainment, y está disponible exclusivamente en la consola PS5. La historia sigue a James “Logan” Howlett, un mutante que debe desenvolverse en un mundo cada vez más hostil hacia su especie mientras se enfrenta al multimillonario Bolivar Trask, quien pretende erradicar a los mutantes.\n\nSegún la fuente, el juego presenta el pasado de Logan como deliberadamente ambiguo, revelando que fue sometido a experimentos invasivos que unieron su esqueleto con adamantium y le otorgaron habilidades de autorregeneración y garras retráctiles. El artículo indica que Insomniac coloca el dolor emocional de Logan en primer plano. También informa que la fuente señala una escritura débil como un problema recurrente, describiendo el diálogo como expositivo y mencionando el estilo “Focus, M”, que, según la fuente, dificulta la resolución de acertijos y la interpretación de los eventos."
+      }
+    },
+    {
+      "id": "0756affeadbb5371e6d2e8eaad96fe7d",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793053862851_802.jpg",
+      "link": "https://www.koreaherald.com/article/10915044",
+      "en": {
+        "title": "South Korean opposition urges president to play Call of Duty game depicting North Korean invasion",
+        "description": "A fictional scenario of a North Korean attack on Seoul presented in the upcoming video game Call of Duty: Modern Warfare 4 has become a subject of ...",
+        "fullContent": "A fictional scenario of a North Korean attack on Seoul presented in the upcoming video game Call of Duty: Modern Warfare 4 has become a subject of discussion among South Korean politicians. Opposition lawmakers have asked President Lee Jae Myung to play the game, stating that it illustrates the potential outcomes of the administration's approach toward North Korea.\n\nThe issue was raised during the National Assembly's annual audit, where Culture Minister Choi Hwi-young was questioned about whether the game, which includes combat against North Korean forces and a depiction of the North Korean leader's death, should be subject to government review. Minister Choi responded that video games are protected forms of creative expression, similar to films.\n\nThe reporter who authored the original piece has covered South Korea's political and economic affairs since 2017, focusing on foreign policy, inter-Korean relations, and security matters, and previously reported on the country's financial sector."
+      },
+      "es": {
+        "title": "Oposición surcoreana insta al presidente a jugar a Call of Duty que muestra invasión norcoreana",
+        "description": "Un escenario ficticio de un ataque norcoreano a Seúl, presentado en el próximo videojuego Call of Duty: Modern Warfare 4, ha pasado a ser tema de d...",
+        "fullContent": "Un escenario ficticio de un ataque norcoreano a Seúl, presentado en el próximo videojuego Call of Duty: Modern Warfare 4, ha pasado a ser tema de discusión entre políticos de Corea del Sur. Legisladores de la oposición han solicitado al presidente Lee Jae Myung que juegue el título, argumentando que muestra posibles consecuencias de la política del gobierno hacia Corea del Norte.\n\nEl asunto se planteó durante la auditoría anual de la Asamblea Nacional, donde el ministro de Cultura, Choi Hwi‑young, fue interrogado sobre si el juego, que incluye combates contra fuerzas norcoreanas y la representación de la muerte del líder de Corea del Norte, debería estar bajo supervisión gubernamental. El ministro respondió que los videojuegos, al igual que las películas, están protegidos como formas de expresión creativa.\n\nEl autor del informe original ha cubierto la política y la economía de Corea del Sur desde 2017, con énfasis en asuntos exteriores, relaciones intercoreanas y seguridad, y previamente informó sobre el sector financiero del país."
+      }
+    }
+  ]
+}
