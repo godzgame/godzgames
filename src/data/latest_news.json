@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1793747065564,
+  "updatedAt": 1793771094414,
   "articles": [
-    {
-      "id": "181e9ec1a1bc8f162e118b5689eafb43",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793747055029_954.jpg",
-      "link": "https://www.pcgamer.com/games/the-top-100-pc-games-2026/",
-      "en": {
-        "title": "PC Gamer releases 2026 Top 100 PC games list",
-        "description": "PC Gamer has published its annual ranking of the 100 best PC games available in 2026. The list is compiled after a team-wide nomination phase that ...",
-        "fullContent": "PC Gamer has published its annual ranking of the 100 best PC games available in 2026. The list is compiled after a team-wide nomination phase that generated a longlist of more than 300 titles, followed by individual ratings across three weighted categories. The editorial team then selected the final 100 entries.\n\nThe publication notes that the list combines historically recognized titles with recent releases and that the selection process is based on the preferences of the staff. An internal note mentions that one editor repeatedly advocated for the inclusion of Overwatch during the voting stage. The article also includes a standard disclosure that affiliate commissions may be earned from purchases made through links on the site."
-      },
-      "es": {
-        "title": "PC Gamer publica la lista Top 100 de juegos para PC 2026",
-        "description": "PC Gamer ha publicado su ranking anual de los 100 mejores juegos para PC disponibles en 2026. La lista se elabora después de una fase de nominación...",
-        "fullContent": "PC Gamer ha publicado su ranking anual de los 100 mejores juegos para PC disponibles en 2026. La lista se elabora después de una fase de nominación en la que el equipo generó una preselección de más de 300 títulos, seguida de valoraciones individuales en tres categorías ponderadas. Posteriormente, el equipo editorial seleccionó los 100 juegos finales.\n\nEl artículo indica que la lista reúne títulos históricamente reconocidos con lanzamientos recientes y que el proceso de selección se basa en las preferencias del personal. Se menciona que un editor defendió repetidamente la inclusión de Overwatch durante la votación. Asimismo, se incluye una divulgación estándar de que pueden generarse comisiones de afiliado por compras realizadas a través de los enlaces del sitio."
-      }
-    },
     {
       "id": "16c8a06447548708979884699fe2b0c9",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793747057328_698.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793771083542_677.jpg",
       "link": "https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning/",
       "en": {
-        "title": "Anthropic updates Claude Opus 5.5 to block generation of existing video game copies",
-        "description": "In a post on X, Addy Osmani, an engineering leader at Anthropic, said the company added two sentences to the prompt used by Claude Code in the Opus...",
-        "fullContent": "In a post on X, Addy Osmani, an engineering leader at Anthropic, said the company added two sentences to the prompt used by Claude Code in the Opus 5.5 release. The added text is intended to steer the model away from recreating specific video games, as generating content that infringes intellectual‑property rights is prohibited by Anthropic's usage policy.\n\nOsmani clarified that the modification does not affect the model's ability to produce original games, genre‑based games, or games built from a user's own designs and assets; those categories are expected to continue working as before. The announcement comes amid ongoing discussion about AI tools that can create playable games from simple text prompts, a process sometimes described as \"vibe coding.\""
+        "title": "Anthropic Updates Claude to Restrict Generation of Existing Game Content",
+        "description": "Anthropic has modified the prompt used by its Claude Code model in the Opus 5.5 version to reduce the likelihood of the AI reproducing existing vid...",
+        "fullContent": "Anthropic has modified the prompt used by its Claude Code model in the Opus 5.5 version to reduce the likelihood of the AI reproducing existing video games. The change, announced by engineering leader Addy Osmani on the social platform X, adds two sentences that direct the model away from creating copies of specific games, in line with the company’s usage policy on intellectual property.\n\nAccording to Osmani, the update does not affect the model’s ability to generate original games, genre‑based games, or games built from a user’s own designs and assets. The company indicated that it will continue to adjust the system to maintain the intended balance between creative assistance and compliance with copyright rules."
       },
       "es": {
-        "title": "Anthropic actualiza Claude Opus 5.5 para impedir la generación de copias de videojuegos existentes",
-        "description": "En una publicación en X, Addy Osmani, líder de ingeniería en Anthropic, informó que la compañía añadió dos frases al prompt utilizado por Claude Co...",
-        "fullContent": "En una publicación en X, Addy Osmani, líder de ingeniería en Anthropic, informó que la compañía añadió dos frases al prompt utilizado por Claude Code en la versión Opus 5.5. El objetivo de esas frases es evitar que el modelo reproduzca juegos específicos, ya que la generación de contenido que infrinja derechos de propiedad intelectual está prohibida por la política de uso de Anthropic.\n\nOsmani precisó que la modificación no afecta la capacidad del modelo para crear juegos originales, juegos por género o juegos construidos a partir de diseños y recursos propios del usuario; esas categorías seguirán funcionando normalmente. La comunicación se produce en medio de un debate sobre herramientas de IA que permiten crear videojuegos jugables a partir de simples indicaciones de texto, proceso al que algunos se refieren como \"vibe coding\"."
+        "title": "Anthropic actualiza Claude para limitar la generación de contenido de juegos existentes",
+        "description": "Anthropic ha modificado la instrucción utilizada por su modelo Claude Code en la versión Opus 5.5 con el objetivo de disminuir la probabilidad de q...",
+        "fullContent": "Anthropic ha modificado la instrucción utilizada por su modelo Claude Code en la versión Opus 5.5 con el objetivo de disminuir la probabilidad de que la IA reproduzca videojuegos ya existentes. El cambio fue comunicado por el líder de ingeniería Addy Osmani en la plataforma X, y consiste en añadir dos frases que orientan al modelo a evitar la creación de copias de juegos específicos, en consonancia con la política de uso de la empresa respecto a la propiedad intelectual.\n\nOsmani señaló que la actualización no afecta la capacidad del modelo para generar juegos originales, juegos de género o juegos construidos a partir de diseños y recursos propios del usuario. La compañía indicó que seguirá realizando ajustes para mantener el equilibrio entre la asistencia creativa y el cumplimiento de las normas de derechos de autor."
       }
     },
     {
-      "id": "f37747842804fdf3b48169c6ac93ef78",
+      "id": "a355d9e79cbc2031dbe6548fd9307e8e",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793747060192_171.jpg",
-      "link": "https://www.foxnews.com/outkick-sports/grand-theft-auto-community-organizing-last-ride-old-game-before-release-gta-vi-why",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793771086109_712.jpg",
+      "link": "https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/",
       "en": {
-        "title": "Community organizes final playthrough of GTA V ahead of GTA VI release, Fox News discusses parental monitoring",
-        "description": "Fox News contributors Ben Domenech and Joe Concha spoke on \"Fox & Friends Weekend\" about the upcoming launch of Grand Theft Auto VI and the role of...",
-        "fullContent": "Fox News contributors Ben Domenech and Joe Concha spoke on \"Fox & Friends Weekend\" about the upcoming launch of Grand Theft Auto VI and the role of parents in overseeing video game consumption at home. The title, scheduled for release on November 19, 2026, arrives a little more than two weeks after the program aired and follows a 13-year interval since the previous main installment.\n\nThe gaming community has arranged a \"last ride\" on Grand Theft Auto V before the new game becomes available. As of September 17 of this year, Grand Theft Auto V reached an age that would qualify it for a PG-13 rating in cinemas. In parallel, reports indicate that an unidentified hacker allegedly leaked several minutes of Grand Theft Auto VI gameplay ahead of a planned Netflix reveal. An illustration shows a GTA VI website and a PlayStation DualSense controller on a screen captured in Krakow, Poland, on July 1, 2026."
+        "title": "Itch.io adds filter to exclude games with generative AI disclosures",
+        "description": "Itch.io has introduced a new search filter that removes from the results any game that includes a generative AI disclosure. The platform requires d...",
+        "fullContent": "Itch.io has introduced a new search filter that removes from the results any game that includes a generative AI disclosure. The platform requires developers to provide a disclosure that details how generative AI was used in the game's development.\n\nThe filter complements a similar disclosure requirement that exists on Steam, where a user-facing filter is not currently offered. The update was announced after developers reported that AI‑generated titles were receiving a large share of visibility during the recent Steam Next Fest.\n\nIn a post on Itch's Bluesky account, the company said it had deleted a substantial amount of AI‑generated content, referring to it as “AI slop” and noting that the removal targeted poorly optimised AI‑generated models. The “no AI” filter is now available in the platform's search interface."
       },
       "es": {
-        "title": "Comunidad organiza última partida de GTA V antes del lanzamiento de GTA VI, Fox News comenta supervisión parental",
-        "description": "Los colaboradores de Fox News Ben Domenech y Joe Concha comentaron en \"Fox & Friends Weekend\" el próximo lanzamiento de Grand Theft Auto VI y la re...",
-        "fullContent": "Los colaboradores de Fox News Ben Domenech y Joe Concha comentaron en \"Fox & Friends Weekend\" el próximo lanzamiento de Grand Theft Auto VI y la responsabilidad de los padres en vigilar el consumo de videojuegos en el hogar. El título está programado para salir el 19 de noviembre de 2026, poco más de dos semanas después de la transmisión, y sigue a un intervalo de 13 años desde la entrega anterior.\n\nLa comunidad de jugadores ha organizado una \"última partida\" de Grand Theft Auto V antes de que el nuevo juego esté disponible. A partir del 17 de septiembre de este año, Grand Theft Auto V alcanzó la edad que le permitiría obtener una clasificación PG-13 en cines. Simultáneamente, se informó que un hacker no identificado habría filtrado varios minutos de jugabilidad de Grand Theft Auto VI antes de una revelación prevista por Netflix. Una ilustración muestra un sitio web de GTA VI y un controlador PlayStation DualSense en una pantalla tomada en Cracovia, Polonia, el 1 de julio de 2026."
+        "title": "Itch.io incorpora filtro para excluir juegos con avisos de IA generativa",
+        "description": "Itch.io ha añadido un nuevo filtro de búsqueda que elimina de los resultados cualquier juego que incluya un aviso de IA generativa. La plataforma o...",
+        "fullContent": "Itch.io ha añadido un nuevo filtro de búsqueda que elimina de los resultados cualquier juego que incluya un aviso de IA generativa. La plataforma obliga a los desarrolladores a proporcionar un aviso que detalle cómo se utilizó la IA generativa en el desarrollo del juego.\n\nEste filtro complementa una exigencia de aviso similar que existe en Steam, donde actualmente no se ofrece un filtro visible para los usuarios. La medida se anunció después de que desarrolladores informaran que los títulos generados con IA estaban obteniendo una gran parte de la visibilidad durante el reciente Steam Next Fest.\n\nEn una publicación en la cuenta de Bluesky de Itch, la compañía indicó que había eliminado una cantidad considerable de contenido generado por IA, describiéndolo como “AI slop” y señalando que la eliminación se dirigió a modelos de IA generados de forma poco optimizada. El filtro “no IA” ya está disponible en la interfaz de búsqueda de la plataforma."
       }
     },
     {
       "id": "bf90c7c79eb1dab71508afe79edb511b",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793747062681_171.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793771088688_735.jpg",
       "link": "https://mashable.com/entertainment/gta-6-kai-cenat-grand-theft-auto-stream",
       "en": {
-        "title": "Streamer Kai Cenat to Play All Five Mainline GTA Games in One Session Ahead of GTA 6 Release",
-        "description": "Kai Cenat, a streamer with close to 22 million followers on Twitch, announced that he will broadcast a marathon of the Grand Theft Auto series on T...",
-        "fullContent": "Kai Cenat, a streamer with close to 22 million followers on Twitch, announced that he will broadcast a marathon of the Grand Theft Auto series on Thursday, November 5, at 3 p.m. Eastern Time. The event will be streamed simultaneously on Twitch and YouTube.\n\nDuring the session, Cenot plans to play GTA 3, Vice City, San Andreas, GTA 4, and GTA 5, covering the entire mainline series released in the 21st century. The announcement on X did not specify the expected duration of the stream or whether the full storylines of each title will be completed.\n\nThe marathon is scheduled to take place shortly before the official launch of Grand Theft Auto VI, set for November 19."
+        "title": "Kai Cenat to Stream All Five Mainline GTA Games on Nov. 5 Ahead of GTA 6 Release",
+        "description": "Grand Theft Auto VI is scheduled for release on November 19, and the launch is being preceded by a marathon streaming session announced by popular ...",
+        "fullContent": "Grand Theft Auto VI is scheduled for release on November 19, and the launch is being preceded by a marathon streaming session announced by popular streamer Kai Cenat. Cenat, who has close to 22 million followers on Twitch, said on X that he will play GTA 3, Vice City, San Andreas, GTA 4 and GTA 5 in a single sitting.\n\nThe stream is set to begin at 3 p.m. Eastern Time on Thursday, November 5, and will be broadcast simultaneously on Twitch and YouTube. The announcement did not specify the expected duration of the broadcast or whether Cenat intends to complete each game's main storyline.\n\nMashable noted that readers can subscribe to its Top Stories newsletter or enable push alerts to receive daily technology and digital‑culture updates."
       },
       "es": {
-        "title": "Kai Cenat transmitirá los cinco juegos principales de GTA en una sola sesión antes del lanzamiento de GTA 6",
-        "description": "Kai Cenat, creador y streamer con cerca de 22 millones de seguidores en Twitch, informó que realizará una maratón de la serie Grand Theft Auto el j...",
-        "fullContent": "Kai Cenat, creador y streamer con cerca de 22 millones de seguidores en Twitch, informó que realizará una maratón de la serie Grand Theft Auto el jueves 5 de noviembre a las 3 p.m. hora del Este. La transmisión se emitirá simultáneamente en Twitch y YouTube.\n\nEn la sesión, Cenat jugará GTA 3, Vice City, San Andreas, GTA 4 y GTA 5, abarcando la totalidad de la línea principal lanzada en el siglo XXI. La publicación en X no indicó la duración prevista del evento ni si se completarán las tramas de cada juego.\n\nLa transmisión se realizará poco antes del lanzamiento oficial de Grand Theft Auto VI, programado para el 19 de noviembre."
+        "title": "Kai Cenat transmitirá los cinco juegos principales de GTA el 5 de noviembre antes del lanzamiento de GTA 6",
+        "description": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre, y la salida será precedida por una transmisión maratónica anunciada por el po...",
+        "fullContent": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre, y la salida será precedida por una transmisión maratónica anunciada por el popular streamer Kai Cenat. Cenat, que cuenta con cerca de 22 millones de seguidores en Twitch, indicó en X que jugará GTA 3, Vice City, San Andreas, GTA 4 y GTA 5 en una sola sesión.\n\nLa transmisión comenzará a las 3 p.m. hora del este del jueves 5 de noviembre y se emitirá simultáneamente en Twitch y YouTube. El anuncio no detalla la duración prevista de la emisión ni si Cenat planea completar la historia principal de cada título.\n\nMashable informó que los lectores pueden suscribirse a su boletín Top Stories o activar alertas push para recibir diariamente noticias de tecnología y cultura digital."
       }
     },
     {
-      "id": "63c4348fa253d73b7da6a8373c78bd48",
+      "id": "751471c117df481b2ff3c401af4758a4",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793747065564_162.jpg",
-      "link": "https://gameinformer.com/2026/11/03/the-elder-scrolls-vi-has-an-official-subtitle-and-its-sentinel",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793771091853_121.jpg",
+      "link": "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults",
       "en": {
-        "title": "The Elder Scrolls VI Receives Official Subtitle \"Sentinel\"",
-        "description": "Bethesda announced through its official social media channels that the upcoming title will be named The Elder Scrolls VI: Sentinel. The post includ...",
-        "fullContent": "Bethesda announced through its official social media channels that the upcoming title will be named The Elder Scrolls VI: Sentinel. The post included a promotional video, accompanying music, and a quotation attributed to Yazar, Moth Priest to High Queen Iradne of Hammerfell (4E 206): \"The scroll offered only a shimmer, a veil thinly lifted to my eyes. A future lost. A victory undone. Sands of time scattered by fate.\"\n\nAccording to the Elderscrolls.fandom database, Sentinel is one of the nine major kingdoms within Hammerfell and serves as the capital of both the Alik'r Desert region and the Myrkwasa region of the Alik'r. The source notes that the setting is associated with desert terrain.\n\nThe subtitle continues the series' tradition of naming entries after locations within the game world. No release date has been provided; the announcement arrives roughly seven years after the game's initial reveal at E3 2018. The same communication also advises users to download any needed content before traveling."
+        "title": "Traditional book clubs inspire The Game Club, a gamer community network",
+        "description": "In 2025, Guy Blomberg and Shay Leighton founded The Game Club, a community network modeled after traditional book clubs. The organization arranges ...",
+        "fullContent": "In 2025, Guy Blomberg and Shay Leighton founded The Game Club, a community network modeled after traditional book clubs. The organization arranges for members to play the same video game each month and to meet in small groups, either in person or online, to discuss their experiences.\n\nDuring its first year, The Game Club reported connections among more than 1,000 gamers across six countries. A survey of members indicated that 88% reported making new friends and 78% said they felt less lonely. Blomberg told GamesIndustry.biz that the initiative \"creates something truly meaningful that celebrates the medium of video games and brings people together in a world that couldn't be further apart\" and described the first year as a beta phase for addressing technical and organizational issues.\n\nThe Game Club selects titles described as \"overlooked classics,\" referring to games that received positive reception but limited attention. Participants join a \"Clubhouse,\" a gathering of up to ten people, to discuss the selected game and to connect with other members."
       },
       "es": {
-        "title": "The Elder Scrolls VI recibe subtítulo oficial \"Sentinel\"",
-        "description": "Bethesda comunicó a través de sus cuentas oficiales en redes sociales que el próximo título llevará el nombre de The Elder Scrolls VI: Sentinel. La...",
-        "fullContent": "Bethesda comunicó a través de sus cuentas oficiales en redes sociales que el próximo título llevará el nombre de The Elder Scrolls VI: Sentinel. La publicación incluyó un video promocional, música de acompañamiento y una cita atribuida a Yazar, Sacerdote de las Polillas de la Alta Reina Iradne de Hammerfell (4E 206): \"El pergamino ofreció solo un destello, un velo ligeramente alzado a mis ojos. Un futuro perdido. Una victoria deshecha. Arenas del tiempo dispersas por el destino.\"\n\nSegún la base de datos Elderscrolls.fandom, Sentinel es uno de los nueve reinos principales de Hammerfell y funciona como capital tanto de la región del Desierto Alik'r como de la zona Myrkwasa del Alik'r, áreas asociadas con entornos desérticos.\n\nEl subtítulo mantiene la costumbre de la serie de nombrar los juegos según lugares del universo interno. No se ha anunciado una fecha de lanzamiento; la información se publica aproximadamente siete años después de la presentación inicial del juego en el E3 de 2018. La misma publicación también recuerda a los usuarios descargar cualquier contenido necesario antes de viajar."
+        "title": "Los clubes de lectura tradicionales inspiran a The Game Club, una red comunitaria para jugadores",
+        "description": "En 2025, Guy Blomberg y Shay Leighton fundaron The Game Club, una red comunitaria inspirada en los clubes de lectura tradicionales. La organización...",
+        "fullContent": "En 2025, Guy Blomberg y Shay Leighton fundaron The Game Club, una red comunitaria inspirada en los clubes de lectura tradicionales. La organización propone que sus miembros jueguen el mismo videojuego cada mes y se reúnan en pequeños grupos, de forma presencial o en línea, para comentar sus experiencias.\n\nEn su primer año, The Game Club informó haber conectado a más de 1.000 jugadores en seis países. Una encuesta a sus miembros mostró que el 88 % había hecho nuevas amistades y el 78 % percibía una menor sensación de soledad. Blomberg declaró a GamesIndustry.biz que la iniciativa \"crea algo verdaderamente significativo que celebra el medio de los videojuegos y reúne a la gente en un mundo que no podría estar más distante\" y describió el primer año como una fase beta para corregir problemas técnicos y operativos.\n\nThe Game Club elige títulos a los que denomina \"clásicos pasados por alto\", es decir, juegos bien recibidos que no recibieron suficiente atención. Los participantes se integran en un \"Clubhouse\", un encuentro de hasta diez personas, donde discuten el juego seleccionado y establecen contacto con otros miembros."
+      }
+    },
+    {
+      "id": "9d75eb1e64ac544616526e1c7cedfee6",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1793771094412_754.jpg",
+      "link": "https://www.svg.com/2303020/nintendo-64-games-everyone-played-90s/",
+      "en": {
+        "title": "Five Nintendo 64 Games Widely Played in the 1990s",
+        "description": "Nintendo released its third home console, the Nintendo 64, in 1996. The system introduced true 3D animation, allowing several of Nintendo's establi...",
+        "fullContent": "Nintendo released its third home console, the Nintendo 64, in 1996. The system introduced true 3D animation, allowing several of Nintendo's established franchises to appear in three‑dimensional environments. The console’s technical approach influenced other manufacturers during the mid‑ to late‑1990s, and it was followed by the GameCube after its production run ended.\n\nThe list focuses on titles released in the 1990s that were commonly played during the console’s peak period, excluding later releases such as Perfect Dark. Among the games highlighted, Super Mario 64 was the most popular launch title in 1996. The game demonstrated the hardware’s capabilities by presenting Mario in a fully three‑dimensional world, offering a range of attacks and movement options, and featuring levels such as Bob‑omb Battlefield and Big Boo's Haunt. According to published data, Super Mario 64 sold more than 11 million copies, making it the best‑selling game for the Nintendo 64."
+      },
+      "es": {
+        "title": "Cinco juegos de Nintendo 64 ampliamente jugados en los años 90",
+        "description": "Nintendo lanzó su tercera consola doméstica, la Nintendo 64, en 1996. El sistema introdujo animación 3D real, permitiendo que varias de las franqui...",
+        "fullContent": "Nintendo lanzó su tercera consola doméstica, la Nintendo 64, en 1996. El sistema introdujo animación 3D real, permitiendo que varias de las franquicias clásicas de Nintendo se presentaran en entornos tridimensionales. El enfoque técnico de la consola influyó en otras compañías durante la segunda mitad de la década de 1990 y, al final de su ciclo, fue reemplazada por la GameCube.\n\nLa selección se centra en títulos publicados en los años 90 que fueron jugados por una gran parte del público durante el apogeo de la consola, excluyendo lanzamientos posteriores como Perfect Dark. Dentro de los juegos destacados, Super Mario 64 fue el título de lanzamiento más popular en 1996. El juego mostró las capacidades del hardware al presentar a Mario en un mundo completamente tridimensional, con una variedad de ataques y movimientos, y niveles como Bob‑omb Battlefield y Big Boo's Haunt. Según los datos disponibles, Super Mario 64 vendió más de 11 millones de copias, convirtiéndose en el juego con mayor número de ventas para la Nintendo 64."
       }
     }
   ]
