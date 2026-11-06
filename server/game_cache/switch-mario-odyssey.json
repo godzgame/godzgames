@@ -28,11 +28,6 @@
     "https://example.com/screen1.jpg",
     "https://example.com/screen2.jpg"
   ],
-  "customLinks": [
-    "https://1fichier.com/?custom1",
-    "https://mega.nz/custom2",
-    "https://drive.google.com/custom3"
-  ],
   "title": "Super Mario Odyssey",
   "consoleName": "Nintendo Switch",
   "id": "switch-mario-odyssey",
