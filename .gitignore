@@ -4,3 +4,7 @@ dist/
 .DS_Store
 test_bing_crop.jpg
 test_bing_w_only.jpg
+backups/
+*.zip
+logo_original*
+capturas_B3/

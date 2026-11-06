@@ -4,6 +4,7 @@ const Parser = require('rss-parser');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const crypto = require('crypto');
+const sharp = require('sharp');
 
 // --- Load .env ---
 const envPath = path.join(__dirname, '..', '.env');
@@ -59,6 +60,72 @@ function areTextsAlmostIdentical(textA, textB) {
   const matchCount = wordsA.filter(w => wordsB.has(w)).length;
   const similarity = matchCount / Math.max(wordsA.length, 1);
   return similarity > 0.90;
+}
+
+// --- Sensitive Topics Filter ---
+const SENSITIVE_REVIEW_FILE = path.join(__dirname, 'noticias_en_revision.json');
+
+function checkSensitiveContent(title, text = '') {
+  const fullContent = `${title} ${text}`.toLowerCase();
+
+  // 1. Reglas directas e inequívocas (inglés y español)
+  const directPatterns = [
+    { pattern: /\bsuicid(?:e|es|al|io|ios)\b/i, label: 'suicide/suicidio' },
+    { pattern: /\bself[- ]harm\b|\bautolesi[oó]n\b|\bautolesiones\b/i, label: 'self-harm/autolesión' },
+    { pattern: /\b(?:take|taking|took|ends?|ended)\s+(?:his|her|their|one's|own)\s+life\b|\bown\s+life\b/i, label: 'own life' },
+    { pattern: /\bquitarse\s+la\s+vida\b|\bquit[oó]\s+la\s+vida\b|\bquitaron\s+la\s+vida\b/i, label: 'quitarse la vida' },
+    { pattern: /\bsexual\s+assault\b|\babuso\s+sexual\b|\bviolaci[oó]n\b|\bviolaciones\b|\bviolad[oa]s?\b/i, label: 'sexual assault/abuso sexual/violación' }
+  ];
+
+  for (const { pattern, label } of directPatterns) {
+    if (pattern.test(fullContent)) {
+      return { blocked: true, trigger: label };
+    }
+  }
+
+  // 2. Términos ambiguos de violencia contra personas reales:
+  // "shooting" / "tiroteo" solo se activa si se combina con otras señales (victims, police o killed)
+  const hasShooting = /\b(?:shooting|shootings|tiroteo|tiroteos)\b/i.test(fullContent);
+  const hasVictims = /\b(?:victims?|v[ií]ctimas?)\b/i.test(fullContent);
+  const hasPolice = /\b(?:police|cop|cops|polic[ií]as?)\b/i.test(fullContent);
+  const hasKilled = /\b(?:killed|dead|fatalities|muertos?|asesinados?|fallecidos?)\b/i.test(fullContent);
+
+  if (hasShooting && (hasVictims || hasPolice || hasKilled)) {
+    const signals = [];
+    if (hasVictims) signals.push('victims');
+    if (hasPolice) signals.push('police');
+    if (hasKilled) signals.push('killed/muertos');
+    return {
+      blocked: true,
+      trigger: `shooting + [${signals.join(', ')}]`
+    };
+  }
+
+  return { blocked: false };
+}
+
+function recordSensitiveNews(title, link, trigger) {
+  try {
+    let list = [];
+    if (fs.existsSync(SENSITIVE_REVIEW_FILE)) {
+      try {
+        list = JSON.parse(fs.readFileSync(SENSITIVE_REVIEW_FILE, 'utf8'));
+        if (!Array.isArray(list)) list = [];
+      } catch (e) {
+        list = [];
+      }
+    }
+    list.push({
+      title,
+      link,
+      trigger,
+      date: new Date().toISOString()
+    });
+    fs.writeFileSync(SENSITIVE_REVIEW_FILE, JSON.stringify(list, null, 2), 'utf8');
+    console.warn(`  -> ⚠️ Noticia bloqueada por tema sensible ("${trigger}"). Guardada en noticias_en_revision.json`);
+  } catch (err) {
+    console.error(`  -> Error guardando en noticias_en_revision.json: ${err.message}`);
+  }
 }
 
 // --- Groq API: rewrite article bilingually ---
@@ -163,14 +230,18 @@ const downloadAnyImageLocally = async (imageUrl) => {
   try {
     console.log(`  -> Descargando imagen: "${imageUrl.substring(0, 60)}..."`);
     const res = await axios({
-      url: imageUrl, method: 'GET', responseType: 'stream', timeout: 20000,
+      url: imageUrl, method: 'GET', responseType: 'arraybuffer', timeout: 20000,
       headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
     });
     const filename = `news_${Date.now()}_${Math.floor(Math.random() * 1000)}.jpg`;
     const destPath = path.join(UPLOADS_DIR, filename);
-    const writer = fs.createWriteStream(destPath);
-    res.data.pipe(writer);
-    await new Promise((resolve, reject) => { writer.on('finish', resolve); writer.on('error', reject); });
+
+    // Redimensionar a max 1200px de ancho y guardar siempre en JPEG real q80
+    await sharp(res.data)
+      .resize({ width: 1200, withoutEnlargement: true })
+      .jpeg({ quality: 80, mozjpeg: true })
+      .toFile(destPath);
+
     return `https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/${filename}`;
   } catch (err) {
     console.error(`  -> Error descargando imagen: ${err.message}`);
@@ -281,6 +352,13 @@ const generateNews = async () => {
           continue;
         }
 
+        // ── Filtro de temas sensibles (se descarta antes de Groq y no entra a latest_news.json ni RSS) ──
+        const sensitiveCheck = checkSensitiveContent(cleanTitle, originalText);
+        if (sensitiveCheck.blocked) {
+          recordSensitiveNews(cleanTitle, resolvedUrl, sensitiveCheck.trigger);
+          continue;
+        }
+
         // ── Translate / rewrite ──
         const rewritten = await rewriteArticleBilingual(cleanTitle, originalText);
 
@@ -342,4 +420,12 @@ const generateNews = async () => {
   }
 };
 
-generateNews();
+if (require.main === module) {
+  generateNews();
+}
+
+module.exports = {
+  checkSensitiveContent,
+  recordSensitiveNews,
+  generateNews
+};

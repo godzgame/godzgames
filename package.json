@@ -4,6 +4,7 @@
   "description": "GodZGames - Static site, no backend required",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node scripts/check_forbidden.cjs",
     "generate:suggestions": "node scripts/generate_affiliate_suggestions.cjs",
     "build": "node scripts/update_news.cjs && node scripts/generate_affiliate_suggestions.cjs && node scripts/generate_rss.cjs && node scripts/generate_news_rss.cjs && vite build",
     "preview": "vite preview"
@@ -13,10 +14,14 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@playwright/test": "^1.65.0",
     "axios": "^1.18.1",
     "basic-ftp": "^5.3.1",
     "cheerio": "^1.2.0",
+    "playwright": "^1.65.0",
+    "puppeteer": "^25.16.0",
     "rss-parser": "^3.13.0",
+    "sharp": "^0.35.5",
     "vite": "^8.0.16"
   },
   "dependencies": {
