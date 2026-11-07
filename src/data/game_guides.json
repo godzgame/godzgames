@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "the-legend-of-zelda-ocarina-of-time-n64",
+    "gameId": "f752cf85",
+    "gameTitle": "The Legend of Zelda: Ocarina of Time",
+    "gameConsole": "MULTI",
+    "cover": "/logo.png",
+    "description": "Guía completa de The Legend of Zelda: Ocarina of Time",
+    "publishedAt": "2026-10-15",
+    "affiliate": null,
+    "sections": [
+      {
+        "id": "ficha",
+        "label": "Ficha del juego",
+        "label_es": null,
+        "label_en": null,
+        "file": null,
+        "lang": null,
+        "published": true,
+        "html": "\n    <div class=\"guide-ficha-layout\">\n      <div class=\"guide-ficha-specs\">\n        <h3 class=\"guide-h3\">📋 Especificaciones y Ficha Técnica</h3>\n        <table class=\"guide-table guide-specs-table\">\n          <tbody>\n            <tr><td><strong>Título Oficial</strong></td><td>The Legend of Zelda: Ocarina of Time</td></tr>\n            <tr><td><strong>Plataforma / Consola</strong></td><td><span class=\"guide-console-tag\">MULTI</span></td></tr>\n            \n            <tr><td><strong>Guía publicada</strong></td><td>2026-10-15</td></tr>\n          </tbody>\n        </table>\n      </div>\n\n      \n\n      <div class=\"guide-ficha-sinopsis\">\n        <h3 class=\"guide-h3\">📖 Sinopsis / Argumento Oficial</h3>\n        <p class=\"guide-p\">Sin descripción técnica disponible.</p>\n      </div>\n    </div>\n  ",
+        "rawContent": ""
+      },
+      {
+        "id": "mi-experiencia",
+        "label": "Mi experiencia",
+        "label_es": null,
+        "label_en": null,
+        "file": "mi-experiencia.md",
+        "lang": null,
+        "published": true,
+        "html": "<p class=\"guide-p\"><!-- origen: propio --><br><strong>Mi experiencia</strong> (lo recuerdo de hace mucho tiempo)</p>\n<ul class=\"guide-ul\"><li><strong>Al inicio:</strong> fui por la espada. Un habitante de Kokiri Forest (Mido) no me dejaba pasar hasta tener espada y escudo.</li><li><strong>Dónde me atoré:</strong> en el Templo del Agua. No sabía dónde quitarme las botas de hierro (Iron Boots) ni dónde ponérmelas.</li><li><strong>Cómo lo resolví:</strong> consulté una guía de la revista Club Nintendo de aquella época.</li><li><strong>Consejo para quien empieza:</strong> busca ayuda de otros cuando te atores.</li></ul>",
+        "rawContent": "<!-- origen: propio -->\n**Mi experiencia** (lo recuerdo de hace mucho tiempo)\n\n- **Al inicio:** fui por la espada. Un habitante de Kokiri Forest (Mido) no me dejaba pasar hasta tener espada y escudo.\n- **Dónde me atoré:** en el Templo del Agua. No sabía dónde quitarme las botas de hierro (Iron Boots) ni dónde ponérmelas.\n- **Cómo lo resolví:** consulté una guía de la revista Club Nintendo de aquella época.\n- **Consejo para quien empieza:** busca ayuda de otros cuando te atores.\n"
+      }
+    ]
+  }
+]

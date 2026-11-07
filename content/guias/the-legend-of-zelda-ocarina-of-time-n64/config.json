@@ -1,0 +1,20 @@
+{
+  "gameId": "f752cf85",
+  "gameTitle": "The Legend of Zelda: Ocarina of Time",
+  "platform": "N64",
+  "publishedAt": "2026-10-15",
+  "slug": "the-legend-of-zelda-ocarina-of-time-n64",
+  "sections": [
+    {
+      "id": "ficha",
+      "label": "Ficha del juego",
+      "published": true
+    },
+    {
+      "id": "mi-experiencia",
+      "label": "Mi experiencia",
+      "file": "mi-experiencia.md",
+      "published": true
+    }
+  ]
+}
