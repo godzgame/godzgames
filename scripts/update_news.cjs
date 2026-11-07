@@ -66,13 +66,13 @@ function areTextsAlmostIdentical(textA, textB) {
 const SENSITIVE_REVIEW_FILE = path.join(__dirname, 'noticias_en_revision.json');
 
 function checkSensitiveContent(title, text = '') {
-  const fullContent = `${title} ${text}`.toLowerCase();
+  const fullContent = `${title} ${text}`.toLowerCase().replace(/suicide squad/g, '');
 
   // 1. Reglas directas e inequívocas (inglés y español)
   const directPatterns = [
     { pattern: /\bsuicid(?:e|es|al|io|ios)\b/i, label: 'suicide/suicidio' },
     { pattern: /\bself[- ]harm\b|\bautolesi[oó]n\b|\bautolesiones\b/i, label: 'self-harm/autolesión' },
-    { pattern: /\b(?:take|taking|took|ends?|ended)\s+(?:his|her|their|one's|own)\s+life\b|\bown\s+life\b/i, label: 'own life' },
+    { pattern: /\b(?:take|taking|took|ends?|ended|ending)\s+(?:(?:his|her|their|one's)\s+)?own\s+life\b|\b(?:died|death|found dead)\b.{0,30}\bown\s+life\b/i, label: 'own life' },
     { pattern: /\bquitarse\s+la\s+vida\b|\bquit[oó]\s+la\s+vida\b|\bquitaron\s+la\s+vida\b/i, label: 'quitarse la vida' },
     { pattern: /\bsexual\s+assault\b|\babuso\s+sexual\b|\bviolaci[oó]n\b|\bviolaciones\b|\bviolad[oa]s?\b/i, label: 'sexual assault/abuso sexual/violación' }
   ];
@@ -199,7 +199,8 @@ const rewriteArticleBilingual = async (title, originalText) => {
     console.log(`  -> ✅ Groq OK.`);
     return result;
   } catch (groqErr) {
-    console.warn(`  -> ⚠️ Groq falló: ${groqErr.message}. Intentando fallback con Google Translate...`);
+    console.warn(`  -> Groq fallo: ${groqErr.message}. Se omite el articulo (sin traduccion automatica).`);
+    return null;
   }
 
   // 2. Fallback: Google Translate

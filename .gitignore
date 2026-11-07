@@ -8,3 +8,9 @@ backups/
 *.zip
 logo_original*
 capturas_B3/
+scripts/noticias_en_revision.json
+scripts/puppet_check.*
+scripts/ronda2_capturas.cjs
+scripts/take_*.cjs
+scripts/clean_download_links.cjs
+logo_compressed.png
