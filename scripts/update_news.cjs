@@ -128,6 +128,18 @@ function recordSensitiveNews(title, link, trigger) {
   }
 }
 
+// --- Slug de la noticia (misma regla que compile_articles.cjs) ---
+const slugifyEs = (text) => text.toString()
+  .normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '')
+  .toLowerCase()
+  .trim()
+  .replace(/\s+/g, '-')
+  .replace(/[^\w\-]+/g, '')
+  .replace(/\-\-+/g, '-')
+  .replace(/^-+/, '')
+  .replace(/-+$/, '');
+
 // --- Groq API: rewrite article bilingually ---
 const rewriteArticleWithGroq = async (title, originalText) => {
   const prompt = `Actúa como un periodista de videojuegos profesional y neutral.
@@ -397,6 +409,8 @@ const generateNews = async () => {
         newsData.push({
           id: crypto.createHash('md5').update(resolvedUrl).digest('hex'),
           tag: 'NEWS',
+          slug: slugifyEs(rewritten.es.title),
+          url: 'https://www.godzgames.com/noticias/' + slugifyEs(rewritten.es.title) + '/',
           image: finalImageUrl,
           link: resolvedUrl,
           en: { title: rewritten.en.title, description: enDesc, fullContent: rewritten.en.body },
@@ -426,6 +440,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  slugifyEs,
   checkSensitiveContent,
   recordSensitiveNews,
   generateNews
