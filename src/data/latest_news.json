@@ -1,84 +1,94 @@
 {
-  "updatedAt": 1794145204633,
+  "updatedAt": 1794169780010,
   "articles": [
     {
-      "id": "45884032943fca12d496b31df4a0b7fe",
+      "id": "da3c73b04477e1c26a4388b19b8f67ef",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794145193451_486.jpg",
-      "link": "https://www.dualshockers.com/video-games-that-could-sweep-the-game-awards-2026-ranked/",
+      "slug": "wendys-lanza-juego-gratuito-wendyquest-con-codigos-canjeables-por-comida",
+      "url": "https://www.godzgames.com/noticias/wendys-lanza-juego-gratuito-wendyquest-con-codigos-canjeables-por-comida/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169770510_72.jpg",
+      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
       "en": {
-        "title": "Seven Video Games That May Win Multiple Awards at The Game Awards",
-        "description": "The holiday season brings family gatherings and discounted video games, as well as a series of award ceremonies that recognize releases from the pa...",
-        "fullContent": "The holiday season brings family gatherings and discounted video games, as well as a series of award ceremonies that recognize releases from the past year. For 2026, a number of titles released throughout the year are expected to be contenders for The Game Awards, which will take place on December 10.\n\nAmong the games highlighted is Big Walk, an upcoming title that will launch without sound. The developers, House House, have indicated that the game could be considered for the Best Multiplayer category. The list also references the previous success of Clair Obscur: Expedition 33, which received notable recognition at last year’s ceremony."
+        "title": "Wendy’s Launches Free Mobile Game WendyQuest with Redeemable Food Codes",
+        "description": "Wendy’s released a retro‑style role‑playing game called WendyQuest, available for download on iOS and Android devices and on the Steam platform for...",
+        "fullContent": "Wendy’s released a retro‑style role‑playing game called WendyQuest, available for download on iOS and Android devices and on the Steam platform for desktop users. The game features the chain’s red‑headed mascot as a player character who battles robot enemies, including one that resembles a McDonald’s french fry container. Players can obtain in‑game codes that are redeemable for menu items such as fries and burgers at Wendy’s locations.\n\nThe promotion is limited to individuals who are 18 years of age or older and reside in the United States. To redeem a code, users must create a Wendy’s account; the food obtained through the codes is provided at no charge, although a purchase is required at the restaurant for the transaction. Wendy’s described WendyQuest as the brand’s first fully owned video game.\n\nWendy’s has previously engaged with gaming platforms, including collaborations with Twitch and Fortnite in 2019, and released a rule book for a tabletop role‑playing game titled Feast of Legends in the same year."
       },
       "es": {
-        "title": "Siete videojuegos que podrían ganar varios premios en The Game Awards",
-        "description": "La temporada navideña reúne a familias y ofrece videojuegos con descuento, además de una serie de ceremonias de premiación que reconocen los lanzam...",
-        "fullContent": "La temporada navideña reúne a familias y ofrece videojuegos con descuento, además de una serie de ceremonias de premiación que reconocen los lanzamientos del año. En 2026, varios títulos publicados a lo largo del año se presentan como candidatos para The Game Awards, cuya ceremonia se celebrará el 10 de diciembre.\n\nEntre los juegos mencionados se encuentra Big Walk, un título que se lanzará sin sonido. Los desarrolladores, House House, han señalado que el juego podría ser considerado para la categoría de Mejor Multijugador. La lista también hace referencia al éxito previo de Clair Obscur: Expedition 33, que obtuvo reconocimiento destacado en la edición anterior del evento."
+        "title": "Wendy’s lanza juego gratuito WendyQuest con códigos canjeables por comida",
+        "description": "Wendy’s ha puesto a disposición un juego de rol de estilo retro llamado WendyQuest, que se puede descargar en dispositivos iOS y Android y en la pl...",
+        "fullContent": "Wendy’s ha puesto a disposición un juego de rol de estilo retro llamado WendyQuest, que se puede descargar en dispositivos iOS y Android y en la plataforma Steam para usuarios de escritorio. El juego presenta al mascota de la cadena como personaje jugable que combate a robots, entre ellos uno que se asemeja a un envase de papas fritas de McDonald’s. Los jugadores pueden obtener códigos dentro del juego que son canjeables por productos del menú, como papas fritas y hamburguesas, en los locales de Wendy’s.\n\nLa promoción está limitada a personas mayores de 18 años que residan en los Estados Unidos. Para canjear un código, es necesario crear una cuenta en Wendy’s; la comida obtenida mediante los códigos no tiene costo, aunque se requiere una compra en el restaurante para completar la transacción. Wendy’s calificó a WendyQuest como el primer videojuego completamente propiedad de la marca.\n\nWendy’s ha participado previamente en iniciativas relacionadas con videojuegos, incluyendo colaboraciones con Twitch y Fortnite en 2019, y lanzó un libro de reglas para un juego de rol de mesa llamado Feast of Legends en el mismo año."
       }
     },
     {
       "id": "9f0db194f811485998d9a0f68810d9fb",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794145196716_413.jpg",
+      "slug": "nintendo-lanza-remake-de-ocarina-of-time-y-mantiene-la-jugabilidad-original",
+      "url": "https://www.godzgames.com/noticias/nintendo-lanza-remake-de-ocarina-of-time-y-mantiene-la-jugabilidad-original/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169773001_983.jpg",
       "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
       "en": {
-        "title": "Nintendo releases remake of The Legend of Zelda: Ocarina of Time",
-        "description": "Nintendo launched a remake of The Legend of Zelda: Ocarina of Time on Thursday, after years of rumours about a new version of the title. The origin...",
-        "fullContent": "Nintendo launched a remake of The Legend of Zelda: Ocarina of Time on Thursday, after years of rumours about a new version of the title. The original game debuted in 1998 on the Nintendo 64, and at the time IGN described it as \"the biggest game of the decade\". It is credited with establishing several mechanics that are now common in 3D games, including horse riding, sword‑and‑shield combat, and a lock‑on targeting system.\n\nThe 1998 release received an almost perfect score from critics and, according to Metacritic, remains the highest‑rated game in the site's history. For the remake, Nintendo opted to retain the core gameplay of the N64 version rather than introduce extensive redesigns."
+        "title": "Nintendo releases Ocarina of Time remake, retains classic gameplay",
+        "description": "Nintendo released a remake of The Legend of Zelda: Ocarina of Time on Thursday, after years of rumours about a new version. The original title laun...",
+        "fullContent": "Nintendo released a remake of The Legend of Zelda: Ocarina of Time on Thursday, after years of rumours about a new version. The original title launched on the Nintendo 64 in 1998 and was described by IGN as \"the biggest game of the decade,\" establishing a benchmark for 3D games.\n\nThe game introduced mechanics such as horseback riding, sword‑and‑shield combat, and lock‑on targeting, which continue to be present in the remake. The original received an almost perfect score from critics and remains the highest‑rated game on Metacritic.\n\nAccording to the source, Nintendo chose to keep the core gameplay largely unchanged, aiming to provide an experience that mirrors the N64 classic."
       },
       "es": {
-        "title": "Nintendo lanza remake de The Legend of Zelda: Ocarina of Time",
-        "description": "Nintendo lanzó un remake de The Legend of Zelda: Ocarina of Time el jueves, tras años de rumores sobre una nueva versión del título. El juego origi...",
-        "fullContent": "Nintendo lanzó un remake de The Legend of Zelda: Ocarina of Time el jueves, tras años de rumores sobre una nueva versión del título. El juego original salió en 1998 para Nintendo 64, y en ese momento IGN lo describió como \"the biggest game of the decade\". Se le atribuye la introducción de varias mecánicas que hoy son habituales en los juegos 3D, como montar a caballo, el combate con espada y escudo, y el sistema de bloqueo de objetivos.\n\nLa versión de 1998 obtuvo una puntuación casi perfecta por parte de la crítica y, según Metacritic, sigue siendo el juego con la valoración más alta en la historia del sitio. Para el remake, Nintendo decidió mantener la jugabilidad central de la versión de N64 sin realizar cambios estructurales significativos."
+        "title": "Nintendo lanza remake de Ocarina of Time y mantiene la jugabilidad original",
+        "description": "Nintendo lanzó un remake de The Legend of Zelda: Ocarina of Time el jueves, tras años de rumores sobre una nueva versión. El título original se est...",
+        "fullContent": "Nintendo lanzó un remake de The Legend of Zelda: Ocarina of Time el jueves, tras años de rumores sobre una nueva versión. El título original se estrenó en 1998 para Nintendo 64 y fue descrito por IGN como \"el juego más grande de la década\", estableciendo un referente para los juegos en 3D.\n\nEl juego introdujo mecánicas como montar a caballo, combate con espada y escudo, y bloqueo de objetivo, que siguen presentes en el remake. La versión original obtuvo una puntuación casi perfecta por parte de la crítica y sigue siendo el juego con la calificación más alta en Metacritic.\n\nSegún la fuente, Nintendo optó por no modificar sustancialmente la jugabilidad, buscando ofrecer una experiencia que reproduzca la versión clásica de N64."
       }
     },
     {
-      "id": "3ae5bae2b29e83e9cba3ab907593bb5b",
+      "id": "2a1f591f9b0bd4eb1856312c934a596a",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794145200491_704.jpg",
-      "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+      "slug": "estanque-de-pesca-en-el-remake-de-zelda-oot-como-encontrar-el-cebo-sumergible-y-obtener-recompensas",
+      "url": "https://www.godzgames.com/noticias/estanque-de-pesca-en-el-remake-de-zelda-oot-como-encontrar-el-cebo-sumergible-y-obtener-recompensas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169774965_943.jpg",
+      "link": "https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards/",
       "en": {
-        "title": "Star Wars video games see growth under Lucasfilm Games after 2021 development shift",
-        "description": "The source notes that while recent Star Wars films have faced challenges in recapturing their previous success, the video game segment remains acti...",
-        "fullContent": "The source notes that while recent Star Wars films have faced challenges in recapturing their previous success, the video game segment remains active. Following a turbulent start to EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney expanded development in 2021 by inviting multiple publishers and studios to work under the Lucasfilm Games label. Five years later, the source states that the franchise is entering a new golden era of Star Wars games.\n\nAccording to the source, LucasArts' successor is overseeing a range of projects, with EA's recent titles such as Squadrons and the Jedi series taking larger creative approaches. In 2026, the source highlights that releases aimed at niche audiences have clarified the franchise's full potential. The source also mentions that upcoming titles are not required to be high‑budget productions featuring familiar characters; projects like Star Wars Zero Company and Galactic Racer have been identified by involved parties as double‑A successes. Additionally, a Burnout‑inspired Star Wars racer developed by former Burnout staff is described as a strong concept, noting that Criterion, the original Burnout studio, was assigned to Battlefield projects instead, yet the idea attracted interest and resulted in a positive outcome."
+        "title": "Fishing Pond in Zelda OOT Remake: How to Find the Sinking Lure and Obtain Rewards",
+        "description": "The Legend of Zelda: Ocarina of Time remake for Nintendo Switch includes a fishing minigame located at the Fishing Pond on the shore of Lake Hylia....",
+        "fullContent": "The Legend of Zelda: Ocarina of Time remake for Nintendo Switch includes a fishing minigame located at the Fishing Pond on the shore of Lake Hylia. Players can start a session by paying a fee and then cast their line using the standard controls. The fish in the pond react to the lure; moving the lure gently attracts smaller fish, while excessive movement may cause larger fish to become cautious. When a fish bites, pressing ZR hooks it; if ZR is already held, releasing and pressing again is required to secure the catch.\n\nA specific item, the Sinking Lure, can be obtained within the pond area, and it is required to access certain rewards. The article outlines that all available rewards from the Fishing Pond can be collected by following the described mechanics, though it does not list the individual items."
       },
       "es": {
-        "title": "Los videojuegos de Star Wars experimentan crecimiento bajo Lucasfilm Games tras el cambio de desarrollo en 2021",
-        "description": "La fuente indica que, mientras las películas recientes de Star Wars han tenido dificultades para recuperar su éxito anterior, la sección de videoju...",
-        "fullContent": "La fuente indica que, mientras las películas recientes de Star Wars han tenido dificultades para recuperar su éxito anterior, la sección de videojuegos se mantiene activa. Después de un comienzo problemático con la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney ampliaron el desarrollo en 2021 al invitar a varios editores y estudios a trabajar bajo la marca Lucasfilm Games. Cinco años después, la fuente afirma que la franquicia está entrando en una nueva era dorada de juegos de Star Wars.\n\nSegún la fuente, el sucesor de LucasArts está coordinando una variedad de proyectos, y los títulos recientes de EA, como Squadrons y la serie Jedi, han adoptado enfoques creativos más amplios. En 2026, la fuente destaca que los lanzamientos dirigidos a audiencias específicas han aclarado el potencial completo de la franquicia. Además, la fuente menciona que los futuros juegos no necesitan ser producciones de alto presupuesto con personajes familiares; proyectos como Star Wars Zero Company y Galactic Racer han sido reconocidos por las partes involucradas como éxitos de doble A. También se describe un juego de carreras inspirado en Burnout, desarrollado por ex‑miembros de Burnout, como una propuesta sólida; se señala que Criterion, el estudio original de Burnout, fue asignado a proyectos de Battlefield, pero la idea atrajo interés y resultó en un desenlace positivo."
+        "title": "Estanque de Pesca en el remake de Zelda OOT: cómo encontrar el Cebo Sumergible y obtener recompensas",
+        "description": "El remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch incluye un minijuego de pesca situado en el Estanque de Pesca, en la orilla ...",
+        "fullContent": "El remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch incluye un minijuego de pesca situado en el Estanque de Pesca, en la orilla del Lago Hylia. Para iniciar una sesión, el jugador paga una tarifa y lanza la línea con los controles habituales. Los peces del estanque reaccionan al cebo; moverlo suavemente atrae a los peces más pequeños, mientras que un movimiento excesivo puede hacer que los peces más grandes se vuelvan cautelosos. Cuando un pez muerde, se presiona ZR para enganchado; si ZR ya está presionado, es necesario soltarlo y volver a presionar para asegurar la captura.\n\nDentro del área del estanque se puede obtener un objeto llamado Cebo Sumergible, necesario para acceder a ciertas recompensas. El artículo indica que es posible conseguir todas las recompensas disponibles en el Estanque de Pesca siguiendo los pasos descritos, sin detallar cada objeto individual."
       }
     },
     {
-      "id": "da3c73b04477e1c26a4388b19b8f67ef",
+      "id": "c6b9e41fa072cce5c569ae8063bcf4f5",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794145202628_228.jpg",
-      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
+      "slug": "fallece-jacob-payne-propietario-de-retro-jakes-tras-insuficiencia-cardiaca",
+      "url": "https://www.godzgames.com/noticias/fallece-jacob-payne-propietario-de-retro-jakes-tras-insuficiencia-cardiaca/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169777853_48.jpg",
+      "link": "https://www.812noww.com/post/gaming-community-mourns-loss-of-richmond-business-owner-influencer",
       "en": {
-        "title": "Wendy’s launches free mobile RPG WendyQuest with redeemable food codes",
-        "description": "Wendy’s has released a retro‑style role‑playing game called WendyQuest, available for download on iOS, Android and, for desktop users, through the ...",
-        "fullContent": "Wendy’s has released a retro‑style role‑playing game called WendyQuest, available for download on iOS, Android and, for desktop users, through the Steam platform. The announcement was made on November 4 and includes a promotion that allows players to obtain codes that can be redeemed for menu items such as fries and burgers at Wendy’s restaurants in the United States.\n\nThe promotion is limited to participants who are at least 18 years old and reside in the U.S. To redeem a code, players must create a Wendy’s account; the redeemed items are free but require a purchase at the restaurant. A Wendy’s spokesperson noted that WendyQuest is the brand’s first fully owned video game, adding that the company has previously engaged with gaming culture through collaborations with Twitch, Fortnite and the tabletop role‑playing game Feast of Legends released in 2019."
+        "title": "Jacob Payne, owner of Retro Jake’s, dies after severe heart failure",
+        "description": "Jacob Payne, the proprietor of Retro Jake’s with locations in Richmond and Muncie, died following a hospitalization for severe heart failure, accor...",
+        "fullContent": "Jacob Payne, the proprietor of Retro Jake’s with locations in Richmond and Muncie, died following a hospitalization for severe heart failure, according to a statement released by his family last week. Payne had previously operated a store in Connersville, which closed in 2024.\n\nPayne survived bone cancer in 2010 and had recently disclosed ongoing medical issues. At the time of his death, he was recognized as a social media influencer, having accumulated 153,000 followers on Facebook and 555,000 subscribers on YouTube. The announcement was noted by members of the gaming community who had visited his stores or followed his online content."
       },
       "es": {
-        "title": "Wendy’s lanza el juego móvil gratuito WendyQuest con códigos canjeables por comida",
-        "description": "Wendy’s ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar en iOS, Android y, para usua...",
-        "fullContent": "Wendy’s ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar en iOS, Android y, para usuarios de escritorio, a través de la plataforma Steam. El anuncio se realizó el 4 de noviembre e incluye una promoción que permite a los jugadores obtener códigos canjeables por productos del menú, como papas fritas y hamburguesas, en los restaurantes de Wendy’s en Estados Unidos.\n\nLa promoción está restringida a personas mayores de 18 años que vivan en EE. UU. Para canjear un código, los jugadores deben crear una cuenta en Wendy’s; los productos canjeados son gratuitos pero requieren una compra en el establecimiento. Un portavoz de Wendy’s indicó que WendyQuest es el primer videojuego totalmente propio de la marca, y recordó que la empresa ya había participado en la cultura gamer mediante colaboraciones con Twitch, Fortnite y el juego de rol de mesa Feast of Legends, lanzado en 2019."
+        "title": "Fallece Jacob Payne, propietario de Retro Jake’s, tras insuficiencia cardíaca",
+        "description": "Jacob Payne, propietario de Retro Jake’s, con sucursales en Richmond y Muncie, falleció tras una hospitalización por insuficiencia cardíaca grave, ...",
+        "fullContent": "Jacob Payne, propietario de Retro Jake’s, con sucursales en Richmond y Muncie, falleció tras una hospitalización por insuficiencia cardíaca grave, según informó su familia la semana pasada. Payne había gestionado anteriormente una tienda en Connersville, la cual cerró en 2024.\n\nPayne superó un cáncer óseo en 2010 y recientemente había comunicado problemas médicos en curso. Al momento de su fallecimiento, contaba con 153,000 seguidores en Facebook y 555,000 suscriptores en YouTube, y era reconocido como influencer en redes sociales. La noticia fue recibida por miembros de la comunidad de videojuegos que habían visitado sus tiendas o seguían su contenido en línea."
       }
     },
     {
       "id": "e99a1e3e824c14128c4146368821ad3c",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794145204588_386.jpg",
+      "slug": "sag-aftra-presenta-el-acuerdo-de-medios-interactivos-para-presentaciones-previas-al-financiamiento",
+      "url": "https://www.godzgames.com/noticias/sag-aftra-presenta-el-acuerdo-de-medios-interactivos-para-presentaciones-previas-al-financiamiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169779954_326.jpg",
       "link": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
       "en": {
-        "title": "SAG-AFTRA Introduces Pre-Funding Pitch Interactive Media Agreement for Game Development",
-        "description": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, which is intended to simplify the process of hiri...",
-        "fullContent": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, which is intended to simplify the process of hiring professional union talent for early-stage video game projects. The agreement applies to a range of assets, including demos, vertical slices, trailers, teasers, sizzle reels, and playable prototypes.\n\nAccording to the union, projects that use the agreement must not have secured more than 30% of their initial production funding and must not appear to be completed. Projects funded through crowdfunding are excluded, and the agreement does not cover titles that are commercially released or made publicly playable. The union also notes that developers who meet some but not all of the criteria may request a waiver."
+        "title": "SAG-AFTRA introduces Pre-Funding Pitch Interactive Media Agreement for video game projects",
+        "description": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, aimed at simplifying the hiring of professional u...",
+        "fullContent": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, aimed at simplifying the hiring of professional union talent for video game developers. The agreement applies to early‑stage assets such as demos, vertical slices, trailers, teasers, sizzle reels and playable prototypes.\n\nAccording to the union, projects that use the agreement must not have secured more than 30 % of their initial production funding and must not appear to be complete. Crowdfunded projects are excluded, and the agreement does not cover titles that are commercially released or made publicly playable. The union indicates that developers who meet only part of the criteria may request a waiver."
       },
       "es": {
-        "title": "SAG-AFTRA lanza nuevo Acuerdo de Pitch Pre‑Financiado para medios interactivos en videojuegos",
-        "description": "SAG-AFTRA ha presentado el Acuerdo de Pitch Pre‑Financiado para Medios Interactivos, cuyo objetivo es simplificar la contratación de actores profes...",
-        "fullContent": "SAG-AFTRA ha presentado el Acuerdo de Pitch Pre‑Financiado para Medios Interactivos, cuyo objetivo es simplificar la contratación de actores profesionales sindicalizados en etapas tempranas del desarrollo de videojuegos. El acuerdo abarca materiales como demos, vertical slices, tráilers, teasers, sizzle reels y prototipos jugables.\n\nLa unión indica que los proyectos que utilicen este acuerdo no pueden haber asegurado más del 30 % del financiamiento inicial de producción ni presentar indicios de estar terminados. Los proyectos financiados mediante crowdfunding no son elegibles, y el acuerdo no se aplica a títulos que se comercialicen o se pongan a disposición del público para jugar. Además, se señala que los desarrolladores que cumplan parcialmente los requisitos pueden solicitar una exención a la unión."
+        "title": "SAG-AFTRA presenta el Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento",
+        "description": "SAG-AFTRA ha comunicado la creación de un nuevo convenio, denominado Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento, ...",
+        "fullContent": "SAG-AFTRA ha comunicado la creación de un nuevo convenio, denominado Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento, que busca simplificar la contratación de actores profesionales afiliados al sindicato por parte de los desarrolladores de videojuegos. El acuerdo abarca materiales en etapas tempranas como demos, vertical slices, tráilers, teasers, sizzle reels y prototipos jugables.\n\nEl sindicato señala que los proyectos que utilicen este convenio no pueden haber asegurado más del 30 % del financiamiento inicial de producción ni aparentar estar terminados. Los proyectos financiados mediante crowdfunding quedan excluidos, al igual que los títulos que se lancen comercialmente o se pongan a disposición del público para jugar. SAG‑AFTRA indica que los desarrolladores que cumplan solo parte de los requisitos pueden solicitar una exención."
       }
     }
   ]
