@@ -1,84 +1,84 @@
 {
-  "updatedAt": 1794115801392,
+  "updatedAt": 1794143026590,
   "articles": [
     {
       "id": "9f0db194f811485998d9a0f68810d9fb",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794115790914_299.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794143014457_321.jpg",
       "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
       "en": {
-        "title": "Nintendo releases remake of The Legend of Zelda: Ocarina of Time",
-        "description": "The Legend of Zelda: Ocarina of Time was released on Thursday, concluding a period of speculation about a Nintendo remake of the title that origina...",
-        "fullContent": "The Legend of Zelda: Ocarina of Time was released on Thursday, concluding a period of speculation about a Nintendo remake of the title that originally launched on the Nintendo 64 in 1998.\n\nUpon its original launch, IGN described the game as \"the biggest game of the decade,\" and it introduced mechanics such as horse riding, sword‑and‑shield combat, and a lock‑on targeting system that have become common in later 3D titles. The game received an almost perfect score from critics and remains the highest‑rated entry on Metacritic.\n\nNintendo's remake follows the gameplay of the N64 version, opting not to introduce major alterations to the core experience."
+        "title": "Nintendo releases Ocarina of Time remake after years of speculation",
+        "description": "The Legend of Zelda: Ocarina of Time was released on Thursday, following several years of rumors about a Nintendo remake of the title that is often...",
+        "fullContent": "The Legend of Zelda: Ocarina of Time was released on Thursday, following several years of rumors about a Nintendo remake of the title that is often cited as one of the best games ever made. The original version launched in 1998 on the Nintendo 64, and IGN described it at the time as \"the biggest game of the decade,\" noting its influence on 3D game design.\n\nThe game introduced mechanics that are now common in modern titles, such as horse riding, sword-and-shield combat, and a lock‑on system for targeting enemies. It received near‑perfect scores from critics and continues to hold the highest rating on Metacritic for any game. Nintendo opted to retain the core gameplay experience, producing a version that plays similarly to the 1998 classic."
       },
       "es": {
-        "title": "Nintendo lanza remake de The Legend of Zelda: Ocarina of Time",
-        "description": "The Legend of Zelda: Ocarina of Time se lanzó el jueves, poniendo fin a un periodo de rumores sobre un remake por parte de Nintendo de un título qu...",
-        "fullContent": "The Legend of Zelda: Ocarina of Time se lanzó el jueves, poniendo fin a un periodo de rumores sobre un remake por parte de Nintendo de un título que salió originalmente para Nintendo 64 en 1998.\n\nEn su lanzamiento original, IGN lo describió como \"the biggest game of the decade\" y presentó mecánicas como montar a caballo, combate con espada y escudo, y un sistema de bloqueo de objetivo que se han vuelto habituales en juegos 3D posteriores. El juego obtuvo una puntuación casi perfecta de los críticos y sigue siendo el título con mayor puntuación en Metacritic.\n\nEl remake de Nintendo mantiene la jugabilidad de la versión de N64, sin introducir cambios sustanciales en la experiencia principal."
-      }
-    },
-    {
-      "id": "f7a8e00400f72c1204b2a2e79c97427d",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794115793555_222.jpg",
-      "link": "https://gameinformer.com/opinion/2026/11/06/the-video-games-and-more-you-should-play-this-weekend-november-6-2026",
-      "en": {
-        "title": "Zelda Ocarina of Time Remake Featured This Weekend; Tomb Raider Cover Announced; World of Warcraft: Forever Released",
-        "description": "The current issue highlights the remake of The Legend of Zelda: Ocarina of Time. The reviewer reports collecting every heart piece, every Gold Skul...",
-        "fullContent": "The current issue highlights the remake of The Legend of Zelda: Ocarina of Time. The reviewer reports collecting every heart piece, every Gold Skulltula, the Goron Sword, and the largest inventory pouch during the playthrough and notes an intention to start another session.\n\nThe upcoming magazine cover will showcase Tomb Raider: Legacy of Atlantis, accompanied by a cover story and a retrospective on the franchise. The issue also contains an interview with the remake’s producers, details about Easter eggs that were included or omitted, and a tip for using the Switch 2 Pro controller with the game.\n\nWorld of Warcraft: Forever has been released, featuring roughly one thousand new quests, multiple new zones, several gameplay revamps, and a visual overhaul."
-      },
-      "es": {
-        "title": "Remake de Zelda Ocarina of Time destaca este fin de semana; Anuncian portada de Tomb Raider; Lanza World of Warcraft: Forever",
-        "description": "La edición actual dedica espacio al remake de The Legend of Zelda: Ocarina of Time. El crítico indica que obtuvo todas las piezas de corazón, todas...",
-        "fullContent": "La edición actual dedica espacio al remake de The Legend of Zelda: Ocarina of Time. El crítico indica que obtuvo todas las piezas de corazón, todas las Gold Skulltula, la Espada Goron y la bolsa de mayor capacidad durante la partida, y menciona la intención de iniciar otra sesión.\n\nLa próxima portada de la revista presentará Tomb Raider: Legacy of Atlantis, acompañada de una historia de portada y una retrospectiva de la serie. La edición también incluye una entrevista con los productores del remake, información sobre los Easter Eggs que fueron incluidos o excluidos, y un consejo para usar el controlador Switch 2 Pro con el juego.\n\nWorld of Warcraft: Forever ha sido lanzado, incorporando aproximadamente mil nuevas misiones, varias zonas nuevas, múltiples revisiones de juego y una renovación visual."
-      }
-    },
-    {
-      "id": "f7fb89d4d1a3bbfcc21022e4d3032391",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794115795901_0.jpg",
-      "link": "https://www.cnn.com/2026/11/07/entertainment/video/hollywood-entertainment-video-games-nintendo-the-legend-of-zelda-ocarina-of-time-victor-lucas",
-      "en": {
-        "title": "Remake of \"The Legend of Zelda: Ocarina of Time\" discussed in interview",
-        "description": "The upcoming remake of \"The Legend of Zelda: Ocarina of Time\" is being positioned for a new generation of players and current consoles. According t...",
-        "fullContent": "The upcoming remake of \"The Legend of Zelda: Ocarina of Time\" is being positioned for a new generation of players and current consoles. According to the original report, the new version differs in several respects from the 1998 original release.\n\nIn a conversation with Victor Lucas, journalist Rick Damigella provides details about the project, its development, and the intended audience. The interview is presented by Cable News Network (CNN) and includes a QR code that directs viewers to download the CNN app from the Apple Store.\n\n© 2026 Cable News Network. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network."
-      },
-      "es": {
-        "title": "Remake de \"The Legend of Zelda: Ocarina of Time\" se analiza en entrevista",
-        "description": "El próximo remake de \"The Legend of Zelda: Ocarina of Time\" está destinado a una nueva generación de jugadores y a las consolas actuales. Según la ...",
-        "fullContent": "El próximo remake de \"The Legend of Zelda: Ocarina of Time\" está destinado a una nueva generación de jugadores y a las consolas actuales. Según la información original, la nueva versión presenta diferencias con respecto al lanzamiento original de 1998.\n\nEn una conversación con Victor Lucas, el periodista Rick Damigella ofrece detalles sobre el proyecto, su desarrollo y el público al que se dirige. La entrevista es publicada por Cable News Network (CNN) e incluye un código QR que permite descargar la aplicación de CNN desde la Apple Store.\n\n© 2026 Cable News Network. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network."
-      }
-    },
-    {
-      "id": "45884032943fca12d496b31df4a0b7fe",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794115798267_946.jpg",
-      "link": "https://www.dualshockers.com/video-games-that-could-sweep-the-game-awards-2026-ranked/",
-      "en": {
-        "title": "Seven Games Positioned to Win Multiple Categories at The Game Awards 2026",
-        "description": "The winter holiday period traditionally includes family gatherings, discounted video game sales, and a series of award ceremonies that recognize th...",
-        "fullContent": "The winter holiday period traditionally includes family gatherings, discounted video game sales, and a series of award ceremonies that recognize the year's releases. In 2026, a large number of titles have been launched or are scheduled for release, creating a competitive environment for the year-end awards.\n\nThe Game Awards, scheduled for December 10, is the focal point of these celebrations. A recent list identifies seven video games that have the potential to secure several awards, drawing a comparison to the notable performance of Clair Obscur: Expedition 33 at the previous ceremony.\n\nThe first title on the list is Big Walk, a silent game slated for release. The game is expected to be a contender for the Best Multiplayer category. It is developed by House House, a studio recognized for its recent indie releases."
-      },
-      "es": {
-        "title": "Siete videojuegos con posibilidades de ganar múltiples categorías en The Game Awards 2026",
-        "description": "El periodo de vacaciones de invierno incluye reuniones familiares, descuentos en videojuegos y una serie de ceremonias de premiación que reconocen ...",
-        "fullContent": "El periodo de vacaciones de invierno incluye reuniones familiares, descuentos en videojuegos y una serie de ceremonias de premiación que reconocen los lanzamientos del año. En 2026, se han lanzado o están programados numerosos títulos, lo que genera un entorno competitivo para los premios de fin de año.\n\nThe Game Awards, programado para el 10 de diciembre, es el punto central de estas celebraciones. Una lista reciente señala siete videojuegos que podrían obtener varios galardones, comparándolos con el desempeño destacado de Clair Obscur: Expedition 33 en la ceremonia anterior.\n\nEl primer título de la lista es Big Walk, un juego silencioso que se lanzará próximamente. Se anticipa que el juego sea candidato a la categoría de Mejor Multijugador. Está desarrollado por House House, un estudio conocido por sus recientes lanzamientos indie."
+        "title": "Nintendo lanza remake de Ocarina of Time tras años de rumores",
+        "description": "The Legend of Zelda: Ocarina of Time se lanzó el jueves, después de varios años de rumores sobre un remake de Nintendo del título que suele conside...",
+        "fullContent": "The Legend of Zelda: Ocarina of Time se lanzó el jueves, después de varios años de rumores sobre un remake de Nintendo del título que suele considerarse uno de los mejores juegos jamás creados. La versión original salió en 1998 para la Nintendo 64, y IGN la describió en su lanzamiento como \"the biggest game of the decade\", señalando su impacto en el diseño de juegos en 3D.\n\nEl juego introdujo mecánicas que hoy son habituales, como montar a caballo, el combate con espada y escudo, y un sistema de bloqueo de objetivo para los enemigos. Recibió puntuaciones casi perfectas de la crítica y sigue manteniendo la calificación más alta en Metacritic de cualquier juego. Nintendo decidió mantener la experiencia de juego central, produciendo una versión que funciona de manera similar al clásico de 1998."
       }
     },
     {
       "id": "3ae5bae2b29e83e9cba3ab907593bb5b",
       "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794115801307_53.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794143018516_652.jpg",
       "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
       "en": {
-        "title": "Star Wars video games see increased development activity since 2021",
-        "description": "The film franchise has faced challenges in reproducing its earlier success, while video game titles set in the Star Wars universe continue to be re...",
-        "fullContent": "The film franchise has faced challenges in reproducing its earlier success, while video game titles set in the Star Wars universe continue to be released. After a difficult launch of EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney expanded development to multiple publishers and studios under the Lucasfilm Games label in 2021. Over the subsequent five years, the organization has indicated that the portfolio of Star Wars games is entering a period described as a new golden era.\n\nLucasfilm Games, as the successor to LucasArts, is overseeing a range of projects across the franchise. Recent EA releases such as Star Wars: Squadrons and the Jedi series have incorporated broader design approaches. By 2026, several titles are targeting specific niche audiences, and projects like Star Wars Zero Company and Galactic Racer have been identified by involved parties as double‑A successes.\n\nA racing game inspired by the Burnout series, developed by former Burnout staff, has been presented as a viable concept. The source notes that while Criterion, the original Burnout developer, was assigned to other projects within EA, interest in the concept persisted and resulted in a completed product."
+        "title": "Star Wars video games enter new development era under Lucasfilm Games",
+        "description": "After a challenging launch of EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney announced in 2021 that new Star Wars titles would be...",
+        "fullContent": "After a challenging launch of EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney announced in 2021 that new Star Wars titles would be developed by multiple publishers and studios operating under the Lucasfilm Games label. Five years later, the range of projects coordinated by Lucasfilm's successor to LucasArts includes releases such as EA's Star Wars Squadrons and the Jedi series, which have expanded the scope of recent entries.\n\nIn 2026, several titles aimed at niche audiences have been highlighted, indicating a broader utilization of the franchise's potential. Projects identified as double-A successes, including Star Wars Zero Company and Galactic Racer, have been noted for their limited scope and development approach. A racing game inspired by the Burnout series, created by former Burnout developers, was proposed but not produced under EA's direction; the original Burnout studio, Criterion, was allocated to other projects, and another team pursued the concept, resulting in a product described as \"glorious.\""
       },
       "es": {
-        "title": "Los videojuegos de Star Wars aumentan su actividad de desarrollo desde 2021",
-        "description": "La franquicia cinematográfica ha experimentado dificultades para reproducir su éxito anterior, mientras que los videojuegos ambientados en el unive...",
-        "fullContent": "La franquicia cinematográfica ha experimentado dificultades para reproducir su éxito anterior, mientras que los videojuegos ambientados en el universo de Star Wars siguen siendo lanzados. Tras un inicio complicado de la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney ampliaron el desarrollo a varios editores y estudios bajo el sello Lucasfilm Games en 2021. En los cinco años siguientes, la organización ha indicado que el portafolio de juegos de Star Wars está entrando en un periodo descrito como una nueva era dorada.\n\nLucasfilm Games, como sucesor de LucasArts, está coordinando una variedad de proyectos dentro de la franquicia. Los lanzamientos recientes de EA, como Star Wars: Squadrons y la serie Jedi, han adoptado enfoques de diseño más amplios. Para 2026, varios títulos están dirigidos a audiencias específicas, y proyectos como Star Wars Zero Company y Galactic Racer han sido reconocidos por las partes involucradas como éxitos de categoría doble‑A.\n\nUn juego de carreras inspirado en la serie Burnout, desarrollado por ex‑miembros del equipo de Burnout, ha sido presentado como una propuesta viable. La fuente señala que, aunque Criterion, el estudio original de Burnout, fue asignado a otros proyectos dentro de EA, el interés en el concepto se mantuvo y culminó en un producto terminado."
+        "title": "Los videojuegos de Star Wars entran en una nueva era de desarrollo bajo Lucasfilm Games",
+        "description": "Tras un inicio complicado de la serie reiniciada Star Wars Battlefront de EA, Lucasfilm y Disney anunciaron en 2021 que nuevos juegos de Star Wars ...",
+        "fullContent": "Tras un inicio complicado de la serie reiniciada Star Wars Battlefront de EA, Lucasfilm y Disney anunciaron en 2021 que nuevos juegos de Star Wars serían desarrollados por diferentes editoras y estudios bajo el nombre de Lucasfilm Games. Cinco años después, la variedad de proyectos coordinados por el sucesor de LucasArts incluye lanzamientos como Star Wars Squadrons y la serie Jedi de EA, que han ampliado el alcance de las entregas recientes.\n\nEn 2026, se han destacado varios títulos dirigidos a audiencias específicas, lo que indica una mayor explotación del potencial de la franquicia. Proyectos catalogados como éxitos de doble A, entre ellos Star Wars Zero Company y Galactic Racer, han sido señalados por su alcance contenido y su enfoque de desarrollo. Un juego de carreras inspirado en la serie Burnout, creado por ex‑desarrolladores de Burnout, se presentó como propuesta pero no se llevó a cabo bajo la dirección de EA; el estudio original de Burnout, Criterion, fue asignado a otros proyectos, y otro equipo continuó con la idea, resultando en un producto descrito como \"glorioso\"."
+      }
+    },
+    {
+      "id": "da3c73b04477e1c26a4388b19b8f67ef",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794143021087_646.jpg",
+      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
+      "en": {
+        "title": "Wendy’s launches free mobile RPG WendyQuest with redeemable food codes",
+        "description": "Wendy’s announced the release of a retro‑style role‑playing game called WendyQuest on November 4. The game is available for download on iOS and And...",
+        "fullContent": "Wendy’s announced the release of a retro‑style role‑playing game called WendyQuest on November 4. The game is available for download on iOS and Android devices, and can also be accessed on desktop computers through the Steam platform. Players can complete in‑game challenges to obtain codes that can be exchanged for menu items such as fries and burgers at Wendy’s restaurants.\n\nThe promotion is limited to individuals who are at least 18 years old and reside in the United States. To redeem a code, users must create a Wendy’s account, and while the food items are provided at no cost, a purchase is required at the time of redemption. Wendy’s noted that the company has previously participated in gaming‑related initiatives, including collaborations with Fortnite and Twitch in 2019 and the release of a tabletop role‑playing rulebook titled Feast of Legends."
+      },
+      "es": {
+        "title": "Wendy’s lanza el RPG gratuito WendyQuest con códigos canjeables por alimentos",
+        "description": "Wendy’s comunicó el lanzamiento de un juego de rol de estilo retro llamado WendyQuest el 4 de noviembre. El título está disponible para su descarga...",
+        "fullContent": "Wendy’s comunicó el lanzamiento de un juego de rol de estilo retro llamado WendyQuest el 4 de noviembre. El título está disponible para su descarga en dispositivos iOS y Android, y también puede jugarse en computadoras de escritorio a través de la plataforma Steam. Al superar desafíos dentro del juego, los usuarios obtienen códigos que pueden canjearse por productos del menú, como papas fritas y hamburguesas, en los locales de Wendy’s.\n\nLa promoción está restringida a personas mayores de 18 años que vivan en los Estados Unidos. Para canjear un código es necesario crear una cuenta en Wendy’s; aunque los alimentos se entregan sin costo, se requiere una compra al momento del canje. Wendy’s señaló que ya ha participado en iniciativas relacionadas con los videojuegos, entre ellas colaboraciones con Fortnite y Twitch en 2019 y la publicación de un libro de reglas para un juego de rol de mesa llamado Feast of Legends."
+      }
+    },
+    {
+      "id": "e99a1e3e824c14128c4146368821ad3c",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794143023073_785.jpg",
+      "link": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+      "en": {
+        "title": "SAG-AFTRA unveils Pre-Funding Pitch Interactive Media Agreement for video game projects",
+        "description": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, which is intended to simplify the process of hiri...",
+        "fullContent": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, which is intended to simplify the process of hiring professional union talent for early-stage video game content. The agreement covers a range of deliverables, including demos, vertical slices, trailers, teasers, sizzle reels, and playable prototypes.\n\nTo qualify, a project may not have secured more than 30 percent of its initial production funding and must not appear to be completed. Projects that rely on crowdfunding are excluded, and the content covered by the agreement cannot be commercially released or made publicly playable. SAG-AFTRA notes that developers whose projects meet some but not all of the criteria may request a waiver from the union."
+      },
+      "es": {
+        "title": "SAG-AFTRA presenta el Acuerdo de Medios Interactivos para Pitch Pre-Financiado",
+        "description": "SAG-AFTRA ha dado a conocer un nuevo acuerdo, denominado Acuerdo de Medios Interactivos para Pitch Pre-Financiado, que busca simplificar la contrat...",
+        "fullContent": "SAG-AFTRA ha dado a conocer un nuevo acuerdo, denominado Acuerdo de Medios Interactivos para Pitch Pre-Financiado, que busca simplificar la contratación de actores profesionales afiliados al sindicato en etapas tempranas del desarrollo de videojuegos. El acuerdo abarca materiales como demos, vertical slices, trailers, teasers, sizzle reels y prototipos jugables.\n\nPara ser elegible, el proyecto no debe haber asegurado más del 30 % de la financiación inicial de producción y no debe presentar señales de estar finalizado. Los proyectos financiados mediante crowdfunding quedan excluidos, y el contenido cubierto por el acuerdo no puede ser lanzado comercialmente ni puesto a disposición del público para jugar. SAG-AFTRA indica que, si un proyecto cumple solo parte de los requisitos, los desarrolladores pueden solicitar una exención al sindicato."
+      }
+    },
+    {
+      "id": "f7a8e00400f72c1204b2a2e79c97427d",
+      "tag": "NEWS",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794143026491_892.jpg",
+      "link": "https://gameinformer.com/opinion/2026/11/06/the-video-games-and-more-you-should-play-this-weekend-november-6-2026",
+      "en": {
+        "title": "Weekend Gaming Highlights: Zelda Ocarina of Time Remake, Tomb Raider Cover Reveal, and World of Warcraft: Forever Launch",
+        "description": "The latest issue centers on the remake of The Legend of Zelda: Ocarina of Time. The reviewer notes that they completed the game, acquiring every he...",
+        "fullContent": "The latest issue centers on the remake of The Legend of Zelda: Ocarina of Time. The reviewer notes that they completed the game, acquiring every heart piece, every Gold Skulltula, the Goron Sword, and the largest item pouch. The review links to a full written article and a video, and includes an interview with two producers—one who worked on the original Ocarina of Time and another who directed Breath of the Wild—along with information about Easter eggs that were added or omitted and a tip for using a Switch 2 Pro controller.\n\nThe magazine also announced its next cover, which will feature Tomb Raider: Legacy of Atlantis. The cover is described as celebrating the history of Lara Croft, and it will be accompanied by a cover story and a retrospective on the Tomb Raider series. The issue is available to subscribers.\n\nAdditionally, the game World of Warcraft: Forever has been released. According to the report, the update adds approximately one thousand new quests, several new zones, multiple system revamps, and a visual overhaul. The article also references a curated list of weekend play recommendations."
+      },
+      "es": {
+        "title": "Recomendaciones de juegos para el fin de semana: remake de Zelda Ocarina of Time, anuncio de portada de Tomb Raider y lanzamiento de World of Warcraft: Forever",
+        "description": "La última edición se centra en el remake de The Legend of Zelda: Ocarina of Time. El crítico indica que completó el juego, obteniendo todas las pie...",
+        "fullContent": "La última edición se centra en el remake de The Legend of Zelda: Ocarina of Time. El crítico indica que completó el juego, obteniendo todas las piezas de corazón, todas las Gold Skulltula, la Espada Goron y la bolsa de objetos de mayor capacidad. La reseña incluye un enlace al artículo completo y al video, una entrevista con dos productores—uno que trabajó en el Ocarina of Time original y otro que dirigió Breath of the Wild—, información sobre los Easter Eggs incluidos o excluidos y un consejo para jugar con el controlador Switch 2 Pro.\n\nLa publicación también reveló la próxima portada, que presentará Tomb Raider: Legacy of Atlantis. La portada se describe como una celebración de la historia de Lara Croft y será acompañada de una historia de portada y una retrospectiva de la serie Tomb Raider. La edición está disponible para suscriptores.\n\nAsimismo, se ha lanzado World of Warcraft: Forever. Según el informe, la actualización incorpora alrededor de mil nuevas misiones, varias zonas nuevas, múltiples revisiones de sistemas y una renovación visual. El artículo también menciona una lista de recomendaciones de juego para el fin de semana."
       }
     }
   ]
