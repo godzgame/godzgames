@@ -2,6 +2,37 @@ const ftp = require("basic-ftp");
 const path = require("path");
 const fs = require("fs");
 
+async function syncUploads(client) {
+    const localDir = path.join(__dirname, "../public/uploads");
+    if (!fs.existsSync(localDir)) {
+        console.log("ℹ️ No hay public/uploads local; se omite la sincronizacion de imagenes.");
+        return;
+    }
+    let remote = new Set();
+    try {
+        const items = await client.list("./uploads");
+        remote = new Set(items.filter(i => i.isFile).map(i => i.name));
+    } catch (e) {
+        console.log("ℹ️ No se pudo listar ./uploads: " + e.message);
+        await client.ensureDir("./uploads");
+        await client.cd("/");
+    }
+    const localFiles = fs.readdirSync(localDir).filter(n => fs.statSync(path.join(localDir, n)).isFile());
+    const missing = localFiles.filter(n => !remote.has(n)).sort().reverse();
+    const toUpload = missing.slice(0, 400);
+    console.log("🖼️ Imagenes en GitHub: " + localFiles.length + " | en el servidor: " + remote.size + " | faltan: " + missing.length + " | se suben ahora: " + toUpload.length);
+    let ok = 0;
+    for (const n of toUpload) {
+        try {
+            await client.uploadFrom(path.join(localDir, n), "./uploads/" + n);
+            ok++;
+        } catch (e) {
+            console.warn("⚠️ No se pudo subir " + n + ": " + e.message);
+        }
+    }
+    console.log("✅ Imagenes subidas: " + ok + " de " + toUpload.length);
+}
+
 async function deploy() {
     const client = new ftp.Client(30000);
     client.ftp.verbose = true;
@@ -51,10 +82,11 @@ async function deploy() {
         console.log(`🚀 Subiendo código compilado a la raíz del sitio FTP ("./")...`);
         await client.uploadFromDir(distPath, "./");
         console.log("✅ Subida completada.");
+        try { await syncUploads(client); } catch (e) { console.warn("⚠️ Sincronizacion de imagenes fallo: " + e.message); }
 
         // Si existe una subcarpeta secundaria public_html, sincronizar también
         const rootItems = await client.list("./");
-        const hasSubPublicHtml = rootItems.some(item => item.name === "public_html" && item.isDirectory);
+        const hasSubPublicHtml = false;
         if (hasSubPublicHtml) {
             console.log("🚀 Sincronizando también con subcarpeta ./public_html/...");
             try {
