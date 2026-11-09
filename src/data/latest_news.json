@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794202923670,
+  "updatedAt": 1794239245730,
   "articles": [
+    {
+      "id": "2835ced17a0345478563cfa813ab378c",
+      "tag": "NEWS",
+      "slug": "cinco-juegos-de-ps4-que-destacan-las-capacidades-visuales-de-la-consola",
+      "url": "https://www.godzgames.com/noticias/cinco-juegos-de-ps4-que-destacan-las-capacidades-visuales-de-la-consola/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239227065_577.jpg",
+      "link": "https://www.svg.com/2306975/ps4-games-best-graphics-ranked/",
+      "en": {
+        "title": "Five PS4 Games Highlighting the Console’s Visual Capabilities",
+        "description": "After the PlayStation 3 period, Sony launched the PlayStation 4 using an x86 architecture, which differed from the PS3’s Cell processor and reduced...",
+        "fullContent": "After the PlayStation 3 period, Sony launched the PlayStation 4 using an x86 architecture, which differed from the PS3’s Cell processor and reduced the complexity of development for many studios. The PS4 delivered smoother frame rates, higher resolutions and support for HDR colour grading, providing a visual improvement over the previous generation. This report examines five PlayStation 4 titles that illustrate the console’s graphical performance, concentrating on the versions released for PS4 and PS4 Pro, while noting that some of the games later received updates for the PlayStation 5.\n\nThe first title covered is Shadow of the Tomb Raider, the third entry in the series that was rebooted in 2013. Released in 2018, the game was exclusive to current‑generation consoles, with no Xbox 360 version. Its environments are primarily set in a Peruvian jungle, featuring dense foliage, mud‑covered terrain and lakes."
+      },
+      "es": {
+        "title": "Cinco juegos de PS4 que destacan las capacidades visuales de la consola",
+        "description": "Tras la era de la PlayStation 3, Sony lanzó la PlayStation 4 con una arquitectura x86, distinta del procesador Cell de la PS3, lo que simplificó el...",
+        "fullContent": "Tras la era de la PlayStation 3, Sony lanzó la PlayStation 4 con una arquitectura x86, distinta del procesador Cell de la PS3, lo que simplificó el desarrollo para varios estudios. La PS4 ofreció frecuencias de cuadro más fluidas, resoluciones superiores y compatibilidad con la gradación de color HDR, proporcionando una mejora visual respecto a la generación anterior. Este informe analiza cinco títulos de PlayStation 4 que demuestran el rendimiento gráfico de la consola, centrándose en las versiones para PS4 y PS4 Pro, y menciona que algunos de esos juegos recibieron actualizaciones para la PlayStation 5.\n\nEl primer título tratado es Shadow of the Tomb Raider, la tercera entrega de la serie que se reinició en 2013. Lanzado en 2018, el juego fue exclusivo para consolas de generación actual, sin una versión para Xbox 360. Sus escenarios se desarrollan principalmente en una selva peruana, con vegetación densa, terrenos embarrados y lagos."
+      }
+    },
+    {
+      "id": "02f2ee316625188deefa4d521b3704c3",
+      "tag": "NEWS",
+      "slug": "datamine-indica-posible-dlc-de-master-quest-para-remake-de-ocarina-of-time-en-switch",
+      "url": "https://www.godzgames.com/noticias/datamine-indica-posible-dlc-de-master-quest-para-remake-de-ocarina-of-time-en-switch/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239229364_105.jpg",
+      "link": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-could-be-getting-master-quest-dlc/",
+      "en": {
+        "title": "Datamine suggests Master Quest DLC may be planned for Ocarina of Time Switch remake",
+        "description": "A recent datamine of the upcoming Nintendo Switch 2 version of The Legend of Zelda: Ocarina of Time has revealed references to \"MQ\" within the game...",
+        "fullContent": "A recent datamine of the upcoming Nintendo Switch 2 version of The Legend of Zelda: Ocarina of Time has revealed references to \"MQ\" within the game files, according to social media user MrCheese. The abbreviation is interpreted as Master Quest, a more challenging variant of the original game that was released in 2003 for the GameCube and later as an unlockable mode for the 3DS edition.\n\nThe extracted data also includes indications that the Master Quest content would be accessible through a separate DLC purchase rather than a free update. An X post by OatmealDome noted that the files suggest modifications such as mirrored world layouts and altered dungeon designs, citing examples like the presence of cows in Jabu‑Jabu's Belly. The information is described as incomplete, but it confirms the presence of Master Quest‑related assets in the Switch 2 build."
+      },
+      "es": {
+        "title": "Datamine indica posible DLC de Master Quest para remake de Ocarina of Time en Switch",
+        "description": "Un reciente datamine del próximo remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ha revelado referencias a \"MQ\" dentro de los...",
+        "fullContent": "Un reciente datamine del próximo remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ha revelado referencias a \"MQ\" dentro de los archivos del juego, según el usuario de redes sociales MrCheese. La abreviatura se interpreta como Master Quest, una versión más difícil del título original que se lanzó en 2003 para GameCube y posteriormente como modo desbloqueable en la edición para 3DS.\n\nLos datos extraídos también incluyen indicios de que el contenido de Master Quest estaría disponible mediante la compra de un DLC independiente, en lugar de una actualización gratuita. Una publicación en X de OatmealDome señaló que los archivos sugieren modificaciones como la inversión del mapa del mundo y cambios en el diseño de mazmorras, mencionando ejemplos como la presencia de vacas en el vientre de Jabu‑Jabu. La información se describe como incompleta, pero confirma la existencia de activos relacionados con Master Quest en la versión para Switch 2."
+      }
+    },
+    {
+      "id": "7c9b0708df6ff9de6c6707035d2c36e3",
+      "tag": "NEWS",
+      "slug": "asociacion-alemana-de-la-industria-de-videojuegos-advierte-que-la-ley-kids-de-la-ue-podria-reemplazar-los-sistemas-nacionales-de-clasificacion-por-edad",
+      "url": "https://www.godzgames.com/noticias/asociacion-alemana-de-la-industria-de-videojuegos-advierte-que-la-ley-kids-de-la-ue-podria-reemplazar-los-sistemas-nacionales-de-clasificacion-por-edad/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239237171_278.jpg",
+      "link": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "en": {
+        "title": "German Games Industry Association warns EU KIDS Act may override national video game age‑rating systems",
+        "description": "The German Games Industry Association (Game) has expressed concern that the draft EU KIDS Act, released in September, could supersede established n...",
+        "fullContent": "The German Games Industry Association (Game) has expressed concern that the draft EU KIDS Act, released in September, could supersede established national age‑rating frameworks for video games. Germany currently relies on the USK system, while most European countries use PEGI. Game notes that the act's proposed Europe‑wide codes of conduct could result in the same title receiving different age classifications, such as 12+ in one marketplace and 16+ in another, potentially diminishing the role of USK.\nThe KIDS Act primarily targets social‑media platforms, introducing a ban for users under 13 and additional restrictions for those under 15. However, it also contains provisions that affect online games, including a binding requirement for age‑rating codes of conduct that goes beyond the existing USK and PEGI structures. Game has called for the legislation to preserve and build upon the current rating systems rather than establishing new procedures. The USK system was updated in 2023 to consider loot boxes and online communication, and PEGI introduced similar changes earlier this year, assigning a default 16+ rating to games with loot boxes. Felix Falk, managing director of Game, said the European Commission’s efforts to tighten youth protection on social media risk collateral damage to the effective safeguards already in place for games."
+      },
+      "es": {
+        "title": "Asociación Alemana de la Industria de Videojuegos advierte que la Ley KIDS de la UE podría reemplazar los sistemas nacionales de clasificación por edad",
+        "description": "La Asociación Alemana de la Industria de Videojuegos (Game) ha advertido que el proyecto de Ley KIDS de la UE, presentado en septiembre, podría anu...",
+        "fullContent": "La Asociación Alemana de la Industria de Videojuegos (Game) ha advertido que el proyecto de Ley KIDS de la UE, presentado en septiembre, podría anular los sistemas de clasificación por edad ya establecidos a nivel nacional para los videojuegos. Alemania utiliza el sistema USK, mientras que la mayor parte de Europa emplea PEGI. Game indica que los códigos de conducta propuestos a nivel europeo podrían provocar que el mismo juego reciba clasificaciones diferentes, como 12+ en una tienda y 16+ en otra, lo que reduciría la relevancia del USK.\nLa Ley KIDS está dirigida principalmente a las redes sociales, proponiendo una prohibición para menores de 13 años y restricciones para menores de 15. No obstante, también incluye disposiciones que afectan a los juegos en línea, estableciendo un requisito vinculante para los códigos de conducta de clasificación que supera el marco actual de USK y PEGI. Game solicita que la legislación mantenga y refuerce los sistemas de clasificación existentes en lugar de crear procedimientos nuevos. El sistema USK se revisó en 2023 para incluir elementos como loot boxes y la comunicación en línea, y PEGI introdujo cambios similares este año, asignando automáticamente una clasificación de 16+ a los juegos con loot boxes. Felix Falk, director general de Game, señaló que la presión de la Comisión Europea para endurecer la protección juvenil en redes sociales podría afectar negativamente la protección ya eficaz para los videojuegos."
+      }
+    },
     {
       "id": "3ae5bae2b29e83e9cba3ab907593bb5b",
       "tag": "NEWS",
-      "slug": "los-videojuegos-de-star-wars-experimentan-crecimiento-tras-la-expansion-del-desarrollo-en-2021",
-      "url": "https://www.godzgames.com/noticias/los-videojuegos-de-star-wars-experimentan-crecimiento-tras-la-expansion-del-desarrollo-en-2021/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202913602_30.jpg",
+      "slug": "los-videojuegos-de-star-wars-entran-en-una-nueva-era-tras-la-expansion-del-desarrollo-de-lucasfilm",
+      "url": "https://www.godzgames.com/noticias/los-videojuegos-de-star-wars-entran-en-una-nueva-era-tras-la-expansion-del-desarrollo-de-lucasfilm/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239240802_213.jpg",
       "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
       "en": {
-        "title": "Star Wars video games see growth after 2021 development expansion",
-        "description": "After a challenging start for EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney opened the development of new Star Wars games to mul...",
-        "fullContent": "After a challenging start for EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney opened the development of new Star Wars games to multiple publishers and studios under the Lucasfilm Games label in 2021. Five years later, the range of projects coordinated by the successor to LucasArts includes titles such as EA's Squadrons and the Jedi series, which have taken larger creative directions. In 2026, releases aimed at niche audiences have highlighted the broader potential of the Star Wars franchise in the gaming sector.\n\nThe recent portfolio includes projects with more limited scopes, such as Star Wars Zero Company and Galactic Racer, which have been identified by involved parties as double‑A successes. A Burnout‑inspired Star Wars racer, developed by former Burnout team members, was pitched but did not proceed under EA's management; Criterion, the original Burnout studio, was assigned to Battlefield work instead. The concept eventually found support elsewhere, and the final product has been described as \"glorious\" by its creators."
+        "title": "Star Wars video games enter new era as Lucasfilm expands development",
+        "description": "The Star Wars film franchise has faced challenges in recapturing its previous success, while the video game sector continues to produce titles with...",
+        "fullContent": "The Star Wars film franchise has faced challenges in recapturing its previous success, while the video game sector continues to produce titles within the universe. After a turbulent launch of EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney announced in 2021 that new Star Wars games would be developed by multiple publishers and studios under the Lucasfilm Games label.\n\nMore than five years later, the organization succeeding LucasArts is overseeing a range of projects set in the Star Wars galaxy. Recent EA releases such as Star Wars: Squadrons and the Jedi series have adopted broader design approaches, and by 2026 the scope of the franchise’s gaming potential appears clearer, with several releases aimed at specific niche audiences.\n\nThe current strategy indicates that future Star Wars games do not need to be large‑budget productions featuring familiar characters or concepts. Projects like Star Wars Zero Company and Galactic Racer have been identified by involved parties as double‑A success stories. A Burnout‑inspired Star Wars racer, created by former Burnout developers, was proposed but did not advance under EA's direction; the original Burnout studio, Criterion, was assigned to work on the Battlefield series. The concept later attracted interest, and the final product has been described as glorious."
       },
       "es": {
-        "title": "Los videojuegos de Star Wars experimentan crecimiento tras la expansión del desarrollo en 2021",
-        "description": "Después de un comienzo complicado para la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney abrieron el desarrollo de nuevos videojue...",
-        "fullContent": "Después de un comienzo complicado para la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney abrieron el desarrollo de nuevos videojuegos de Star Wars a varios editores y estudios bajo la marca Lucasfilm Games en 2021. Cinco años después, la gama de proyectos coordinados por el sucesor de LucasArts incluye títulos como Squadrons y la serie Jedi de EA, que han adoptado enfoques creativos más amplios. En 2026, los lanzamientos dirigidos a audiencias específicas han puesto de relieve el potencial más amplio de la franquicia Star Wars en el sector de los videojuegos.\n\nEl portafolio reciente incluye proyectos con alcances más contenidos, como Star Wars Zero Company y Galactic Racer, que han sido reconocidos por las partes involucradas como éxitos double‑A. Un juego de carreras de Star Wars inspirado en Burnout, desarrollado por exmiembros del equipo de Burnout, se presentó como propuesta pero no se materializó bajo la gestión de EA; Criterion, el estudio original de Burnout, fue asignado al trabajo en Battlefield. El concepto encontró apoyo en otro lugar y el producto final ha sido descrito por sus creadores como \"glorioso\"."
-      }
-    },
-    {
-      "id": "8353771c2ffcb10f228da84b8a071e77",
-      "tag": "NEWS",
-      "slug": "cinco-juegos-de-ps3-destacados-por-su-guion",
-      "url": "https://www.godzgames.com/noticias/cinco-juegos-de-ps3-destacados-por-su-guion/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202915575_689.jpg",
-      "link": "https://www.svg.com/2306790/ps3-best-written-games-ranked/",
-      "en": {
-        "title": "Five PS3 Games Recognized for Strong Plot Writing",
-        "description": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative d...",
-        "fullContent": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative design in video games had become increasingly complex, encompassing genres from role‑playing titles to survival‑horror experiences with detailed storylines.\n\nA list has been compiled that ranks five PlayStation 3 titles noted for their plot writing. The selection includes entries that continue established series as well as new franchises and standalone stories, each offering multiple narrative pathways or distinct settings.\n\nThe development studio Quantic Dream, known for interactive story-driven games, is represented on the list with \"Heavy Rain,\" a PlayStation 3 exclusive released in 2010. The game presents a neo‑noir mystery involving four playable characters linked to a suspect known as the Origami Killer. Gameplay incorporates quick‑time events and provides several possible endings, encouraging players to replay the title to explore alternative story outcomes."
-      },
-      "es": {
-        "title": "Cinco juegos de PS3 destacados por su guion",
-        "description": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en ...",
-        "fullContent": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en los videojuegos había alcanzado un nivel de complejidad notable, abarcando desde RPGs extensos hasta juegos de horror de supervivencia con tramas detalladas.\n\nSe ha elaborado una lista que clasifica cinco títulos de PlayStation 3 reconocidos por la calidad de su escritura. La selección incluye tanto continuaciones de series existentes como franquicias nuevas y narrativas independientes, cada una ofreciendo diferentes caminos narrativos o ambientaciones.\n\nEl estudio Quantic Dream, especializado en juegos de historia interactiva, está representado en la lista con \"Heavy Rain\", exclusivo de PlayStation 3 desde 2010. El juego propone un misterio neo‑noir con cuatro personajes jugables vinculados a un asesino llamado el Asesino del Origami. La mecánica incluye eventos de tiempo rápido y varios finales posibles, invitando a los jugadores a volver a jugar para descubrir distintas versiones de la historia."
-      }
-    },
-    {
-      "id": "c6b9e41fa072cce5c569ae8063bcf4f5",
-      "tag": "NEWS",
-      "slug": "comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne",
-      "url": "https://www.godzgames.com/noticias/comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202917453_929.jpg",
-      "link": "https://www.812noww.com/post/gaming-community-mourns-loss-of-richmond-business-owner-influencer",
-      "en": {
-        "title": "Gaming community mourns death of Retro Jake’s owner Jacob Payne",
-        "description": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, ...",
-        "fullContent": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, according to an announcement from his family last week. Payne previously operated a Retro Jake’s location in Connersville, which closed in 2024.\n\nPayne survived bone cancer in 2010 and had recently disclosed that he was dealing with additional medical issues. His death has been noted by members of the gaming community who frequented his stores or followed his online presence.\n\nAt the time of his passing, Payne had amassed a following of 153,000 on Facebook and 555,000 subscribers on YouTube."
-      },
-      "es": {
-        "title": "Comunidad gamer lamenta la muerte del propietario de Retro Jake’s, Jacob Payne",
-        "description": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca seve...",
-        "fullContent": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca severa, según anunció su familia la semana pasada. Payne había dirigido previamente una sucursal de Retro Jake’s en Connersville, la cual cerró en 2024.\n\nPayne superó un cáncer óseo en 2010 y había comunicado recientemente que enfrentaba problemas médicos adicionales. Su fallecimiento ha sido registrado por miembros de la comunidad de videojuegos que visitaban sus tiendas o lo seguían en redes sociales.\n\nAl momento de su muerte, Payne contaba con 153,000 seguidores en Facebook y 555,000 suscriptores en YouTube."
-      }
-    },
-    {
-      "id": "75e3ce07b5b1d39a53f59398de90d96a",
-      "tag": "NEWS",
-      "slug": "comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia",
-      "url": "https://www.godzgames.com/noticias/comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202919775_369.jpg",
-      "link": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
-      "en": {
-        "title": "Decompilation Community decomp.dev Begins Sunsetting Site, Cites AI",
-        "description": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made...",
-        "fullContent": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made by the site administrator known as @encounter, who indicated that the community aspect of reverse‑engineering games has been affected by the reliance on artificial‑intelligence models and their speed.\n\nThe platform was originally created to gamify the decompilation process, allowing participants to see their progress on a game's code increase over time. In the statement, @encounter described the current situation as a \"hollow numbers game.\"\n\nDecompilation involves converting a game's compiled executable back into a form resembling its original source code, which typically requires extensive trial and error and a solid understanding of programming. The statement notes that AI‑driven tools have produced new decompilers capable of completing projects in a fraction of the time required for manual work, while also distinguishing decompilation from emulation, which merely recreates the original hardware environment."
-      },
-      "es": {
-        "title": "Comunidad de decompilación de videojuegos decomp.dev comienza a cerrar sitio, cita IA",
-        "description": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio w...",
-        "fullContent": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio web. El anuncio lo realizó el administrador del sitio, conocido como @encounter, quien señaló que el aspecto comunitario de la ingeniería inversa de juegos se ha visto afectado por la dependencia de modelos de inteligencia artificial y su rapidez.\n\nLa plataforma se creó originalmente para gamificar el proceso de decompilación, permitiendo a los usuarios observar cómo su progreso en el código de un juego aumentaba con el tiempo. En su comunicado, @encounter describió la situación actual como un \"juego de números vacío\".\n\nLa decompilación consiste en convertir el código ejecutable de un juego a una forma que se asemeje a su código fuente original, lo que requiere prueba y error extensos y un conocimiento sólido de programación. El comunicado menciona que las herramientas impulsadas por IA han generado nuevos decompiladores capaces de completar proyectos en una fracción del tiempo necesario para el trabajo manual, y diferencia la decompilación de la emulación, que simplemente recrea el entorno de hardware original."
+        "title": "Los videojuegos de Star Wars entran en una nueva era tras la expansión del desarrollo de Lucasfilm",
+        "description": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su éxito anterior, mientras que los videojuegos continúan g...",
+        "fullContent": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su éxito anterior, mientras que los videojuegos continúan generando títulos dentro del universo. Tras un inicio tumultuoso de la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney anunciaron en 2021 que nuevos juegos de Star Wars serían desarrollados por varios editores y estudios bajo la marca Lucasfilm Games.\n\nMás de cinco años después, la entidad sucesora de LucasArts está coordinando una variedad de proyectos ambientados en la galaxia de Star Wars. Los lanzamientos recientes de EA, como Star Wars: Squadrons y la serie Jedi, han adoptado enfoques de mayor alcance, y para 2026 el potencial completo de la franquicia en videojuegos se muestra más claro, con varios lanzamientos dirigidos a audiencias específicas.\n\nLa estrategia actual indica que los futuros juegos de Star Wars no requieren ser producciones de gran presupuesto con personajes o conceptos familiares. Proyectos como Star Wars Zero Company y Galactic Racer han sido reconocidos por las partes involucradas como historias de éxito de categoría doble‑A. Un corredor de Star Wars inspirado en Burnout, creado por ex‑desarrolladores de Burnout, se presentó como propuesta pero no avanzó bajo la dirección de EA; el estudio original de Burnout, Criterion, fue asignado a trabajar en la serie Battlefield. Posteriormente, la idea recibió interés y el producto final ha sido descrito como glorioso."
       }
     },
     {
       "id": "a1fe92f2c9dbfbe148f8c2c8e5a0909a",
       "tag": "NEWS",
-      "slug": "lego-lanza-minifigura-retro-video-game-batman-como-regalo-promocional-en-noviembre-de-2026",
-      "url": "https://www.godzgames.com/noticias/lego-lanza-minifigura-retro-video-game-batman-como-regalo-promocional-en-noviembre-de-2026/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202923527_537.jpg",
+      "slug": "lego-ofrece-la-minifigura-retro-video-game-batman-como-polibolsa-promocional-en-ee-uu-reino-unido-y-ue",
+      "url": "https://www.godzgames.com/noticias/lego-ofrece-la-minifigura-retro-video-game-batman-como-polibolsa-promocional-en-ee-uu-reino-unido-y-ue/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239245577_488.jpg",
       "link": "https://jaysbrickblog.com/news/lego-retro-video-game-batman-and-other-returning-gwps-now-available-for-mid-november-2026-promos/",
       "en": {
-        "title": "LEGO offers Retro Video Game Batman minifigure as promotional polybag for November 2026 purchases",
-        "description": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be available as a promotional polybag in the United States, United Kingdo...",
-        "fullContent": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be available as a promotional polybag in the United States, United Kingdom and European Union. Customers who spend at least US$40 / £35 / €40 / CAD$50 on DC or LEGO Batman products on LEGO.com between 9 and 15 November 2026 will receive the minifigure while supplies last. The promotion does not extend to Australia or New Zealand.\n\nThe Retro Video Game Batman figure was previously included only as a bonus with the Switch 2 Deluxe Edition of LEGO Batman Legacy of the Dark Knight. The current offer lowers the purchase threshold for obtaining the figure. Additional promotions mentioned include a double Insider Points reward on set 11386 SpongeBob SquarePants: Bikini Bottom."
+        "title": "LEGO offers Retro Video Game Batman minifigure as promo polybag in US, UK and EU",
+        "description": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be released as a promotional polybag in the United States, the United Kin...",
+        "fullContent": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be released as a promotional polybag in the United States, the United Kingdom and the European Union. The offer is valid for purchases made on LEGO.com between 9 and 15 November 2026, while stocks last.\n\nCustomers must spend a minimum of US$40, £35, €40 or CAD$50 on DC or LEGO Batman sets to qualify for the polybag. The promotion does not extend to Australia or New Zealand. Previously, the Retro Video Game Batman figure was included only as a bonus with the Switch 2 Deluxe Edition of LEGO Batman: Legacy of the Dark Knight.\n\nThe announcement also mentions a separate promotion that provides double Insider Points on set 11386 SpongeBob SquarePants: Bikini Bottom. The original post indicates that affiliate links may generate a small commission for the author."
       },
       "es": {
-        "title": "LEGO lanza minifigura Retro Video Game Batman como regalo promocional en noviembre de 2026",
-        "description": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman estará disponible como polybag promocional en Estados Unidos, Reino Unido y la U...",
-        "fullContent": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman estará disponible como polybag promocional en Estados Unidos, Reino Unido y la Unión Europea. Los clientes que gasten al menos US$40 / £35 / €40 / CAD$50 en productos de DC o LEGO Batman a través de LEGO.com entre el 9 y el 15 de noviembre de 2026 recibirán la figura mientras haya stock. La oferta no está disponible para Australia ni Nueva Zelanda.\n\nLa minifigura Retro Video Game Batman se había ofrecido anteriormente únicamente como bonificación del Switch 2 Deluxe Edition de LEGO Batman Legacy of the Dark Knight. Con la nueva promoción, el umbral de compra requerido es menor. Entre las demás ofertas se menciona un doble de puntos Insider en el set 11386 SpongeBob SquarePants: Bikini Bottom."
+        "title": "LEGO ofrece la minifigura Retro Video Game Batman como poli‑bolsa promocional en EE. UU., Reino Unido y UE",
+        "description": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman se pondrá a disposición como una poli‑bolsa promocional en Estados Unidos, Reino...",
+        "fullContent": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman se pondrá a disposición como una poli‑bolsa promocional en Estados Unidos, Reino Unido y la Unión Europea. La oferta será válida para compras realizadas en LEGO.com entre el 9 y el 15 de noviembre de 2026, mientras haya existencias.\n\nPara obtener la poli‑bolsa, los clientes deben gastar al menos US$40, £35, €40 o CAD$50 en sets de DC o LEGO Batman. La promoción no está disponible en Australia ni Nueva Zelanda. Anteriormente, la figura Retro Video Game Batman solo se ofrecía como bonificación con la edición Deluxe de Switch 2 de LEGO Batman: Legacy of the Dark Knight.\n\nEl anuncio también incluye una promoción adicional que otorga el doble de puntos Insider en el set 11386 SpongeBob SquarePants: Bikini Bottom. En la publicación original se indica que los enlaces de afiliado pueden generar una pequeña comisión para el autor."
       }
     }
   ]
