@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794174804638,
+  "updatedAt": 1794202923670,
   "articles": [
-    {
-      "id": "5ac28927dec3394599595434305ac506",
-      "tag": "NEWS",
-      "slug": "empleadores-planifican-ausencias-de-empleados-por-proximos-lanzamientos-de-videojuegos-en-medio-de-discusiones-sobre-el-burnout",
-      "url": "https://www.godzgames.com/noticias/empleadores-planifican-ausencias-de-empleados-por-proximos-lanzamientos-de-videojuegos-en-medio-de-discusiones-sobre-el-burnout/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174795468_975.jpg",
-      "link": "https://www.psychologytoday.com/us/blog/downloadable-content/202611/is-taking-time-off-to-play-video-games-really-problematic",
-      "en": {
-        "title": "Employers Anticipate Employee Leave for Upcoming Game Releases Amid Burnout Discussions",
-        "description": "The article, posted on November 5, 2026 and reviewed by Michelle Quirk, notes that November will see the release of a remake of \"The Legend of Zeld...",
-        "fullContent": "The article, posted on November 5, 2026 and reviewed by Michelle Quirk, notes that November will see the release of a remake of \"The Legend of Zelda: Ocarina of Time\" and \"Grand Theft Auto VI,\" which is described as the most anticipated video-game release of all time. In the weeks preceding these releases, some employers have been reported to adjust schedules to accommodate expected employee absences for playing the games, while a portion of the general public has expressed disapproval of this practice.\n\nThe piece defines burnout as a syndrome characterized by mental exhaustion, emotional distance, or cynicism toward one's job, accompanied by reduced professional effectiveness. It attributes the condition to chronic workplace stress that is not sufficiently managed, and notes associations with health concerns such as depression, insomnia, anxiety, cardiovascular disease, and diabetes.\n\nAccording to the source, three approaches have shown consistent evidence for reducing burnout. The first approach involves changes to work structure, including reduced workload, increased staffing, schedule adjustments, and improvements in teamwork, which have been linked to reductions in burnout levels."
-      },
-      "es": {
-        "title": "Empleadores Planifican Ausencias de Empleados por Próximos Lanzamientos de Videojuegos en medio de Discusiones sobre el Burnout",
-        "description": "El artículo, publicado el 5 de noviembre de 2026 y revisado por Michelle Quirk, indica que noviembre contará con el lanzamiento de una remake de \"T...",
-        "fullContent": "El artículo, publicado el 5 de noviembre de 2026 y revisado por Michelle Quirk, indica que noviembre contará con el lanzamiento de una remake de \"The Legend of Zelda: Ocarina of Time\" y \"Grand Theft Auto VI\", descrito como el lanzamiento de videojuegos más esperado de todos los tiempos. En las semanas previas a estos lanzamientos, se ha informado que algunos empleadores están ajustando los horarios para contemplar ausencias previstas de empleados que desean jugar, mientras que una parte del público general ha manifestado su desaprobación ante esta práctica.\n\nEl texto define el burnout como un síndrome que incluye agotamiento mental, distancia emocional o cinismo hacia el trabajo, junto con una reducción de la efectividad profesional. Señala que el síndrome se origina en un estrés laboral crónico no gestionado adecuadamente y menciona su correlación con problemas de salud como depresión, insomnio, ansiedad, enfermedades cardiovasculares y diabetes.\n\nSegún la fuente, se han identificado tres enfoques con evidencia consistente para reducir el burnout. El primero consiste en modificar la estructura del trabajo, mediante la reducción de la carga laboral, el aumento de personal, ajustes en los horarios y la mejora del trabajo en equipo, lo que ha demostrado una disminución de los niveles de burnout."
-      }
-    },
     {
       "id": "3ae5bae2b29e83e9cba3ab907593bb5b",
       "tag": "NEWS",
-      "slug": "los-videojuegos-de-star-wars-crecen-tras-la-expansion-del-desarrollo-en-2021",
-      "url": "https://www.godzgames.com/noticias/los-videojuegos-de-star-wars-crecen-tras-la-expansion-del-desarrollo-en-2021/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174798552_961.jpg",
+      "slug": "los-videojuegos-de-star-wars-experimentan-crecimiento-tras-la-expansion-del-desarrollo-en-2021",
+      "url": "https://www.godzgames.com/noticias/los-videojuegos-de-star-wars-experimentan-crecimiento-tras-la-expansion-del-desarrollo-en-2021/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202913602_30.jpg",
       "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
       "en": {
-        "title": "Star Wars video games show growth after 2021 development expansion",
-        "description": "The Star Wars film franchise has faced challenges in recapturing its previous popularity, while the video game segment continues to release new tit...",
-        "fullContent": "The Star Wars film franchise has faced challenges in recapturing its previous popularity, while the video game segment continues to release new titles. In 2021, Lucasfilm and Disney expanded the development of Star Wars games by involving multiple publishers and studios under the Lucasfilm Games label, following a turbulent start to EA's rebooted Star Wars Battlefront series.\n\nFive years later, the coordination of various projects is overseen by the successor to LucasArts, and recent EA releases such as Star Wars: Squadrons and the Jedi series have pursued larger design approaches. By 2026, the range of Star Wars games includes releases aimed at specific niche audiences, and titles like Star Wars Zero Company and Galactic Racer have been identified by stakeholders as double‑A success stories.\n\nA racing game inspired by the Burnout series, developed by former Burnout team members, has been described as a strong concept. Although Criterion, the original Burnout studio, was assigned to work on Battlefield projects, interest in the idea persisted, and the resulting product has been characterized as \"glorious\"."
+        "title": "Star Wars video games see growth after 2021 development expansion",
+        "description": "After a challenging start for EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney opened the development of new Star Wars games to mul...",
+        "fullContent": "After a challenging start for EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney opened the development of new Star Wars games to multiple publishers and studios under the Lucasfilm Games label in 2021. Five years later, the range of projects coordinated by the successor to LucasArts includes titles such as EA's Squadrons and the Jedi series, which have taken larger creative directions. In 2026, releases aimed at niche audiences have highlighted the broader potential of the Star Wars franchise in the gaming sector.\n\nThe recent portfolio includes projects with more limited scopes, such as Star Wars Zero Company and Galactic Racer, which have been identified by involved parties as double‑A successes. A Burnout‑inspired Star Wars racer, developed by former Burnout team members, was pitched but did not proceed under EA's management; Criterion, the original Burnout studio, was assigned to Battlefield work instead. The concept eventually found support elsewhere, and the final product has been described as \"glorious\" by its creators."
       },
       "es": {
-        "title": "Los videojuegos de Star Wars crecen tras la expansión del desarrollo en 2021",
-        "description": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su popularidad anterior, mientras que la sección de videoju...",
-        "fullContent": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su popularidad anterior, mientras que la sección de videojuegos sigue publicando nuevos títulos. En 2021, Lucasfilm y Disney ampliaron el desarrollo de juegos de Star Wars al involucrar a varios editores y estudios bajo la marca Lucasfilm Games, después de un comienzo turbulento de la serie reboot de Star Wars Battlefront de EA.\n\nCinco años después, la coordinación de diversos proyectos está a cargo del sucesor de LucasArts, y los últimos lanzamientos de EA, como Star Wars: Squadrons y la serie Jedi, han adoptado enfoques de mayor alcance. En 2026, la oferta de juegos de Star Wars incluye lanzamientos dirigidos a audiencias específicas, y títulos como Star Wars Zero Company y Galactic Racer han sido reconocidos por las partes interesadas como éxitos de categoría doble‑A.\n\nUn juego de carreras inspirado en la serie Burnout, desarrollado por exmiembros del equipo original de Burnout, ha sido descrito como una propuesta sólida. Aunque Criterion, el estudio original de Burnout, fue asignado a proyectos de Battlefield, el interés en la idea continuó y el producto resultante ha sido calificado como \"glorioso\"."
+        "title": "Los videojuegos de Star Wars experimentan crecimiento tras la expansión del desarrollo en 2021",
+        "description": "Después de un comienzo complicado para la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney abrieron el desarrollo de nuevos videojue...",
+        "fullContent": "Después de un comienzo complicado para la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney abrieron el desarrollo de nuevos videojuegos de Star Wars a varios editores y estudios bajo la marca Lucasfilm Games en 2021. Cinco años después, la gama de proyectos coordinados por el sucesor de LucasArts incluye títulos como Squadrons y la serie Jedi de EA, que han adoptado enfoques creativos más amplios. En 2026, los lanzamientos dirigidos a audiencias específicas han puesto de relieve el potencial más amplio de la franquicia Star Wars en el sector de los videojuegos.\n\nEl portafolio reciente incluye proyectos con alcances más contenidos, como Star Wars Zero Company y Galactic Racer, que han sido reconocidos por las partes involucradas como éxitos double‑A. Un juego de carreras de Star Wars inspirado en Burnout, desarrollado por exmiembros del equipo de Burnout, se presentó como propuesta pero no se materializó bajo la gestión de EA; Criterion, el estudio original de Burnout, fue asignado al trabajo en Battlefield. El concepto encontró apoyo en otro lugar y el producto final ha sido descrito por sus creadores como \"glorioso\"."
       }
     },
     {
-      "id": "da3c73b04477e1c26a4388b19b8f67ef",
+      "id": "8353771c2ffcb10f228da84b8a071e77",
       "tag": "NEWS",
-      "slug": "wendys-lanza-el-rpg-gratuito-wendyquest-con-codigos-canjeables-por-comida",
-      "url": "https://www.godzgames.com/noticias/wendys-lanza-el-rpg-gratuito-wendyquest-con-codigos-canjeables-por-comida/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174800512_528.jpg",
-      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
+      "slug": "cinco-juegos-de-ps3-destacados-por-su-guion",
+      "url": "https://www.godzgames.com/noticias/cinco-juegos-de-ps3-destacados-por-su-guion/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202915575_689.jpg",
+      "link": "https://www.svg.com/2306790/ps3-best-written-games-ranked/",
       "en": {
-        "title": "Wendy's launches free mobile RPG WendyQuest with redeemable food codes",
-        "description": "Wendy's has released a retro‑style role‑playing game called WendyQuest, which is available for free on iOS and Android devices and can also be acce...",
-        "fullContent": "Wendy's has released a retro‑style role‑playing game called WendyQuest, which is available for free on iOS and Android devices and can also be accessed on desktop via Steam. The game features the chain's red‑haired mascot as a combatant who faces enemies resembling french fry containers. Players who reach certain milestones can obtain in‑game codes that are redeemable for menu items such as fries and burgers at Wendy's restaurants.\n\nThe promotion is limited to individuals who are at least 18 years old and reside in the United States. To use a code, players must create a Wendy's account and present the code at a participating location; while the items are offered at no cost, a purchase is required at the time of redemption. Wendy's noted that the company has previously participated in gaming‑related activities, including collaborations with Fortnite and Twitch in 2019 and the release of a tabletop role‑playing rulebook titled Feast of Legends.\n"
+        "title": "Five PS3 Games Recognized for Strong Plot Writing",
+        "description": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative d...",
+        "fullContent": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative design in video games had become increasingly complex, encompassing genres from role‑playing titles to survival‑horror experiences with detailed storylines.\n\nA list has been compiled that ranks five PlayStation 3 titles noted for their plot writing. The selection includes entries that continue established series as well as new franchises and standalone stories, each offering multiple narrative pathways or distinct settings.\n\nThe development studio Quantic Dream, known for interactive story-driven games, is represented on the list with \"Heavy Rain,\" a PlayStation 3 exclusive released in 2010. The game presents a neo‑noir mystery involving four playable characters linked to a suspect known as the Origami Killer. Gameplay incorporates quick‑time events and provides several possible endings, encouraging players to replay the title to explore alternative story outcomes."
       },
       "es": {
-        "title": "Wendy's lanza el RPG gratuito WendyQuest con códigos canjeables por comida",
-        "description": "Wendy's ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar de forma gratuita en disposi...",
-        "fullContent": "Wendy's ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar de forma gratuita en dispositivos iOS y Android y también está disponible para usuarios de escritorio a través de la plataforma Steam. En el juego, el mascota de la cadena, de cabello rojo, actúa como combatiente contra enemigos que recuerdan a contenedores de papas fritas. Al alcanzar ciertos logros, los jugadores reciben códigos dentro del juego que pueden canjearse por productos del menú, como papas fritas y hamburguesas, en los restaurantes Wendy's.\n\nLa promoción está restringida a personas mayores de 18 años que vivan en los Estados Unidos. Para canjear un código, es necesario crear una cuenta en Wendy's y presentar el código en un establecimiento participante; aunque los artículos se entregan sin costo, se requiere una compra al momento del canje. Wendy's señaló que la empresa ya había participado en actividades relacionadas con los videojuegos, incluidas colaboraciones con Fortnite y Twitch en 2019 y la publicación de un libro de reglas para un juego de rol de mesa llamado Feast of Legends."
+        "title": "Cinco juegos de PS3 destacados por su guion",
+        "description": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en ...",
+        "fullContent": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en los videojuegos había alcanzado un nivel de complejidad notable, abarcando desde RPGs extensos hasta juegos de horror de supervivencia con tramas detalladas.\n\nSe ha elaborado una lista que clasifica cinco títulos de PlayStation 3 reconocidos por la calidad de su escritura. La selección incluye tanto continuaciones de series existentes como franquicias nuevas y narrativas independientes, cada una ofreciendo diferentes caminos narrativos o ambientaciones.\n\nEl estudio Quantic Dream, especializado en juegos de historia interactiva, está representado en la lista con \"Heavy Rain\", exclusivo de PlayStation 3 desde 2010. El juego propone un misterio neo‑noir con cuatro personajes jugables vinculados a un asesino llamado el Asesino del Origami. La mecánica incluye eventos de tiempo rápido y varios finales posibles, invitando a los jugadores a volver a jugar para descubrir distintas versiones de la historia."
       }
     },
     {
-      "id": "9f0db194f811485998d9a0f68810d9fb",
+      "id": "c6b9e41fa072cce5c569ae8063bcf4f5",
       "tag": "NEWS",
-      "slug": "nintendo-lanza-remake-de-ocarina-of-time-tras-anos-de-rumores",
-      "url": "https://www.godzgames.com/noticias/nintendo-lanza-remake-de-ocarina-of-time-tras-anos-de-rumores/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174802455_948.jpg",
-      "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
+      "slug": "comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne",
+      "url": "https://www.godzgames.com/noticias/comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202917453_929.jpg",
+      "link": "https://www.812noww.com/post/gaming-community-mourns-loss-of-richmond-business-owner-influencer",
       "en": {
-        "title": "Nintendo releases Ocarina of Time remake after years of speculation",
-        "description": "The Legend of Zelda: Ocarina of Time was released on Thursday as a remake, following several years of rumors about a new version of the title. The ...",
-        "fullContent": "The Legend of Zelda: Ocarina of Time was released on Thursday as a remake, following several years of rumors about a new version of the title. The original version launched in 1998 on the Nintendo 64, and IGN described it at the time as \"the biggest game of the decade.\" The game introduced several mechanics that have become common in modern titles, such as horse riding, sword and shield combat, and a lock‑on targeting system.\n\nCritical reception for the original version was near perfect, and it currently holds the highest aggregate score on Metacritic. Nintendo opted to retain the gameplay style of the 1998 release rather than introduce major changes for the remake."
+        "title": "Gaming community mourns death of Retro Jake’s owner Jacob Payne",
+        "description": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, ...",
+        "fullContent": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, according to an announcement from his family last week. Payne previously operated a Retro Jake’s location in Connersville, which closed in 2024.\n\nPayne survived bone cancer in 2010 and had recently disclosed that he was dealing with additional medical issues. His death has been noted by members of the gaming community who frequented his stores or followed his online presence.\n\nAt the time of his passing, Payne had amassed a following of 153,000 on Facebook and 555,000 subscribers on YouTube."
       },
       "es": {
-        "title": "Nintendo lanza remake de Ocarina of Time tras años de rumores",
-        "description": "The Legend of Zelda: Ocarina of Time se lanzó el jueves en versión remake, después de varios años de rumores sobre una nueva versión del título. La...",
-        "fullContent": "The Legend of Zelda: Ocarina of Time se lanzó el jueves en versión remake, después de varios años de rumores sobre una nueva versión del título. La versión original se estrenó en 1998 para Nintendo 64, y en su momento IGN la describió como \"el juego más grande de la década\". El juego introdujo varias mecánicas que ahora son habituales, como montar a caballo, el combate con espada y escudo, y un sistema de bloqueo de objetivo.\n\nLa recepción crítica de la versión original fue casi perfecta, y actualmente mantiene la puntuación más alta en Metacritic. Nintendo decidió mantener el estilo de juego de la versión de 1998, sin introducir cambios significativos en el remake."
+        "title": "Comunidad gamer lamenta la muerte del propietario de Retro Jake’s, Jacob Payne",
+        "description": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca seve...",
+        "fullContent": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca severa, según anunció su familia la semana pasada. Payne había dirigido previamente una sucursal de Retro Jake’s en Connersville, la cual cerró en 2024.\n\nPayne superó un cáncer óseo en 2010 y había comunicado recientemente que enfrentaba problemas médicos adicionales. Su fallecimiento ha sido registrado por miembros de la comunidad de videojuegos que visitaban sus tiendas o lo seguían en redes sociales.\n\nAl momento de su muerte, Payne contaba con 153,000 seguidores en Facebook y 555,000 suscriptores en YouTube."
       }
     },
     {
-      "id": "2a1f591f9b0bd4eb1856312c934a596a",
+      "id": "75e3ce07b5b1d39a53f59398de90d96a",
       "tag": "NEWS",
-      "slug": "como-encontrar-el-cebo-sumergible-y-obtener-recompensas-en-el-estanque-de-pesca-de-the-legend-of-zelda-ocarina-of-time-remake",
-      "url": "https://www.godzgames.com/noticias/como-encontrar-el-cebo-sumergible-y-obtener-recompensas-en-el-estanque-de-pesca-de-the-legend-of-zelda-ocarina-of-time-remake/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174804515_601.jpg",
-      "link": "https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards/",
+      "slug": "comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia",
+      "url": "https://www.godzgames.com/noticias/comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202919775_369.jpg",
+      "link": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
       "en": {
-        "title": "How to locate the Sinking Lure and obtain rewards at the Fishing Pond in The Legend of Zelda: Ocarina of Time remake",
-        "description": "The Fishing Pond is situated on the shore of Lake Hylia in the Nintendo Switch remake of The Legend of Zelda: Ocarina of Time. After paying the req...",
-        "fullContent": "The Fishing Pond is situated on the shore of Lake Hylia in the Nintendo Switch remake of The Legend of Zelda: Ocarina of Time. After paying the required fee, players can fish for an unlimited duration by aiming and casting the line as with a standard item.\n\nFish in the pond respond to the lure’s movement; wiggling the lure attracts them, while excessive movement can increase their caution. Smaller fish display lower levels of caution than larger ones. When a fish bites, pressing ZR registers a hook; if ZR is already being held for reeling, it must be released and pressed again to complete the hook. The area also offers a set of rewards, including the Sinking Lure, which can be obtained by following these mechanics."
+        "title": "Decompilation Community decomp.dev Begins Sunsetting Site, Cites AI",
+        "description": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made...",
+        "fullContent": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made by the site administrator known as @encounter, who indicated that the community aspect of reverse‑engineering games has been affected by the reliance on artificial‑intelligence models and their speed.\n\nThe platform was originally created to gamify the decompilation process, allowing participants to see their progress on a game's code increase over time. In the statement, @encounter described the current situation as a \"hollow numbers game.\"\n\nDecompilation involves converting a game's compiled executable back into a form resembling its original source code, which typically requires extensive trial and error and a solid understanding of programming. The statement notes that AI‑driven tools have produced new decompilers capable of completing projects in a fraction of the time required for manual work, while also distinguishing decompilation from emulation, which merely recreates the original hardware environment."
       },
       "es": {
-        "title": "Cómo encontrar el Cebo Sumergible y obtener recompensas en el Estanque de Pesca de The Legend of Zelda: Ocarina of Time remake",
-        "description": "El Estanque de Pesca se encuentra en la orilla del Lago Hylia en la versión para Nintendo Switch de The Legend of Zelda: Ocarina of Time. Tras abon...",
-        "fullContent": "El Estanque de Pesca se encuentra en la orilla del Lago Hylia en la versión para Nintendo Switch de The Legend of Zelda: Ocarina of Time. Tras abonar la tarifa correspondiente, los jugadores pueden pescar durante el tiempo que deseen, apuntando y lanzando la línea como con cualquier otro objeto.\n\nLos peces del estanque reaccionan al movimiento del cebo; moverlo atrae a los peces, pero un movimiento excesivo puede volverlos más cautelosos. Los peces de menor tamaño son menos cautelosos que los de mayor tamaño. Cuando un pez muerde, se presiona ZR para engancharlo; si ZR ya está siendo mantenido para enrollar, debe soltarse y volver a presionarse para completar el enganche. En este sitio también se pueden obtener recompensas, entre ellas el Cebo Sumergible, siguiendo los procedimientos descritos."
+        "title": "Comunidad de decompilación de videojuegos decomp.dev comienza a cerrar sitio, cita IA",
+        "description": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio w...",
+        "fullContent": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio web. El anuncio lo realizó el administrador del sitio, conocido como @encounter, quien señaló que el aspecto comunitario de la ingeniería inversa de juegos se ha visto afectado por la dependencia de modelos de inteligencia artificial y su rapidez.\n\nLa plataforma se creó originalmente para gamificar el proceso de decompilación, permitiendo a los usuarios observar cómo su progreso en el código de un juego aumentaba con el tiempo. En su comunicado, @encounter describió la situación actual como un \"juego de números vacío\".\n\nLa decompilación consiste en convertir el código ejecutable de un juego a una forma que se asemeje a su código fuente original, lo que requiere prueba y error extensos y un conocimiento sólido de programación. El comunicado menciona que las herramientas impulsadas por IA han generado nuevos decompiladores capaces de completar proyectos en una fracción del tiempo necesario para el trabajo manual, y diferencia la decompilación de la emulación, que simplemente recrea el entorno de hardware original."
+      }
+    },
+    {
+      "id": "a1fe92f2c9dbfbe148f8c2c8e5a0909a",
+      "tag": "NEWS",
+      "slug": "lego-lanza-minifigura-retro-video-game-batman-como-regalo-promocional-en-noviembre-de-2026",
+      "url": "https://www.godzgames.com/noticias/lego-lanza-minifigura-retro-video-game-batman-como-regalo-promocional-en-noviembre-de-2026/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202923527_537.jpg",
+      "link": "https://jaysbrickblog.com/news/lego-retro-video-game-batman-and-other-returning-gwps-now-available-for-mid-november-2026-promos/",
+      "en": {
+        "title": "LEGO offers Retro Video Game Batman minifigure as promotional polybag for November 2026 purchases",
+        "description": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be available as a promotional polybag in the United States, United Kingdo...",
+        "fullContent": "LEGO has announced that the 30762 Retro Video Game Batman minifigure will be available as a promotional polybag in the United States, United Kingdom and European Union. Customers who spend at least US$40 / £35 / €40 / CAD$50 on DC or LEGO Batman products on LEGO.com between 9 and 15 November 2026 will receive the minifigure while supplies last. The promotion does not extend to Australia or New Zealand.\n\nThe Retro Video Game Batman figure was previously included only as a bonus with the Switch 2 Deluxe Edition of LEGO Batman Legacy of the Dark Knight. The current offer lowers the purchase threshold for obtaining the figure. Additional promotions mentioned include a double Insider Points reward on set 11386 SpongeBob SquarePants: Bikini Bottom."
+      },
+      "es": {
+        "title": "LEGO lanza minifigura Retro Video Game Batman como regalo promocional en noviembre de 2026",
+        "description": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman estará disponible como polybag promocional en Estados Unidos, Reino Unido y la U...",
+        "fullContent": "LEGO ha comunicado que la minifigura 30762 Retro Video Game Batman estará disponible como polybag promocional en Estados Unidos, Reino Unido y la Unión Europea. Los clientes que gasten al menos US$40 / £35 / €40 / CAD$50 en productos de DC o LEGO Batman a través de LEGO.com entre el 9 y el 15 de noviembre de 2026 recibirán la figura mientras haya stock. La oferta no está disponible para Australia ni Nueva Zelanda.\n\nLa minifigura Retro Video Game Batman se había ofrecido anteriormente únicamente como bonificación del Switch 2 Deluxe Edition de LEGO Batman Legacy of the Dark Knight. Con la nueva promoción, el umbral de compra requerido es menor. Entre las demás ofertas se menciona un doble de puntos Insider en el set 11386 SpongeBob SquarePants: Bikini Bottom."
       }
     }
   ]
