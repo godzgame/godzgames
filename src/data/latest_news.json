@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794321575336,
+  "updatedAt": 1794351826044,
   "articles": [
     {
-      "id": "22b8dd5ac2c92935c4bbe68ae58f3642",
+      "id": "d57a94e7b3c9d0cdccbb4d2f474ea61b",
       "tag": "NEWS",
-      "slug": "james-gunn-y-peter-safran-abandonan-warner-bros-futuro-del-batman-en-el-dcu-incierto",
-      "url": "https://www.godzgames.com/noticias/james-gunn-y-peter-safran-abandonan-warner-bros-futuro-del-batman-en-el-dcu-incierto/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321560571_172.jpg",
-      "link": "https://www.ign.com/articles/batman-video-game-fans-are-feeling-the-pain-too-after-todays-james-gunn-news",
+      "slug": "football-manager-27-incorpora-opcion-de-silla-de-ruedas-para-gerentes-personalizados",
+      "url": "https://www.godzgames.com/noticias/football-manager-27-incorpora-opcion-de-silla-de-ruedas-para-gerentes-personalizados/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351814466_806.jpg",
+      "link": "https://www.bbc.com/news/articles/cw33xl43xgdpo",
       "en": {
-        "title": "James Gunn and Peter Safran Leave Warner Bros.; Future of DCU Batman Unclear",
-        "description": "Warner Bros. announced that James Gunn and Peter Safran are no longer with the company and have moved to Skydance. The change raises questions abou...",
-        "fullContent": "Warner Bros. announced that James Gunn and Peter Safran are no longer with the company and have moved to Skydance. The change raises questions about the continuation of the DC Universe (DCU) film project that includes a new Batman feature, as the previous plan may be revised.\n\nThe most recent live‑action Batman film was Matt Reeves' The Batman, released in 2022, starring Robert Pattinson. Prior releases include the 2021 Snyder Cut of Justice League, which featured a cameo by Ben Affleck's Batman, and Christopher Nolan's The Dark Knight Rises from 2012. A sequel to The Batman is scheduled for release in 2028.\n\nAnimated productions continue with DC Animated Studios' Batman: Knightfall Part 1 and Amazon's Batman: Caped Crusader series. In the video‑game sector, no new major Batman titles have been announced recently, leaving the franchise without a recent console release."
+        "title": "Football Manager 27 adds wheelchair option for custom managers",
+        "description": "The latest installment of the Football Manager series includes a new feature in its character creation tool that allows players to design a manager...",
+        "fullContent": "The latest installment of the Football Manager series includes a new feature in its character creation tool that allows players to design a manager who uses a wheelchair. This option is available for the first time in the franchise.\nSports Interactive, the developer of the game, stated to BBC Newsbeat that the addition is part of a broader initiative to make the title as inclusive as possible. The comment follows a 2023 survey conducted by the charity Scope, in which gamers with disabilities indicated that increased accuracy and frequency of representation in video games are among their top priorities."
       },
       "es": {
-        "title": "James Gunn y Peter Safran abandonan Warner Bros.; Futuro del Batman en el DCU incierto",
-        "description": "Warner Bros. informó que James Gunn y Peter Safran ya no forman parte de la compañía y se han trasladado a Skydance. Este cambio genera dudas sobre...",
-        "fullContent": "Warner Bros. informó que James Gunn y Peter Safran ya no forman parte de la compañía y se han trasladado a Skydance. Este cambio genera dudas sobre la continuidad del proyecto cinematográfico del DC Universe (DCU) que incluye una nueva película de Batman, ya que el plan previo podría ser revisado.\n\nLa última película de acción real de Batman fue The Batman, dirigida por Matt Reeves y estrenada en 2022, con Robert Pattinson como el personaje. Otras apariciones recientes incluyen la versión Snyder Cut de Justice League (2021), con la participación de Ben Affleck como Batman, y The Dark Knight Rises de Christopher Nolan (2012). Se ha programado una secuela de The Batman para el año 2028.\n\nEn el ámbito de la animación, DC Animated Studios lanzó Batman: Knightfall Parte 1 y Amazon continúa con la serie Batman: Caped Crusader. En el sector de los videojuegos, no se han anunciado nuevos títulos principales de Batman recientemente, lo que mantiene a la franquicia sin un lanzamiento reciente en consolas."
+        "title": "Football Manager 27 incorpora opción de silla de ruedas para gerentes personalizados",
+        "description": "La última entrega de la serie Football Manager incluye una nueva función en su herramienta de creación de personajes que permite a los jugadores di...",
+        "fullContent": "La última entrega de la serie Football Manager incluye una nueva función en su herramienta de creación de personajes que permite a los jugadores diseñar un entrenador que utiliza silla de ruedas. Esta opción está disponible por primera vez en la franquicia.\nSports Interactive, el desarrollador del juego, informó a BBC Newsbeat que la incorporación forma parte de un esfuerzo más amplio para que el título sea lo más inclusivo posible. La declaración se produce tras una encuesta realizada en 2023 por la organización benéfica Scope, en la que los jugadores con discapacidad señalaron que la representación más precisa y frecuente en los videojuegos es una de sus principales prioridades."
+      }
+    },
+    {
+      "id": "ceb6d565d6bdfcd7854d9be214010911",
+      "tag": "NEWS",
+      "slug": "playstation-cancela-el-desarrollo-del-shooter-online-fairgames",
+      "url": "https://www.godzgames.com/noticias/playstation-cancela-el-desarrollo-del-shooter-online-fairgames/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351817381_298.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+      "en": {
+        "title": "PlayStation cancels development of online shooter \"Fairgames\"",
+        "description": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, the co...",
+        "fullContent": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, the company's Montreal-based subsidiary. The decision was communicated through a statement from a PlayStation spokesperson.\n\nThe spokesperson added that the cancellation will not result in any job reductions. Haven Studios will redirect its efforts toward collaborating with other PlayStation Studios teams and will explore new creative opportunities."
+      },
+      "es": {
+        "title": "PlayStation cancela el desarrollo del shooter online \"Fairgames\"",
+        "description": "La división PlayStation de Sony anunció la cancelación de Fairgames, un juego de disparos en línea que estaba en desarrollo en Haven Studios, la fi...",
+        "fullContent": "La división PlayStation de Sony anunció la cancelación de Fairgames, un juego de disparos en línea que estaba en desarrollo en Haven Studios, la filial de la compañía con sede en Montreal. La información se dio a conocer mediante un comunicado de un portavoz de PlayStation.\n\nEl portavoz señaló que la cancelación no provocará recortes de personal. Haven Studios reorientará sus recursos para colaborar con otros equipos de PlayStation Studios y buscará nuevas oportunidades creativas."
+      }
+    },
+    {
+      "id": "0e3ecd9a17eae5b0044886837dc340bb",
+      "tag": "NEWS",
+      "slug": "logitech-otorga-un-dia-libre-a-7000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/logitech-otorga-un-dia-libre-a-7000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351820020_128.jpg",
+      "link": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
+      "en": {
+        "title": "Logitech grants 7,000 staff a day off to play video games ahead of GTA VI launch",
+        "description": "Logitech announced that its 7,000 employees worldwide can take one paid day off between now and the same date next year to play a video game of the...",
+        "fullContent": "Logitech announced that its 7,000 employees worldwide can take one paid day off between now and the same date next year to play a video game of their choice. The initiative, named “Logi Game Day,” applies to full‑time staff and interns alike. CEO Hanneke Faber said the program is intended to challenge the perception that gaming is unproductive and noted that the company designs products for both work and play.\n\nFaber said she will participate in gaming on November 19, the day Grand Theft Auto VI is scheduled to launch, and will attend a company‑wide streaming event where the office will be converted into a gaming lounge. Employees may also defer their day off until 2027 if they prefer.\n\nAn estimate cited in the announcement suggested that the U.S. economy could lose up to $1 billion in productivity if 1.5 million workers skip work for the GTA VI release. Victor Matheson, an economist at the College of the Holy Cross who studies major events, indicated that the potential loss of productivity may not necessarily be detrimental."
+      },
+      "es": {
+        "title": "Logitech otorga un día libre a 7.000 empleados para jugar videojuegos antes del lanzamiento de GTA VI",
+        "description": "Logitech comunicó que sus 7.000 empleados a nivel global podrán tomar un día libre remunerado, en cualquier momento entre la fecha actual y el mism...",
+        "fullContent": "Logitech comunicó que sus 7.000 empleados a nivel global podrán tomar un día libre remunerado, en cualquier momento entre la fecha actual y el mismo día del próximo año, para jugar el videojuego que elijan. La medida, denominada “Logi Game Day”, está disponible tanto para trabajadores a tiempo completo como para pasantes. La directora ejecutiva Hanneke Faber declaró que la iniciativa busca desmontar la idea de que jugar es una pérdida de tiempo y resaltó que la compañía crea productos tanto para el trabajo como para el ocio.\n\nFaber indicó que ella misma participará en la jornada de juego el 19 de noviembre, coincidiendo con el lanzamiento de Grand Theft Auto VI, y asistirá al evento de transmisión interno, durante el cual el espacio de la oficina será transformado en un salón de juegos. Los empleados pueden posponer su día libre hasta el año 2027 si lo desean.\n\nSegún una estimación citada, la economía de EE. UU. podría perder hasta mil millones de dólares en productividad si 1,5 millones de trabajadores se ausentan por el estreno de GTA VI. Victor Matheson, economista del College of the Holy Cross especializado en eventos de gran escala, comentó que la pérdida de productividad estimada no tendría por qué ser necesariamente negativa."
       }
     },
     {
       "id": "72781991cf0eb872a8bfee5cd30baee4",
       "tag": "NEWS",
-      "slug": "jurados-del-igf-discuten-uso-de-ia-en-el-desarrollo-del-juego-big-walk",
-      "url": "https://www.godzgames.com/noticias/jurados-del-igf-discuten-uso-de-ia-en-el-desarrollo-del-juego-big-walk/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321563612_415.jpg",
+      "slug": "big-walk-reconoce-uso-limitado-de-ia-en-la-fase-final-de-desarrollo-genera-debate-entre-jurados-del-igf",
+      "url": "https://www.godzgames.com/noticias/big-walk-reconoce-uso-limitado-de-ia-en-la-fase-final-de-desarrollo-genera-debate-entre-jurados-del-igf/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351822642_590.jpg",
       "link": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/",
       "en": {
-        "title": "IGF jurors discuss AI use in development of Big Walk game",
-        "description": "Independent Game Festival (IGF) jurors recently expressed a firm stance on games developed with artificial intelligence. Following a blog post abou...",
-        "fullContent": "Independent Game Festival (IGF) jurors recently expressed a firm stance on games developed with artificial intelligence. Following a blog post about the issue, further discussions emerged concerning a title that had been highlighted as one of the year's leading games.\n\nInformation circulated on social media indicating that the game \"Big Walk\" incorporated AI during the final stage of its development. The studio House House responded to Aftermath via email, stating that large language models were employed sparingly to resolve technical challenges and bugs, estimating that less than 0.1% of the game's code involved such usage, and confirming that generative AI was not used in any other aspect of the production.\n\nHouse House added that the studio is aware of concerns about voluntary disclosures potentially contributing to the normalization of the technology, expressed support for groups seeking to limit AI's impact on video games and broader contexts, and apologized if the AI usage does not meet certain expectations. The statement noted that some IGF jury members expressed disappointment, while others described the situation as indicative of current industry trends, and explained that the disclosure was made now because no prior announcement had been prepared."
+        "title": "Big Walk Acknowledges Limited AI Use in Final Development Phase, Prompting Discussion Among IGF Jurors",
+        "description": "The Independent Games Festival (IGF) jurors recently expressed a position regarding games that incorporate artificial intelligence in their develop...",
+        "fullContent": "The Independent Games Festival (IGF) jurors recently expressed a position regarding games that incorporate artificial intelligence in their development, and a standard blog post was published on the topic. Within hours, social media activity highlighted that the game Big Walk was identified as a major contributor to the ongoing discussion among judges and jurors, following the disclosure that the developer, House House, employed AI during the final stage of the project's development.\n\nHouse House confirmed to Aftermath via email that large language models (LLMs) were used on a limited basis to address technical challenges and bugs, estimating that less than 0.1% of Big Walk's code was affected by this usage. The studio also stated that generative AI was not employed in any other aspect of the game's creation. In the same communication, House House acknowledged the concerns raised, expressed that voluntary disclosures could influence the perception of the technology, affirmed support for efforts aimed at reducing the impact of generative AI, and apologized for any mismatch with the standards of certain stakeholders.\n\nThe announcement has been noted by members of the IGF jury pool, with some indicating disappointment due to the game's prior progressive positioning, while others view the AI usage as reflective of broader industry trends. House House indicated that the timing of the disclosure was due to the absence of a prior public announcement at release."
       },
       "es": {
-        "title": "Jurados del IGF discuten uso de IA en el desarrollo del juego Big Walk",
-        "description": "Los jurados del Independent Game Festival (IGF) manifestaron recientemente una postura firme respecto a los juegos desarrollados con inteligencia a...",
-        "fullContent": "Los jurados del Independent Game Festival (IGF) manifestaron recientemente una postura firme respecto a los juegos desarrollados con inteligencia artificial. Tras la publicación de un blog sobre el tema, surgieron discusiones adicionales relacionadas con un título que había sido mencionado como uno de los mejores del año.\n\nSe difundió en redes sociales que el juego \"Big Walk\" utilizó IA en la fase final de su desarrollo. El estudio House House respondió a Aftermath por correo electrónico, indicando que los modelos de lenguaje grande se emplearon de forma esporádica para resolver desafíos técnicos y errores, estimando que menos del 0.1% del código del juego estuvo relacionado con ese uso, y confirmando que la IA generativa no se utilizó en ningún otro contexto durante la creación del juego.\n\nHouse House señaló que comprende las preocupaciones sobre la divulgación voluntaria que podría contribuir a la normalización de la tecnología, expresó su apoyo a quienes buscan limitar el impacto de la IA en los videojuegos y pidió disculpas si el uso de IA no cumple con ciertos estándares. La declaración indicó que algunos miembros del jurado del IGF manifestaron su descontento, mientras que otros describieron la situación como reflejo de las tendencias actuales de la industria, y explicó que la divulgación se realiza ahora porque no se había preparado un anuncio previo."
+        "title": "Big Walk reconoce uso limitado de IA en la fase final de desarrollo, genera debate entre jurados del IGF",
+        "description": "Los jurados del Independent Games Festival (IGF) expresaron recientemente una posición sobre los videojuegos que incorporan inteligencia artificial...",
+        "fullContent": "Los jurados del Independent Games Festival (IGF) expresaron recientemente una posición sobre los videojuegos que incorporan inteligencia artificial en su desarrollo, y se publicó una entrada de blog al respecto. En cuestión de horas, la actividad en redes sociales señaló que el juego Big Walk se identificó como un factor importante en la discusión entre los jueces y jurados, tras la revelación de que el desarrollador, House House, utilizó IA durante la etapa final del proyecto.\n\nHouse House confirmó a Aftermath por correo electrónico que se emplearon modelos de lenguaje a gran escala (LLM) de forma limitada para abordar desafíos técnicos y errores, estimando que menos del 0,1 % del código de Big Walk estuvo relacionado con este uso. El estudio también afirmó que la IA generativa no se utilizó en ningún otro aspecto de la creación del juego. En la misma comunicación, House House reconoció las preocupaciones planteadas, señaló que las divulgaciones voluntarias podrían influir en la percepción de la tecnología, apoyó los esfuerzos dirigidos a reducir el impacto de la IA generativa y se disculpó por cualquier discrepancia con los estándares de ciertos grupos.\n\nEl anuncio fue registrado por miembros del jurado del IGF, algunos de los cuales manifestaron desilusión debido a la posición progresista previa del juego, mientras que otros lo interpretan como un reflejo de tendencias más amplias en la industria. House House explicó que la divulgación se realizó en este momento porque no se había hecho una declaración pública previa al lanzamiento."
       }
     },
     {
-      "id": "10bf25d0efad0620b3dfc9a346f1a648",
+      "id": "4a9fd011c9fd175ad80cea7bc1247b35",
       "tag": "NEWS",
-      "slug": "se-acerca-el-lanzamiento-de-un-videojuego-de-gran-exito-analista-preve-un-alza-del-35-en-la-accion",
-      "url": "https://www.godzgames.com/noticias/se-acerca-el-lanzamiento-de-un-videojuego-de-gran-exito-analista-preve-un-alza-del-35-en-la-accion/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321566618_914.jpg",
-      "link": "https://www.cnbc.com/2026/11/09/the-wait-is-almost-over-for-this-blockbuster-video-game-i-see-35percent-upside-in-the-stock.html",
+      "slug": "nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2",
+      "url": "https://www.godzgames.com/noticias/nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351826020_865.jpg",
+      "link": "https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH",
       "en": {
-        "title": "Blockbuster video game release approaching, analyst predicts 35% stock upside",
-        "description": "A source reports that the anticipated launch of a major video game is near, and an analyst estimates a potential 35% increase in the company's stoc...",
-        "fullContent": "A source reports that the anticipated launch of a major video game is near, and an analyst estimates a potential 35% increase in the company's stock price. The same source invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox.\n\nThe information includes a disclaimer stating that the data presented is a real‑time snapshot, delayed by at least 15 minutes, and covers global business and financial news, stock quotes, and market analysis.\n\nThe release concludes with a copyright notice indicating that the material is owned by Versant Media, LLC, a Versant Media Company, and that all rights are reserved."
+        "title": "Nintendo Switch Online service launches on November 10, 2026 for Switch and Switch 2",
+        "description": "Nintendo announced that the paid Nintendo Switch Online service became available on Tuesday, November 10, 2026, for both the Nintendo Switch and th...",
+        "fullContent": "Nintendo announced that the paid Nintendo Switch Online service became available on Tuesday, November 10, 2026, for both the Nintendo Switch and the newly released Nintendo Switch 2. The announcement includes a video that contains information aimed at the North American market.\n\nThe service provides online multiplayer for supported titles such as Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons and Pokémon LEGENDS: Z‑A, as well as a dedicated music application for smartphones. Subscribers also gain access to a library of classic games from previous Nintendo consoles, with more than 200 titles available and additional games added periodically.\n\nA standard membership covers games from the Super Nintendo Entertainment System, Game Boy and Nintendo Entertainment System, while the Nintendo Switch Online + Expansion Pack adds Game Boy Advance and Nintendo 64 titles. On the Switch 2, the Expansion Pack also includes games from the Nintendo GameCube. Certain features, including \"Play while sharing,\" Suspend Points and Rewind, are available for compatible games. Access to GameCube, Game Boy Advance and Nintendo 64 titles requires the Expansion Pack subscription."
       },
       "es": {
-        "title": "Se acerca el lanzamiento de un videojuego de gran éxito, analista prevé un alza del 35% en la acción",
-        "description": "Una fuente informa que el lanzamiento esperado de un videojuego importante está próximo y que un analista estima un posible aumento del 35 % en el ...",
-        "fullContent": "Una fuente informa que el lanzamiento esperado de un videojuego importante está próximo y que un analista estima un posible aumento del 35 % en el precio de la acción de la empresa relacionada. La misma fuente invita a los lectores a suscribirse a boletines gratuitos para recibir más contenido de CNBC directamente en su bandeja de entrada.\n\nEl comunicado incluye un aviso de que los datos mostrados son una captura en tiempo real con un retraso de al menos 15 minutos, y cubren noticias financieras y empresariales globales, cotizaciones de acciones y análisis de mercado.\n\nEl documento finaliza con una declaración de derechos de autor que indica que el material pertenece a Versant Media, LLC, una empresa de Versant Media, y que todos los derechos están reservados."
-      }
-    },
-    {
-      "id": "1c74a2f4ba5c7037826d85a96e343d5a",
-      "tag": "NEWS",
-      "slug": "take-two-informa-que-ventas-de-nba-2k27-quedan-por-debajo-de-la-prevision-y-senala-competencia-de-gta-vi",
-      "url": "https://www.godzgames.com/noticias/take-two-informa-que-ventas-de-nba-2k27-quedan-por-debajo-de-la-prevision-y-senala-competencia-de-gta-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321569555_100.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi",
-      "en": {
-        "title": "Take-Two reports NBA 2K27 sales fall short of forecast, cites GTA VI competition",
-        "description": "Take-Two Interactive Software Inc. announced that its latest NBA 2K installment, NBA 2K27, released in September, sold 4 million units but did not ...",
-        "fullContent": "Take-Two Interactive Software Inc. announced that its latest NBA 2K installment, NBA 2K27, released in September, sold 4 million units but did not meet the company’s internal sales projection.\nThe shortfall contributed to a bookings miss for the fiscal second quarter that ended September 30, with net bookings of $1.6 billion versus Wall Street estimates of $1.65 billion.\nChairman and CEO Strauss Zelnick said at the Semafor World Economy Summit in Washington, D.C., on April 16, 2026, that part of the sales gap was linked to competition from the company’s own title Grand Theft Auto VI."
-      },
-      "es": {
-        "title": "Take-Two informa que ventas de NBA 2K27 quedan por debajo de la previsión y señala competencia de GTA VI",
-        "description": "Take-Two Interactive Software Inc. informó que su último título de la serie NBA 2K, NBA 2K27, lanzado en septiembre, vendió 4 millones de copias pe...",
-        "fullContent": "Take-Two Interactive Software Inc. informó que su último título de la serie NBA 2K, NBA 2K27, lanzado en septiembre, vendió 4 millones de copias pero no alcanzó la proyección interna de ventas de la compañía.\nEsta diferencia se reflejó en un incumplimiento de reservas para el segundo trimestre fiscal que concluyó el 30 de septiembre, con reservas netas de 1.600 millones de dólares frente a las estimaciones de Wall Street de 1.650 millones de dólares.\nEl presidente y director ejecutivo Strauss Zelnick declaró, durante la Cumbre de la Economía Mundial de Semafor en Washington, D.C., el 16 de abril de 2026, que parte de la brecha en ventas se atribuye a la competencia del propio título Grand Theft Auto VI."
-      }
-    },
-    {
-      "id": "191cae58713712f20b4ea19a921ca771",
-      "tag": "NEWS",
-      "slug": "rockstar-confirma-que-gta-6-funcionara-a-30-fps-en-todas-las-plataformas-con-ray-tracing-exclusivo-para-ps5-pro",
-      "url": "https://www.godzgames.com/noticias/rockstar-confirma-que-gta-6-funcionara-a-30-fps-en-todas-las-plataformas-con-ray-tracing-exclusivo-para-ps5-pro/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321575255_357.jpg",
-      "link": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/",
-      "en": {
-        "title": "Rockstar says GTA 6 will run at 30 FPS on all platforms, with ray tracing limited to PS5 Pro",
-        "description": "Rockstar Games has confirmed that Grand Theft Auto 6 is being developed to run at a target of 30 frames per second on every current‑generation cons...",
-        "fullContent": "Rockstar Games has confirmed that Grand Theft Auto 6 is being developed to run at a target of 30 frames per second on every current‑generation console. The company’s statement says the game has been built from the ground up for the present generation, aiming to maximize performance while preserving visual fidelity across its environments.\n\nAccording to the announcement, ray‑traced shadows and PlayStation Spectral Super Resolution (PSSR) will be available exclusively on the PlayStation 5 Pro. The same statement repeats that the title is expected to play best on PlayStation 5 hardware.\n\nFor the PlayStation 5 version, Rockstar notes the inclusion of high‑fidelity haptic feedback fully integrated with DualSense controllers, adjustable through accessibility settings, as well as enhanced spatial audio rendering using Tempest 3D Audio and reduced load times."
-      },
-      "es": {
-        "title": "Rockstar confirma que GTA 6 funcionará a 30 FPS en todas las plataformas, con ray tracing exclusivo para PS5 Pro",
-        "description": "Rockstar Games ha confirmado que Grand Theft Auto 6 está siendo desarrollado para alcanzar un objetivo de 30 fotogramas por segundo en todas las co...",
-        "fullContent": "Rockstar Games ha confirmado que Grand Theft Auto 6 está siendo desarrollado para alcanzar un objetivo de 30 fotogramas por segundo en todas las consolas de última generación. En el comunicado la compañía indica que el juego se ha construido desde cero para la generación actual, con el objetivo de maximizar el rendimiento manteniendo la fidelidad visual de sus entornos.\n\nEl anuncio señala que las sombras con trazado de rayos y PlayStation Spectral Super Resolution (PSSR) estarán disponibles únicamente en la PlayStation 5 Pro. En el mismo comunicado se repite que el título se jugará mejor en consolas PlayStation 5.\n\nPara la versión de PlayStation 5, Rockstar indica que se incluirá retroalimentación háptica de alta fidelidad totalmente integrada en los controladores DualSense, ajustable mediante la configuración de accesibilidad, así como una mejora en la representación de audio espacial mediante Tempest 3D Audio y tiempos de carga reducidos."
+        "title": "Nintendo Switch Online se lanza el 10 de noviembre de 2026 para Switch y Switch 2",
+        "description": "Nintendo informó que el servicio de suscripción paga Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026 para las ...",
+        "fullContent": "Nintendo informó que el servicio de suscripción paga Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026 para las consolas Nintendo Switch y Nintendo Switch 2. El comunicado incluye un video con información destinada al mercado de Norteamérica.\n\nEl servicio permite el juego en línea para los títulos compatibles, entre ellos Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons y Pokémon LEGENDS: Z‑A, y ofrece una aplicación musical para smartphones. Los suscriptores también pueden acceder a una biblioteca de juegos clásicos de consolas Nintendo anteriores, con más de 200 títulos y la incorporación regular de nuevos.\n\nUna suscripción estándar incluye juegos de la Super Nintendo Entertainment System, Game Boy y Nintendo Entertainment System; la suscripción Nintendo Switch Online + Expansion Pack añade títulos de Game Boy Advance y Nintendo 64. En la Switch 2, el Expansion Pack también brinda acceso a juegos de la Nintendo GameCube. Funciones como \"Play while sharing\", Suspend Points y Rewind están disponibles para los juegos compatibles, y el acceso a los títulos de GameCube, Game Boy Advance y Nintendo 64 requiere la suscripción Expansion Pack."
       }
     }
   ]
