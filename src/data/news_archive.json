@@ -4,23 +4,6 @@
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
     {
-      "id": "manuel_otto_twitch_2026",
-      "tag": "NEWS",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/manuel_otto.jpg",
-      "link": "https://www.eurogamer.net/manuel-otto-dies",
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "es": {
-        "title": "Desarrollador alemán de videojuegos Manuel Otto muere durante transmisión en Twitch",
-        "description": "El diseñador y creador de contenido alemán Manuel Otto, de 30 años, falleció mientras transmitía en directo en Twitch, dejando una profunda huella en la comunidad de videojuegos independientes alemana.",
-        "fullContent": "El diseñador y creador de contenido alemán Manuel Otto, de 30 años, falleció mientras transmitía en directo en Twitch. Manuel era conocido por su trabajo en el desarrollo de videojuegos independientes y por su activa comunidad en redes sociales.\n\nLa noticia causó una gran conmoción en la comunidad de videojuegos alemana y mundial. Amigos, seguidores y colegas de la industria expresaron sus condolencias a través de las redes sociales.\n\nManuel Otto fue una figura querida dentro de la escena indie alemana, conocido por su pasión por los videojuegos y su dedicación a compartir su proceso creativo con su audiencia."
-      },
-      "en": {
-        "title": "German video game developer Manuel Otto dies during Twitch stream",
-        "description": "German game designer and content creator Manuel Otto, 30, passed away while live streaming on Twitch, leaving a profound impact on the German indie gaming community.",
-        "fullContent": "German game designer and content creator Manuel Otto, 30, passed away while live streaming on Twitch. Manuel was known for his work in independent game development and his active social media community.\n\nThe news shocked the German and worldwide gaming community. Friends, followers and colleagues from the industry expressed their condolences on social media.\n\nManuel Otto was a beloved figure in the German indie scene, known for his passion for video games and his dedication to sharing his creative process with his audience."
-      }
-    },
-    {
       "id": "639d5c99d20f9515a83152837792e32a",
       "tag": "NEWS",
       "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1792276360008_288.jpg",
