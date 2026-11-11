@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794375532143,
+  "updatedAt": 1794405287231,
   "articles": [
+    {
+      "id": "9075b6976f87abdb8dfe2eb7f5b09e45",
+      "tag": "NEWS",
+      "slug": "investigadores-utilizan-simulaciones-de-grand-theft-auto-para-evaluar-tecnologias-de-seguridad-vial",
+      "url": "https://www.godzgames.com/noticias/investigadores-utilizan-simulaciones-de-grand-theft-auto-para-evaluar-tecnologias-de-seguridad-vial/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405278182_948.jpg",
+      "link": "https://www.bbc.com/future/article/20261110-grand-theft-auto-video-games-are-being-harnessed-to-make-real-roads-safer",
+      "en": {
+        "title": "Researchers employ Grand Theft Auto simulations to evaluate traffic safety technologies",
+        "description": "The open‑world video game series Grand Theft Auto, which allows players to drive vehicles through virtual cities, is being used as a platform for s...",
+        "fullContent": "The open‑world video game series Grand Theft Auto, which allows players to drive vehicles through virtual cities, is being used as a platform for scientific experiments. Researchers are adapting the game environment to test cycle‑safety devices and to train autonomous vehicle systems to recognize and avoid road hazards.\n\nAccording to Milena Jäger, an engineer and computer‑science researcher at Osnabrück University of Applied Sciences in Germany, the simulations provide scenarios that would be too risky to reproduce on real roads. The approach enables the assessment of wearables and other digital safety tools under controlled yet realistic conditions."
+      },
+      "es": {
+        "title": "Investigadores utilizan simulaciones de Grand Theft Auto para evaluar tecnologías de seguridad vial",
+        "description": "La serie de videojuegos de mundo abierto Grand Theft Auto, que permite a los jugadores conducir vehículos por ciudades virtuales, está siendo utili...",
+        "fullContent": "La serie de videojuegos de mundo abierto Grand Theft Auto, que permite a los jugadores conducir vehículos por ciudades virtuales, está siendo utilizada como plataforma para experimentos científicos. Los investigadores están adaptando el entorno del juego para probar dispositivos de seguridad ciclista y para entrenar sistemas de vehículos autónomos en la detección y evitación de peligros en la carretera.\n\nMilena Jäger, ingeniera e investigadora en informática de la Universidad de Ciencias Aplicadas de Osnabrück, Alemania, indica que las simulaciones ofrecen situaciones que resultarían demasiado peligrosas para reproducir en vías reales. Este método permite evaluar wearables y otras herramientas digitales de seguridad bajo condiciones controladas pero realistas."
+      }
+    },
     {
       "id": "f93f906def47b7e6644c0f05ffa16f72",
       "tag": "NEWS",
       "slug": "cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia",
       "url": "https://www.godzgames.com/noticias/cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375520430_775.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405280399_188.jpg",
       "link": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
       "en": {
-        "title": "Australian STEM Videogame Challenge Ends After 12 Years Due to AI-Generated Submissions",
-        "description": "The Australian STEM Videogame Challenge, a competition for students from primary to secondary school that has run for 12 years, will not take place...",
-        "fullContent": "The Australian STEM Videogame Challenge, a competition for students from primary to secondary school that has run for 12 years, will not take place again. Organisers cited the increasing volume of entries that incorporate generative AI as the reason it has become difficult to verify which games were created entirely by the participants.\n\nThe contest required teams of up to four students to submit a game aligned with a chosen theme, accompanied by a design document and a short trailer. In a statement to PC Gamer, Cathy Zemaitis, head of the Student Learning and Progress division at ACER, said the decision was driven by the rise of generative AI in game development, which challenges the programme’s original purpose of assessing student‑produced work.\n\nA parent on Reddit expressed disappointment, noting that their teenage son and his friends had participated for several years, collaborating on projects that they felt fostered teamwork, confidence and a sense of community."
+        "title": "Australian STEM Videogame Challenge Ends After 12 Years Due to Rise in AI-Generated Submissions",
+        "description": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will...",
+        "fullContent": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will not take place again. Organisers cited the growing volume of entries that incorporate generative artificial intelligence as the reason for discontinuing the event, noting that it has become increasingly difficult to verify the extent of AI involvement in each submission.\n\nThe competition required participants, either individually or in teams of up to four, to create a game based on a specified theme, accompanied by a design document and a short trailer. A parent on Reddit expressed disappointment at the cancellation, describing how the contest had provided a collaborative project and a sense of community for their teenage son and his friends.\n\nIn a statement to PC Gamer, Cathy Zemaitis, head of the Student Learning and Progress division at ACER, the company that runs the challenge, said the decision was driven by the rapid expansion of generative AI tools in game development, which altered the program’s original focus on assessing students’ own development work."
       },
       "es": {
         "title": "Cierre del Australian STEM Videogame Challenge tras 12 años por aumento de trabajos generados con IA",
-        "description": "El Australian STEM Videogame Challenge, una competición dirigida a estudiantes desde primaria hasta secundaria que se ha desarrollado durante 12 añ...",
-        "fullContent": "El Australian STEM Videogame Challenge, una competición dirigida a estudiantes desde primaria hasta secundaria que se ha desarrollado durante 12 años, no se realizará de nuevo. Los organizadores indicaron que el creciente número de inscripciones que utilizan IA generativa dificulta la verificación de los juegos creados exclusivamente por los participantes.\n\nEl concurso exigía que equipos de hasta cuatro estudiantes presentaran un juego basado en un tema determinado, acompañado de un documento de diseño y un breve tráiler. En una declaración a PC Gamer, Cathy Zemaitis, directora de la división Student Learning and Progress de ACER, explicó que la decisión se debe al aumento de la IA generativa en el desarrollo de videojuegos, lo que complica el cumplimiento del objetivo original del programa de evaluar el trabajo realizado por los estudiantes.\n\nUn padre que comentó en Reddit manifestó su descontento, señalando que su hijo adolescente y sus amigos habían participado durante varios años, colaborando en proyectos que consideraban fomentaban el trabajo en equipo, la confianza y el sentido de comunidad."
+        "description": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria...",
+        "fullContent": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria hasta la secundaria, se suspenderá de manera indefinida. Los organizadores indicaron que el incremento de propuestas que utilizan inteligencia artificial generativa dificultó la verificación del grado de participación del alumno en cada proyecto, lo que motivó la decisión.\n\nEl certamen exigía a los participantes, ya sea de forma individual o en equipos de hasta cuatro personas, desarrollar un juego basado en una temática establecida, acompañándolo de un documento de diseño y un breve tráiler. Un padre que comentó en Reddit manifestó su pesar por el cierre, señalando que la competencia había permitido a su hijo adolescente y a sus amigos trabajar en conjunto y formar parte de una comunidad.\n\nCathy Zemaitis, responsable de la división de Student Learning and Progress en ACER, la empresa organizadora, declaró a PC Gamer que la decisión se debió al rápido crecimiento de las herramientas de IA generativa en el desarrollo de videojuegos, lo que aleja al programa de su objetivo original de evaluar el trabajo realizado por los estudiantes."
       }
     },
     {
-      "id": "ceb6d565d6bdfcd7854d9be214010911",
+      "id": "18026a738f076bca292ff49b67697fa8",
       "tag": "NEWS",
-      "slug": "playstation-cancela-el-desarrollo-del-shooter-online-fairgames",
-      "url": "https://www.godzgames.com/noticias/playstation-cancela-el-desarrollo-del-shooter-online-fairgames/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375523335_920.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405282540_483.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
       "en": {
-        "title": "PlayStation Cancels Development of Online Shooter 'Fairgames'",
-        "description": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, its Mo...",
-        "fullContent": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, its Montreal-based subsidiary. The decision was disclosed alongside a statement that no layoffs will result from the cancellation.\n\nAccording to the company's spokesperson, the studio will redirect its efforts toward collaborating with other PlayStation Studios and will pursue new creative projects. The announcement was made following the display of PlayStation signage at the Tokyo Game Show in Chiba on September 17, 2026."
+        "title": "Take-Two CEO Strauss Zelnick’s Career Shift from Film to Gaming Highlighted by GTA VI Release",
+        "description": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two In...",
+        "fullContent": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two Interactive Software Inc., the publisher of the game.\n\nStrauss Zelnick, chief executive officer of Take‑Two, has said that as a child he aspired to run a Hollywood studio. He earned degrees from Harvard University’s business and law schools and, by his early thirties, had become president of 20th Century Fox. After assessing the growth prospects of the film and television sectors, Zelnick transitioned to focus on the video‑game industry, where he now leads Take‑Two."
       },
       "es": {
-        "title": "PlayStation cancela el desarrollo del shooter online 'Fairgames'",
-        "description": "La división PlayStation de Sony informó la cancelación de Fairgames, un título de disparos en línea que estaba en desarrollo en Haven Studios, su f...",
-        "fullContent": "La división PlayStation de Sony informó la cancelación de Fairgames, un título de disparos en línea que estaba en desarrollo en Haven Studios, su filial ubicada en Montreal. La comunicación también indicó que la medida no provocará despidos.\n\nEl portavoz de la compañía señaló que el estudio enfocará sus recursos en colaborar con otros equipos de PlayStation Studios y en explorar nuevas oportunidades creativas. La noticia se dio a conocer después de que se mostrara la señalización de PlayStation en el Tokyo Game Show en Chiba el 17 de septiembre de 2026."
+        "title": "El CEO de Take‑Two, Strauss Zelnick, pasa del cine a los videojuegos durante el lanzamiento de GTA VI",
+        "description": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención púb...",
+        "fullContent": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención pública hacia Take‑Two Interactive Software Inc., la compañía responsable del juego.\n\nStrauss Zelnick, director ejecutivo de Take‑Two, ha manifestado que de niño deseaba dirigir un estudio de Hollywood. Se graduó de la facultad de negocios y de derecho de la Universidad de Harvard y, a principios de sus treinta años, llegó a ser presidente de 20th Century Fox. Tras evaluar las perspectivas de crecimiento en el sector cinematográfico y televisivo, Zelnick optó por enfocarse en la industria de los videojuegos, donde actualmente dirige Take‑Two."
+      }
+    },
+    {
+      "id": "eb5efc68e34d0822de122a953dc74d85",
+      "tag": "NEWS",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405284962_882.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
+      "en": {
+        "title": "Take-Two CEO Strauss Zelnick Discusses Film-to-Game Career Transition on The David Rubenstein Show",
+        "description": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Execu...",
+        "fullContent": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Executive Officer of Take‑Two Interactive. The interview, recorded on October 19 in New York, covered Zelnick’s professional background, including his tenure as president of 20th Century Fox and his subsequent move from the movie and television sector to the video‑game industry.\n\nDuring the conversation, Zelnick also addressed his role in the growth of Take‑Two Interactive, describing how the company evolved into one of the largest organizations in the gaming market."
+      },
+      "es": {
+        "title": "El CEO de Take‑Two, Strauss Zelnick, habla de su paso del cine a los videojuegos en The David Rubenstein Show",
+        "description": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Stra...",
+        "fullContent": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Strauss Zelnick, presidente y director ejecutivo de Take‑Two Interactive. La entrevista, grabada el 19 de octubre en Nueva York, abordó la trayectoria profesional de Zelnick, que incluye su cargo como presidente de 20th Century Fox y su posterior cambio del sector cinematográfico y televisivo al de los videojuegos.\n\nEn la conversación, Zelnick también explicó su contribución al crecimiento de Take‑Two Interactive, señalando cómo la compañía se ha convertido en una de las más grandes del mercado de los videojuegos."
       }
     },
     {
       "id": "0e3ecd9a17eae5b0044886837dc340bb",
       "tag": "NEWS",
-      "slug": "logitech-otorga-un-dia-libre-remunerado-a-7000-empleados-para-jugar-videojuegos",
-      "url": "https://www.godzgames.com/noticias/logitech-otorga-un-dia-libre-remunerado-a-7000-empleados-para-jugar-videojuegos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375526026_991.jpg",
+      "slug": "logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405287164_553.jpg",
       "link": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
       "en": {
-        "title": "Logitech grants 7,000 staff a paid day off to play video games",
-        "description": "Logitech announced a program called “Logi Game Day” that allows its 7,000 global employees, including full‑time staff and interns, to take one paid...",
-        "fullContent": "Logitech announced a program called “Logi Game Day” that allows its 7,000 global employees, including full‑time staff and interns, to take one paid day off to play a video game of their choice. The day can be taken at any time between now and the same date next year.\n\nChief executive officer Hanneke Faber said the initiative is intended to challenge the perception that gaming is unproductive. Faber will participate in the gaming session on November 19, the same day that Grand Theft Auto VI is scheduled for release, and the company’s headquarters will be converted into a gaming lounge for the event. Employees may also postpone their day off until 2027 if they prefer.\n\nAn estimate cited in media reports suggests that the U.S. economy could lose up to $1 billion in productivity if 1.5 million workers miss work for the GTA VI launch. Victor Matheson, an economist at the College of the Holy Cross who studies major events, noted that the projected loss does not automatically imply a negative outcome."
+        "title": "Logitech grants all 7,000 employees a day off to play video games ahead of GTA VI launch",
+        "description": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their...",
+        "fullContent": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their choice. The initiative, called “Logi Game Day,” applies to full‑time staff, interns and other personnel.\n\nChief Executive Officer Hanneke Faber said the program is intended to challenge the perception that gaming does not add value, noting that the company designs products for both work and play. Faber will participate in the event on November 19, the day Grand Theft Auto VI is scheduled to launch, and will also attend a company‑wide streaming session that will convert the office space into a gaming lounge. Employees may defer their day off until 2027 if they wish.\n\nAn estimate cited in the announcement suggests that the U.S. economy could experience up to $1 billion in lost productivity if 1.5 million workers miss work for the GTA VI release. Victor Matheson, an economist at the College of the Holy Cross who studies major events, indicated that the projected loss might not necessarily be detrimental."
       },
       "es": {
-        "title": "Logitech otorga un día libre remunerado a 7.000 empleados para jugar videojuegos",
-        "description": "Logitech comunicó la creación de “Logi Game Day”, un programa que permite a sus 7.000 empleados a nivel mundial, incluidos los trabajadores a tiemp...",
-        "fullContent": "Logitech comunicó la creación de “Logi Game Day”, un programa que permite a sus 7.000 empleados a nivel mundial, incluidos los trabajadores a tiempo completo y los pasantes, tomar un día libre remunerado para jugar el videojuego que elijan. El día puede disfrutarse en cualquier momento entre la fecha actual y la misma fecha del próximo año.\n\nLa directora ejecutiva, Hanneke Faber, declaró que la medida busca desmontar la idea de que los juegos son una pérdida de tiempo. Faber participará en la jornada de juego el 19 de noviembre, día en que se lanzará Grand Theft Auto VI, y la sede de la empresa será transformada en un salón de juegos para la ocasión. Los empleados podrán posponer su día libre hasta 2027 si lo desean.\n\nSegún una estimación citada en los medios, la economía de EE. UU. podría perder hasta 1 mil millones de dólares en productividad si 1,5 millones de trabajadores faltan al trabajo por el lanzamiento de GTA VI. Victor Matheson, economista del College of the Holy Cross especializado en eventos de gran escala, señaló que la pérdida proyectada no implica necesariamente un efecto negativo."
-      }
-    },
-    {
-      "id": "4a9fd011c9fd175ad80cea7bc1247b35",
-      "tag": "NEWS",
-      "slug": "nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2",
-      "url": "https://www.godzgames.com/noticias/nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375529800_592.jpg",
-      "link": "https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH",
-      "en": {
-        "title": "Nintendo Switch Online service launches on November 10, 2026 for Switch and Switch 2",
-        "description": "Nintendo announced that the paid subscription service Nintendo Switch Online became available on Tuesday, November 10, 2026. The service is compati...",
-        "fullContent": "Nintendo announced that the paid subscription service Nintendo Switch Online became available on Tuesday, November 10, 2026. The service is compatible with both the Nintendo Switch and the newly released Nintendo Switch 2, and includes an app for smartphone music playback.\n\nThe subscription provides online multiplayer for supported titles such as Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons and Pokémon LEGENDS Z‑A, as well as access to a library of more than 200 classic games from previous Nintendo consoles. Features such as Suspend Points, Rewind and a \"Play while sharing\" function are included to facilitate gameplay.\n\nMembers with the Nintendo Switch Online + Expansion Pack also receive games from the Game Boy Advance, Nintendo 64 and, on the Switch 2, the Nintendo GameCube. Access to these additional classic titles requires the Expansion Pack tier of the subscription."
-      },
-      "es": {
-        "title": "Nintendo Switch Online se lanza el 10 de noviembre de 2026 para Switch y Switch 2",
-        "description": "Nintendo informó que el servicio de suscripción de pago Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026. El se...",
-        "fullContent": "Nintendo informó que el servicio de suscripción de pago Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026. El servicio es compatible con la Nintendo Switch y la Nintendo Switch 2, e incluye una aplicación para reproducción de música en smartphones.\n\nLa suscripción permite el juego en línea para títulos compatibles como Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons y Pokémon LEGENDS Z‑A, y brinda acceso a una biblioteca de más de 200 juegos clásicos de consolas anteriores de Nintendo. Entre sus funciones se encuentran Suspend Points, Rewind y la opción \"Play while sharing\" para facilitar la jugabilidad.\n\nLos usuarios que suscriban el Nintendo Switch Online + Expansion Pack también obtienen juegos de Game Boy Advance, Nintendo 64 y, en la Switch 2, de Nintendo GameCube. El acceso a estos títulos clásicos adicionales requiere la suscripción del nivel Expansion Pack."
-      }
-    },
-    {
-      "id": "72781991cf0eb872a8bfee5cd30baee4",
-      "tag": "NEWS",
-      "slug": "desarrollo-de-big-walk-incluyo-uso-limitado-de-ia-confirman-los-desarrolladores",
-      "url": "https://www.godzgames.com/noticias/desarrollo-de-big-walk-incluyo-uso-limitado-de-ia-confirman-los-desarrolladores/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375532081_23.jpg",
-      "link": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/",
-      "en": {
-        "title": "Big Walk Development Included Limited AI Use, Developers Confirm",
-        "description": "The Independent Games Festival (IGF) jury expressed a position regarding AI-developed video games, after which a blog post was published. Following...",
-        "fullContent": "The Independent Games Festival (IGF) jury expressed a position regarding AI-developed video games, after which a blog post was published. Following the publication, social media discussions highlighted that the game Big Walk had employed artificial intelligence during the final phase of its development.\n\nHouse House, the studio behind Big Walk, stated via email to Aftermath that large language models were used sparingly to address technical challenges and bugs, estimating that less than 0.1% of the game's code involved such usage. The studio added that generative AI was not employed in any other aspect of the game's creation.\n\nHouse House also acknowledged the concerns raised about AI use, noting a potential impact on the perception of the technology and expressing support for efforts aimed at limiting its effects. The studio apologized for the AI usage not aligning with certain expectations and indicated that the disclosure was not made at release because no official announcement had been prepared."
-      },
-      "es": {
-        "title": "Desarrollo de Big Walk Incluyó Uso Limitado de IA, Confirman los Desarrolladores",
-        "description": "El jurado del Independent Games Festival (IGF) manifestó una posición respecto a los videojuegos desarrollados con inteligencia artificial, tras lo...",
-        "fullContent": "El jurado del Independent Games Festival (IGF) manifestó una posición respecto a los videojuegos desarrollados con inteligencia artificial, tras lo cual se publicó una entrada en el blog. Posteriormente, en redes sociales surgieron discusiones que señalaron que el juego Big Walk había utilizado inteligencia artificial durante la fase final de su desarrollo.\n\nHouse House, el estudio responsable de Big Walk, declaró por correo electrónico a Aftermath que los modelos de lenguaje grande fueron empleados de forma esporádica para resolver desafíos técnicos y errores, estimando que menos del 0.1% del código del juego estuvo relacionado con este uso. Además, precisaron que la IA generativa no se utilizó en ningún otro contexto durante la creación del juego.\n\nHouse House también reconoció las inquietudes sobre el uso de IA, señalando una posible influencia en la percepción de la tecnología y expresando apoyo a iniciativas que buscan limitar sus efectos. El estudio se disculpó por el uso de IA que podría no cumplir con ciertos estándares y explicó que la divulgación no se realizó en el lanzamiento porque no se había preparado un anuncio oficial."
+        "title": "Logitech otorga un día libre a sus 7 000 empleados para jugar videojuegos antes del lanzamiento de GTA VI",
+        "description": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próxim...",
+        "fullContent": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próximo año, para jugar el videojuego que elijan. La medida, denominada “Logi Game Day”, incluye a personal de tiempo completo, pasantes y demás colaboradores.\n\nLa directora ejecutiva, Hanneke Faber, declaró que la iniciativa busca desmontar la idea de que jugar no aporta valor, señalando que la compañía desarrolla productos tanto para el trabajo como para el ocio. Faber participará el 19 de noviembre, día del lanzamiento de Grand Theft Auto VI, y asistirá a un evento de streaming interno que convertirá el espacio de la oficina en un salón de juegos. Los empleados pueden postergar su día libre hasta 2027 si lo prefieren.\n\nSegún una estimación citada, la economía de EE. UU. podría registrar una pérdida de productividad de hasta mil millones de dólares si 1,5 millones de trabajadores se ausentan por el estreno de GTA VI. Victor Matheson, economista del College of the Holy Cross especializado en eventos de gran escala, comentó que la pérdida proyectada no necesariamente representa un efecto negativo."
       }
     }
   ]
