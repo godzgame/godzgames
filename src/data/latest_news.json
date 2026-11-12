@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794405287231,
+  "updatedAt": 1794442888430,
   "articles": [
     {
       "id": "9075b6976f87abdb8dfe2eb7f5b09e45",
       "tag": "NEWS",
-      "slug": "investigadores-utilizan-simulaciones-de-grand-theft-auto-para-evaluar-tecnologias-de-seguridad-vial",
-      "url": "https://www.godzgames.com/noticias/investigadores-utilizan-simulaciones-de-grand-theft-auto-para-evaluar-tecnologias-de-seguridad-vial/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405278182_948.jpg",
+      "slug": "investigadores-utilizan-grand-theft-auto-para-pruebas-de-seguridad-vial",
+      "url": "https://www.godzgames.com/noticias/investigadores-utilizan-grand-theft-auto-para-pruebas-de-seguridad-vial/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442878645_393.jpg",
       "link": "https://www.bbc.com/future/article/20261110-grand-theft-auto-video-games-are-being-harnessed-to-make-real-roads-safer",
       "en": {
-        "title": "Researchers employ Grand Theft Auto simulations to evaluate traffic safety technologies",
-        "description": "The open‑world video game series Grand Theft Auto, which allows players to drive vehicles through virtual cities, is being used as a platform for s...",
-        "fullContent": "The open‑world video game series Grand Theft Auto, which allows players to drive vehicles through virtual cities, is being used as a platform for scientific experiments. Researchers are adapting the game environment to test cycle‑safety devices and to train autonomous vehicle systems to recognize and avoid road hazards.\n\nAccording to Milena Jäger, an engineer and computer‑science researcher at Osnabrück University of Applied Sciences in Germany, the simulations provide scenarios that would be too risky to reproduce on real roads. The approach enables the assessment of wearables and other digital safety tools under controlled yet realistic conditions."
+        "title": "Researchers employ Grand Theft Auto series for traffic safety testing",
+        "description": "The Grand Theft Auto video game franchise, known for allowing players to drive vehicles through virtual cities, is being used in research aimed at ...",
+        "fullContent": "The Grand Theft Auto video game franchise, known for allowing players to drive vehicles through virtual cities, is being used in research aimed at improving road safety. Scientists are adapting the game environment to evaluate cycle‑safety technologies and to train autonomous‑vehicle systems to recognize and avoid hazards.\n\nAccording to Milena Jäger, an engineer and computer‑science researcher at Osnabrück University of Applied Sciences in Germany, the virtual setting provides scenarios that would be unsafe to recreate on real roads, enabling the testing of wearables and other digital devices intended for traffic safety."
       },
       "es": {
-        "title": "Investigadores utilizan simulaciones de Grand Theft Auto para evaluar tecnologías de seguridad vial",
-        "description": "La serie de videojuegos de mundo abierto Grand Theft Auto, que permite a los jugadores conducir vehículos por ciudades virtuales, está siendo utili...",
-        "fullContent": "La serie de videojuegos de mundo abierto Grand Theft Auto, que permite a los jugadores conducir vehículos por ciudades virtuales, está siendo utilizada como plataforma para experimentos científicos. Los investigadores están adaptando el entorno del juego para probar dispositivos de seguridad ciclista y para entrenar sistemas de vehículos autónomos en la detección y evitación de peligros en la carretera.\n\nMilena Jäger, ingeniera e investigadora en informática de la Universidad de Ciencias Aplicadas de Osnabrück, Alemania, indica que las simulaciones ofrecen situaciones que resultarían demasiado peligrosas para reproducir en vías reales. Este método permite evaluar wearables y otras herramientas digitales de seguridad bajo condiciones controladas pero realistas."
+        "title": "Investigadores utilizan Grand Theft Auto para pruebas de seguridad vial",
+        "description": "La franquicia de videojuegos Grand Theft Auto, conocida por permitir a los jugadores conducir vehículos por ciudades virtuales, está siendo emplead...",
+        "fullContent": "La franquicia de videojuegos Grand Theft Auto, conocida por permitir a los jugadores conducir vehículos por ciudades virtuales, está siendo empleada en investigaciones que buscan mejorar la seguridad en las carreteras. Los científicos están adaptando el entorno del juego para evaluar tecnologías de seguridad ciclista y para entrenar sistemas de vehículos autónomos en la detección y evitación de peligros.\n\nMilena Jäger, ingeniera e investigadora en informática de la Universidad de Ciencias Aplicadas de Osnabrück, Alemania, indica que el entorno virtual ofrece situaciones que serían peligrosas de reproducir en la vía real, lo que permite probar dispositivos portátiles y otras tecnologías digitales destinadas a la seguridad del tráfico."
       }
     },
     {
-      "id": "f93f906def47b7e6644c0f05ffa16f72",
+      "id": "1e9ba4894fbba3326be53c795744ff67",
       "tag": "NEWS",
-      "slug": "cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia",
-      "url": "https://www.godzgames.com/noticias/cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405280399_188.jpg",
-      "link": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
+      "slug": "dos-juegos-sin-relacion-llamados-piece-by-piece-salen-simultaneamente-y-forman-un-paquete",
+      "url": "https://www.godzgames.com/noticias/dos-juegos-sin-relacion-llamados-piece-by-piece-salen-simultaneamente-y-forman-un-paquete/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442880680_320.jpg",
+      "link": "https://aftermath.site/two-games-with-the-same-name-released-at-the-same-time-so-they-decided-to-work-together/",
       "en": {
-        "title": "Australian STEM Videogame Challenge Ends After 12 Years Due to Rise in AI-Generated Submissions",
-        "description": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will...",
-        "fullContent": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will not take place again. Organisers cited the growing volume of entries that incorporate generative artificial intelligence as the reason for discontinuing the event, noting that it has become increasingly difficult to verify the extent of AI involvement in each submission.\n\nThe competition required participants, either individually or in teams of up to four, to create a game based on a specified theme, accompanied by a design document and a short trailer. A parent on Reddit expressed disappointment at the cancellation, describing how the contest had provided a collaborative project and a sense of community for their teenage son and his friends.\n\nIn a statement to PC Gamer, Cathy Zemaitis, head of the Student Learning and Progress division at ACER, the company that runs the challenge, said the decision was driven by the rapid expansion of generative AI tools in game development, which altered the program’s original focus on assessing students’ own development work."
+        "title": "Two Unrelated Games Named \"Piece by Piece\" Release Simultaneously and Form a Bundle",
+        "description": "Two indie titles that share the name Piece by Piece were released on Steam within a few days of each other. The first, developed by No More Robots ...",
+        "fullContent": "Two indie titles that share the name Piece by Piece were released on Steam within a few days of each other. The first, developed by No More Robots and described as a repair‑shop simulation featuring animal characters, launched on March 11. The second, created by Neon Polygons and presented as a platformer where levels are assembled from jigsaw pieces, launched on March 13. Both developers acknowledged the coincidence in a Reddit discussion in March, stating that they had a conversation about the shared title and release window.\n\nFollowing the discussion, the two games were packaged together in a bundle called \"Piece by Piece Double.\" The bundle is also planned for a Nintendo Switch release. According to Video Game Chronicle, No More Robots assumed publishing duties for the Neon Polygons title on Switch because the latter team lacked the necessary finances. Mike Rose of No More Robots posted on Bluesky that Nintendo expressed strong disapproval of the joint release."
       },
       "es": {
-        "title": "Cierre del Australian STEM Videogame Challenge tras 12 años por aumento de trabajos generados con IA",
-        "description": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria...",
-        "fullContent": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria hasta la secundaria, se suspenderá de manera indefinida. Los organizadores indicaron que el incremento de propuestas que utilizan inteligencia artificial generativa dificultó la verificación del grado de participación del alumno en cada proyecto, lo que motivó la decisión.\n\nEl certamen exigía a los participantes, ya sea de forma individual o en equipos de hasta cuatro personas, desarrollar un juego basado en una temática establecida, acompañándolo de un documento de diseño y un breve tráiler. Un padre que comentó en Reddit manifestó su pesar por el cierre, señalando que la competencia había permitido a su hijo adolescente y a sus amigos trabajar en conjunto y formar parte de una comunidad.\n\nCathy Zemaitis, responsable de la división de Student Learning and Progress en ACER, la empresa organizadora, declaró a PC Gamer que la decisión se debió al rápido crecimiento de las herramientas de IA generativa en el desarrollo de videojuegos, lo que aleja al programa de su objetivo original de evaluar el trabajo realizado por los estudiantes."
+        "title": "Dos Juegos Sin Relación Llamados \"Piece by Piece\" Salen Simultáneamente y Forman un Paquete",
+        "description": "Dos títulos indie que comparten el nombre Piece by Piece se publicaron en Steam con pocos días de diferencia. El primero, desarrollado por No More ...",
+        "fullContent": "Dos títulos indie que comparten el nombre Piece by Piece se publicaron en Steam con pocos días de diferencia. El primero, desarrollado por No More Robots y descrito como una simulación de taller de reparaciones con personajes animales, salió el 11 de marzo. El segundo, creado por Neon Polygons y presentado como un juego de plataformas donde los niveles se construyen con piezas de rompecabezas, se lanzó el 13 de marzo. Ambos desarrolladores comentaron la coincidencia en una conversación en Reddit durante marzo, indicando que dialogaron sobre el título compartido y la ventana de lanzamiento.\n\nPosteriormente, los dos juegos se agruparon en un paquete llamado \"Piece by Piece Double\". El paquete también se lanzará para Nintendo Switch. Según Video Game Chronicle, No More Robots asumió la publicación del título de Neon Polygons en Switch porque el equipo de este último no disponía de los recursos financieros necesarios. Mike Rose, de No More Robots, escribió en Bluesky que Nintendo mostró una fuerte desaprobación respecto al lanzamiento conjunto."
       }
     },
     {
-      "id": "18026a738f076bca292ff49b67697fa8",
+      "id": "0089154a7a951c73c14bdde04f1e0958",
       "tag": "NEWS",
-      "slug": "el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi",
-      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405282540_483.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
+      "slug": "los-puestos-de-la-american-legion-se-ajustan-ante-la-reduccion-de-la-poblacion-veterana",
+      "url": "https://www.godzgames.com/noticias/los-puestos-de-la-american-legion-se-ajustan-ante-la-reduccion-de-la-poblacion-veterana/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442882822_517.jpg",
+      "link": "https://www.nbcnews.com/news/photo/veterans-american-legion-halls-evolve-new-era-jazz-video-games-rcna608338",
       "en": {
-        "title": "Take-Two CEO Strauss Zelnick’s Career Shift from Film to Gaming Highlighted by GTA VI Release",
-        "description": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two In...",
-        "fullContent": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two Interactive Software Inc., the publisher of the game.\n\nStrauss Zelnick, chief executive officer of Take‑Two, has said that as a child he aspired to run a Hollywood studio. He earned degrees from Harvard University’s business and law schools and, by his early thirties, had become president of 20th Century Fox. After assessing the growth prospects of the film and television sectors, Zelnick transitioned to focus on the video‑game industry, where he now leads Take‑Two."
+        "title": "American Legion posts adjust operations amid declining veteran numbers",
+        "description": "NBC News photographers visited a selection of the 11,543 American Legion posts located in the United States and overseas to document how the organi...",
+        "fullContent": "NBC News photographers visited a selection of the 11,543 American Legion posts located in the United States and overseas to document how the organization continues to serve as a gathering place for veterans. The visual report highlights the facilities and activities that remain in use across the network of posts.\n\nDuring one of the visits, former Marine John Rattle referenced a 1971 Wall Street Journal article titled “Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,” which is played when taps are sounded for the Legion. The reference underscores historical commentary on the Legion’s role.\n"
       },
       "es": {
-        "title": "El CEO de Take‑Two, Strauss Zelnick, pasa del cine a los videojuegos durante el lanzamiento de GTA VI",
-        "description": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención púb...",
-        "fullContent": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención pública hacia Take‑Two Interactive Software Inc., la compañía responsable del juego.\n\nStrauss Zelnick, director ejecutivo de Take‑Two, ha manifestado que de niño deseaba dirigir un estudio de Hollywood. Se graduó de la facultad de negocios y de derecho de la Universidad de Harvard y, a principios de sus treinta años, llegó a ser presidente de 20th Century Fox. Tras evaluar las perspectivas de crecimiento en el sector cinematográfico y televisivo, Zelnick optó por enfocarse en la industria de los videojuegos, donde actualmente dirige Take‑Two."
+        "title": "Los puestos de la American Legion se ajustan ante la reducción de la población veterana",
+        "description": "Fotógrafos de NBC News visitaron una muestra de los 11,543 puestos de la American Legion en Estados Unidos y en el extranjero para registrar cómo l...",
+        "fullContent": "Fotógrafos de NBC News visitaron una muestra de los 11,543 puestos de la American Legion en Estados Unidos y en el extranjero para registrar cómo la organización sigue funcionando como un punto de encuentro para veteranos. El informe visual muestra las instalaciones y actividades que continúan en uso dentro de la red de puestos.\n\nEn una de las visitas, el exmarine John Rattle sacó un artículo del Wall Street Journal de 1971 con el título “Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,” que se muestra cuando se tocan los toques para la Legion. La referencia señala la observación histórica sobre el papel de la Legion."
       }
     },
     {
-      "id": "eb5efc68e34d0822de122a953dc74d85",
+      "id": "5605cf955b52802af828663cbe4d834f",
       "tag": "NEWS",
-      "slug": "el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show",
-      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405284962_882.jpg",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
+      "slug": "padre-solicita-orientacion-sobre-el-uso-de-videojuegos-de-su-hijo-de-10-anos",
+      "url": "https://www.godzgames.com/noticias/padre-solicita-orientacion-sobre-el-uso-de-videojuegos-de-su-hijo-de-10-anos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442885529_113.jpg",
+      "link": "https://slate.com/advice/2026/11/parenting-advice-limit-video-games.html",
       "en": {
-        "title": "Take-Two CEO Strauss Zelnick Discusses Film-to-Game Career Transition on The David Rubenstein Show",
-        "description": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Execu...",
-        "fullContent": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Executive Officer of Take‑Two Interactive. The interview, recorded on October 19 in New York, covered Zelnick’s professional background, including his tenure as president of 20th Century Fox and his subsequent move from the movie and television sector to the video‑game industry.\n\nDuring the conversation, Zelnick also addressed his role in the growth of Take‑Two Interactive, describing how the company evolved into one of the largest organizations in the gaming market."
+        "title": "Parent Asks for Guidance on 10-Year-Old's Video Game Habits",
+        "description": "The \"Care and Feeding\" column of Slate received a question from a parent who reports that her 10-year-old son asks for his Xbox as soon as he retur...",
+        "fullContent": "The \"Care and Feeding\" column of Slate received a question from a parent who reports that her 10-year-old son asks for his Xbox as soon as he returns from school and that attempts to limit his playing time have led to arguments. The child claims that his friends are allowed to play without restrictions, and the parent notes that he reacts with shouting and name‑calling when told to stop.\n\nThe mother explains that her husband suggests removing the games entirely, while she worries this could worsen the situation. She acknowledges that she may have allowed extensive gaming when the child was younger and now seeks ways to encourage outdoor activity or reading without daily conflict.\n\nThe column advises that the statement about friends is inaccurate and recommends establishing clear rules: the son should not play video games all day, every day, and must understand that “no” is sometimes the answer. It further states that if the child loses control or uses disrespectful language, the request should be denied and the denial should be applied to subsequent requests as well."
       },
       "es": {
-        "title": "El CEO de Take‑Two, Strauss Zelnick, habla de su paso del cine a los videojuegos en The David Rubenstein Show",
-        "description": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Stra...",
-        "fullContent": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Strauss Zelnick, presidente y director ejecutivo de Take‑Two Interactive. La entrevista, grabada el 19 de octubre en Nueva York, abordó la trayectoria profesional de Zelnick, que incluye su cargo como presidente de 20th Century Fox y su posterior cambio del sector cinematográfico y televisivo al de los videojuegos.\n\nEn la conversación, Zelnick también explicó su contribución al crecimiento de Take‑Two Interactive, señalando cómo la compañía se ha convertido en una de las más grandes del mercado de los videojuegos."
+        "title": "Padre solicita orientación sobre el uso de videojuegos de su hijo de 10 años",
+        "description": "La columna \"Care and Feeding\" de Slate recibió una pregunta de una madre que indica que su hijo de 10 años pide la Xbox al llegar de la escuela y q...",
+        "fullContent": "La columna \"Care and Feeding\" de Slate recibió una pregunta de una madre que indica que su hijo de 10 años pide la Xbox al llegar de la escuela y que los intentos de limitar el tiempo de juego han derivado en discusiones. El niño afirma que sus amigos pueden jugar sin restricciones y la madre señala que él responde con gritos y llamándolos por nombres cuando se le pide que deje de jugar.\n\nLa madre comenta que su esposo propone retirar los juegos por completo, mientras ella teme que esa medida empeore la situación. Reconoce que posiblemente permitió mucho tiempo de juego cuando el niño era más pequeño y ahora busca maneras de motivarlo a salir al exterior o a leer sin generar conflictos diarios.\n\nLa columna responde que la afirmación sobre los amigos es falsa y sugiere establecer reglas básicas: el hijo no debe jugar videojuegos todo el día, todos los días, y debe comprender que a veces la respuesta será \"no\". Además, indica que si el niño pierde el control o utiliza lenguaje irrespetuoso, la petición será rechazada y esa decisión se mantendrá para futuras solicitudes."
       }
     },
     {
-      "id": "0e3ecd9a17eae5b0044886837dc340bb",
+      "id": "9e0127a1a2f8fdf19a09d90ff39f37d9",
       "tag": "NEWS",
-      "slug": "logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi",
-      "url": "https://www.godzgames.com/noticias/logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405287164_553.jpg",
-      "link": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
+      "slug": "logitech-lanza-logi-game-day-y-permite-a-sus-empleados-tomarse-el-dia-para-jugar-nuevos-lanzamientos",
+      "url": "https://www.godzgames.com/noticias/logitech-lanza-logi-game-day-y-permite-a-sus-empleados-tomarse-el-dia-para-jugar-nuevos-lanzamientos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442888350_484.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-logitech-employees-day-off",
       "en": {
-        "title": "Logitech grants all 7,000 employees a day off to play video games ahead of GTA VI launch",
-        "description": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their...",
-        "fullContent": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their choice. The initiative, called “Logi Game Day,” applies to full‑time staff, interns and other personnel.\n\nChief Executive Officer Hanneke Faber said the program is intended to challenge the perception that gaming does not add value, noting that the company designs products for both work and play. Faber will participate in the event on November 19, the day Grand Theft Auto VI is scheduled to launch, and will also attend a company‑wide streaming session that will convert the office space into a gaming lounge. Employees may defer their day off until 2027 if they wish.\n\nAn estimate cited in the announcement suggests that the U.S. economy could experience up to $1 billion in lost productivity if 1.5 million workers miss work for the GTA VI release. Victor Matheson, an economist at the College of the Holy Cross who studies major events, indicated that the projected loss might not necessarily be detrimental."
+        "title": "Logitech Introduces 'Logi Game Day' Allowing Employees Time Off for New Game Releases",
+        "description": "Logitech announced a new benefit called \"Logi Game Day\" that gives its staff the option to take time off to play newly released video games. The in...",
+        "fullContent": "Logitech announced a new benefit called \"Logi Game Day\" that gives its staff the option to take time off to play newly released video games. The initiative was announced ahead of the launch of Grand Theft Auto VI, scheduled for November 19, and is described as applicable to other upcoming titles as well.\n\nThe company cited an internal study indicating that 81 percent of gamers believe playing video games enhances real‑world confidence, reduces anxiety, and is associated with improved daily work performance. CEO Hanneke Faber said the policy aims to move away from the perception that gaming is a waste of time, noting that Logitech designs products for both work and play and observes a link between engagement in one area and performance in the other."
       },
       "es": {
-        "title": "Logitech otorga un día libre a sus 7 000 empleados para jugar videojuegos antes del lanzamiento de GTA VI",
-        "description": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próxim...",
-        "fullContent": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próximo año, para jugar el videojuego que elijan. La medida, denominada “Logi Game Day”, incluye a personal de tiempo completo, pasantes y demás colaboradores.\n\nLa directora ejecutiva, Hanneke Faber, declaró que la iniciativa busca desmontar la idea de que jugar no aporta valor, señalando que la compañía desarrolla productos tanto para el trabajo como para el ocio. Faber participará el 19 de noviembre, día del lanzamiento de Grand Theft Auto VI, y asistirá a un evento de streaming interno que convertirá el espacio de la oficina en un salón de juegos. Los empleados pueden postergar su día libre hasta 2027 si lo prefieren.\n\nSegún una estimación citada, la economía de EE. UU. podría registrar una pérdida de productividad de hasta mil millones de dólares si 1,5 millones de trabajadores se ausentan por el estreno de GTA VI. Victor Matheson, economista del College of the Holy Cross especializado en eventos de gran escala, comentó que la pérdida proyectada no necesariamente representa un efecto negativo."
+        "title": "Logitech lanza 'Logi Game Day' y permite a sus empleados tomarse el día para jugar nuevos lanzamientos",
+        "description": "Logitech comunicó la creación de un nuevo beneficio llamado \"Logi Game Day\", que brinda a sus empleados la posibilidad de tomarse tiempo libre para...",
+        "fullContent": "Logitech comunicó la creación de un nuevo beneficio llamado \"Logi Game Day\", que brinda a sus empleados la posibilidad de tomarse tiempo libre para jugar videojuegos recién lanzados. La medida se anunció antes del estreno de Grand Theft Auto VI, previsto para el 19 de noviembre, y se indica que será aplicable a otros títulos futuros.\n\nLa compañía señaló un estudio interno en el que el 81 % de los jugadores considera que jugar videojuegos fortalece la confianza en la vida real, reduce la ansiedad y está relacionado con un mejor desempeño laboral cotidiano. La directora ejecutiva, Hanneke Faber, explicó que la política busca cambiar la percepción de que los videojuegos son una pérdida de tiempo, resaltando que Logitech diseña productos tanto para el trabajo como para el ocio y observa una relación entre la participación en una esfera y el rendimiento en la otra."
       }
     }
   ]
