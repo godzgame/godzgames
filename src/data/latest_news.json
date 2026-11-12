@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794442888430,
+  "updatedAt": 1794495367926,
   "articles": [
-    {
-      "id": "9075b6976f87abdb8dfe2eb7f5b09e45",
-      "tag": "NEWS",
-      "slug": "investigadores-utilizan-grand-theft-auto-para-pruebas-de-seguridad-vial",
-      "url": "https://www.godzgames.com/noticias/investigadores-utilizan-grand-theft-auto-para-pruebas-de-seguridad-vial/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442878645_393.jpg",
-      "link": "https://www.bbc.com/future/article/20261110-grand-theft-auto-video-games-are-being-harnessed-to-make-real-roads-safer",
-      "en": {
-        "title": "Researchers employ Grand Theft Auto series for traffic safety testing",
-        "description": "The Grand Theft Auto video game franchise, known for allowing players to drive vehicles through virtual cities, is being used in research aimed at ...",
-        "fullContent": "The Grand Theft Auto video game franchise, known for allowing players to drive vehicles through virtual cities, is being used in research aimed at improving road safety. Scientists are adapting the game environment to evaluate cycle‑safety technologies and to train autonomous‑vehicle systems to recognize and avoid hazards.\n\nAccording to Milena Jäger, an engineer and computer‑science researcher at Osnabrück University of Applied Sciences in Germany, the virtual setting provides scenarios that would be unsafe to recreate on real roads, enabling the testing of wearables and other digital devices intended for traffic safety."
-      },
-      "es": {
-        "title": "Investigadores utilizan Grand Theft Auto para pruebas de seguridad vial",
-        "description": "La franquicia de videojuegos Grand Theft Auto, conocida por permitir a los jugadores conducir vehículos por ciudades virtuales, está siendo emplead...",
-        "fullContent": "La franquicia de videojuegos Grand Theft Auto, conocida por permitir a los jugadores conducir vehículos por ciudades virtuales, está siendo empleada en investigaciones que buscan mejorar la seguridad en las carreteras. Los científicos están adaptando el entorno del juego para evaluar tecnologías de seguridad ciclista y para entrenar sistemas de vehículos autónomos en la detección y evitación de peligros.\n\nMilena Jäger, ingeniera e investigadora en informática de la Universidad de Ciencias Aplicadas de Osnabrück, Alemania, indica que el entorno virtual ofrece situaciones que serían peligrosas de reproducir en la vía real, lo que permite probar dispositivos portátiles y otras tecnologías digitales destinadas a la seguridad del tráfico."
-      }
-    },
     {
       "id": "1e9ba4894fbba3326be53c795744ff67",
       "tag": "NEWS",
-      "slug": "dos-juegos-sin-relacion-llamados-piece-by-piece-salen-simultaneamente-y-forman-un-paquete",
-      "url": "https://www.godzgames.com/noticias/dos-juegos-sin-relacion-llamados-piece-by-piece-salen-simultaneamente-y-forman-un-paquete/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442880680_320.jpg",
+      "slug": "dos-juegos-indie-llamados-piece-by-piece-se-lanzan-cerca-y-forman-un-paquete",
+      "url": "https://www.godzgames.com/noticias/dos-juegos-indie-llamados-piece-by-piece-se-lanzan-cerca-y-forman-un-paquete/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794495356022_255.jpg",
       "link": "https://aftermath.site/two-games-with-the-same-name-released-at-the-same-time-so-they-decided-to-work-together/",
       "en": {
-        "title": "Two Unrelated Games Named \"Piece by Piece\" Release Simultaneously and Form a Bundle",
-        "description": "Two indie titles that share the name Piece by Piece were released on Steam within a few days of each other. The first, developed by No More Robots ...",
-        "fullContent": "Two indie titles that share the name Piece by Piece were released on Steam within a few days of each other. The first, developed by No More Robots and described as a repair‑shop simulation featuring animal characters, launched on March 11. The second, created by Neon Polygons and presented as a platformer where levels are assembled from jigsaw pieces, launched on March 13. Both developers acknowledged the coincidence in a Reddit discussion in March, stating that they had a conversation about the shared title and release window.\n\nFollowing the discussion, the two games were packaged together in a bundle called \"Piece by Piece Double.\" The bundle is also planned for a Nintendo Switch release. According to Video Game Chronicle, No More Robots assumed publishing duties for the Neon Polygons title on Switch because the latter team lacked the necessary finances. Mike Rose of No More Robots posted on Bluesky that Nintendo expressed strong disapproval of the joint release."
+        "title": "Two Indie Games Named \"Piece by Piece\" Release Close Together and Form Bundle",
+        "description": "Two indie titles sharing the name \"Piece by Piece\" were released on Steam within days of each other. \"One Piece by Piece\", a repair‑shop simulation...",
+        "fullContent": "Two indie titles sharing the name \"Piece by Piece\" were released on Steam within days of each other. \"One Piece by Piece\", a repair‑shop simulation featuring animal characters, launched on March 11, 2024. \"Piece by Piece\", a platformer in which players construct levels from jigsaw pieces, launched on March 13, 2024.\n\nDevelopers from No More Robots, the publisher of the repair‑shop game, and Neon Polygons, the studio behind the platformer, discussed the coincidence on Reddit in March. Both parties confirmed the separate releases and noted that they had a conversation about the situation. The two titles were subsequently offered together in a bundle called \"Piece by Piece Double\".\n\nBoth games are scheduled for release on the Nintendo Switch. Video Game Chronicle reported that No More Robots arranged to publish the platformer on Switch after Neon Polygons indicated insufficient funds for a self‑published launch, allowing a simultaneous Switch release. Mike Rose of No More Robots posted on Bluesky that Nintendo expressed strong disapproval of the arrangement."
       },
       "es": {
-        "title": "Dos Juegos Sin Relación Llamados \"Piece by Piece\" Salen Simultáneamente y Forman un Paquete",
-        "description": "Dos títulos indie que comparten el nombre Piece by Piece se publicaron en Steam con pocos días de diferencia. El primero, desarrollado por No More ...",
-        "fullContent": "Dos títulos indie que comparten el nombre Piece by Piece se publicaron en Steam con pocos días de diferencia. El primero, desarrollado por No More Robots y descrito como una simulación de taller de reparaciones con personajes animales, salió el 11 de marzo. El segundo, creado por Neon Polygons y presentado como un juego de plataformas donde los niveles se construyen con piezas de rompecabezas, se lanzó el 13 de marzo. Ambos desarrolladores comentaron la coincidencia en una conversación en Reddit durante marzo, indicando que dialogaron sobre el título compartido y la ventana de lanzamiento.\n\nPosteriormente, los dos juegos se agruparon en un paquete llamado \"Piece by Piece Double\". El paquete también se lanzará para Nintendo Switch. Según Video Game Chronicle, No More Robots asumió la publicación del título de Neon Polygons en Switch porque el equipo de este último no disponía de los recursos financieros necesarios. Mike Rose, de No More Robots, escribió en Bluesky que Nintendo mostró una fuerte desaprobación respecto al lanzamiento conjunto."
+        "title": "Dos juegos indie llamados \"Piece by Piece\" se lanzan cerca y forman un paquete",
+        "description": "Dos títulos indie con el mismo nombre \"Piece by Piece\" se publicaron en Steam con pocos días de diferencia. \"One Piece by Piece\", una simulación de...",
+        "fullContent": "Dos títulos indie con el mismo nombre \"Piece by Piece\" se publicaron en Steam con pocos días de diferencia. \"One Piece by Piece\", una simulación de taller de reparaciones con personajes animales, salió el 11 de marzo de 2024. \"Piece by Piece\", un juego de plataformas donde los jugadores construyen niveles con piezas de rompecabezas, se lanzó el 13 de marzo de 2024.\n\nDesarrolladores de No More Robots, editor del juego de taller, y Neon Polygons, estudio detrás del juego de plataformas, abordaron la coincidencia en Reddit en marzo. Ambas partes confirmaron los lanzamientos independientes y señalaron que mantuvieron una conversación al respecto. Posteriormente, los dos títulos se ofrecieron juntos en un paquete llamado \"Piece by Piece Double\".\n\nAmbos juegos están programados para su lanzamiento en Nintendo Switch. Según Video Game Chronicle, No More Robots organizó la publicación del juego de plataformas en Switch después de que Neon Polygons indicara que no contaba con los recursos financieros para hacerlo por sí mismo, lo que permite un lanzamiento simultáneo en la consola. Mike Rose de No More Robots publicó en Bluesky que Nintendo manifestó una fuerte desaprobación de la iniciativa."
+      }
+    },
+    {
+      "id": "16e69ca3f6fed91a3a952b6a8c395f45",
+      "tag": "NEWS",
+      "slug": "rockstar-lanza-grand-theft-auto-vi-mientras-al-jazeera-presenta-experiencia-de-50-anos-de-videojuegos-con-ia",
+      "url": "https://www.godzgames.com/noticias/rockstar-lanza-grand-theft-auto-vi-mientras-al-jazeera-presenta-experiencia-de-50-anos-de-videojuegos-con-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794495360151_628.jpg",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games",
+      "en": {
+        "title": "Rockstar releases Grand Theft Auto VI as Al Jazeera launches AI-generated 50-year gaming experience",
+        "description": "On November 19, Rockstar Games released Grand Theft Auto VI, marking the first entry in the series after a 13‑year interval. The game's initial tra...",
+        "fullContent": "On November 19, Rockstar Games released Grand Theft Auto VI, marking the first entry in the series after a 13‑year interval. The game's initial trailer, released in December 2023, recorded more than 90 million views on YouTube within 24 hours, establishing a record for a video‑game reveal.\n\nThe launch coincides with a market that Newzoo reported generated $201.6 billion in revenue in 2025. Al Jazeera employed artificial‑intelligence tools to build six short levels inspired by games that defined each decade, from Pong to GTA VI, allowing users to navigate a 50‑year timeline and compare their completion times. The interface offers the option to select a specific decade or to play the entire sequence.\n\nHistorical notes indicate that while video games were not invented in 1972, that year marked a broader public exposure. In 1958, physicist William Higinbotham connected a tennis simulation to an oscilloscope at Brookhaven National Laboratory, where visitors played \"Tennis for Two,\" a device that was never sold."
+      },
+      "es": {
+        "title": "Rockstar lanza Grand Theft Auto VI mientras Al Jazeera presenta experiencia de 50 años de videojuegos con IA",
+        "description": "El 19 de noviembre, Rockstar Games lanzó Grand Theft Auto VI, el primer título de la serie después de un intervalo de 13 años. El primer tráiler de...",
+        "fullContent": "El 19 de noviembre, Rockstar Games lanzó Grand Theft Auto VI, el primer título de la serie después de un intervalo de 13 años. El primer tráiler del juego, publicado en diciembre de 2023, superó los 90 millones de visualizaciones en YouTube en 24 horas, estableciendo un récord para una presentación de videojuego.\n\nEl lanzamiento se produce en un sector que, según el estudio de Newzoo, generó 201.6 mil millones de dólares en ingresos en 2025. Al Jazeera utilizó herramientas de inteligencia artificial para crear seis niveles cortos inspirados en los juegos que definieron cada década, desde Pong hasta GTA VI, permitiendo a los usuarios recorrer una línea de tiempo de 50 años y comparar sus tiempos de finalización. La interfaz permite elegir una década específica o jugar toda la secuencia.\n\nEn el contexto histórico, aunque los videojuegos no se inventaron en 1972, ese año marcó una mayor difusión al público. En 1958, el físico William Higinbotham conectó un juego de tenis a un osciloscopio en el Laboratorio Nacional Brookhaven, donde los visitantes jugaron \"Tennis for Two\", un dispositivo que nunca se comercializó."
+      }
+    },
+    {
+      "id": "a637f80ae3fa07984566af8ce2fc5865",
+      "tag": "NEWS",
+      "slug": "lanzamiento-de-gta-6-programado-para-el-19-de-noviembre-entre-estrenos-de-cine-y-tv",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-de-gta-6-programado-para-el-19-de-noviembre-entre-estrenos-de-cine-y-tv/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794495363101_885.jpg",
+      "link": "https://www.hollywoodreporter.com/business/digital/gta-6-hollywood-biggest-entertainment-launch-1236752195/",
+      "en": {
+        "title": "GTA 6 release set for Nov. 19 amid major film and TV premieres",
+        "description": "Grand Theft Auto VI is scheduled to launch on November 19, 2024, coinciding with the release of several high‑budget films and television series. Am...",
+        "fullContent": "Grand Theft Auto VI is scheduled to launch on November 19, 2024, coinciding with the release of several high‑budget films and television series. Amazon‑MGM’s The Lord of the Rings: The Rings of Power season three will begin streaming on November 11, followed by Johnny Depp’s film Ebenezer on November 13. Lionsgate’s The Hunger Games: Sunrise on the Reaping is slated for November 20, the same day Paramount+ will debut the fourth season of Yellowjackets and Disney will release the third season of Percy Jackson and the Olympians. A limited series titled Blade Runner 2099 is expected from Amazon‑MGM five days later.\n\nBart Spiegel, global leader for media, entertainment, gaming and sports at PricewaterhouseCoopers, said the launch of GTA 6 represents a watershed moment for both the gaming sector and the broader media and entertainment industry, noting that audience attention will shift toward the game. Rockstar Games projects first‑year sales of 45 million copies and revenue of $3.2 billion, a figure that would exceed the all‑time box‑office record held by Avengers: Endgame. According to a survey, 29 percent of U.S. gamers intend to purchase the title, and an economist has estimated that the game could result in approximately $1 billion of lost productivity in the United States.\n\nOther video‑game publishers have reportedly not issued public statements regarding the upcoming release."
+      },
+      "es": {
+        "title": "Lanzamiento de GTA 6 programado para el 19 de noviembre entre estrenos de cine y TV",
+        "description": "Grand Theft Auto VI está previsto para su lanzamiento el 19 de noviembre de 2024, coincidiendo con la salida de varias películas y series de televi...",
+        "fullContent": "Grand Theft Auto VI está previsto para su lanzamiento el 19 de noviembre de 2024, coincidiendo con la salida de varias películas y series de televisión de alto presupuesto. La tercera temporada de The Lord of the Rings: The Rings of Power de Amazon‑MGM comenzará a emitirse el 11 de noviembre, seguida de la película de Johnny Depp, Ebenezer, el 13 de noviembre. The Hunger Games: Sunrise on the Reaping de Lionsgate está programada para el 20 de noviembre, mismo día en que Paramount+ estrenará la cuarta temporada de Yellowjackets y Disney lanzará la tercera temporada de Percy Jackson and the Olympians. Se espera que la serie limitada Blade Runner 2099 de Amazon‑MGM se estrene cinco días después.\n\nBart Spiegel, líder global de medios, entretenimiento, videojuegos y deportes en PricewaterhouseCoopers, describió el lanzamiento de GTA 6 como un punto de inflexión tanto para la industria del gaming como para el sector de medios y entretenimiento, al señalar que la atención del público se dirigirá al juego. Rockstar Games prevé ventas de 45 millones de copias en el primer año y unos ingresos de 3,2 mil millones de dólares, cifra que superaría el récord histórico de taquilla de Avengers: Endgame. Según una encuesta, el 29 por ciento de los jugadores estadounidenses tiene previsto comprar el título, y un economista ha estimado que el juego podría generar alrededor de 1 mil millones de dólares en pérdida de productividad en Estados Unidos.\n\nOtros editores de videojuegos no han emitido declaraciones públicas al respecto."
       }
     },
     {
       "id": "0089154a7a951c73c14bdde04f1e0958",
       "tag": "NEWS",
-      "slug": "los-puestos-de-la-american-legion-se-ajustan-ante-la-reduccion-de-la-poblacion-veterana",
-      "url": "https://www.godzgames.com/noticias/los-puestos-de-la-american-legion-se-ajustan-ante-la-reduccion-de-la-poblacion-veterana/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442882822_517.jpg",
+      "slug": "los-posts-de-la-american-legion-se-adaptan-ante-la-disminucion-de-veteranos",
+      "url": "https://www.godzgames.com/noticias/los-posts-de-la-american-legion-se-adaptan-ante-la-disminucion-de-veteranos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794495365820_585.jpg",
       "link": "https://www.nbcnews.com/news/photo/veterans-american-legion-halls-evolve-new-era-jazz-video-games-rcna608338",
       "en": {
-        "title": "American Legion posts adjust operations amid declining veteran numbers",
-        "description": "NBC News photographers visited a selection of the 11,543 American Legion posts located in the United States and overseas to document how the organi...",
-        "fullContent": "NBC News photographers visited a selection of the 11,543 American Legion posts located in the United States and overseas to document how the organization continues to serve as a gathering place for veterans. The visual report highlights the facilities and activities that remain in use across the network of posts.\n\nDuring one of the visits, former Marine John Rattle referenced a 1971 Wall Street Journal article titled “Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,” which is played when taps are sounded for the Legion. The reference underscores historical commentary on the Legion’s role.\n"
+        "title": "American Legion posts adapt as veteran population declines",
+        "description": "NBC News photographers visited a sample of the 11,543 American Legion posts located in the United States and overseas to document the ways the orga...",
+        "fullContent": "NBC News photographers visited a sample of the 11,543 American Legion posts located in the United States and overseas to document the ways the organization continues to serve as a gathering place for veterans. The visual report highlights activities and spaces that aim to maintain the post's role as a community hub for former service members.\n\nDuring one of the visits, former Marine John Rutter was observed playing taps and presenting a 1971 Wall Street Journal article titled \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,\" illustrating historical perspectives on the Legion's changing influence."
       },
       "es": {
-        "title": "Los puestos de la American Legion se ajustan ante la reducción de la población veterana",
-        "description": "Fotógrafos de NBC News visitaron una muestra de los 11,543 puestos de la American Legion en Estados Unidos y en el extranjero para registrar cómo l...",
-        "fullContent": "Fotógrafos de NBC News visitaron una muestra de los 11,543 puestos de la American Legion en Estados Unidos y en el extranjero para registrar cómo la organización sigue funcionando como un punto de encuentro para veteranos. El informe visual muestra las instalaciones y actividades que continúan en uso dentro de la red de puestos.\n\nEn una de las visitas, el exmarine John Rattle sacó un artículo del Wall Street Journal de 1971 con el título “Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,” que se muestra cuando se tocan los toques para la Legion. La referencia señala la observación histórica sobre el papel de la Legion."
+        "title": "Los posts de la American Legion se adaptan ante la disminución de veteranos",
+        "description": "Fotógrafos de NBC News visitaron una muestra de los 11,543 posts de la American Legion situados en Estados Unidos y en el extranjero para registrar...",
+        "fullContent": "Fotógrafos de NBC News visitaron una muestra de los 11,543 posts de la American Legion situados en Estados Unidos y en el extranjero para registrar cómo la organización sigue funcionando como un punto de encuentro para veteranos. El reportaje visual muestra actividades y espacios que buscan preservar el papel del post como centro comunitario para exmilitares.\n\nEn una de las visitas, el exmarine John Rutter tocó la melodía de taps y mostró un artículo del Wall Street Journal de 1971 con el título \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away\", que refleja una visión histórica sobre la evolución de la influencia de la Legion."
       }
     },
     {
-      "id": "5605cf955b52802af828663cbe4d834f",
+      "id": "bf11e9f772d3221d1477ba74c1d33d40",
       "tag": "NEWS",
-      "slug": "padre-solicita-orientacion-sobre-el-uso-de-videojuegos-de-su-hijo-de-10-anos",
-      "url": "https://www.godzgames.com/noticias/padre-solicita-orientacion-sobre-el-uso-de-videojuegos-de-su-hijo-de-10-anos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442885529_113.jpg",
-      "link": "https://slate.com/advice/2026/11/parenting-advice-limit-video-games.html",
+      "slug": "tanuki-pons-summer-consiste-en-labores-de-correos-y-restauracion-de-un-santuario",
+      "url": "https://www.godzgames.com/noticias/tanuki-pons-summer-consiste-en-labores-de-correos-y-restauracion-de-un-santuario/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794495367866_90.jpg",
+      "link": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
       "en": {
-        "title": "Parent Asks for Guidance on 10-Year-Old's Video Game Habits",
-        "description": "The \"Care and Feeding\" column of Slate received a question from a parent who reports that her 10-year-old son asks for his Xbox as soon as he retur...",
-        "fullContent": "The \"Care and Feeding\" column of Slate received a question from a parent who reports that her 10-year-old son asks for his Xbox as soon as he returns from school and that attempts to limit his playing time have led to arguments. The child claims that his friends are allowed to play without restrictions, and the parent notes that he reacts with shouting and name‑calling when told to stop.\n\nThe mother explains that her husband suggests removing the games entirely, while she worries this could worsen the situation. She acknowledges that she may have allowed extensive gaming when the child was younger and now seeks ways to encourage outdoor activity or reading without daily conflict.\n\nThe column advises that the statement about friends is inaccurate and recommends establishing clear rules: the son should not play video games all day, every day, and must understand that “no” is sometimes the answer. It further states that if the child loses control or uses disrespectful language, the request should be denied and the denial should be applied to subsequent requests as well."
+        "title": "Tanuki: Pon’s Summer gameplay involves post office duties and shrine restoration",
+        "description": "Tanuki: Pon’s Summer is available on Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and PC. The game is developed by Denk...",
+        "fullContent": "Tanuki: Pon’s Summer is available on Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and PC. The game is developed by Denkiworks and Inpleron Limited. It is presented as a low‑intensity experience focused on routine tasks, set during the weeks leading up to a local festival where the player must repair an ancient shrine.\n\nThe player assumes the role of a raccoon‑dog postal worker who rides a BMX. Each in‑game day, except Wednesdays and weekends, the character collects packages from the post office and delivers them across an open‑world village. Deliveries provide cash and dialogue with residents. Occasionally, the player participates in mini‑games such as fishing for a sushi chef or processing timber, which lack an on‑screen aiming reticule.\n\nProgression is tied to the restoration of the shrine and the accumulation of information about the town. The game concludes after the shrine is repaired and the festival takes place."
       },
       "es": {
-        "title": "Padre solicita orientación sobre el uso de videojuegos de su hijo de 10 años",
-        "description": "La columna \"Care and Feeding\" de Slate recibió una pregunta de una madre que indica que su hijo de 10 años pide la Xbox al llegar de la escuela y q...",
-        "fullContent": "La columna \"Care and Feeding\" de Slate recibió una pregunta de una madre que indica que su hijo de 10 años pide la Xbox al llegar de la escuela y que los intentos de limitar el tiempo de juego han derivado en discusiones. El niño afirma que sus amigos pueden jugar sin restricciones y la madre señala que él responde con gritos y llamándolos por nombres cuando se le pide que deje de jugar.\n\nLa madre comenta que su esposo propone retirar los juegos por completo, mientras ella teme que esa medida empeore la situación. Reconoce que posiblemente permitió mucho tiempo de juego cuando el niño era más pequeño y ahora busca maneras de motivarlo a salir al exterior o a leer sin generar conflictos diarios.\n\nLa columna responde que la afirmación sobre los amigos es falsa y sugiere establecer reglas básicas: el hijo no debe jugar videojuegos todo el día, todos los días, y debe comprender que a veces la respuesta será \"no\". Además, indica que si el niño pierde el control o utiliza lenguaje irrespetuoso, la petición será rechazada y esa decisión se mantendrá para futuras solicitudes."
-      }
-    },
-    {
-      "id": "9e0127a1a2f8fdf19a09d90ff39f37d9",
-      "tag": "NEWS",
-      "slug": "logitech-lanza-logi-game-day-y-permite-a-sus-empleados-tomarse-el-dia-para-jugar-nuevos-lanzamientos",
-      "url": "https://www.godzgames.com/noticias/logitech-lanza-logi-game-day-y-permite-a-sus-empleados-tomarse-el-dia-para-jugar-nuevos-lanzamientos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794442888350_484.jpg",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-logitech-employees-day-off",
-      "en": {
-        "title": "Logitech Introduces 'Logi Game Day' Allowing Employees Time Off for New Game Releases",
-        "description": "Logitech announced a new benefit called \"Logi Game Day\" that gives its staff the option to take time off to play newly released video games. The in...",
-        "fullContent": "Logitech announced a new benefit called \"Logi Game Day\" that gives its staff the option to take time off to play newly released video games. The initiative was announced ahead of the launch of Grand Theft Auto VI, scheduled for November 19, and is described as applicable to other upcoming titles as well.\n\nThe company cited an internal study indicating that 81 percent of gamers believe playing video games enhances real‑world confidence, reduces anxiety, and is associated with improved daily work performance. CEO Hanneke Faber said the policy aims to move away from the perception that gaming is a waste of time, noting that Logitech designs products for both work and play and observes a link between engagement in one area and performance in the other."
-      },
-      "es": {
-        "title": "Logitech lanza 'Logi Game Day' y permite a sus empleados tomarse el día para jugar nuevos lanzamientos",
-        "description": "Logitech comunicó la creación de un nuevo beneficio llamado \"Logi Game Day\", que brinda a sus empleados la posibilidad de tomarse tiempo libre para...",
-        "fullContent": "Logitech comunicó la creación de un nuevo beneficio llamado \"Logi Game Day\", que brinda a sus empleados la posibilidad de tomarse tiempo libre para jugar videojuegos recién lanzados. La medida se anunció antes del estreno de Grand Theft Auto VI, previsto para el 19 de noviembre, y se indica que será aplicable a otros títulos futuros.\n\nLa compañía señaló un estudio interno en el que el 81 % de los jugadores considera que jugar videojuegos fortalece la confianza en la vida real, reduce la ansiedad y está relacionado con un mejor desempeño laboral cotidiano. La directora ejecutiva, Hanneke Faber, explicó que la política busca cambiar la percepción de que los videojuegos son una pérdida de tiempo, resaltando que Logitech diseña productos tanto para el trabajo como para el ocio y observa una relación entre la participación en una esfera y el rendimiento en la otra."
+        "title": "Tanuki: Pon’s Summer consiste en labores de correos y restauración de un santuario",
+        "description": "Tanuki: Pon’s Summer está disponible para Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S y PC. El juego es desarrollado p...",
+        "fullContent": "Tanuki: Pon’s Summer está disponible para Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S y PC. El juego es desarrollado por Denkiworks e Inpleron Limited y se describe como una experiencia de bajo ritmo centrada en tareas rutinarias, ambientada en las semanas previas a un festival local en la que el jugador debe reparar un santuario antiguo.\n\nEl jugador controla a un perro mapache que trabaja en la oficina de correos y se desplaza en BMX. Cada día del juego, salvo los miércoles y los fines de semana, el personaje recoge paquetes en la oficina y los entrega por un pueblo de mundo abierto. Las entregas generan ingresos y diálogos con los habitantes. En ocasiones, el jugador participa en minijuegos como pescar para un chef de sushi o procesar madera, los cuales no incluyen una retícula de puntería en pantalla.\n\nEl avance está ligado a la restauración del santuario y a la acumulación de información sobre el pueblo. El juego finaliza una vez que el santuario está reparado y se celebra el festival."
       }
     }
   ]
