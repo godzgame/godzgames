@@ -60,6 +60,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/latest_news.json
+          git add src/data/news_archive.json
           git add src/data/affiliate-suggestions.json
           git add public/uploads/
           git diff --staged --quiet \

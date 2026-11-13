@@ -136,6 +136,45 @@ function compileArticles() {
     }
   }
 
+  // ARCHIVO_COMPILE_PATCH: notas archivadas con url, para que /noticias/<slug>/ las encuentre
+  try {
+    const ARCHIVE_PATH = path.join(__dirname, '../src/data/news_archive.json');
+    if (fs.existsSync(ARCHIVE_PATH)) {
+      const archiveData = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf-8'));
+      const archived = Array.isArray(archiveData.articles) ? archiveData.articles : [];
+      const seen = new Set(allArticles.map(a => a.id));
+      let added = 0;
+      archived.forEach((art, idx) => {
+        if (!art || !art.id || !art.url || seen.has(art.id)) return;
+        seen.add(art.id);
+        const esData = art.es || {};
+        const enData = art.en || {};
+        const titleEs = esData.title || art.title || ('Noticia archivada ' + (idx + 1));
+        const titleEn = enData.title || titleEs;
+        allArticles.push({
+          id: art.id,
+          type: 'news_archive',
+          category: 'NOTICIAS_ARCHIVO',
+          isArchived: true,
+          title: titleEs,
+          slug: art.slug || slugify(titleEs),
+          es: { title: titleEs, description: esData.description || '', fullContent: esData.fullContent || esData.description || '' },
+          en: { title: titleEn, description: enData.description || esData.description || '', fullContent: enData.fullContent || enData.description || '' },
+          description: esData.description || '',
+          fullContent: esData.fullContent || '',
+          image: cleanImageUrl(art.image),
+          publishedAt: art.publishedAt || art.date || archiveData.lastUpdated || '',
+          tag: art.tag || 'NOTICIA',
+          link: art.link || ''
+        });
+        added++;
+      });
+      console.log('  Notas archivadas compiladas: ' + added);
+    }
+  } catch (e) {
+    console.error('Error leyendo news_archive.json:', e.message);
+  }
+
   // 2. Archivos Markdown en content/
   if (fs.existsSync(CONTENT_DIR)) {
     const processDir = (dirPath) => {

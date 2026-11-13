@@ -1,8 +1,476 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-10-27T00:11:43Z",
+  "lastUpdated": "2026-11-12T01:55:51.211Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "f93f906def47b7e6644c0f05ffa16f72",
+      "tag": "NEWS",
+      "slug": "cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia",
+      "url": "https://www.godzgames.com/noticias/cierre-del-australian-stem-videogame-challenge-tras-12-anos-por-aumento-de-trabajos-generados-con-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405280399_188.jpg",
+      "link": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
+      "en": {
+        "title": "Australian STEM Videogame Challenge Ends After 12 Years Due to Rise in AI-Generated Submissions",
+        "description": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will...",
+        "fullContent": "The Australian STEM Videogame Challenge, a competition that has been running for 12 years and targets students from elementary to high school, will not take place again. Organisers cited the growing volume of entries that incorporate generative artificial intelligence as the reason for discontinuing the event, noting that it has become increasingly difficult to verify the extent of AI involvement in each submission.\n\nThe competition required participants, either individually or in teams of up to four, to create a game based on a specified theme, accompanied by a design document and a short trailer. A parent on Reddit expressed disappointment at the cancellation, describing how the contest had provided a collaborative project and a sense of community for their teenage son and his friends.\n\nIn a statement to PC Gamer, Cathy Zemaitis, head of the Student Learning and Progress division at ACER, the company that runs the challenge, said the decision was driven by the rapid expansion of generative AI tools in game development, which altered the program’s original focus on assessing students’ own development work."
+      },
+      "es": {
+        "title": "Cierre del Australian STEM Videogame Challenge tras 12 años por aumento de trabajos generados con IA",
+        "description": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria...",
+        "fullContent": "El Australian STEM Videogame Challenge, una competición que ha funcionado durante 12 años y está dirigida a estudiantes desde la educación primaria hasta la secundaria, se suspenderá de manera indefinida. Los organizadores indicaron que el incremento de propuestas que utilizan inteligencia artificial generativa dificultó la verificación del grado de participación del alumno en cada proyecto, lo que motivó la decisión.\n\nEl certamen exigía a los participantes, ya sea de forma individual o en equipos de hasta cuatro personas, desarrollar un juego basado en una temática establecida, acompañándolo de un documento de diseño y un breve tráiler. Un padre que comentó en Reddit manifestó su pesar por el cierre, señalando que la competencia había permitido a su hijo adolescente y a sus amigos trabajar en conjunto y formar parte de una comunidad.\n\nCathy Zemaitis, responsable de la división de Student Learning and Progress en ACER, la empresa organizadora, declaró a PC Gamer que la decisión se debió al rápido crecimiento de las herramientas de IA generativa en el desarrollo de videojuegos, lo que aleja al programa de su objetivo original de evaluar el trabajo realizado por los estudiantes."
+      }
+    },
+    {
+      "id": "18026a738f076bca292ff49b67697fa8",
+      "tag": "NEWS",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-pasa-del-cine-a-los-videojuegos-durante-el-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405282540_483.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
+      "en": {
+        "title": "Take-Two CEO Strauss Zelnick’s Career Shift from Film to Gaming Highlighted by GTA VI Release",
+        "description": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two In...",
+        "fullContent": "A mural honoring Grand Theft Auto VI was installed in Brooklyn, New York, on November 2. The artwork coincided with public attention on Take‑Two Interactive Software Inc., the publisher of the game.\n\nStrauss Zelnick, chief executive officer of Take‑Two, has said that as a child he aspired to run a Hollywood studio. He earned degrees from Harvard University’s business and law schools and, by his early thirties, had become president of 20th Century Fox. After assessing the growth prospects of the film and television sectors, Zelnick transitioned to focus on the video‑game industry, where he now leads Take‑Two."
+      },
+      "es": {
+        "title": "El CEO de Take‑Two, Strauss Zelnick, pasa del cine a los videojuegos durante el lanzamiento de GTA VI",
+        "description": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención púb...",
+        "fullContent": "Un mural dedicado a Grand Theft Auto VI se instaló en el distrito de Brooklyn, Nueva York, el 2 de noviembre. La obra coincidió con la atención pública hacia Take‑Two Interactive Software Inc., la compañía responsable del juego.\n\nStrauss Zelnick, director ejecutivo de Take‑Two, ha manifestado que de niño deseaba dirigir un estudio de Hollywood. Se graduó de la facultad de negocios y de derecho de la Universidad de Harvard y, a principios de sus treinta años, llegó a ser presidente de 20th Century Fox. Tras evaluar las perspectivas de crecimiento en el sector cinematográfico y televisivo, Zelnick optó por enfocarse en la industria de los videojuegos, donde actualmente dirige Take‑Two."
+      }
+    },
+    {
+      "id": "eb5efc68e34d0822de122a953dc74d85",
+      "tag": "NEWS",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-habla-de-su-paso-del-cine-a-los-videojuegos-en-the-david-rubenstein-show/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405284962_882.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
+      "en": {
+        "title": "Take-Two CEO Strauss Zelnick Discusses Film-to-Game Career Transition on The David Rubenstein Show",
+        "description": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Execu...",
+        "fullContent": "The David Rubenstein Show: Peer to Peer Conversations aired a new episode on November 11, 2026, featuring Strauss Zelnick, Chairman and Chief Executive Officer of Take‑Two Interactive. The interview, recorded on October 19 in New York, covered Zelnick’s professional background, including his tenure as president of 20th Century Fox and his subsequent move from the movie and television sector to the video‑game industry.\n\nDuring the conversation, Zelnick also addressed his role in the growth of Take‑Two Interactive, describing how the company evolved into one of the largest organizations in the gaming market."
+      },
+      "es": {
+        "title": "El CEO de Take‑Two, Strauss Zelnick, habla de su paso del cine a los videojuegos en The David Rubenstein Show",
+        "description": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Stra...",
+        "fullContent": "El programa The David Rubenstein Show: Peer to Peer Conversations emitió un nuevo episodio el 11 de noviembre de 2026, con la participación de Strauss Zelnick, presidente y director ejecutivo de Take‑Two Interactive. La entrevista, grabada el 19 de octubre en Nueva York, abordó la trayectoria profesional de Zelnick, que incluye su cargo como presidente de 20th Century Fox y su posterior cambio del sector cinematográfico y televisivo al de los videojuegos.\n\nEn la conversación, Zelnick también explicó su contribución al crecimiento de Take‑Two Interactive, señalando cómo la compañía se ha convertido en una de las más grandes del mercado de los videojuegos."
+      }
+    },
+    {
+      "id": "0e3ecd9a17eae5b0044886837dc340bb",
+      "tag": "NEWS",
+      "slug": "logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/logitech-otorga-un-dia-libre-a-sus-7-000-empleados-para-jugar-videojuegos-antes-del-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794405287164_553.jpg",
+      "link": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
+      "en": {
+        "title": "Logitech grants all 7,000 employees a day off to play video games ahead of GTA VI launch",
+        "description": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their...",
+        "fullContent": "Logitech announced that its 7,000 employees worldwide can take a paid day off between now and the same date next year to play a video game of their choice. The initiative, called “Logi Game Day,” applies to full‑time staff, interns and other personnel.\n\nChief Executive Officer Hanneke Faber said the program is intended to challenge the perception that gaming does not add value, noting that the company designs products for both work and play. Faber will participate in the event on November 19, the day Grand Theft Auto VI is scheduled to launch, and will also attend a company‑wide streaming session that will convert the office space into a gaming lounge. Employees may defer their day off until 2027 if they wish.\n\nAn estimate cited in the announcement suggests that the U.S. economy could experience up to $1 billion in lost productivity if 1.5 million workers miss work for the GTA VI release. Victor Matheson, an economist at the College of the Holy Cross who studies major events, indicated that the projected loss might not necessarily be detrimental."
+      },
+      "es": {
+        "title": "Logitech otorga un día libre a sus 7 000 empleados para jugar videojuegos antes del lanzamiento de GTA VI",
+        "description": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próxim...",
+        "fullContent": "Logitech informó que sus 7 000 empleados a nivel global podrán disponer de un día libre remunerado, entre la fecha actual y el mismo día del próximo año, para jugar el videojuego que elijan. La medida, denominada “Logi Game Day”, incluye a personal de tiempo completo, pasantes y demás colaboradores.\n\nLa directora ejecutiva, Hanneke Faber, declaró que la iniciativa busca desmontar la idea de que jugar no aporta valor, señalando que la compañía desarrolla productos tanto para el trabajo como para el ocio. Faber participará el 19 de noviembre, día del lanzamiento de Grand Theft Auto VI, y asistirá a un evento de streaming interno que convertirá el espacio de la oficina en un salón de juegos. Los empleados pueden postergar su día libre hasta 2027 si lo prefieren.\n\nSegún una estimación citada, la economía de EE. UU. podría registrar una pérdida de productividad de hasta mil millones de dólares si 1,5 millones de trabajadores se ausentan por el estreno de GTA VI. Victor Matheson, economista del College of the Holy Cross especializado en eventos de gran escala, comentó que la pérdida proyectada no necesariamente representa un efecto negativo."
+      }
+    },
+    {
+      "id": "ceb6d565d6bdfcd7854d9be214010911",
+      "tag": "NEWS",
+      "slug": "playstation-cancela-el-desarrollo-del-shooter-online-fairgames",
+      "url": "https://www.godzgames.com/noticias/playstation-cancela-el-desarrollo-del-shooter-online-fairgames/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375523335_920.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+      "en": {
+        "title": "PlayStation Cancels Development of Online Shooter 'Fairgames'",
+        "description": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, its Mo...",
+        "fullContent": "Sony's PlayStation division announced the cancellation of Fairgames, an online shooting title that had been in development at Haven Studios, its Montreal-based subsidiary. The decision was disclosed alongside a statement that no layoffs will result from the cancellation.\n\nAccording to the company's spokesperson, the studio will redirect its efforts toward collaborating with other PlayStation Studios and will pursue new creative projects. The announcement was made following the display of PlayStation signage at the Tokyo Game Show in Chiba on September 17, 2026."
+      },
+      "es": {
+        "title": "PlayStation cancela el desarrollo del shooter online 'Fairgames'",
+        "description": "La división PlayStation de Sony informó la cancelación de Fairgames, un título de disparos en línea que estaba en desarrollo en Haven Studios, su f...",
+        "fullContent": "La división PlayStation de Sony informó la cancelación de Fairgames, un título de disparos en línea que estaba en desarrollo en Haven Studios, su filial ubicada en Montreal. La comunicación también indicó que la medida no provocará despidos.\n\nEl portavoz de la compañía señaló que el estudio enfocará sus recursos en colaborar con otros equipos de PlayStation Studios y en explorar nuevas oportunidades creativas. La noticia se dio a conocer después de que se mostrara la señalización de PlayStation en el Tokyo Game Show en Chiba el 17 de septiembre de 2026."
+      }
+    },
+    {
+      "id": "4a9fd011c9fd175ad80cea7bc1247b35",
+      "tag": "NEWS",
+      "slug": "nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2",
+      "url": "https://www.godzgames.com/noticias/nintendo-switch-online-se-lanza-el-10-de-noviembre-de-2026-para-switch-y-switch-2/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375529800_592.jpg",
+      "link": "https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH",
+      "en": {
+        "title": "Nintendo Switch Online service launches on November 10, 2026 for Switch and Switch 2",
+        "description": "Nintendo announced that the paid subscription service Nintendo Switch Online became available on Tuesday, November 10, 2026. The service is compati...",
+        "fullContent": "Nintendo announced that the paid subscription service Nintendo Switch Online became available on Tuesday, November 10, 2026. The service is compatible with both the Nintendo Switch and the newly released Nintendo Switch 2, and includes an app for smartphone music playback.\n\nThe subscription provides online multiplayer for supported titles such as Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons and Pokémon LEGENDS Z‑A, as well as access to a library of more than 200 classic games from previous Nintendo consoles. Features such as Suspend Points, Rewind and a \"Play while sharing\" function are included to facilitate gameplay.\n\nMembers with the Nintendo Switch Online + Expansion Pack also receive games from the Game Boy Advance, Nintendo 64 and, on the Switch 2, the Nintendo GameCube. Access to these additional classic titles requires the Expansion Pack tier of the subscription."
+      },
+      "es": {
+        "title": "Nintendo Switch Online se lanza el 10 de noviembre de 2026 para Switch y Switch 2",
+        "description": "Nintendo informó que el servicio de suscripción de pago Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026. El se...",
+        "fullContent": "Nintendo informó que el servicio de suscripción de pago Nintendo Switch Online estuvo disponible a partir del martes 10 de noviembre de 2026. El servicio es compatible con la Nintendo Switch y la Nintendo Switch 2, e incluye una aplicación para reproducción de música en smartphones.\n\nLa suscripción permite el juego en línea para títulos compatibles como Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons y Pokémon LEGENDS Z‑A, y brinda acceso a una biblioteca de más de 200 juegos clásicos de consolas anteriores de Nintendo. Entre sus funciones se encuentran Suspend Points, Rewind y la opción \"Play while sharing\" para facilitar la jugabilidad.\n\nLos usuarios que suscriban el Nintendo Switch Online + Expansion Pack también obtienen juegos de Game Boy Advance, Nintendo 64 y, en la Switch 2, de Nintendo GameCube. El acceso a estos títulos clásicos adicionales requiere la suscripción del nivel Expansion Pack."
+      }
+    },
+    {
+      "id": "72781991cf0eb872a8bfee5cd30baee4",
+      "tag": "NEWS",
+      "slug": "desarrollo-de-big-walk-incluyo-uso-limitado-de-ia-confirman-los-desarrolladores",
+      "url": "https://www.godzgames.com/noticias/desarrollo-de-big-walk-incluyo-uso-limitado-de-ia-confirman-los-desarrolladores/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794375532081_23.jpg",
+      "link": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/",
+      "en": {
+        "title": "Big Walk Development Included Limited AI Use, Developers Confirm",
+        "description": "The Independent Games Festival (IGF) jury expressed a position regarding AI-developed video games, after which a blog post was published. Following...",
+        "fullContent": "The Independent Games Festival (IGF) jury expressed a position regarding AI-developed video games, after which a blog post was published. Following the publication, social media discussions highlighted that the game Big Walk had employed artificial intelligence during the final phase of its development.\n\nHouse House, the studio behind Big Walk, stated via email to Aftermath that large language models were used sparingly to address technical challenges and bugs, estimating that less than 0.1% of the game's code involved such usage. The studio added that generative AI was not employed in any other aspect of the game's creation.\n\nHouse House also acknowledged the concerns raised about AI use, noting a potential impact on the perception of the technology and expressing support for efforts aimed at limiting its effects. The studio apologized for the AI usage not aligning with certain expectations and indicated that the disclosure was not made at release because no official announcement had been prepared."
+      },
+      "es": {
+        "title": "Desarrollo de Big Walk Incluyó Uso Limitado de IA, Confirman los Desarrolladores",
+        "description": "El jurado del Independent Games Festival (IGF) manifestó una posición respecto a los videojuegos desarrollados con inteligencia artificial, tras lo...",
+        "fullContent": "El jurado del Independent Games Festival (IGF) manifestó una posición respecto a los videojuegos desarrollados con inteligencia artificial, tras lo cual se publicó una entrada en el blog. Posteriormente, en redes sociales surgieron discusiones que señalaron que el juego Big Walk había utilizado inteligencia artificial durante la fase final de su desarrollo.\n\nHouse House, el estudio responsable de Big Walk, declaró por correo electrónico a Aftermath que los modelos de lenguaje grande fueron empleados de forma esporádica para resolver desafíos técnicos y errores, estimando que menos del 0.1% del código del juego estuvo relacionado con este uso. Además, precisaron que la IA generativa no se utilizó en ningún otro contexto durante la creación del juego.\n\nHouse House también reconoció las inquietudes sobre el uso de IA, señalando una posible influencia en la percepción de la tecnología y expresando apoyo a iniciativas que buscan limitar sus efectos. El estudio se disculpó por el uso de IA que podría no cumplir con ciertos estándares y explicó que la divulgación no se realizó en el lanzamiento porque no se había preparado un anuncio oficial."
+      }
+    },
+    {
+      "id": "d57a94e7b3c9d0cdccbb4d2f474ea61b",
+      "tag": "NEWS",
+      "slug": "football-manager-27-incorpora-opcion-de-silla-de-ruedas-para-gerentes-personalizados",
+      "url": "https://www.godzgames.com/noticias/football-manager-27-incorpora-opcion-de-silla-de-ruedas-para-gerentes-personalizados/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794351814466_806.jpg",
+      "link": "https://www.bbc.com/news/articles/cw33xl43xgdpo",
+      "en": {
+        "title": "Football Manager 27 adds wheelchair option for custom managers",
+        "description": "The latest installment of the Football Manager series includes a new feature in its character creation tool that allows players to design a manager...",
+        "fullContent": "The latest installment of the Football Manager series includes a new feature in its character creation tool that allows players to design a manager who uses a wheelchair. This option is available for the first time in the franchise.\nSports Interactive, the developer of the game, stated to BBC Newsbeat that the addition is part of a broader initiative to make the title as inclusive as possible. The comment follows a 2023 survey conducted by the charity Scope, in which gamers with disabilities indicated that increased accuracy and frequency of representation in video games are among their top priorities."
+      },
+      "es": {
+        "title": "Football Manager 27 incorpora opción de silla de ruedas para gerentes personalizados",
+        "description": "La última entrega de la serie Football Manager incluye una nueva función en su herramienta de creación de personajes que permite a los jugadores di...",
+        "fullContent": "La última entrega de la serie Football Manager incluye una nueva función en su herramienta de creación de personajes que permite a los jugadores diseñar un entrenador que utiliza silla de ruedas. Esta opción está disponible por primera vez en la franquicia.\nSports Interactive, el desarrollador del juego, informó a BBC Newsbeat que la incorporación forma parte de un esfuerzo más amplio para que el título sea lo más inclusivo posible. La declaración se produce tras una encuesta realizada en 2023 por la organización benéfica Scope, en la que los jugadores con discapacidad señalaron que la representación más precisa y frecuente en los videojuegos es una de sus principales prioridades."
+      }
+    },
+    {
+      "id": "22b8dd5ac2c92935c4bbe68ae58f3642",
+      "tag": "NEWS",
+      "slug": "james-gunn-y-peter-safran-abandonan-warner-bros-futuro-del-batman-en-el-dcu-incierto",
+      "url": "https://www.godzgames.com/noticias/james-gunn-y-peter-safran-abandonan-warner-bros-futuro-del-batman-en-el-dcu-incierto/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321560571_172.jpg",
+      "link": "https://www.ign.com/articles/batman-video-game-fans-are-feeling-the-pain-too-after-todays-james-gunn-news",
+      "en": {
+        "title": "James Gunn and Peter Safran Leave Warner Bros.; Future of DCU Batman Unclear",
+        "description": "Warner Bros. announced that James Gunn and Peter Safran are no longer with the company and have moved to Skydance. The change raises questions abou...",
+        "fullContent": "Warner Bros. announced that James Gunn and Peter Safran are no longer with the company and have moved to Skydance. The change raises questions about the continuation of the DC Universe (DCU) film project that includes a new Batman feature, as the previous plan may be revised.\n\nThe most recent live‑action Batman film was Matt Reeves' The Batman, released in 2022, starring Robert Pattinson. Prior releases include the 2021 Snyder Cut of Justice League, which featured a cameo by Ben Affleck's Batman, and Christopher Nolan's The Dark Knight Rises from 2012. A sequel to The Batman is scheduled for release in 2028.\n\nAnimated productions continue with DC Animated Studios' Batman: Knightfall Part 1 and Amazon's Batman: Caped Crusader series. In the video‑game sector, no new major Batman titles have been announced recently, leaving the franchise without a recent console release."
+      },
+      "es": {
+        "title": "James Gunn y Peter Safran abandonan Warner Bros.; Futuro del Batman en el DCU incierto",
+        "description": "Warner Bros. informó que James Gunn y Peter Safran ya no forman parte de la compañía y se han trasladado a Skydance. Este cambio genera dudas sobre...",
+        "fullContent": "Warner Bros. informó que James Gunn y Peter Safran ya no forman parte de la compañía y se han trasladado a Skydance. Este cambio genera dudas sobre la continuidad del proyecto cinematográfico del DC Universe (DCU) que incluye una nueva película de Batman, ya que el plan previo podría ser revisado.\n\nLa última película de acción real de Batman fue The Batman, dirigida por Matt Reeves y estrenada en 2022, con Robert Pattinson como el personaje. Otras apariciones recientes incluyen la versión Snyder Cut de Justice League (2021), con la participación de Ben Affleck como Batman, y The Dark Knight Rises de Christopher Nolan (2012). Se ha programado una secuela de The Batman para el año 2028.\n\nEn el ámbito de la animación, DC Animated Studios lanzó Batman: Knightfall Parte 1 y Amazon continúa con la serie Batman: Caped Crusader. En el sector de los videojuegos, no se han anunciado nuevos títulos principales de Batman recientemente, lo que mantiene a la franquicia sin un lanzamiento reciente en consolas."
+      }
+    },
+    {
+      "id": "10bf25d0efad0620b3dfc9a346f1a648",
+      "tag": "NEWS",
+      "slug": "se-acerca-el-lanzamiento-de-un-videojuego-de-gran-exito-analista-preve-un-alza-del-35-en-la-accion",
+      "url": "https://www.godzgames.com/noticias/se-acerca-el-lanzamiento-de-un-videojuego-de-gran-exito-analista-preve-un-alza-del-35-en-la-accion/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321566618_914.jpg",
+      "link": "https://www.cnbc.com/2026/11/09/the-wait-is-almost-over-for-this-blockbuster-video-game-i-see-35percent-upside-in-the-stock.html",
+      "en": {
+        "title": "Blockbuster video game release approaching, analyst predicts 35% stock upside",
+        "description": "A source reports that the anticipated launch of a major video game is near, and an analyst estimates a potential 35% increase in the company's stoc...",
+        "fullContent": "A source reports that the anticipated launch of a major video game is near, and an analyst estimates a potential 35% increase in the company's stock price. The same source invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox.\n\nThe information includes a disclaimer stating that the data presented is a real‑time snapshot, delayed by at least 15 minutes, and covers global business and financial news, stock quotes, and market analysis.\n\nThe release concludes with a copyright notice indicating that the material is owned by Versant Media, LLC, a Versant Media Company, and that all rights are reserved."
+      },
+      "es": {
+        "title": "Se acerca el lanzamiento de un videojuego de gran éxito, analista prevé un alza del 35% en la acción",
+        "description": "Una fuente informa que el lanzamiento esperado de un videojuego importante está próximo y que un analista estima un posible aumento del 35 % en el ...",
+        "fullContent": "Una fuente informa que el lanzamiento esperado de un videojuego importante está próximo y que un analista estima un posible aumento del 35 % en el precio de la acción de la empresa relacionada. La misma fuente invita a los lectores a suscribirse a boletines gratuitos para recibir más contenido de CNBC directamente en su bandeja de entrada.\n\nEl comunicado incluye un aviso de que los datos mostrados son una captura en tiempo real con un retraso de al menos 15 minutos, y cubren noticias financieras y empresariales globales, cotizaciones de acciones y análisis de mercado.\n\nEl documento finaliza con una declaración de derechos de autor que indica que el material pertenece a Versant Media, LLC, una empresa de Versant Media, y que todos los derechos están reservados."
+      }
+    },
+    {
+      "id": "1c74a2f4ba5c7037826d85a96e343d5a",
+      "tag": "NEWS",
+      "slug": "take-two-informa-que-ventas-de-nba-2k27-quedan-por-debajo-de-la-prevision-y-senala-competencia-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/take-two-informa-que-ventas-de-nba-2k27-quedan-por-debajo-de-la-prevision-y-senala-competencia-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321569555_100.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi",
+      "en": {
+        "title": "Take-Two reports NBA 2K27 sales fall short of forecast, cites GTA VI competition",
+        "description": "Take-Two Interactive Software Inc. announced that its latest NBA 2K installment, NBA 2K27, released in September, sold 4 million units but did not ...",
+        "fullContent": "Take-Two Interactive Software Inc. announced that its latest NBA 2K installment, NBA 2K27, released in September, sold 4 million units but did not meet the company’s internal sales projection.\nThe shortfall contributed to a bookings miss for the fiscal second quarter that ended September 30, with net bookings of $1.6 billion versus Wall Street estimates of $1.65 billion.\nChairman and CEO Strauss Zelnick said at the Semafor World Economy Summit in Washington, D.C., on April 16, 2026, that part of the sales gap was linked to competition from the company’s own title Grand Theft Auto VI."
+      },
+      "es": {
+        "title": "Take-Two informa que ventas de NBA 2K27 quedan por debajo de la previsión y señala competencia de GTA VI",
+        "description": "Take-Two Interactive Software Inc. informó que su último título de la serie NBA 2K, NBA 2K27, lanzado en septiembre, vendió 4 millones de copias pe...",
+        "fullContent": "Take-Two Interactive Software Inc. informó que su último título de la serie NBA 2K, NBA 2K27, lanzado en septiembre, vendió 4 millones de copias pero no alcanzó la proyección interna de ventas de la compañía.\nEsta diferencia se reflejó en un incumplimiento de reservas para el segundo trimestre fiscal que concluyó el 30 de septiembre, con reservas netas de 1.600 millones de dólares frente a las estimaciones de Wall Street de 1.650 millones de dólares.\nEl presidente y director ejecutivo Strauss Zelnick declaró, durante la Cumbre de la Economía Mundial de Semafor en Washington, D.C., el 16 de abril de 2026, que parte de la brecha en ventas se atribuye a la competencia del propio título Grand Theft Auto VI."
+      }
+    },
+    {
+      "id": "191cae58713712f20b4ea19a921ca771",
+      "tag": "NEWS",
+      "slug": "rockstar-confirma-que-gta-6-funcionara-a-30-fps-en-todas-las-plataformas-con-ray-tracing-exclusivo-para-ps5-pro",
+      "url": "https://www.godzgames.com/noticias/rockstar-confirma-que-gta-6-funcionara-a-30-fps-en-todas-las-plataformas-con-ray-tracing-exclusivo-para-ps5-pro/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794321575255_357.jpg",
+      "link": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/",
+      "en": {
+        "title": "Rockstar says GTA 6 will run at 30 FPS on all platforms, with ray tracing limited to PS5 Pro",
+        "description": "Rockstar Games has confirmed that Grand Theft Auto 6 is being developed to run at a target of 30 frames per second on every current‑generation cons...",
+        "fullContent": "Rockstar Games has confirmed that Grand Theft Auto 6 is being developed to run at a target of 30 frames per second on every current‑generation console. The company’s statement says the game has been built from the ground up for the present generation, aiming to maximize performance while preserving visual fidelity across its environments.\n\nAccording to the announcement, ray‑traced shadows and PlayStation Spectral Super Resolution (PSSR) will be available exclusively on the PlayStation 5 Pro. The same statement repeats that the title is expected to play best on PlayStation 5 hardware.\n\nFor the PlayStation 5 version, Rockstar notes the inclusion of high‑fidelity haptic feedback fully integrated with DualSense controllers, adjustable through accessibility settings, as well as enhanced spatial audio rendering using Tempest 3D Audio and reduced load times."
+      },
+      "es": {
+        "title": "Rockstar confirma que GTA 6 funcionará a 30 FPS en todas las plataformas, con ray tracing exclusivo para PS5 Pro",
+        "description": "Rockstar Games ha confirmado que Grand Theft Auto 6 está siendo desarrollado para alcanzar un objetivo de 30 fotogramas por segundo en todas las co...",
+        "fullContent": "Rockstar Games ha confirmado que Grand Theft Auto 6 está siendo desarrollado para alcanzar un objetivo de 30 fotogramas por segundo en todas las consolas de última generación. En el comunicado la compañía indica que el juego se ha construido desde cero para la generación actual, con el objetivo de maximizar el rendimiento manteniendo la fidelidad visual de sus entornos.\n\nEl anuncio señala que las sombras con trazado de rayos y PlayStation Spectral Super Resolution (PSSR) estarán disponibles únicamente en la PlayStation 5 Pro. En el mismo comunicado se repite que el título se jugará mejor en consolas PlayStation 5.\n\nPara la versión de PlayStation 5, Rockstar indica que se incluirá retroalimentación háptica de alta fidelidad totalmente integrada en los controladores DualSense, ajustable mediante la configuración de accesibilidad, así como una mejora en la representación de audio espacial mediante Tempest 3D Audio y tiempos de carga reducidos."
+      }
+    },
+    {
+      "id": "3b5c5becbba4dd49b21e866162b12371",
+      "tag": "NEWS",
+      "slug": "se-documentan-hitos-de-la-serie-grand-theft-auto-y-el-proximo-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/se-documentan-hitos-de-la-serie-grand-theft-auto-y-el-proximo-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794273753996_983.jpg",
+      "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
+      "en": {
+        "title": "Grand Theft Auto series milestones and upcoming GTA VI release documented",
+        "description": "Since its launch on PC and consoles in the late 1990s, the Grand Theft Auto franchise has been noted for influencing game development practices. In...",
+        "fullContent": "Since its launch on PC and consoles in the late 1990s, the Grand Theft Auto franchise has been noted for influencing game development practices. In the 2000s, when Rockstar Games announced a new project, video game writers from across the United Kingdom traveled to the company’s London office, entered a dimly lit room facing a large television, and were offered sweets on a low bench while awaiting the presentation. Rockstar sometimes opened its presentations with clips from classic films to situate the new work within a cinematic context.\n\nThe studio’s use of cinematic references extended to other titles; for example, Red Dead Redemption incorporated curated moments from spaghetti westerns and referenced works such as *Butch Cassidy and the Sundance Kid*, the 1958 novel *Warlock* by Oakley Hall, and paintings by Frederic Remington. Rockstar’s most recent project, Grand Theft Auto VI, received its first in‑depth reveal during a Netflix special, an event that generated noticeable activity on Netflix’s servers.\n\nGrand Theft Auto V, released in 2013, has sold more than 230 million copies. According to reports, the development budget for Grand Theft Auto VI exceeds one billion dollars, and the game is scheduled for release in November."
+      },
+      "es": {
+        "title": "Se documentan hitos de la serie Grand Theft Auto y el próximo lanzamiento de GTA VI",
+        "description": "Desde su lanzamiento en PC y consolas a finales de los años noventa, la franquicia Grand Theft Auto ha sido señalada por influir en las prácticas d...",
+        "fullContent": "Desde su lanzamiento en PC y consolas a finales de los años noventa, la franquicia Grand Theft Auto ha sido señalada por influir en las prácticas de desarrollo de videojuegos. En la década de 2000, cuando Rockstar Games anunciaba un nuevo proyecto, escritores de videojuegos de todo el Reino Unido viajaban a la oficina de la compañía en Londres, entraban a una sala tenue frente a una gran televisión y encontraban un plato de dulces sobre un banco bajo mientras esperaban la presentación. Rockstar a veces iniciaba sus presentaciones con fragmentos de películas clásicas para situar el nuevo trabajo dentro de un contexto cinematográfico.\n\nEl uso de referencias cinematográficas por parte del estudio se extendió a otros títulos; por ejemplo, Red Dead Redemption incorporó momentos seleccionados de westerns spaghetti y aludió a obras como *Butch Cassidy and the Sundance Kid*, la novela de 1958 *Warlock* de Oakley Hall y las pinturas de Frederic Remington. El proyecto más reciente de Rockstar, Grand Theft Auto VI, tuvo su primera presentación detallada en un especial de Netflix, un evento que generó una notable actividad en los servidores de la plataforma.\n\nGrand Theft Auto V, lanzado en 2013, ha vendido más de 230 millones de copias. Según informes, el presupuesto de desarrollo de Grand Theft Auto VI supera los mil millones de dólares, y el juego está programado para su lanzamiento en noviembre."
+      }
+    },
+    {
+      "id": "b4ef40ad153115ea211b041f25bfbdc0",
+      "tag": "NEWS",
+      "slug": "remake-de-the-legend-of-zelda-ocarina-of-time-establece-dos-records-en-metacritic",
+      "url": "https://www.godzgames.com/noticias/remake-de-the-legend-of-zelda-ocarina-of-time-establece-dos-records-en-metacritic/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794273761235_855.jpg",
+      "link": "https://mashable.com/entertainment/zelda-ocarina-of-time-switch-2-metacritic-records",
+      "en": {
+        "title": "Remake of 'The Legend of Zelda: Ocarina of Time' Sets Two Metacritic Records",
+        "description": "Nintendo released a remake of The Legend of Zelda: Ocarina of Time for the Switch 2 last week. Within a few days the title registered two distinct ...",
+        "fullContent": "Nintendo released a remake of The Legend of Zelda: Ocarina of Time for the Switch 2 last week. Within a few days the title registered two distinct milestones on Metacritic.\n\nThe game now holds the highest aggregate critic score for any title released in 2026, with a rating of 96 out of 100, and it also achieved the highest user score ever recorded on the site, 9.6 out of 10, based on more than 8,750 user submissions. Metacritic does not require purchase verification for user reviews, meaning scores can be submitted without proof of ownership.\n\nThe original Ocarina of Time for Nintendo 64 remains the highest‑rated game by critics on Metacritic, with a score of 99 out of 100. The remake has been in the market for just over four days, and the upcoming launch of Grand Theft Auto VI on November 19 could influence its standing in the user‑score rankings."
+      },
+      "es": {
+        "title": "Remake de 'The Legend of Zelda: Ocarina of Time' establece dos récords en Metacritic",
+        "description": "Nintendo lanzó la semana pasada una versión remasterizada de The Legend of Zelda: Ocarina of Time para la Switch 2. En los primeros días del lanzam...",
+        "fullContent": "Nintendo lanzó la semana pasada una versión remasterizada de The Legend of Zelda: Ocarina of Time para la Switch 2. En los primeros días del lanzamiento, el juego alcanzó dos hitos en Metacritic.\n\nActualmente posee la mayor puntuación agregada de críticos para cualquier título publicado en 2026, con un 96 sobre 100, y también registró la mayor puntuación de usuarios en la historia del sitio, 9,6 sobre 10, basada en más de 8.750 opiniones de usuarios. Metacritic no exige verificación de compra para que los usuarios envíen sus puntuaciones.\n\nEl Ocarina of Time original para Nintendo 64 sigue siendo el juego mejor calificado por críticos en Metacritic, con un 99 sobre 100. El remake lleva poco más de cuatro días en el mercado, y el próximo lanzamiento de Grand Theft Auto VI el 19 de noviembre podría afectar su posición en la tabla de puntuaciones de usuarios."
+      }
+    },
+    {
+      "id": "7c9b0708df6ff9de6c6707035d2c36e3",
+      "tag": "NEWS",
+      "slug": "asociacion-alemana-de-la-industria-de-videojuegos-advierte-que-la-ley-kids-de-la-ue-podria-afectar-los-sistemas-de-clasificacion-por-edad",
+      "url": "https://www.godzgames.com/noticias/asociacion-alemana-de-la-industria-de-videojuegos-advierte-que-la-ley-kids-de-la-ue-podria-afectar-los-sistemas-de-clasificacion-por-edad/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794273768142_932.jpg",
+      "link": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "en": {
+        "title": "German Games Industry Association says EU KIDS Act may affect national video game age ratings",
+        "description": "The German Games Industry Association (Game) has warned that the draft EU KIDS Act, presented in September, could supersede established national ag...",
+        "fullContent": "The German Games Industry Association (Game) has warned that the draft EU KIDS Act, presented in September, could supersede established national age‑rating systems for video games. Germany currently relies on the USK rating system, while most European countries use PEGI. Game notes that the act’s proposed Europe‑wide codes of conduct could lead to the same title receiving different age classifications, such as 12+ in one store and 16+ in another, thereby reducing the relevance of the USK system.\nThe KIDS Act primarily targets social‑media platforms, proposing a ban on access for children under 13 and restrictions for users under 15. It also contains provisions on age‑rating codes of conduct that extend beyond the existing framework. Game urges that the legislation preserve and build upon the USK and PEGI structures rather than introduce entirely new procedures. The USK system was updated in 2023 to consider loot boxes and online communication, and PEGI introduced similar changes earlier this year, automatically assigning a 16+ rating to games with loot boxes. Felix Falk, managing director of Game, said the European Commission faces pressure to tighten youth protection on social media, and that existing game‑specific protections could become collateral damage."
+      },
+      "es": {
+        "title": "Asociación Alemana de la Industria de Videojuegos advierte que la Ley KIDS de la UE podría afectar los sistemas de clasificación por edad",
+        "description": "La Asociación Alemana de la Industria de Videojuegos (Game) ha advertido que el proyecto de Ley KIDS de la UE, presentado en septiembre, podría anu...",
+        "fullContent": "La Asociación Alemana de la Industria de Videojuegos (Game) ha advertido que el proyecto de Ley KIDS de la UE, presentado en septiembre, podría anular los sistemas de clasificación por edad ya establecidos a nivel nacional para los videojuegos. Alemania utiliza actualmente el sistema de clasificación USK, mientras que la mayor parte de Europa emplea PEGI. Game señala que los códigos de conducta a nivel europeo propuestos en la ley podrían provocar que un mismo juego reciba distintas clasificaciones, como 12+ en una tienda y 16+ en otra, disminuyendo la relevancia del sistema USK.\nLa Ley KIDS está enfocada principalmente en las redes sociales, proponiendo la prohibición de su uso para menores de 13 años y restricciones para usuarios menores de 15. Además, incluye disposiciones sobre códigos de conducta para la clasificación por edad que van más allá del marco existente. Game solicita que la normativa mantenga y refuerce las estructuras USK y PEGI en lugar de crear procedimientos completamente nuevos. El sistema USK fue revisado en 2023 para incluir aspectos como loot boxes y comunicación en línea, y PEGI introdujo cambios similares a principios de este año, asignando automáticamente una clasificación de 16+ a los juegos con loot boxes. Felix Falk, director general de Game, indicó que la Comisión Europea está bajo presión para reforzar la protección juvenil en redes sociales y que la protección existente para los videojuegos corre el riesgo de convertirse en daño colateral."
+      }
+    },
+    {
+      "id": "2835ced17a0345478563cfa813ab378c",
+      "tag": "NEWS",
+      "slug": "cinco-juegos-de-ps4-que-destacan-las-capacidades-visuales-de-la-consola",
+      "url": "https://www.godzgames.com/noticias/cinco-juegos-de-ps4-que-destacan-las-capacidades-visuales-de-la-consola/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239227065_577.jpg",
+      "link": "https://www.svg.com/2306975/ps4-games-best-graphics-ranked/",
+      "en": {
+        "title": "Five PS4 Games Highlighting the Console’s Visual Capabilities",
+        "description": "After the PlayStation 3 period, Sony launched the PlayStation 4 using an x86 architecture, which differed from the PS3’s Cell processor and reduced...",
+        "fullContent": "After the PlayStation 3 period, Sony launched the PlayStation 4 using an x86 architecture, which differed from the PS3’s Cell processor and reduced the complexity of development for many studios. The PS4 delivered smoother frame rates, higher resolutions and support for HDR colour grading, providing a visual improvement over the previous generation. This report examines five PlayStation 4 titles that illustrate the console’s graphical performance, concentrating on the versions released for PS4 and PS4 Pro, while noting that some of the games later received updates for the PlayStation 5.\n\nThe first title covered is Shadow of the Tomb Raider, the third entry in the series that was rebooted in 2013. Released in 2018, the game was exclusive to current‑generation consoles, with no Xbox 360 version. Its environments are primarily set in a Peruvian jungle, featuring dense foliage, mud‑covered terrain and lakes."
+      },
+      "es": {
+        "title": "Cinco juegos de PS4 que destacan las capacidades visuales de la consola",
+        "description": "Tras la era de la PlayStation 3, Sony lanzó la PlayStation 4 con una arquitectura x86, distinta del procesador Cell de la PS3, lo que simplificó el...",
+        "fullContent": "Tras la era de la PlayStation 3, Sony lanzó la PlayStation 4 con una arquitectura x86, distinta del procesador Cell de la PS3, lo que simplificó el desarrollo para varios estudios. La PS4 ofreció frecuencias de cuadro más fluidas, resoluciones superiores y compatibilidad con la gradación de color HDR, proporcionando una mejora visual respecto a la generación anterior. Este informe analiza cinco títulos de PlayStation 4 que demuestran el rendimiento gráfico de la consola, centrándose en las versiones para PS4 y PS4 Pro, y menciona que algunos de esos juegos recibieron actualizaciones para la PlayStation 5.\n\nEl primer título tratado es Shadow of the Tomb Raider, la tercera entrega de la serie que se reinició en 2013. Lanzado en 2018, el juego fue exclusivo para consolas de generación actual, sin una versión para Xbox 360. Sus escenarios se desarrollan principalmente en una selva peruana, con vegetación densa, terrenos embarrados y lagos."
+      }
+    },
+    {
+      "id": "02f2ee316625188deefa4d521b3704c3",
+      "tag": "NEWS",
+      "slug": "datamine-indica-posible-dlc-de-master-quest-para-remake-de-ocarina-of-time-en-switch",
+      "url": "https://www.godzgames.com/noticias/datamine-indica-posible-dlc-de-master-quest-para-remake-de-ocarina-of-time-en-switch/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239229364_105.jpg",
+      "link": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-could-be-getting-master-quest-dlc/",
+      "en": {
+        "title": "Datamine suggests Master Quest DLC may be planned for Ocarina of Time Switch remake",
+        "description": "A recent datamine of the upcoming Nintendo Switch 2 version of The Legend of Zelda: Ocarina of Time has revealed references to \"MQ\" within the game...",
+        "fullContent": "A recent datamine of the upcoming Nintendo Switch 2 version of The Legend of Zelda: Ocarina of Time has revealed references to \"MQ\" within the game files, according to social media user MrCheese. The abbreviation is interpreted as Master Quest, a more challenging variant of the original game that was released in 2003 for the GameCube and later as an unlockable mode for the 3DS edition.\n\nThe extracted data also includes indications that the Master Quest content would be accessible through a separate DLC purchase rather than a free update. An X post by OatmealDome noted that the files suggest modifications such as mirrored world layouts and altered dungeon designs, citing examples like the presence of cows in Jabu‑Jabu's Belly. The information is described as incomplete, but it confirms the presence of Master Quest‑related assets in the Switch 2 build."
+      },
+      "es": {
+        "title": "Datamine indica posible DLC de Master Quest para remake de Ocarina of Time en Switch",
+        "description": "Un reciente datamine del próximo remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ha revelado referencias a \"MQ\" dentro de los...",
+        "fullContent": "Un reciente datamine del próximo remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 ha revelado referencias a \"MQ\" dentro de los archivos del juego, según el usuario de redes sociales MrCheese. La abreviatura se interpreta como Master Quest, una versión más difícil del título original que se lanzó en 2003 para GameCube y posteriormente como modo desbloqueable en la edición para 3DS.\n\nLos datos extraídos también incluyen indicios de que el contenido de Master Quest estaría disponible mediante la compra de un DLC independiente, en lugar de una actualización gratuita. Una publicación en X de OatmealDome señaló que los archivos sugieren modificaciones como la inversión del mapa del mundo y cambios en el diseño de mazmorras, mencionando ejemplos como la presencia de vacas en el vientre de Jabu‑Jabu. La información se describe como incompleta, pero confirma la existencia de activos relacionados con Master Quest en la versión para Switch 2."
+      }
+    },
+    {
+      "id": "3ae5bae2b29e83e9cba3ab907593bb5b",
+      "tag": "NEWS",
+      "slug": "los-videojuegos-de-star-wars-entran-en-una-nueva-era-tras-la-expansion-del-desarrollo-de-lucasfilm",
+      "url": "https://www.godzgames.com/noticias/los-videojuegos-de-star-wars-entran-en-una-nueva-era-tras-la-expansion-del-desarrollo-de-lucasfilm/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794239240802_213.jpg",
+      "link": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+      "en": {
+        "title": "Star Wars video games enter new era as Lucasfilm expands development",
+        "description": "The Star Wars film franchise has faced challenges in recapturing its previous success, while the video game sector continues to produce titles with...",
+        "fullContent": "The Star Wars film franchise has faced challenges in recapturing its previous success, while the video game sector continues to produce titles within the universe. After a turbulent launch of EA's rebooted Star Wars Battlefront series, Lucasfilm and Disney announced in 2021 that new Star Wars games would be developed by multiple publishers and studios under the Lucasfilm Games label.\n\nMore than five years later, the organization succeeding LucasArts is overseeing a range of projects set in the Star Wars galaxy. Recent EA releases such as Star Wars: Squadrons and the Jedi series have adopted broader design approaches, and by 2026 the scope of the franchise’s gaming potential appears clearer, with several releases aimed at specific niche audiences.\n\nThe current strategy indicates that future Star Wars games do not need to be large‑budget productions featuring familiar characters or concepts. Projects like Star Wars Zero Company and Galactic Racer have been identified by involved parties as double‑A success stories. A Burnout‑inspired Star Wars racer, created by former Burnout developers, was proposed but did not advance under EA's direction; the original Burnout studio, Criterion, was assigned to work on the Battlefield series. The concept later attracted interest, and the final product has been described as glorious."
+      },
+      "es": {
+        "title": "Los videojuegos de Star Wars entran en una nueva era tras la expansión del desarrollo de Lucasfilm",
+        "description": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su éxito anterior, mientras que los videojuegos continúan g...",
+        "fullContent": "La franquicia cinematográfica de Star Wars ha experimentado dificultades para recuperar su éxito anterior, mientras que los videojuegos continúan generando títulos dentro del universo. Tras un inicio tumultuoso de la serie reboot de Star Wars Battlefront de EA, Lucasfilm y Disney anunciaron en 2021 que nuevos juegos de Star Wars serían desarrollados por varios editores y estudios bajo la marca Lucasfilm Games.\n\nMás de cinco años después, la entidad sucesora de LucasArts está coordinando una variedad de proyectos ambientados en la galaxia de Star Wars. Los lanzamientos recientes de EA, como Star Wars: Squadrons y la serie Jedi, han adoptado enfoques de mayor alcance, y para 2026 el potencial completo de la franquicia en videojuegos se muestra más claro, con varios lanzamientos dirigidos a audiencias específicas.\n\nLa estrategia actual indica que los futuros juegos de Star Wars no requieren ser producciones de gran presupuesto con personajes o conceptos familiares. Proyectos como Star Wars Zero Company y Galactic Racer han sido reconocidos por las partes involucradas como historias de éxito de categoría doble‑A. Un corredor de Star Wars inspirado en Burnout, creado por ex‑desarrolladores de Burnout, se presentó como propuesta pero no avanzó bajo la dirección de EA; el estudio original de Burnout, Criterion, fue asignado a trabajar en la serie Battlefield. Posteriormente, la idea recibió interés y el producto final ha sido descrito como glorioso."
+      }
+    },
+    {
+      "id": "8353771c2ffcb10f228da84b8a071e77",
+      "tag": "NEWS",
+      "slug": "cinco-juegos-de-ps3-destacados-por-su-guion",
+      "url": "https://www.godzgames.com/noticias/cinco-juegos-de-ps3-destacados-por-su-guion/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202915575_689.jpg",
+      "link": "https://www.svg.com/2306790/ps3-best-written-games-ranked/",
+      "en": {
+        "title": "Five PS3 Games Recognized for Strong Plot Writing",
+        "description": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative d...",
+        "fullContent": "Sony released its first high-definition console, the PlayStation 3, in 2006, positioning it against the Xbox 360 and Wii. By that year, narrative design in video games had become increasingly complex, encompassing genres from role‑playing titles to survival‑horror experiences with detailed storylines.\n\nA list has been compiled that ranks five PlayStation 3 titles noted for their plot writing. The selection includes entries that continue established series as well as new franchises and standalone stories, each offering multiple narrative pathways or distinct settings.\n\nThe development studio Quantic Dream, known for interactive story-driven games, is represented on the list with \"Heavy Rain,\" a PlayStation 3 exclusive released in 2010. The game presents a neo‑noir mystery involving four playable characters linked to a suspect known as the Origami Killer. Gameplay incorporates quick‑time events and provides several possible endings, encouraging players to replay the title to explore alternative story outcomes."
+      },
+      "es": {
+        "title": "Cinco juegos de PS3 destacados por su guion",
+        "description": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en ...",
+        "fullContent": "Sony lanzó su primera consola de alta definición, la PlayStation 3, en 2006, compitiendo con la Xbox 360 y la Wii. En ese momento, la narrativa en los videojuegos había alcanzado un nivel de complejidad notable, abarcando desde RPGs extensos hasta juegos de horror de supervivencia con tramas detalladas.\n\nSe ha elaborado una lista que clasifica cinco títulos de PlayStation 3 reconocidos por la calidad de su escritura. La selección incluye tanto continuaciones de series existentes como franquicias nuevas y narrativas independientes, cada una ofreciendo diferentes caminos narrativos o ambientaciones.\n\nEl estudio Quantic Dream, especializado en juegos de historia interactiva, está representado en la lista con \"Heavy Rain\", exclusivo de PlayStation 3 desde 2010. El juego propone un misterio neo‑noir con cuatro personajes jugables vinculados a un asesino llamado el Asesino del Origami. La mecánica incluye eventos de tiempo rápido y varios finales posibles, invitando a los jugadores a volver a jugar para descubrir distintas versiones de la historia."
+      }
+    },
+    {
+      "id": "c6b9e41fa072cce5c569ae8063bcf4f5",
+      "tag": "NEWS",
+      "slug": "comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne",
+      "url": "https://www.godzgames.com/noticias/comunidad-gamer-lamenta-la-muerte-del-propietario-de-retro-jakes-jacob-payne/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202917453_929.jpg",
+      "link": "https://www.812noww.com/post/gaming-community-mourns-loss-of-richmond-business-owner-influencer",
+      "en": {
+        "title": "Gaming community mourns death of Retro Jake’s owner Jacob Payne",
+        "description": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, ...",
+        "fullContent": "Jacob Payne, owner of the Retro Jake’s video game stores in Richmond and Muncie, Indiana, died after being hospitalized with severe heart failure, according to an announcement from his family last week. Payne previously operated a Retro Jake’s location in Connersville, which closed in 2024.\n\nPayne survived bone cancer in 2010 and had recently disclosed that he was dealing with additional medical issues. His death has been noted by members of the gaming community who frequented his stores or followed his online presence.\n\nAt the time of his passing, Payne had amassed a following of 153,000 on Facebook and 555,000 subscribers on YouTube."
+      },
+      "es": {
+        "title": "Comunidad gamer lamenta la muerte del propietario de Retro Jake’s, Jacob Payne",
+        "description": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca seve...",
+        "fullContent": "Jacob Payne, propietario de las tiendas Retro Jake’s en Richmond y Muncie, Indiana, falleció tras ser hospitalizado por insuficiencia cardíaca severa, según anunció su familia la semana pasada. Payne había dirigido previamente una sucursal de Retro Jake’s en Connersville, la cual cerró en 2024.\n\nPayne superó un cáncer óseo en 2010 y había comunicado recientemente que enfrentaba problemas médicos adicionales. Su fallecimiento ha sido registrado por miembros de la comunidad de videojuegos que visitaban sus tiendas o lo seguían en redes sociales.\n\nAl momento de su muerte, Payne contaba con 153,000 seguidores en Facebook y 555,000 suscriptores en YouTube."
+      }
+    },
+    {
+      "id": "75e3ce07b5b1d39a53f59398de90d96a",
+      "tag": "NEWS",
+      "slug": "comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia",
+      "url": "https://www.godzgames.com/noticias/comunidad-de-decompilacion-de-videojuegos-decompdev-comienza-a-cerrar-sitio-cita-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794202919775_369.jpg",
+      "link": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
+      "en": {
+        "title": "Decompilation Community decomp.dev Begins Sunsetting Site, Cites AI",
+        "description": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made...",
+        "fullContent": "One of the largest video‑game decompilation communities, decomp.dev, announced that it will begin sunsetting its website. The announcement was made by the site administrator known as @encounter, who indicated that the community aspect of reverse‑engineering games has been affected by the reliance on artificial‑intelligence models and their speed.\n\nThe platform was originally created to gamify the decompilation process, allowing participants to see their progress on a game's code increase over time. In the statement, @encounter described the current situation as a \"hollow numbers game.\"\n\nDecompilation involves converting a game's compiled executable back into a form resembling its original source code, which typically requires extensive trial and error and a solid understanding of programming. The statement notes that AI‑driven tools have produced new decompilers capable of completing projects in a fraction of the time required for manual work, while also distinguishing decompilation from emulation, which merely recreates the original hardware environment."
+      },
+      "es": {
+        "title": "Comunidad de decompilación de videojuegos decomp.dev comienza a cerrar sitio, cita IA",
+        "description": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio w...",
+        "fullContent": "Una de las comunidades más grandes dedicadas a la decompilación de videojuegos, decomp.dev, anunció que iniciará el proceso de cierre de su sitio web. El anuncio lo realizó el administrador del sitio, conocido como @encounter, quien señaló que el aspecto comunitario de la ingeniería inversa de juegos se ha visto afectado por la dependencia de modelos de inteligencia artificial y su rapidez.\n\nLa plataforma se creó originalmente para gamificar el proceso de decompilación, permitiendo a los usuarios observar cómo su progreso en el código de un juego aumentaba con el tiempo. En su comunicado, @encounter describió la situación actual como un \"juego de números vacío\".\n\nLa decompilación consiste en convertir el código ejecutable de un juego a una forma que se asemeje a su código fuente original, lo que requiere prueba y error extensos y un conocimiento sólido de programación. El comunicado menciona que las herramientas impulsadas por IA han generado nuevos decompiladores capaces de completar proyectos en una fracción del tiempo necesario para el trabajo manual, y diferencia la decompilación de la emulación, que simplemente recrea el entorno de hardware original."
+      }
+    },
+    {
+      "id": "5ac28927dec3394599595434305ac506",
+      "tag": "NEWS",
+      "slug": "empleadores-planifican-ausencias-de-empleados-por-proximos-lanzamientos-de-videojuegos-en-medio-de-discusiones-sobre-el-burnout",
+      "url": "https://www.godzgames.com/noticias/empleadores-planifican-ausencias-de-empleados-por-proximos-lanzamientos-de-videojuegos-en-medio-de-discusiones-sobre-el-burnout/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174795468_975.jpg",
+      "link": "https://www.psychologytoday.com/us/blog/downloadable-content/202611/is-taking-time-off-to-play-video-games-really-problematic",
+      "en": {
+        "title": "Employers Anticipate Employee Leave for Upcoming Game Releases Amid Burnout Discussions",
+        "description": "The article, posted on November 5, 2026 and reviewed by Michelle Quirk, notes that November will see the release of a remake of \"The Legend of Zeld...",
+        "fullContent": "The article, posted on November 5, 2026 and reviewed by Michelle Quirk, notes that November will see the release of a remake of \"The Legend of Zelda: Ocarina of Time\" and \"Grand Theft Auto VI,\" which is described as the most anticipated video-game release of all time. In the weeks preceding these releases, some employers have been reported to adjust schedules to accommodate expected employee absences for playing the games, while a portion of the general public has expressed disapproval of this practice.\n\nThe piece defines burnout as a syndrome characterized by mental exhaustion, emotional distance, or cynicism toward one's job, accompanied by reduced professional effectiveness. It attributes the condition to chronic workplace stress that is not sufficiently managed, and notes associations with health concerns such as depression, insomnia, anxiety, cardiovascular disease, and diabetes.\n\nAccording to the source, three approaches have shown consistent evidence for reducing burnout. The first approach involves changes to work structure, including reduced workload, increased staffing, schedule adjustments, and improvements in teamwork, which have been linked to reductions in burnout levels."
+      },
+      "es": {
+        "title": "Empleadores Planifican Ausencias de Empleados por Próximos Lanzamientos de Videojuegos en medio de Discusiones sobre el Burnout",
+        "description": "El artículo, publicado el 5 de noviembre de 2026 y revisado por Michelle Quirk, indica que noviembre contará con el lanzamiento de una remake de \"T...",
+        "fullContent": "El artículo, publicado el 5 de noviembre de 2026 y revisado por Michelle Quirk, indica que noviembre contará con el lanzamiento de una remake de \"The Legend of Zelda: Ocarina of Time\" y \"Grand Theft Auto VI\", descrito como el lanzamiento de videojuegos más esperado de todos los tiempos. En las semanas previas a estos lanzamientos, se ha informado que algunos empleadores están ajustando los horarios para contemplar ausencias previstas de empleados que desean jugar, mientras que una parte del público general ha manifestado su desaprobación ante esta práctica.\n\nEl texto define el burnout como un síndrome que incluye agotamiento mental, distancia emocional o cinismo hacia el trabajo, junto con una reducción de la efectividad profesional. Señala que el síndrome se origina en un estrés laboral crónico no gestionado adecuadamente y menciona su correlación con problemas de salud como depresión, insomnio, ansiedad, enfermedades cardiovasculares y diabetes.\n\nSegún la fuente, se han identificado tres enfoques con evidencia consistente para reducir el burnout. El primero consiste en modificar la estructura del trabajo, mediante la reducción de la carga laboral, el aumento de personal, ajustes en los horarios y la mejora del trabajo en equipo, lo que ha demostrado una disminución de los niveles de burnout."
+      }
+    },
+    {
+      "id": "da3c73b04477e1c26a4388b19b8f67ef",
+      "tag": "NEWS",
+      "slug": "wendys-lanza-el-rpg-gratuito-wendyquest-con-codigos-canjeables-por-comida",
+      "url": "https://www.godzgames.com/noticias/wendys-lanza-el-rpg-gratuito-wendyquest-con-codigos-canjeables-por-comida/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174800512_528.jpg",
+      "link": "https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/",
+      "en": {
+        "title": "Wendy's launches free mobile RPG WendyQuest with redeemable food codes",
+        "description": "Wendy's has released a retro‑style role‑playing game called WendyQuest, which is available for free on iOS and Android devices and can also be acce...",
+        "fullContent": "Wendy's has released a retro‑style role‑playing game called WendyQuest, which is available for free on iOS and Android devices and can also be accessed on desktop via Steam. The game features the chain's red‑haired mascot as a combatant who faces enemies resembling french fry containers. Players who reach certain milestones can obtain in‑game codes that are redeemable for menu items such as fries and burgers at Wendy's restaurants.\n\nThe promotion is limited to individuals who are at least 18 years old and reside in the United States. To use a code, players must create a Wendy's account and present the code at a participating location; while the items are offered at no cost, a purchase is required at the time of redemption. Wendy's noted that the company has previously participated in gaming‑related activities, including collaborations with Fortnite and Twitch in 2019 and the release of a tabletop role‑playing rulebook titled Feast of Legends.\n"
+      },
+      "es": {
+        "title": "Wendy's lanza el RPG gratuito WendyQuest con códigos canjeables por comida",
+        "description": "Wendy's ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar de forma gratuita en disposi...",
+        "fullContent": "Wendy's ha puesto a disposición del público un juego de rol de estilo retro llamado WendyQuest, que se puede descargar de forma gratuita en dispositivos iOS y Android y también está disponible para usuarios de escritorio a través de la plataforma Steam. En el juego, el mascota de la cadena, de cabello rojo, actúa como combatiente contra enemigos que recuerdan a contenedores de papas fritas. Al alcanzar ciertos logros, los jugadores reciben códigos dentro del juego que pueden canjearse por productos del menú, como papas fritas y hamburguesas, en los restaurantes Wendy's.\n\nLa promoción está restringida a personas mayores de 18 años que vivan en los Estados Unidos. Para canjear un código, es necesario crear una cuenta en Wendy's y presentar el código en un establecimiento participante; aunque los artículos se entregan sin costo, se requiere una compra al momento del canje. Wendy's señaló que la empresa ya había participado en actividades relacionadas con los videojuegos, incluidas colaboraciones con Fortnite y Twitch en 2019 y la publicación de un libro de reglas para un juego de rol de mesa llamado Feast of Legends."
+      }
+    },
+    {
+      "id": "9f0db194f811485998d9a0f68810d9fb",
+      "tag": "NEWS",
+      "slug": "nintendo-lanza-remake-de-ocarina-of-time-tras-anos-de-rumores",
+      "url": "https://www.godzgames.com/noticias/nintendo-lanza-remake-de-ocarina-of-time-tras-anos-de-rumores/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174802455_948.jpg",
+      "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
+      "en": {
+        "title": "Nintendo releases Ocarina of Time remake after years of speculation",
+        "description": "The Legend of Zelda: Ocarina of Time was released on Thursday as a remake, following several years of rumors about a new version of the title. The ...",
+        "fullContent": "The Legend of Zelda: Ocarina of Time was released on Thursday as a remake, following several years of rumors about a new version of the title. The original version launched in 1998 on the Nintendo 64, and IGN described it at the time as \"the biggest game of the decade.\" The game introduced several mechanics that have become common in modern titles, such as horse riding, sword and shield combat, and a lock‑on targeting system.\n\nCritical reception for the original version was near perfect, and it currently holds the highest aggregate score on Metacritic. Nintendo opted to retain the gameplay style of the 1998 release rather than introduce major changes for the remake."
+      },
+      "es": {
+        "title": "Nintendo lanza remake de Ocarina of Time tras años de rumores",
+        "description": "The Legend of Zelda: Ocarina of Time se lanzó el jueves en versión remake, después de varios años de rumores sobre una nueva versión del título. La...",
+        "fullContent": "The Legend of Zelda: Ocarina of Time se lanzó el jueves en versión remake, después de varios años de rumores sobre una nueva versión del título. La versión original se estrenó en 1998 para Nintendo 64, y en su momento IGN la describió como \"el juego más grande de la década\". El juego introdujo varias mecánicas que ahora son habituales, como montar a caballo, el combate con espada y escudo, y un sistema de bloqueo de objetivo.\n\nLa recepción crítica de la versión original fue casi perfecta, y actualmente mantiene la puntuación más alta en Metacritic. Nintendo decidió mantener el estilo de juego de la versión de 1998, sin introducir cambios significativos en el remake."
+      }
+    },
+    {
+      "id": "2a1f591f9b0bd4eb1856312c934a596a",
+      "tag": "NEWS",
+      "slug": "como-encontrar-el-cebo-sumergible-y-obtener-recompensas-en-el-estanque-de-pesca-de-the-legend-of-zelda-ocarina-of-time-remake",
+      "url": "https://www.godzgames.com/noticias/como-encontrar-el-cebo-sumergible-y-obtener-recompensas-en-el-estanque-de-pesca-de-the-legend-of-zelda-ocarina-of-time-remake/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794174804515_601.jpg",
+      "link": "https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards/",
+      "en": {
+        "title": "How to locate the Sinking Lure and obtain rewards at the Fishing Pond in The Legend of Zelda: Ocarina of Time remake",
+        "description": "The Fishing Pond is situated on the shore of Lake Hylia in the Nintendo Switch remake of The Legend of Zelda: Ocarina of Time. After paying the req...",
+        "fullContent": "The Fishing Pond is situated on the shore of Lake Hylia in the Nintendo Switch remake of The Legend of Zelda: Ocarina of Time. After paying the required fee, players can fish for an unlimited duration by aiming and casting the line as with a standard item.\n\nFish in the pond respond to the lure’s movement; wiggling the lure attracts them, while excessive movement can increase their caution. Smaller fish display lower levels of caution than larger ones. When a fish bites, pressing ZR registers a hook; if ZR is already being held for reeling, it must be released and pressed again to complete the hook. The area also offers a set of rewards, including the Sinking Lure, which can be obtained by following these mechanics."
+      },
+      "es": {
+        "title": "Cómo encontrar el Cebo Sumergible y obtener recompensas en el Estanque de Pesca de The Legend of Zelda: Ocarina of Time remake",
+        "description": "El Estanque de Pesca se encuentra en la orilla del Lago Hylia en la versión para Nintendo Switch de The Legend of Zelda: Ocarina of Time. Tras abon...",
+        "fullContent": "El Estanque de Pesca se encuentra en la orilla del Lago Hylia en la versión para Nintendo Switch de The Legend of Zelda: Ocarina of Time. Tras abonar la tarifa correspondiente, los jugadores pueden pescar durante el tiempo que deseen, apuntando y lanzando la línea como con cualquier otro objeto.\n\nLos peces del estanque reaccionan al movimiento del cebo; moverlo atrae a los peces, pero un movimiento excesivo puede volverlos más cautelosos. Los peces de menor tamaño son menos cautelosos que los de mayor tamaño. Cuando un pez muerde, se presiona ZR para engancharlo; si ZR ya está siendo mantenido para enrollar, debe soltarse y volver a presionarse para completar el enganche. En este sitio también se pueden obtener recompensas, entre ellas el Cebo Sumergible, siguiendo los procedimientos descritos."
+      }
+    },
+    {
+      "id": "e99a1e3e824c14128c4146368821ad3c",
+      "tag": "NEWS",
+      "slug": "sag-aftra-presenta-el-acuerdo-de-medios-interactivos-para-presentaciones-previas-al-financiamiento",
+      "url": "https://www.godzgames.com/noticias/sag-aftra-presenta-el-acuerdo-de-medios-interactivos-para-presentaciones-previas-al-financiamiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794169779954_326.jpg",
+      "link": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+      "en": {
+        "title": "SAG-AFTRA introduces Pre-Funding Pitch Interactive Media Agreement for video game projects",
+        "description": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, aimed at simplifying the hiring of professional u...",
+        "fullContent": "SAG-AFTRA has announced a new agreement called the Pre-Funding Pitch Interactive Media Agreement, aimed at simplifying the hiring of professional union talent for video game developers. The agreement applies to early‑stage assets such as demos, vertical slices, trailers, teasers, sizzle reels and playable prototypes.\n\nAccording to the union, projects that use the agreement must not have secured more than 30 % of their initial production funding and must not appear to be complete. Crowdfunded projects are excluded, and the agreement does not cover titles that are commercially released or made publicly playable. The union indicates that developers who meet only part of the criteria may request a waiver."
+      },
+      "es": {
+        "title": "SAG-AFTRA presenta el Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento",
+        "description": "SAG-AFTRA ha comunicado la creación de un nuevo convenio, denominado Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento, ...",
+        "fullContent": "SAG-AFTRA ha comunicado la creación de un nuevo convenio, denominado Acuerdo de Medios Interactivos para Presentaciones Previas al Financiamiento, que busca simplificar la contratación de actores profesionales afiliados al sindicato por parte de los desarrolladores de videojuegos. El acuerdo abarca materiales en etapas tempranas como demos, vertical slices, tráilers, teasers, sizzle reels y prototipos jugables.\n\nEl sindicato señala que los proyectos que utilicen este convenio no pueden haber asegurado más del 30 % del financiamiento inicial de producción ni aparentar estar terminados. Los proyectos financiados mediante crowdfunding quedan excluidos, al igual que los títulos que se lancen comercialmente o se pongan a disposición del público para jugar. SAG‑AFTRA indica que los desarrolladores que cumplan solo parte de los requisitos pueden solicitar una exención."
+      }
+    },
     {
       "id": "639d5c99d20f9515a83152837792e32a",
       "tag": "NEWS",

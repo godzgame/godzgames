@@ -425,6 +425,37 @@ const generateNews = async () => {
     }
 
     if (newsData.length >= 3) {
+      // ARCHIVO_NOTICIAS_PATCH: guardar en news_archive.json las notas que salen de latest_news.json
+      try {
+        const ARCHIVE_FILE = path.join(__dirname, '..', 'src', 'data', 'news_archive.json');
+        let oldList = [];
+        if (fs.existsSync(NEWS_FILE)) {
+          const oldData = JSON.parse(fs.readFileSync(NEWS_FILE, 'utf8'));
+          oldList = Array.isArray(oldData.articles) ? oldData.articles : [];
+        }
+        let archive = { version: '1.0', lastUpdated: '', description: 'Historical archive of all GodZGames news articles', articles: [] };
+        if (fs.existsSync(ARCHIVE_FILE)) {
+          archive = JSON.parse(fs.readFileSync(ARCHIVE_FILE, 'utf8'));
+          if (Array.isArray(archive.articles) === false) archive.articles = [];
+        }
+        const newIds = new Set(newsData.map(a => a.id));
+        const archivedIds = new Set(archive.articles.map(a => a.id));
+        const toAdd = [];
+        for (const old of oldList) {
+          if (newIds.has(old.id) === false && archivedIds.has(old.id) === false) {
+            toAdd.push(old);
+            archivedIds.add(old.id);
+          }
+        }
+        if (toAdd.length > 0) {
+          archive.articles = toAdd.concat(archive.articles);
+          archive.lastUpdated = new Date().toISOString();
+          fs.writeFileSync(ARCHIVE_FILE, JSON.stringify(archive, null, 2));
+        }
+        console.log('  Archivo de noticias: ' + toAdd.length + ' nota(s) agregada(s).');
+      } catch (archErr) {
+        console.error('  Error archivando noticias: ' + archErr.message);
+      }
       fs.writeFileSync(NEWS_FILE, JSON.stringify({ updatedAt: Date.now(), articles: newsData }, null, 2));
       console.log(`\n✅ Noticias actualizadas con éxito (${newsData.length} artículos).`);
     } else {
