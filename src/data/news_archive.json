@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-13T14:28:23.535Z",
+  "lastUpdated": "2026-11-13T23:26:10.988Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "16e69ca3f6fed91a3a952b6a8c395f45",
+      "tag": "NEWS",
+      "slug": "rockstar-games-lanza-grand-theft-auto-vi-en-medio-de-ingresos-de-2016-mil-millones-en-2025",
+      "url": "https://www.godzgames.com/noticias/rockstar-games-lanza-grand-theft-auto-vi-en-medio-de-ingresos-de-2016-mil-millones-en-2025/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794580095401_388.jpg",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games",
+      "en": {
+        "title": "Rockstar Games launches Grand Theft Auto VI amid $201.6 bn industry revenue in 2025",
+        "description": "Rockstar Games released Grand Theft Auto VI on 19 November, ending a 13‑year interval since the previous installment. The game’s first trailer reco...",
+        "fullContent": "Rockstar Games released Grand Theft Auto VI on 19 November, ending a 13‑year interval since the previous installment. The game’s first trailer recorded more than 90 million views on YouTube within 24 hours after its December 2023 debut, setting a record for a video‑game reveal.\n\nAccording to market‑research firm Newzoo, the video‑game sector generated $201.6 billion in revenue in 2025. Using artificial‑intelligence tools, Al Jazeera created six short levels that reference the titles that defined each decade, from Pong to GTA VI, allowing users to experience a 50‑year timeline and compare their completion times.\n\nThe article notes that while video games were not invented in 1972, that year marked a broader public reach. It also references a 1958 experiment by physicist William Higinbotham, who wired a tennis game to an oscilloscope at Brookhaven National Laboratory, where visitors played \"Tennis for Two\" despite the game never being commercialized."
+      },
+      "es": {
+        "title": "Rockstar Games lanza Grand Theft Auto VI en medio de ingresos de $201.6 mil millones en 2025",
+        "description": "Rockstar Games lanzó Grand Theft Auto VI el 19 de noviembre, poniendo fin a una espera de 13 años desde la entrega anterior. El primer tráiler del ...",
+        "fullContent": "Rockstar Games lanzó Grand Theft Auto VI el 19 de noviembre, poniendo fin a una espera de 13 años desde la entrega anterior. El primer tráiler del juego superó los 90 millones de visualizaciones en YouTube en las primeras 24 horas tras su presentación en diciembre de 2023, estableciendo un récord para el anuncio de un videojuego.\n\nSegún la firma de investigación de mercado Newzoo, el sector de los videojuegos generó $201.6 mil millones en ingresos en 2025. Con herramientas de inteligencia artificial, Al Jazeera desarrolló seis niveles cortos inspirados en los juegos que definieron cada década, desde Pong hasta GTA VI, y permite a los usuarios recorrer 50 años de historia del medio y comparar sus tiempos de finalización.\n\nEl texto menciona que, aunque los videojuegos no se inventaron en 1972, ese año fue clave para su difusión al público. También se remonta a 1958, cuando el físico William Higinbotham conectó un juego de tenis a un osciloscopio en el Laboratorio Nacional Brookhaven, donde los visitantes jugaron \"Tennis for Two\", aunque el juego nunca se comercializó."
+      }
+    },
+    {
+      "id": "b660f2c78500040f9bf5d98ff6f9e431",
+      "tag": "NEWS",
+      "slug": "kalshi-publica-oferta-de-empleo-para-investigar-la-economia-del-juego-gta-6",
+      "url": "https://www.godzgames.com/noticias/kalshi-publica-oferta-de-empleo-para-investigar-la-economia-del-juego-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794580097614_733.jpg",
+      "link": "https://mashable.com/tech/gta-grand-theft-auto-6-kalshi-researcher-job",
+      "en": {
+        "title": "Kalshi posts job for researcher to analyze GTA 6 in‑game economy",
+        "description": "One week before the launch of Grand Theft Auto VI, Kalshi announced a hiring request on LinkedIn for a position described as a “GTA 6 Researcher.” ...",
+        "fullContent": "One week before the launch of Grand Theft Auto VI, Kalshi announced a hiring request on LinkedIn for a position described as a “GTA 6 Researcher.” The posting states that the role will involve playing and livestreaming GTA 6 from its release on November 19, with the objective of studying the game's virtual economy and measuring any related impact on real‑world productivity.\n\nThe job description requires at least ten years of intensive gaming experience, three years of streaming experience, and a functional streaming setup. The responsibilities include publishing a weekly research report on the in‑game economy. Compensation is listed as a fixed project fee between $100,000 and $120,000, plus an additional $15,000 payable upon project completion.\n\nThe announcement follows earlier coverage of Logitech's policy granting employees paid time off to play new video games."
+      },
+      "es": {
+        "title": "Kalshi publica oferta de empleo para investigar la economía del juego GTA 6",
+        "description": "Una semana antes del lanzamiento de Grand Theft Auto VI, Kalshi anunció una solicitud de contratación en LinkedIn para un puesto denominado “Invest...",
+        "fullContent": "Una semana antes del lanzamiento de Grand Theft Auto VI, Kalshi anunció una solicitud de contratación en LinkedIn para un puesto denominado “Investigador de GTA 6”. La publicación indica que la función consistirá en jugar y transmitir en vivo GTA 6 a partir de su salida el 19 de noviembre, con el objetivo de estudiar la economía virtual del juego y medir cualquier efecto asociado en la productividad del mundo real.\n\nLos requisitos incluyen al menos diez años de experiencia en juegos intensivos, tres años de experiencia en streaming y un equipo de transmisión operativo. Las responsabilidades comprenden la elaboración de un informe de investigación semanal sobre la economía dentro del juego. La compensación se describe como una tarifa fija de proyecto entre $100,000 y $120,000, más un pago adicional de $15,000 al finalizar el proyecto.\n\nEste anuncio se produce después de la cobertura previa de la política de Logitech que otorga a sus empleados tiempo libre remunerado para jugar videojuegos nuevos."
+      }
+    },
+    {
+      "id": "73379ad4b0083d5c41ba234c6be3d72e",
+      "tag": "NEWS",
+      "slug": "nintendo-anuncia-ofertas-de-black-friday-para-switch-2-y-videojuegos",
+      "url": "https://www.godzgames.com/noticias/nintendo-anuncia-ofertas-de-black-friday-para-switch-2-y-videojuegos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794580100576_817.jpg",
+      "link": "https://www.nintendo.com/us/whatsnew/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/",
+      "en": {
+        "title": "Nintendo announces Black Friday promotions for Switch 2 and games",
+        "description": "Nintendo has announced a series of Black Friday promotions that will run from November 22 through December 5. The offers include a Nintendo Switch ...",
+        "fullContent": "Nintendo has announced a series of Black Friday promotions that will run from November 22 through December 5. The offers include a Nintendo Switch 2 + Mario Kart World Bundle priced at $499.99, which represents a $50 discount and includes a full download of Mario Kart World and a 3‑month Nintendo Switch Online Individual Membership. In addition, selected titles for the Nintendo Switch 2, such as Donkey Kong Bananza, and Nintendo Switch games including Super Mario Galaxy and Super Mario Galaxy 2 will be discounted by $20 from November 22 to November 29, while supplies last.\n\nThe promotions will be available at participating retailers and at Nintendo's flagship stores in New York and San Francisco, as well as on the Nintendo Store website for the Switch 2 + Mario Kart World Bundle. Both retail locations will feature seasonal window displays and décor, and will carry the console, games, accessories, exclusive merchandise, and related items.\n\nDuring the promotional period, Nintendo will also provide holiday gift guides, festive shopping bags, and a limited‑time gift with purchase that requires a minimum spend, subject to availability."
+      },
+      "es": {
+        "title": "Nintendo anuncia ofertas de Black Friday para Switch 2 y videojuegos",
+        "description": "Nintendo ha comunicado una serie de ofertas de Black Friday que estarán vigentes del 22 de noviembre al 5 de diciembre. Entre ellas se encuentra el...",
+        "fullContent": "Nintendo ha comunicado una serie de ofertas de Black Friday que estarán vigentes del 22 de noviembre al 5 de diciembre. Entre ellas se encuentra el paquete Nintendo Switch 2 + Mario Kart World, con un precio sugerido de $499.99, lo que supone un ahorro de $50, e incluye la descarga completa de Mario Kart World y una suscripción individual de 3 meses a Nintendo Switch Online. Además, ciertos juegos para Nintendo Switch 2, como Donkey Kong Bananza, y títulos para Nintendo Switch, como Super Mario Galaxy y Super Mario Galaxy 2, tendrán un descuento de $20 del 22 al 29 de noviembre, mientras haya existencias.\n\nLas promociones estarán disponibles en minoristas seleccionados y en las tiendas Nintendo de Nueva York y San Francisco, así como en la tienda online de Nintendo para el paquete Nintendo Switch 2 + Mario Kart World. Ambas tiendas físicas contarán con exhibiciones festivas en sus vitrinas y decoración navideña, y ofrecerán la consola, juegos, accesorios, artículos exclusivos y otros productos relacionados.\n\nDurante el periodo promocional, Nintendo también pondrá a disposición guías de regalos, bolsas de compras temáticas y, por tiempo limitado, un obsequio con compra que requiere un gasto mínimo, sujeto a disponibilidad."
+      }
+    },
     {
       "id": "8239010fa66e6cbe18a09071553da796",
       "tag": "NEWS",
