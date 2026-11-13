@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-13T05:59:56.871Z",
+  "lastUpdated": "2026-11-13T14:28:23.535Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "8239010fa66e6cbe18a09071553da796",
+      "tag": "NEWS",
+      "slug": "rockstar-se-prepara-para-lanzar-gta-vi-proyectado-como-gran-estreno-de-entretenimiento",
+      "url": "https://www.godzgames.com/noticias/rockstar-se-prepara-para-lanzar-gta-vi-proyectado-como-gran-estreno-de-entretenimiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549594350_735.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/the-1-billion-video-game-about-to-swallow-the-world-whole",
+      "en": {
+        "title": "Rockstar prepares launch of GTA VI, projected as major entertainment release",
+        "description": "Thirteen years after the record‑breaking launch of Grand Theft Auto V, Rockstar Games, a subsidiary of Take‑Two Interactive, is preparing to releas...",
+        "fullContent": "Thirteen years after the record‑breaking launch of Grand Theft Auto V, Rockstar Games, a subsidiary of Take‑Two Interactive, is preparing to release its sequel, Grand Theft Auto VI. The upcoming title is projected to be one of the largest entertainment rollouts in history and is listed among the most expensive video games ever produced.\n\nAccording to Bloomberg Originals, the anticipated revenue for GTA VI is expected to match the box‑office performance of the summer film The Odyssey within a matter of weeks. The release is scheduled amid an industry environment marked by increasing development budgets, staff reductions and studio closures, while Rockstar maintains a distinct market position relative to its competitors."
+      },
+      "es": {
+        "title": "Rockstar se prepara para lanzar GTA VI, proyectado como gran estreno de entretenimiento",
+        "description": "Trece años después del lanzamiento récord de Grand Theft Auto V, Rockstar Games, unidad de Take‑Two Interactive, está preparando la salida de su se...",
+        "fullContent": "Trece años después del lanzamiento récord de Grand Theft Auto V, Rockstar Games, unidad de Take‑Two Interactive, está preparando la salida de su secuela, Grand Theft Auto VI. El nuevo título se proyecta como uno de los mayores despliegues de entretenimiento de la historia y se encuentra entre los videojuegos más costosos jamás realizados.\n\nBloomberg Originals indica que se espera que los ingresos de GTA VI alcancen cifras comparables a la taquilla del film de verano The Odyssey en cuestión de semanas. El lanzamiento se produce en un contexto de la industria caracterizado por presupuestos de desarrollo en aumento, despidos masivos y cierres de estudios, mientras Rockstar mantiene una posición distintiva frente a sus competidores."
+      }
+    },
+    {
+      "id": "4dd1f0fa3089a2def9aed28a27ec08b0",
+      "tag": "NEWS",
+      "slug": "gta-6-se-lanzara-el-19-de-noviembre-con-altas-expectativas-del-mercado",
+      "url": "https://www.godzgames.com/noticias/gta-6-se-lanzara-el-19-de-noviembre-con-altas-expectativas-del-mercado/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549596836_362.jpg",
+      "link": "https://variety.com/2026/gaming/news/gta-6-release-gaming-industry-takeover-1236945197/",
+      "en": {
+        "title": "GTA 6 set for November 19 release amid high market expectations",
+        "description": "The release of Grand Theft Auto VI is scheduled for November 19, with one week remaining before the launch. Industry analysts have repeatedly refer...",
+        "fullContent": "The release of Grand Theft Auto VI is scheduled for November 19, with one week remaining before the launch. Industry analysts have repeatedly referred to the title as potentially the largest entertainment release to date, a sentiment echoed in recent media coverage ranging from billboards in Vice City to sketches on Saturday Night Live and a Netflix preview released in August.\n\nNewzoo, a market‑research firm, estimates that first‑week sales on PlayStation 5 and Xbox Series X|S could generate between $3.25 billion and $5.2 billion, while the development budget has been reported at $1.5 billion. Brandon Riegg, Netflix’s vice president of nonfiction series, told Variety that the game’s name is widely recognized even among non‑gamers. Geoff Keighley, creator and host of The Game Awards, also told Variety that the Grand Theft Auto franchise introduced the open‑world genre, citing GTA 3 as the point where Rockstar moved to a 3D open‑world format."
+      },
+      "es": {
+        "title": "GTA 6 se lanzará el 19 de noviembre con altas expectativas del mercado",
+        "description": "El lanzamiento de Grand Theft Auto VI está programado para el 19 de noviembre, y queda una semana antes de su salida. Analistas de la industria han...",
+        "fullContent": "El lanzamiento de Grand Theft Auto VI está programado para el 19 de noviembre, y queda una semana antes de su salida. Analistas de la industria han mencionado repetidamente que el título podría ser el mayor estreno de entretenimiento hasta la fecha, una percepción que se refleja en la cobertura mediática reciente, que incluye vallas publicitarias en Vice City, sketches en Saturday Night Live y una vista previa en Netflix publicada en agosto.\n\nNewzoo, firma de investigación de mercado, estima que las ventas de la primera semana en PlayStation 5 y Xbox Series X|S podrían generar entre 3.250 millones y 5.200 millones de dólares, mientras que el presupuesto de desarrollo se ha reportado en 1.500 millones de dólares. Brandon Riegg, vicepresidente de series de no ficción de Netflix, declaró a Variety que el nombre del juego es ampliamente reconocido incluso entre quienes no juegan. Geoff Keighley, creador y presentador de The Game Awards, también señaló a Variety que la franquicia Grand Theft Auto introdujo el género de mundo abierto, mencionando a GTA 3 como el momento en que Rockstar adoptó un formato de mundo abierto en 3D."
+      }
+    },
     {
       "id": "3562c1eca0ad350f50aa3402098570ea",
       "tag": "NEWS",
