@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794525905178,
+  "updatedAt": 1794549596871,
   "articles": [
-    {
-      "id": "3562c1eca0ad350f50aa3402098570ea",
-      "tag": "NEWS",
-      "slug": "skydance-confirma-que-marvel-1943-rise-of-hydra-no-ha-sido-cancelado-pese-a-rumores-en-linea",
-      "url": "https://www.godzgames.com/noticias/skydance-confirma-que-marvel-1943-rise-of-hydra-no-ha-sido-cancelado-pese-a-rumores-en-linea/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525893820_868.jpg",
-      "link": "https://www.videogameschronicle.com/news/marvel-1943-rise-of-hydra-staff-were-reportedly-told-the-game-hasnt-been-cancelled-despite-online-rumour/",
-      "en": {
-        "title": "Skydance confirms Marvel 1943: Rise of Hydra not cancelled amid online rumors",
-        "description": "A fan account on X that tracks Marvel 1943: Rise of Hydra posted a message indicating a planned release window of Q3 or Q4 2027, followed hours lat...",
-        "fullContent": "A fan account on X that tracks Marvel 1943: Rise of Hydra posted a message indicating a planned release window of Q3 or Q4 2027, followed hours later by a separate claim—later deleted—that the game had been cancelled and that an update was forthcoming. Bloomberg journalist Jason Schreier subsequently reported that Skydance Games communicated to the development team via Slack that the project remains active and has not been cancelled, despite the circulating rumor on Twitter.\n\nSchreier noted that the situation could change as Skydance navigates the ongoing Warner Bros. acquisition, but clarified that the only confirmed information at the time was the company's statement that development continues toward the next milestone. Kotaku later cited a Slack conversation in which executive producer Lu Gigliotti told staff he had spoken with the executive leadership team regarding the title."
-      },
-      "es": {
-        "title": "Skydance confirma que Marvel 1943: Rise of Hydra no ha sido cancelado pese a rumores en línea",
-        "description": "Una cuenta de fans en X que sigue el desarrollo de Marvel 1943: Rise of Hydra publicó un mensaje indicando una ventana de lanzamiento prevista para...",
-        "fullContent": "Una cuenta de fans en X que sigue el desarrollo de Marvel 1943: Rise of Hydra publicó un mensaje indicando una ventana de lanzamiento prevista para el tercer o cuarto trimestre de 2027, y unas horas después compartió una afirmación—posteriormente eliminada—de que el juego había sido cancelado y que se anunciaría una actualización. El periodista de Bloomberg, Jason Schreier, informó que Skydance Games comunicó al equipo de desarrollo, a través de Slack, que el proyecto sigue activo y no ha sido cancelado, a pesar del rumor difundido en Twitter.\n\nSchreier añadió que la situación podría variar mientras Skydance atraviesa la adquisición por parte de Warner Bros., pero subrayó que la única información confirmada era la declaración de la compañía de que el desarrollo continúa hacia el próximo hito. Kotaku citó posteriormente una conversación en Slack en la que el productor ejecutivo Lu Gigliotti informó al personal que había hablado con el equipo de liderazgo ejecutivo sobre el título."
-      }
-    },
     {
       "id": "24cc7079ea536bd1ba4e36082d898890",
       "tag": "NEWS",
-      "slug": "desarrolladores-escoceses-crearon-grand-theft-auto-la-industria-de-videojuegos-del-pais-hoy",
-      "url": "https://www.godzgames.com/noticias/desarrolladores-escoceses-crearon-grand-theft-auto-la-industria-de-videojuegos-del-pais-hoy/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525896596_51.jpg",
+      "slug": "dma-design-de-escocia-creo-el-grand-theft-auto-original",
+      "url": "https://www.godzgames.com/noticias/dma-design-de-escocia-creo-el-grand-theft-auto-original/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549587568_663.jpg",
       "link": "https://www.bbc.com/news/articles/c60qkn5gz392o",
       "en": {
-        "title": "Scotland's developers created Grand Theft Auto; the national video‑game sector today",
-        "description": "As the release of Grand Theft Auto VI approaches, the franchise’s origins can be traced to a group of young developers working in Dundee almost thr...",
-        "fullContent": "As the release of Grand Theft Auto VI approaches, the franchise’s origins can be traced to a group of young developers working in Dundee almost three decades ago. The first Grand Theft Auto was produced by the Scottish studio DMA Design, which later changed its name to Rockstar North.\n\nBrian Baglow, who served as a writer on the original title, stated that the project was carried out by a Scottish team without formal game‑design degrees and that DMA Design was the only party that believed in the game while the publisher initially wanted to cancel it.\n\nSince its launch, the series has sold hundreds of millions of copies. DMA Design became Rockstar North, relocated to Edinburgh and now employs more than 1,000 people. Rockstar North is the most prominent studio in Scotland’s video‑game industry, though the sector also includes other companies beyond the Grand Theft Auto franchise."
+        "title": "Scotland's DMA Design Created the Original Grand Theft Auto",
+        "description": "As anticipation builds for the upcoming release of Grand Theft Auto VI, the franchise’s roots trace back to a small team of developers in Dundee al...",
+        "fullContent": "As anticipation builds for the upcoming release of Grand Theft Auto VI, the franchise’s roots trace back to a small team of developers in Dundee almost three decades ago. The first Grand Theft Auto was produced by the Scottish studio DMA Design, a group that, according to writer Brian Baglow, consisted of novices without formal game‑design degrees and received support only from their own company while the publisher initially intended to cancel the project.\n\nOver the following thirty years the series has sold hundreds of millions of copies. DMA Design later became Rockstar North, relocated to Edinburgh and now employs more than 1,000 staff. While Rockstar North is a prominent name in Scotland’s video‑game sector, the industry’s activity extends beyond the Grand Theft Auto franchise."
       },
       "es": {
-        "title": "Desarrolladores escoceses crearon Grand Theft Auto; la industria de videojuegos del país hoy",
-        "description": "Mientras se espera el lanzamiento de Grand Theft Auto VI, los orígenes de la franquicia pueden rastrearse hasta un grupo de jóvenes desarrolladores...",
-        "fullContent": "Mientras se espera el lanzamiento de Grand Theft Auto VI, los orígenes de la franquicia pueden rastrearse hasta un grupo de jóvenes desarrolladores que trabajaban en Dundee hace casi treinta años. El primer Grand Theft Auto fue creado por el estudio escocés DMA Design, que posteriormente pasó a llamarse Rockstar North.\n\nBrian Baglow, quien trabajó como guionista en el título original, indicó que el proyecto fue realizado por un equipo escocés sin títulos universitarios en diseño de juegos y que DMA Design fue la única parte que creyó en el juego mientras el editor inicialmente quiso cancelarlo.\n\nDesde su debut, la serie ha vendido cientos de millones de copias. DMA Design se convirtió en Rockstar North, se trasladó a Edimburgo y actualmente emplea a más de 1.000 personas. Rockstar North es el estudio más destacado de la industria de videojuegos de Escocia, aunque el sector también incluye otras empresas además de la franquicia Grand Theft Auto."
+        "title": "DMA Design de Escocia Creó el Grand Theft Auto Original",
+        "description": "Mientras se espera el lanzamiento de Grand Theft Auto VI, los orígenes de la franquicia se remontan a un pequeño grupo de desarrolladores en Dundee...",
+        "fullContent": "Mientras se espera el lanzamiento de Grand Theft Auto VI, los orígenes de la franquicia se remontan a un pequeño grupo de desarrolladores en Dundee hace casi treinta años. El primer Grand Theft Auto fue desarrollado por el estudio escocés DMA Design, un equipo que, según el escritor Brian Baglow, estaba formado por novatos sin títulos en diseño de videojuegos y contó con el respaldo únicamente de su propia compañía, mientras el editor inicialmente quería cancelar el proyecto.\n\nEn los tres décadas siguientes la saga ha vendido cientos de millones de copias. DMA Design pasó a llamarse Rockstar North, se trasladó a Edimburgo y actualmente cuenta con más de 1.000 empleados. Aunque Rockstar North es una entidad destacada dentro del sector de videojuegos en Escocia, la actividad de la industria se extiende más allá de la franquicia Grand Theft Auto."
+      }
+    },
+    {
+      "id": "16e69ca3f6fed91a3a952b6a8c395f45",
+      "tag": "NEWS",
+      "slug": "rockstar-games-lanza-grand-theft-auto-vi-y-al-jazeera-ofrece-experiencia-de-juego-de-50-anos-con-ia",
+      "url": "https://www.godzgames.com/noticias/rockstar-games-lanza-grand-theft-auto-vi-y-al-jazeera-ofrece-experiencia-de-juego-de-50-anos-con-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549590117_224.jpg",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games",
+      "en": {
+        "title": "Rockstar Games launches Grand Theft Auto VI and Al Jazeera offers AI‑generated 50‑year gaming experience",
+        "description": "Rockstar Games released Grand Theft Auto VI on 19 November, ending a 13‑year interval since the previous installment. The game's first trailer, pub...",
+        "fullContent": "Rockstar Games released Grand Theft Auto VI on 19 November, ending a 13‑year interval since the previous installment. The game's first trailer, published in December 2023, accumulated more than 90 million views on YouTube within 24 hours, setting a record for a video‑game reveal. According to market‑research firm Newzoo, the video‑game industry generated $201.6 billion in revenue in 2025, an industry that originated with simple paddle controllers and a single block of light.\n\nAl Jazeera used artificial‑intelligence tools to create six short levels that reference games considered emblematic of each decade, from Pong to Grand Theft Auto VI, allowing users to navigate a 50‑year timeline of video‑game history. Participants can select a specific decade or scroll through the entire sequence. The article also notes that while video games were not invented in 1972, that year marked broader public exposure, and references the 1958 experiment by physicist William Higinbotham, who connected a tennis‑style game to an oscilloscope at Brookhaven National Laboratory, where it was played by visitors but never commercialized."
+      },
+      "es": {
+        "title": "Rockstar Games lanza Grand Theft Auto VI y Al Jazeera ofrece experiencia de juego de 50 años con IA",
+        "description": "Rockstar Games lanzó Grand Theft Auto VI el 19 de noviembre, poniendo fin a un intervalo de 13 años desde la entrega anterior. El primer tráiler de...",
+        "fullContent": "Rockstar Games lanzó Grand Theft Auto VI el 19 de noviembre, poniendo fin a un intervalo de 13 años desde la entrega anterior. El primer tráiler del juego, publicado en diciembre de 2023, superó los 90 millones de reproducciones en YouTube en 24 horas, estableciendo un récord para la presentación de un videojuego. Según la firma de investigación de mercado Newzoo, la industria de los videojuegos generó 201,6 mil millones de dólares en ingresos en 2025, una industria que se originó con simples controladores de paletas y un bloque de luz.\n\nAl Jazeera utilizó herramientas de inteligencia artificial para crear seis niveles breves que hacen referencia a los juegos considerados representativos de cada década, desde Pong hasta Grand Theft Auto VI, permitiendo a los usuarios recorrer una línea de tiempo de 50 años de historia de los videojuegos. Los participantes pueden elegir una década específica o desplazarse por toda la secuencia. El texto también menciona que, aunque los videojuegos no se inventaron en 1972, ese año marcó una mayor exposición al público, y alude al experimento de 1958 del físico William Higinbotham, quien conectó un juego similar al tenis a un osciloscopio en el Laboratorio Nacional Brookhaven, donde fue jugado por visitantes pero nunca se comercializó."
+      }
+    },
+    {
+      "id": "b660f2c78500040f9bf5d98ff6f9e431",
+      "tag": "NEWS",
+      "slug": "kalshi-publica-oferta-de-empleo-para-investigador-de-gta-6-y-su-economia",
+      "url": "https://www.godzgames.com/noticias/kalshi-publica-oferta-de-empleo-para-investigador-de-gta-6-y-su-economia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549592191_536.jpg",
+      "link": "https://mashable.com/tech/gta-grand-theft-auto-6-kalshi-researcher-job",
+      "en": {
+        "title": "Kalshi posts job for GTA 6 researcher to study in‑game economy",
+        "description": "Kalshi has posted a job listing on LinkedIn for a position titled \"GTA 6 Researcher.\" The role requires the candidate to play and livestream Grand ...",
+        "fullContent": "Kalshi has posted a job listing on LinkedIn for a position titled \"GTA 6 Researcher.\" The role requires the candidate to play and livestream Grand Theft Auto VI from its launch on November 19, with the purpose of analyzing the game's internal economy and measuring the amount of real‑world productivity time spent on the game. The posting states that the researcher will produce a weekly report on the in‑game economy and that the position demands at least ten years of competitive gaming experience, three years of streaming experience, and a functional streaming setup.\n\nThe compensation outlined in the listing includes a fixed project fee ranging from $100,000 to $120,000, with an additional $15,000 payable upon completion of the project. The announcement follows a recent report about Logitech offering employees paid time off to play new video games. Kalshi's job posting has been referenced by a prediction‑market source as authentic."
+      },
+      "es": {
+        "title": "Kalshi publica oferta de empleo para investigador de GTA 6 y su economía",
+        "description": "Kalshi ha publicado una oferta de empleo en LinkedIn para un puesto denominado \"Investigador de GTA 6\". El cargo requiere que el candidato juegue y...",
+        "fullContent": "Kalshi ha publicado una oferta de empleo en LinkedIn para un puesto denominado \"Investigador de GTA 6\". El cargo requiere que el candidato juegue y transmita en vivo Grand Theft Auto VI desde su lanzamiento el 19 de noviembre, con el objetivo de analizar la economía interna del juego y cuantificar el tiempo de productividad real que se dedica a jugar. La publicación indica que el investigador debe elaborar un informe semanal sobre la economía del juego y que el puesto exige al menos diez años de experiencia en juegos competitivos, tres años de experiencia en streaming y un equipo de transmisión operativo.\n\nLa compensación descrita incluye una tarifa fija de proyecto entre 100,000 y 120,000 dólares, con un pago adicional de 15,000 dólares al concluir el proyecto. La noticia se produce después de que se informara que Logitech ofrecía a sus empleados tiempo libre remunerado para jugar videojuegos nuevos. Una fuente de mercado de predicciones ha señalado que la oferta de empleo de Kalshi es auténtica."
       }
     },
     {
       "id": "8239010fa66e6cbe18a09071553da796",
       "tag": "NEWS",
-      "slug": "rockstar-se-prepara-para-lanzar-gta-vi-previsto-como-importante-lanzamiento-de-entretenimiento",
-      "url": "https://www.godzgames.com/noticias/rockstar-se-prepara-para-lanzar-gta-vi-previsto-como-importante-lanzamiento-de-entretenimiento/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525899396_871.jpg",
+      "slug": "rockstar-se-prepara-para-lanzar-gta-vi-proyectado-como-gran-estreno-de-entretenimiento",
+      "url": "https://www.godzgames.com/noticias/rockstar-se-prepara-para-lanzar-gta-vi-proyectado-como-gran-estreno-de-entretenimiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549594350_735.jpg",
       "link": "https://www.bloomberg.com/news/articles/2026-11-12/the-1-billion-video-game-about-to-swallow-the-world-whole",
       "en": {
-        "title": "Rockstar prepares launch of GTA VI, projected as major entertainment release",
-        "description": "Thirteen years after Grand Theft Auto V set a sales record, Rockstar Games, a subsidiary of Take‑Two Interactive, is scheduled to release the seque...",
-        "fullContent": "Thirteen years after Grand Theft Auto V set a sales record, Rockstar Games, a subsidiary of Take‑Two Interactive, is scheduled to release the sequel, GTA VI. According to Bloomberg Originals, the upcoming title is expected to rank among the largest entertainment launches and is listed among the most costly video game productions to date.\n\nThe projected revenue for GTA VI is described as comparable to the earnings of the summer film The Odyssey, with expectations that similar figures could be reached within weeks of release. The launch is planned amid an industry environment characterized by increasing development budgets, workforce reductions and studio closures, while Rockstar maintains a distinctive market position."
+        "title": "Rockstar prepares launch of GTA VI, projected as major entertainment release",
+        "description": "Thirteen years after the record‑breaking launch of Grand Theft Auto V, Rockstar Games, a subsidiary of Take‑Two Interactive, is preparing to releas...",
+        "fullContent": "Thirteen years after the record‑breaking launch of Grand Theft Auto V, Rockstar Games, a subsidiary of Take‑Two Interactive, is preparing to release its sequel, Grand Theft Auto VI. The upcoming title is projected to be one of the largest entertainment rollouts in history and is listed among the most expensive video games ever produced.\n\nAccording to Bloomberg Originals, the anticipated revenue for GTA VI is expected to match the box‑office performance of the summer film The Odyssey within a matter of weeks. The release is scheduled amid an industry environment marked by increasing development budgets, staff reductions and studio closures, while Rockstar maintains a distinct market position relative to its competitors."
       },
       "es": {
-        "title": "Rockstar se prepara para lanzar GTA VI, previsto como importante lanzamiento de entretenimiento",
-        "description": "Trece años después de que Grand Theft Auto V estableciera un récord de ventas, Rockstar Games, filial de Take‑Two Interactive, tiene programado el ...",
-        "fullContent": "Trece años después de que Grand Theft Auto V estableciera un récord de ventas, Rockstar Games, filial de Take‑Two Interactive, tiene programado el lanzamiento de su sucesor, GTA VI. Según Bloomberg Originals, el próximo título se espera que se ubique entre los mayores lanzamientos de entretenimiento y se encuentra entre los videojuegos más costosos jamás producidos.\n\nLos ingresos proyectados para GTA VI se describen como comparables a los obtenidos por la película de verano The Odyssey, con la expectativa de alcanzar cifras similares en semanas después de su salida. El lanzamiento se produce en un contexto de la industria marcado por presupuestos de desarrollo en aumento, reducciones de personal y cierres de estudios, mientras Rockstar mantiene una posición distintiva en el mercado."
+        "title": "Rockstar se prepara para lanzar GTA VI, proyectado como gran estreno de entretenimiento",
+        "description": "Trece años después del lanzamiento récord de Grand Theft Auto V, Rockstar Games, unidad de Take‑Two Interactive, está preparando la salida de su se...",
+        "fullContent": "Trece años después del lanzamiento récord de Grand Theft Auto V, Rockstar Games, unidad de Take‑Two Interactive, está preparando la salida de su secuela, Grand Theft Auto VI. El nuevo título se proyecta como uno de los mayores despliegues de entretenimiento de la historia y se encuentra entre los videojuegos más costosos jamás realizados.\n\nBloomberg Originals indica que se espera que los ingresos de GTA VI alcancen cifras comparables a la taquilla del film de verano The Odyssey en cuestión de semanas. El lanzamiento se produce en un contexto de la industria caracterizado por presupuestos de desarrollo en aumento, despidos masivos y cierres de estudios, mientras Rockstar mantiene una posición distintiva frente a sus competidores."
       }
     },
     {
-      "id": "0089154a7a951c73c14bdde04f1e0958",
+      "id": "4dd1f0fa3089a2def9aed28a27ec08b0",
       "tag": "NEWS",
-      "slug": "fotografos-de-nbc-news-documentan-los-locales-de-la-american-legion-mientras-atienden-a-veteranos",
-      "url": "https://www.godzgames.com/noticias/fotografos-de-nbc-news-documentan-los-locales-de-la-american-legion-mientras-atienden-a-veteranos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525902284_485.jpg",
-      "link": "https://www.nbcnews.com/news/photo/veterans-american-legion-halls-evolve-new-era-jazz-video-games-rcna608338",
+      "slug": "gta-6-se-lanzara-el-19-de-noviembre-con-altas-expectativas-del-mercado",
+      "url": "https://www.godzgames.com/noticias/gta-6-se-lanzara-el-19-de-noviembre-con-altas-expectativas-del-mercado/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794549596836_362.jpg",
+      "link": "https://variety.com/2026/gaming/news/gta-6-release-gaming-industry-takeover-1236945197/",
       "en": {
-        "title": "American Legion posts documented by NBC News as they serve veterans amid declining numbers",
-        "description": "NBC News photographers visited a sample of the 11,543 American Legion posts located throughout the United States and overseas to record how the org...",
-        "fullContent": "NBC News photographers visited a sample of the 11,543 American Legion posts located throughout the United States and overseas to record how the organization continues to function as a gathering place for veterans. The visual report focused on the day‑to‑day activities and facilities that remain in use across the network of posts.\n\nDuring a ceremony in which the bugle call \"Taps\" was sounded, former Marine John R. Raughter presented a copy of a Wall Street Journal article from 1971. The article carried the headline \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,\" illustrating a historical perspective on the organization’s evolution."
+        "title": "GTA 6 set for November 19 release amid high market expectations",
+        "description": "The release of Grand Theft Auto VI is scheduled for November 19, with one week remaining before the launch. Industry analysts have repeatedly refer...",
+        "fullContent": "The release of Grand Theft Auto VI is scheduled for November 19, with one week remaining before the launch. Industry analysts have repeatedly referred to the title as potentially the largest entertainment release to date, a sentiment echoed in recent media coverage ranging from billboards in Vice City to sketches on Saturday Night Live and a Netflix preview released in August.\n\nNewzoo, a market‑research firm, estimates that first‑week sales on PlayStation 5 and Xbox Series X|S could generate between $3.25 billion and $5.2 billion, while the development budget has been reported at $1.5 billion. Brandon Riegg, Netflix’s vice president of nonfiction series, told Variety that the game’s name is widely recognized even among non‑gamers. Geoff Keighley, creator and host of The Game Awards, also told Variety that the Grand Theft Auto franchise introduced the open‑world genre, citing GTA 3 as the point where Rockstar moved to a 3D open‑world format."
       },
       "es": {
-        "title": "Fotógrafos de NBC News documentan los locales de la American Legion mientras atienden a veteranos",
-        "description": "Fotógrafos de NBC News visitaron una muestra de los 11,543 locales de la American Legion distribuidos en Estados Unidos y en el extranjero para reg...",
-        "fullContent": "Fotógrafos de NBC News visitaron una muestra de los 11,543 locales de la American Legion distribuidos en Estados Unidos y en el extranjero para registrar cómo la organización sigue funcionando como un punto de encuentro para los veteranos. El reportaje visual se centró en las actividades cotidianas y las instalaciones que continúan en uso en la red de locales.\n\nEn una ceremonia en la que se interpretó la llamada de toque de queda \"Taps\", el ex marine John R. Raughter mostró una copia de un artículo del Wall Street Journal de 1971. El artículo tenía por título \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away\", ofreciendo una perspectiva histórica sobre la evolución de la organización."
-      }
-    },
-    {
-      "id": "cd9a490deac9904e2d59536ff9e33408",
-      "tag": "NEWS",
-      "slug": "jeep-lanza-el-juego-de-carreras-offroad-moab-run-con-estilo-retro",
-      "url": "https://www.godzgames.com/noticias/jeep-lanza-el-juego-de-carreras-offroad-moab-run-con-estilo-retro/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525905072_501.jpg",
-      "link": "https://www.caranddriver.com/news/a74406808/jeep-moab-run-video-game-details/",
-      "en": {
-        "title": "Jeep releases retro‑styled off‑road racing game Moab Run",
-        "description": "Jeep has launched Moab Run, a retro‑themed off‑road racing game that can be played on mobile devices and in web browsers. The title draws inspirati...",
-        "fullContent": "Jeep has launched Moab Run, a retro‑themed off‑road racing game that can be played on mobile devices and in web browsers. The title draws inspiration from 1990s 3‑D racing games such as Sega Rally and Offroad Challenge and incorporates Jeep’s special‑edition Wrangler models.\n\nAt launch the game includes seven Wrangler variants, among them the Rewind and Sarge models, with a total of twelve variants planned for future updates. The only track currently available is set in Utah, and two additional tracks are scheduled to be added later. Gameplay uses basic controls—accelerate, brake and steer—with optional powerslide and boost functions, and the game displays a disclaimer that the stunts should not be attempted in real life.\n\nThe environment allows players to switch between overlapping routes, climb sandstone ridges to collect star points, and locate hidden duck collectibles. An on‑screen line also references \"new 2027 Jeep Wrangler for sale near 20147\"."
-      },
-      "es": {
-        "title": "Jeep lanza el juego de carreras off‑road Moab Run con estilo retro",
-        "description": "Jeep ha puesto a disposición Moab Run, un juego de carreras off‑road de temática retro que se puede jugar en dispositivos móviles y en navegadores ...",
-        "fullContent": "Jeep ha puesto a disposición Moab Run, un juego de carreras off‑road de temática retro que se puede jugar en dispositivos móviles y en navegadores web. El título se inspira en juegos de carreras 3‑D de los años 90, como Sega Rally y Offroad Challenge, e incluye modelos de Wrangler de edición especial.\n\nEn el lanzamiento se ofrecen siete variantes de Wrangler, entre ellas los modelos Rewind y Sarge, con un total de doce variantes previstas para futuras actualizaciones. Actualmente solo está disponible una pista ubicada en Utah, y se anunciaron dos pistas adicionales que se incorporarán más adelante. Los controles son básicos—acelerar, frenar y girar—con opciones de derrape y acumulación de impulso, y el juego muestra una advertencia que indica que no se deben reproducir esas acciones en la vida real.\n\nEl diseño del recorrido permite cambiar entre rutas superpuestas, escalar formaciones de arenisca para recoger puntos de estrella y encontrar patos coleccionables ocultos. Además, en la pantalla aparece una referencia a \"new 2027 Jeep Wrangler for sale near 20147\"."
+        "title": "GTA 6 se lanzará el 19 de noviembre con altas expectativas del mercado",
+        "description": "El lanzamiento de Grand Theft Auto VI está programado para el 19 de noviembre, y queda una semana antes de su salida. Analistas de la industria han...",
+        "fullContent": "El lanzamiento de Grand Theft Auto VI está programado para el 19 de noviembre, y queda una semana antes de su salida. Analistas de la industria han mencionado repetidamente que el título podría ser el mayor estreno de entretenimiento hasta la fecha, una percepción que se refleja en la cobertura mediática reciente, que incluye vallas publicitarias en Vice City, sketches en Saturday Night Live y una vista previa en Netflix publicada en agosto.\n\nNewzoo, firma de investigación de mercado, estima que las ventas de la primera semana en PlayStation 5 y Xbox Series X|S podrían generar entre 3.250 millones y 5.200 millones de dólares, mientras que el presupuesto de desarrollo se ha reportado en 1.500 millones de dólares. Brandon Riegg, vicepresidente de series de no ficción de Netflix, declaró a Variety que el nombre del juego es ampliamente reconocido incluso entre quienes no juegan. Geoff Keighley, creador y presentador de The Game Awards, también señaló a Variety que la franquicia Grand Theft Auto introdujo el género de mundo abierto, mencionando a GTA 3 como el momento en que Rockstar adoptó un formato de mundo abierto en 3D."
       }
     }
   ]

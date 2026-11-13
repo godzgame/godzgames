@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-12T01:55:51.211Z",
+  "lastUpdated": "2026-11-13T05:59:56.871Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "3562c1eca0ad350f50aa3402098570ea",
+      "tag": "NEWS",
+      "slug": "skydance-confirma-que-marvel-1943-rise-of-hydra-no-ha-sido-cancelado-pese-a-rumores-en-linea",
+      "url": "https://www.godzgames.com/noticias/skydance-confirma-que-marvel-1943-rise-of-hydra-no-ha-sido-cancelado-pese-a-rumores-en-linea/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525893820_868.jpg",
+      "link": "https://www.videogameschronicle.com/news/marvel-1943-rise-of-hydra-staff-were-reportedly-told-the-game-hasnt-been-cancelled-despite-online-rumour/",
+      "en": {
+        "title": "Skydance confirms Marvel 1943: Rise of Hydra not cancelled amid online rumors",
+        "description": "A fan account on X that tracks Marvel 1943: Rise of Hydra posted a message indicating a planned release window of Q3 or Q4 2027, followed hours lat...",
+        "fullContent": "A fan account on X that tracks Marvel 1943: Rise of Hydra posted a message indicating a planned release window of Q3 or Q4 2027, followed hours later by a separate claim—later deleted—that the game had been cancelled and that an update was forthcoming. Bloomberg journalist Jason Schreier subsequently reported that Skydance Games communicated to the development team via Slack that the project remains active and has not been cancelled, despite the circulating rumor on Twitter.\n\nSchreier noted that the situation could change as Skydance navigates the ongoing Warner Bros. acquisition, but clarified that the only confirmed information at the time was the company's statement that development continues toward the next milestone. Kotaku later cited a Slack conversation in which executive producer Lu Gigliotti told staff he had spoken with the executive leadership team regarding the title."
+      },
+      "es": {
+        "title": "Skydance confirma que Marvel 1943: Rise of Hydra no ha sido cancelado pese a rumores en línea",
+        "description": "Una cuenta de fans en X que sigue el desarrollo de Marvel 1943: Rise of Hydra publicó un mensaje indicando una ventana de lanzamiento prevista para...",
+        "fullContent": "Una cuenta de fans en X que sigue el desarrollo de Marvel 1943: Rise of Hydra publicó un mensaje indicando una ventana de lanzamiento prevista para el tercer o cuarto trimestre de 2027, y unas horas después compartió una afirmación—posteriormente eliminada—de que el juego había sido cancelado y que se anunciaría una actualización. El periodista de Bloomberg, Jason Schreier, informó que Skydance Games comunicó al equipo de desarrollo, a través de Slack, que el proyecto sigue activo y no ha sido cancelado, a pesar del rumor difundido en Twitter.\n\nSchreier añadió que la situación podría variar mientras Skydance atraviesa la adquisición por parte de Warner Bros., pero subrayó que la única información confirmada era la declaración de la compañía de que el desarrollo continúa hacia el próximo hito. Kotaku citó posteriormente una conversación en Slack en la que el productor ejecutivo Lu Gigliotti informó al personal que había hablado con el equipo de liderazgo ejecutivo sobre el título."
+      }
+    },
+    {
+      "id": "0089154a7a951c73c14bdde04f1e0958",
+      "tag": "NEWS",
+      "slug": "fotografos-de-nbc-news-documentan-los-locales-de-la-american-legion-mientras-atienden-a-veteranos",
+      "url": "https://www.godzgames.com/noticias/fotografos-de-nbc-news-documentan-los-locales-de-la-american-legion-mientras-atienden-a-veteranos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525902284_485.jpg",
+      "link": "https://www.nbcnews.com/news/photo/veterans-american-legion-halls-evolve-new-era-jazz-video-games-rcna608338",
+      "en": {
+        "title": "American Legion posts documented by NBC News as they serve veterans amid declining numbers",
+        "description": "NBC News photographers visited a sample of the 11,543 American Legion posts located throughout the United States and overseas to record how the org...",
+        "fullContent": "NBC News photographers visited a sample of the 11,543 American Legion posts located throughout the United States and overseas to record how the organization continues to function as a gathering place for veterans. The visual report focused on the day‑to‑day activities and facilities that remain in use across the network of posts.\n\nDuring a ceremony in which the bugle call \"Taps\" was sounded, former Marine John R. Raughter presented a copy of a Wall Street Journal article from 1971. The article carried the headline \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away,\" illustrating a historical perspective on the organization’s evolution."
+      },
+      "es": {
+        "title": "Fotógrafos de NBC News documentan los locales de la American Legion mientras atienden a veteranos",
+        "description": "Fotógrafos de NBC News visitaron una muestra de los 11,543 locales de la American Legion distribuidos en Estados Unidos y en el extranjero para reg...",
+        "fullContent": "Fotógrafos de NBC News visitaron una muestra de los 11,543 locales de la American Legion distribuidos en Estados Unidos y en el extranjero para registrar cómo la organización sigue funcionando como un punto de encuentro para los veteranos. El reportaje visual se centró en las actividades cotidianas y las instalaciones que continúan en uso en la red de locales.\n\nEn una ceremonia en la que se interpretó la llamada de toque de queda \"Taps\", el ex marine John R. Raughter mostró una copia de un artículo del Wall Street Journal de 1971. El artículo tenía por título \"Bygone Battles: American Legion, Once Civic and Social Power, Is Slowly Fading Away\", ofreciendo una perspectiva histórica sobre la evolución de la organización."
+      }
+    },
+    {
+      "id": "cd9a490deac9904e2d59536ff9e33408",
+      "tag": "NEWS",
+      "slug": "jeep-lanza-el-juego-de-carreras-offroad-moab-run-con-estilo-retro",
+      "url": "https://www.godzgames.com/noticias/jeep-lanza-el-juego-de-carreras-offroad-moab-run-con-estilo-retro/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794525905072_501.jpg",
+      "link": "https://www.caranddriver.com/news/a74406808/jeep-moab-run-video-game-details/",
+      "en": {
+        "title": "Jeep releases retro‑styled off‑road racing game Moab Run",
+        "description": "Jeep has launched Moab Run, a retro‑themed off‑road racing game that can be played on mobile devices and in web browsers. The title draws inspirati...",
+        "fullContent": "Jeep has launched Moab Run, a retro‑themed off‑road racing game that can be played on mobile devices and in web browsers. The title draws inspiration from 1990s 3‑D racing games such as Sega Rally and Offroad Challenge and incorporates Jeep’s special‑edition Wrangler models.\n\nAt launch the game includes seven Wrangler variants, among them the Rewind and Sarge models, with a total of twelve variants planned for future updates. The only track currently available is set in Utah, and two additional tracks are scheduled to be added later. Gameplay uses basic controls—accelerate, brake and steer—with optional powerslide and boost functions, and the game displays a disclaimer that the stunts should not be attempted in real life.\n\nThe environment allows players to switch between overlapping routes, climb sandstone ridges to collect star points, and locate hidden duck collectibles. An on‑screen line also references \"new 2027 Jeep Wrangler for sale near 20147\"."
+      },
+      "es": {
+        "title": "Jeep lanza el juego de carreras off‑road Moab Run con estilo retro",
+        "description": "Jeep ha puesto a disposición Moab Run, un juego de carreras off‑road de temática retro que se puede jugar en dispositivos móviles y en navegadores ...",
+        "fullContent": "Jeep ha puesto a disposición Moab Run, un juego de carreras off‑road de temática retro que se puede jugar en dispositivos móviles y en navegadores web. El título se inspira en juegos de carreras 3‑D de los años 90, como Sega Rally y Offroad Challenge, e incluye modelos de Wrangler de edición especial.\n\nEn el lanzamiento se ofrecen siete variantes de Wrangler, entre ellas los modelos Rewind y Sarge, con un total de doce variantes previstas para futuras actualizaciones. Actualmente solo está disponible una pista ubicada en Utah, y se anunciaron dos pistas adicionales que se incorporarán más adelante. Los controles son básicos—acelerar, frenar y girar—con opciones de derrape y acumulación de impulso, y el juego muestra una advertencia que indica que no se deben reproducir esas acciones en la vida real.\n\nEl diseño del recorrido permite cambiar entre rutas superpuestas, escalar formaciones de arenisca para recoger puntos de estrella y encontrar patos coleccionables ocultos. Además, en la pantalla aparece una referencia a \"new 2027 Jeep Wrangler for sale near 20147\"."
+      }
+    },
     {
       "id": "f93f906def47b7e6644c0f05ffa16f72",
       "tag": "NEWS",
