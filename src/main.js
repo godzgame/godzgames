@@ -113,6 +113,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       bannerTitle: "GodZGames - Best Deals",
       bannerBtn: "Explore Now",
       tagNews: "NEWS",
+      console: "Console",
       // Game Page specific keys
       backToHome: "Back to Home",
       technicalSpecs: "Technical Specifications",
@@ -141,6 +142,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       bannerTitle: "GodZGames - Las Mejores Ofertas",
       bannerBtn: "Explorar Ahora",
       tagNews: "NOTICIA",
+      console: "Consola",
       // Game Page specific keys
       backToHome: "Volver al Inicio",
       technicalSpecs: "Especificaciones Técnicas",
@@ -707,15 +709,76 @@ document.addEventListener('DOMContentLoaded', async () => {
     `;
   };
 
+  // Console brand colors for placeholder cards
+  const CONSOLE_COLORS = {
+    'PS5':    { bg: '#003087', accent: '#00439c', text: '#ffffff' },
+    'PS4':    { bg: '#00439c', accent: '#0070cc', text: '#ffffff' },
+    'PS3':    { bg: '#1a2a6c', accent: '#00439c', text: '#ffffff' },
+    'PS2':    { bg: '#000080', accent: '#0000b8', text: '#ffffff' },
+    'PSP':    { bg: '#00439c', accent: '#005fbf', text: '#ffffff' },
+    'PSVITA': { bg: '#003087', accent: '#005fbf', text: '#ffffff' },
+    'SWITCH': { bg: '#e4000f', accent: '#ff1a1a', text: '#ffffff' },
+    'WII':    { bg: '#c0c0c0', accent: '#a0a0a0', text: '#1a1a1a' },
+    'WII U':  { bg: '#009ac7', accent: '#00b4e8', text: '#ffffff' },
+    '3DS':    { bg: '#cc0000', accent: '#ff2222', text: '#ffffff' },
+    'DS':     { bg: '#555555', accent: '#777777', text: '#ffffff' },
+    'XBOX':   { bg: '#107c10', accent: '#1aaa1a', text: '#ffffff' },
+    'PC':     { bg: '#0078d4', accent: '#1a90f0', text: '#ffffff' },
+  };
+  const DEFAULT_CONSOLE_COLOR = { bg: '#1e1e2e', accent: '#8b00ff', text: '#ffffff' };
+
+  // Escape special XML/HTML characters for safe SVG text content
+  const svgEscape = (str) => String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+
+  // Build a lightweight inline SVG placeholder for games without cover
+  const buildNoCoverSvg = (title, consoleName) => {
+    const col = CONSOLE_COLORS[consoleName] || DEFAULT_CONSOLE_COLOR;
+    // Wrap title at ~18 chars per line, max 3 lines, then truncate with …
+    const words = String(title).split(' ');
+    const lines = [];
+    let current = '';
+    for (const w of words) {
+      if ((current + ' ' + w).trim().length > 18) {
+        if (current) lines.push(current.trim());
+        current = w;
+        if (lines.length === 2) { current += '…'; break; }
+      } else {
+        current = (current + ' ' + w).trim();
+      }
+    }
+    if (current && lines.length < 3) lines.push(current.trim());
+    const lineHeight = 32;
+    const startY = 155 - ((lines.length - 1) * lineHeight) / 2;
+    const textRows = lines.map((l, i) =>
+      `<text x="100" y="${startY + i * lineHeight}" font-size="22" font-weight="bold" fill="${col.text}" text-anchor="middle" font-family="Arial,sans-serif">${svgEscape(l)}</text>`
+    ).join('');
+    const svgStr =
+      `<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">` +
+      `<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="${col.bg}"/><stop offset="100%" stop-color="${col.accent}"/></linearGradient></defs>` +
+      `<rect width="200" height="300" fill="url(#g)"/>` +
+      `<rect x="0" y="260" width="200" height="40" fill="rgba(0,0,0,0.45)"/>` +
+      `<text x="100" y="284" font-size="13" font-weight="800" fill="${col.text}" text-anchor="middle" font-family="Arial,sans-serif" letter-spacing="2">${svgEscape(consoleName)}</text>` +
+      textRows +
+      `</svg>`;
+    return `data:image/svg+xml;charset=utf-8,` + encodeURIComponent(svgStr);
+  };
+
   // Helper function to create a game card layout
   const createGameCard = (game) => {
-    // Check if the game has a real cover from games.json, otherwise fallback to Bing image search for the real cover
-    const defaultCoverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=300`;
-    const coverUrl = game.customCover || defaultCoverUrl;
-    
-    const imageHtml = `<img src="${coverUrl}" alt="${game.title}" loading="lazy"/>`;
-
+    const hasCover = !!(game.customCover || game.cover);
+    const coverUrl = game.customCover || game.cover || null;
     const btnText = translations[currentLang].getLink;
+
+    // If no cover: render an inline SVG card (same dimensions, no layout shift)
+    const imageHtml = hasCover
+      ? `<img src="${coverUrl}" alt="${game.title}" loading="lazy"/>`
+      : `<img src="${buildNoCoverSvg(game.title, game.console)}" alt="${game.title}" loading="lazy" class="no-cover-svg"/>`;
+
     return `
       <div class="game-card">
         <div class="card-img-wrap" onclick="window.navigateTo(event, '/?game=${game.id}')">
@@ -1542,7 +1605,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     
     // Set loading skeletons
     const t = translations[currentLang];
-    const coverUrl = game.cover ? game.cover : `https://tse2.mm.bing.net/th?q=${encodeURIComponent(game.title + ' ' + game.console + ' official retail cover front')}&w=400`;
+    const coverUrl = game.customCover || game.cover || buildNoCoverSvg(game.title, game.console);
     
 
 
@@ -1562,7 +1625,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             <img src="${coverUrl}" alt="${game.title}" />
           </div>
           <table class="game-meta-table">
-            <tr><td>Console:</td><td>${game.console}</td></tr>
+            <tr><td>${t.console || 'Console'}:</td><td>${game.console}</td></tr>
             <tr><td>${t.genre}:</td><td class="skeleton skeleton-text" style="width: 80px;"></td></tr>
             <tr><td>${t.releaseDate}:</td><td class="skeleton skeleton-text" style="width: 50px;"></td></tr>
             <tr><td>${t.developer}:</td><td class="skeleton skeleton-text" style="width: 70px;"></td></tr>
@@ -1657,7 +1720,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         <img src="${finalCoverUrl}" alt="${game.title}" />
       </div>
       <table class="game-meta-table">
-        <tr><td>Console:</td><td>${game.console}</td></tr>
+        <tr><td>${t.console || 'Console'}:</td><td>${game.console}</td></tr>
         <tr><td>${t.genre}:</td><td>${genre}</td></tr>
         <tr><td>${t.releaseDate}:</td><td>${releaseDate}</td></tr>
         <tr><td>${t.developer}:</td><td>${developer}</td></tr>
@@ -1731,6 +1794,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     // nothing to fetch — status is inferred from localStorage keys
   };
 
+  // ADMIN_SOLO_DEV_PATCH: el panel de administracion solo existe con npm run dev.
+  // En el sitio compilado Vite elimina todo este bloque.
+  const __admin = import.meta.env.DEV ? (() => {
   const showAdminDashboard = async () => {
     adminLoginForm.style.display = 'none';
     adminDashboard.style.display = 'block';
@@ -1831,8 +1897,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   };
 
   // Static admin: verify token locally against a hashed password stored in the build
-  // Admin password is hardcoded here — change it before deploying!
-  const ADMIN_PASSWORD_HASH = '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'; // sha256 of 'admin123'
+  // El hash vive en .env.local (Git lo ignora). El panel solo funciona con npm run dev.
+  const ADMIN_PASSWORD_HASH = import.meta.env.VITE_ADMIN_HASH || '';
 
   const hashString = async (str) => {
     const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
@@ -2149,7 +2215,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     localStorage.removeItem('godzgames-admin-token');
     showAdminLogin();
   };
-
+  return { showAdminDashboard, renderAdminPage, renderAdminGamesList, saveAdminGameEdits, handleAdminLogin, handleAdminLogout };
+  })() : {};
+  const { showAdminDashboard = () => {}, renderAdminPage = () => { window.location.replace('/'); }, renderAdminGamesList = () => {}, saveAdminGameEdits = () => {}, handleAdminLogin = () => {}, handleAdminLogout = () => {} } = __admin;
 
   const showHomePage = () => {
     const guideViewEl = document.getElementById('guide-view');
