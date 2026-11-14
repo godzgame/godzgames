@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-13T23:26:10.988Z",
+  "lastUpdated": "2026-11-14T05:49:13.151Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "65d3243f4a611903d426e09a29138248",
+      "tag": "NEWS",
+      "slug": "hollywood-preve-impacto-del-lanzamiento-de-gta-vi-menciona-preventas-record-y-posible-cambio-en-el-consumo-de-entretenimiento",
+      "url": "https://www.godzgames.com/noticias/hollywood-preve-impacto-del-lanzamiento-de-gta-vi-menciona-preventas-record-y-posible-cambio-en-el-consumo-de-entretenimiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794612368665_674.jpg",
+      "link": "https://www.theringer.com/2026/11/13/video-games/hollywood-movies-tv-video-game-adaptations-getting-too-good",
+      "en": {
+        "title": "Hollywood anticipates impact of GTA VI launch, cites record preorders and potential shift in entertainment consumption",
+        "description": "The Hollywood Reporter published an article titled “GTA VI vs. Hollywood,” noting that the upcoming release of Grand Theft Auto VI on November 19 i...",
+        "fullContent": "The Hollywood Reporter published an article titled “GTA VI vs. Hollywood,” noting that the upcoming release of Grand Theft Auto VI on November 19 is expected to generate a significant effect on entertainment spending, audience engagement, and cultural visibility. Geoff Keighley, speaking to the outlet, described the launch as the largest in entertainment history by revenue, referencing pre‑order estimates exceeding $1 billion, and highlighted its potential influence on movie attendance, streaming activity, and overall time allocation.\n\nData from the previous year indicate that consumer expenditure on video games matched the combined at‑home spending on movies and television. The report also mentions that producers of scripted content view video games as a source of material, and that Hollywood has historically pursued adaptations of game properties as a collaborative approach.\n\nThe author, who has reported on video game adaptations for The Ringer for ten years, references earlier industry statements, including Ubisoft’s claim about an “Assassin’s Creed” movie and a 2017 commentary on the absence of a film that meets both fan and critic expectations. The piece also cites an episode titled “Achievement Oriented,” which discusses the Assassin’s Creed franchise, video‑game movies, and the prevalence of first‑person shooters."
+      },
+      "es": {
+        "title": "Hollywood prevé impacto del lanzamiento de GTA VI, menciona preventas récord y posible cambio en el consumo de entretenimiento",
+        "description": "The Hollywood Reporter publicó un artículo titulado “GTA VI vs. Hollywood”, en el que se indica que el próximo lanzamiento de Grand Theft Auto VI e...",
+        "fullContent": "The Hollywood Reporter publicó un artículo titulado “GTA VI vs. Hollywood”, en el que se indica que el próximo lanzamiento de Grand Theft Auto VI el 19 de noviembre se espera que genere un efecto significativo en el gasto de entretenimiento, la participación de la audiencia y la visibilidad cultural. Geoff Keighley, en entrevista con el medio, describió el lanzamiento como el mayor en la historia del entretenimiento por ingresos, citando estimaciones de preventas que superan los 1 mil millones de dólares, y subrayó su posible influencia en la asistencia al cine, la actividad de streaming y la distribución del tiempo.\n\nLos datos del año anterior muestran que el gasto del consumidor en videojuegos igualó el gasto combinado en películas y televisión en el hogar. El informe también menciona que los productores de contenido guionado consideran los videojuegos como una fuente de material, y que Hollywood ha buscado históricamente adaptar propiedades de juegos como una estrategia colaborativa.\n\nEl autor, que ha cubierto adaptaciones de videojuegos para The Ringer durante una década, hace referencia a declaraciones previas de la industria, incluida la afirmación de Ubisoft sobre una película de “Assassin’s Creed” y un comentario de enero de 2017 sobre la falta de una película que satisficiera tanto a fans como a críticos. Además, se menciona un episodio titulado “Achievement Oriented”, que aborda la franquicia Assassin’s Creed, las películas basadas en videojuegos y la prevalencia de los shooters en primera persona."
+      }
+    },
+    {
+      "id": "47a0d1ba89e2160340ee90da623cf16b",
+      "tag": "NEWS",
+      "slug": "estudio-revela-que-algunos-videojuegos-educativos-pueden-beneficiar-la-salud-mental",
+      "url": "https://www.godzgames.com/noticias/estudio-revela-que-algunos-videojuegos-educativos-pueden-beneficiar-la-salud-mental/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794612370938_500.jpg",
+      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
+      "en": {
+        "title": "Study Finds Certain Video Games Designed for Health Education Offer Mental-Health Benefits",
+        "description": "A recent study indicates that video games created with a focus on mental well‑being can have positive effects. The research highlights titles devel...",
+        "fullContent": "A recent study indicates that video games created with a focus on mental well‑being can have positive effects. The research highlights titles developed by the play2PREVENT Lab, which produces games aimed at teaching young people how to protect their health. One example, Smokescreen, presents scenarios that inform teens about the risks associated with vaping and smoking. Another title, PlaySmart, provides interactive situations that address mental‑health maintenance and strategies to avoid opioid misuse.\n\nIn PlaySmart, players experience a narrative in which a character named Taylor drifts apart from a close friend. By making alternative decisions within the game, players explore how different actions might influence the relationship and learn ways to seek help for mental‑health concerns. The study notes that the interactive format allows the storyline to change based on player choices, illustrating potential outcomes of various decisions."
+      },
+      "es": {
+        "title": "Estudio Revela que Algunos Videojuegos Educativos Pueden Beneficiar la Salud Mental",
+        "description": "Un estudio reciente señala que los videojuegos diseñados con el objetivo de fomentar el bienestar mental pueden generar efectos positivos. La inves...",
+        "fullContent": "Un estudio reciente señala que los videojuegos diseñados con el objetivo de fomentar el bienestar mental pueden generar efectos positivos. La investigación menciona los títulos desarrollados por el laboratorio play2PREVENT, que elabora juegos destinados a enseñar a los jóvenes cómo cuidar su salud. Un ejemplo es Smokescreen, que muestra situaciones para informar a los adolescentes sobre los riesgos del vapeo y el tabaquismo. Otro juego, PlaySmart, ofrece escenarios interactivos que abordan el mantenimiento de la salud mental y estrategias para evitar el consumo indebido de opioides.\n\nEn PlaySmart, los jugadores siguen una historia en la que el personaje Taylor se distancia de un amigo cercano. Al tomar decisiones diferentes dentro del juego, los jugadores observan cómo esas elecciones pueden influir en la relación y aprenden formas de buscar ayuda para problemas de salud mental. El estudio indica que el formato interactivo permite que la trama cambie según las decisiones del jugador, mostrando posibles resultados de distintas acciones."
+      }
+    },
     {
       "id": "16e69ca3f6fed91a3a952b6a8c395f45",
       "tag": "NEWS",
