@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-14T13:16:47.171Z",
+  "lastUpdated": "2026-11-14T22:11:14.859Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "cf922e21db6212b45185a7c63ae5cdb3",
+      "tag": "NEWS",
+      "slug": "the-game-awards-anunciara-nominaciones-2026-antes-del-lanzamiento-de-grand-theft-auto-6",
+      "url": "https://www.godzgames.com/noticias/the-game-awards-anunciara-nominaciones-2026-antes-del-lanzamiento-de-grand-theft-auto-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794662199435_654.jpg",
+      "link": "https://variety.com/2026/awards/news/game-awards-nominees-special-ps5-livestream-winners-1236946910/",
+      "en": {
+        "title": "The Game Awards to Unveil 2026 Nominees Ahead of Grand Theft Auto 6 Release",
+        "description": "The Game Awards will announce its 2026 nominees in a live special on Tuesday, November 17, at 12 p.m. ET/9 a.m. PT, streamed on YouTube and Twitch....",
+        "fullContent": "The Game Awards will announce its 2026 nominees in a live special on Tuesday, November 17, at 12 p.m. ET/9 a.m. PT, streamed on YouTube and Twitch. The event will occur two days before Rockstar Games launches Grand Theft Auto 6, a title identified by the organizer as a leading contender for Game of the Year.\n\nDuring the nomination special, host and executive producer Geoff Keighley will present the games, studios and creative talent nominated for the year’s awards, including the Game of the Year category. After the reveal, the full list of nominees will be available on TheGameAwards.com, where fans can cast their votes. The nominees are chosen by a global jury of media outlets and creator platforms, which includes Variety. The awards ceremony is scheduled for December 10 at the Peacock Theater in Los Angeles and will combine award presentations with new game announcements and live musical performances.\n\nKeighley told Variety that the proportion of coverage devoted to Grand Theft Auto 6 remains uncertain. He noted that previous shows have highlighted independent titles such as Clair Obscur and emphasized the need to balance representation across multiple games, mentioning that some categories do not permit Grand Theft Auto 6 to be eligible."
+      },
+      "es": {
+        "title": "The Game Awards anunciará nominaciones 2026 antes del lanzamiento de Grand Theft Auto 6",
+        "description": "The Game Awards revelará sus nominaciones para 2026 en un programa en vivo el martes 17 de noviembre a las 12 p.m. ET/9 a.m. PT, transmitido por Yo...",
+        "fullContent": "The Game Awards revelará sus nominaciones para 2026 en un programa en vivo el martes 17 de noviembre a las 12 p.m. ET/9 a.m. PT, transmitido por YouTube y Twitch. El evento se realizará dos días antes del lanzamiento de Grand Theft Auto 6 por parte de Rockstar Games, título señalado por el organizador como principal candidato al Game of the Year.\n\nEn la transmisión de nominaciones, el presentador y productor ejecutivo Geoff Keighley presentará los juegos, estudios y talentos creativos nominados, incluido el de Game of the Year. Tras la revelación, la lista completa de nominados estará disponible en TheGameAwards.com, donde los aficionados podrán votar. Los nominados son seleccionados por un jurado global compuesto por publicaciones de medios y plataformas de creadores, entre ellas Variety. La ceremonia de los premios está prevista para el 10 de diciembre en el Peacock Theater de Los Ángeles y combinará la entrega de premios con anuncios de nuevos juegos y actuaciones musicales en vivo.\n\nKeighley comentó a Variety que aún no se conoce la cantidad de tiempo que Grand Theft Auto 6 ocupará en el programa. Señaló que ediciones anteriores han destacado títulos independientes como Clair Obscur y subrayó la importancia de equilibrar la representación de varios juegos, indicando que en algunas categorías Grand Theft Auto 6 no es elegible."
+      }
+    },
+    {
+      "id": "68c3ffc3cd30167e50b31620e0df9e88",
+      "tag": "NEWS",
+      "slug": "rockstar-games-anuncia-voto-del-personal-sobre-esfuerzo-sindical-y-proxima-sesion-de-preguntas-de-bloomberg-sobre-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/rockstar-games-anuncia-voto-del-personal-sobre-esfuerzo-sindical-y-proxima-sesion-de-preguntas-de-bloomberg-sobre-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794662201776_12.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/ahead-of-grand-theft-auto-vi-rockstar-votes-on-unions",
+      "en": {
+        "title": "Rockstar Games Announces Staff Union Vote and Upcoming Bloomberg Q&A on Grand Theft Auto VI",
+        "description": "Rockstar Games disclosed that its employees are participating in a vote concerning a potential union effort. The company shared this information as...",
+        "fullContent": "Rockstar Games disclosed that its employees are participating in a vote concerning a potential union effort. The company shared this information as part of its November announcements.\n\nIn a separate development, Bloomberg announced an interactive online session with Rockstar Games to discuss Grand Theft Auto VI. The Q&A will take place on Wednesday, November 18, at 11 a.m. Eastern Standard Time and will be livestreamed. Participants can submit questions in advance to liveqa@bloomberg.net, and those who wish to receive an email reminder an hour before the event can sign up through the provided link."
+      },
+      "es": {
+        "title": "Rockstar Games anuncia voto del personal sobre esfuerzo sindical y próxima sesión de preguntas de Bloomberg sobre Grand Theft Auto VI",
+        "description": "Rockstar Games informó que sus empleados están participando en una votación relacionada con un posible esfuerzo sindical. La compañía comunicó este...",
+        "fullContent": "Rockstar Games informó que sus empleados están participando en una votación relacionada con un posible esfuerzo sindical. La compañía comunicó este dato dentro de sus anuncios de noviembre.\n\nEn otro anuncio, Bloomberg informó que realizará una sesión interactiva en línea con Rockstar Games para abordar preguntas sobre Grand Theft Auto VI. El encuentro se llevará a cabo el miércoles 18 de noviembre a las 11 a.m., hora del Este de EE. UU., y se transmitirá en vivo. Los interesados pueden enviar sus preguntas con antelación a liveqa@bloomberg.net, y quienes deseen recibir un recordatorio por correo electrónico una hora antes del evento pueden registrarse a través del enlace proporcionado."
+      }
+    },
+    {
+      "id": "496a3bb5956eba64c34fd4cff5cd9877",
+      "tag": "NEWS",
+      "slug": "las-preordenes-de-gta-vi-superan-los-1-mil-millones-antes-de-su-lanzamiento-el-19-de-noviembre",
+      "url": "https://www.godzgames.com/noticias/las-preordenes-de-gta-vi-superan-los-1-mil-millones-antes-de-su-lanzamiento-el-19-de-noviembre/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794662207099_142.jpg",
+      "link": "https://fortune.com/2026/11/14/gta-vi-biggest-entertainment-launch-preorders-hollywood/",
+      "en": {
+        "title": "Grand Theft Auto VI preorders exceed $1 billion ahead of Nov. 19 launch",
+        "description": "Grand Theft Auto VI is scheduled for release on November 19, 2026, thirteen years after the launch of its predecessor. The game will be available o...",
+        "fullContent": "Grand Theft Auto VI is scheduled for release on November 19, 2026, thirteen years after the launch of its predecessor. The game will be available on PlayStation 5 and Xbox Series X/S, and its market presence is expected to extend beyond the gaming sector.\n\nAccording to Take‑Two Interactive’s latest earnings release, Grand Theft Auto V generated $800 million in sales within its first 24 hours and has sold close to 235 million units overall. Sensor Tower reports that, as of the morning of November 13, GTA VI had accumulated approximately 12.1 million digital preorders valued at about $1.18 billion. If the preorders were treated as box‑office revenue, they would surpass the $1.01 billion worldwide gross recorded by The Super Mario Galaxy Movie in 2026, according to The Numbers.\n\nFortune cites Take‑Two’s investment in the title at $1 billion to $1.5 billion. The company’s forecast for the fiscal year ending in March projects net bookings of $8 billion to $8.2 billion, noting that preorder figures are above internal expectations. A survey of roughly 1,500 users conducted by G2A.com indicates that 29 % have arranged time off from work or school to play the game, and G2A reports a 152 % increase in preorder volume week over week during the most recent seven‑day period."
+      },
+      "es": {
+        "title": "Las preordenes de GTA VI superan los 1 mil millones antes de su lanzamiento el 19 de noviembre",
+        "description": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre de 2026, trece años después del lanzamiento de su predecesor. El juego estará ...",
+        "fullContent": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre de 2026, trece años después del lanzamiento de su predecesor. El juego estará disponible para PlayStation 5 y Xbox Series X/S, y su presencia en el mercado se espera que se extienda más allá del sector de los videojuegos.\n\nSegún el último informe de resultados de Take‑Two Interactive, Grand Theft Auto V generó 800 millones de dólares en ventas durante sus primeras 24 horas y ha vendido cerca de 235 millones de unidades en total. Sensor Tower indica que, a la mañana del 13 de noviembre, GTA VI había registrado aproximadamente 12,1 millones de preordenes digitales con un valor cercano a 1,18 mil millones de dólares. Si esas preordenes se consideraran ingresos de taquilla, superarían los 1,01 mil millones de dólares de recaudación mundial de The Super Mario Galaxy Movie en 2026, según The Numbers.\n\nFortune menciona que Take‑Two ha invertido entre 1 mil millones y 1,5 mil millones de dólares en el título. La previsión de la compañía para el año fiscal que finaliza en marzo indica reservas netas entre 8 mil millones y 8,2 mil millones de dólares, señalando que las cifras de preordenes están por encima de las expectativas internas. Una encuesta realizada por G2A.com a aproximadamente 1.500 usuarios muestra que el 29 % ha solicitado tiempo libre en el trabajo o la escuela para jugar, y G2A reporta un aumento del 152 % en el volumen de preordenes semana a semana durante los últimos siete días."
+      }
+    },
     {
       "id": "24cc7079ea536bd1ba4e36082d898890",
       "tag": "NEWS",
