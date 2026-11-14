@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-14T05:49:13.151Z",
+  "lastUpdated": "2026-11-14T13:16:47.171Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "24cc7079ea536bd1ba4e36082d898890",
+      "tag": "NEWS",
+      "slug": "dma-design-de-escocia-creo-el-primer-grand-theft-auto",
+      "url": "https://www.godzgames.com/noticias/dma-design-de-escocia-creo-el-primer-grand-theft-auto/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794635343863_775.jpg",
+      "link": "https://www.bbc.com/news/articles/c60qkn5gz392o",
+      "en": {
+        "title": "Scotland's DMA Design created the first Grand Theft Auto game",
+        "description": "As the launch of Grand Theft Auto VI approaches, the series can be traced back to a group of young developers who worked in Dundee almost three dec...",
+        "fullContent": "As the launch of Grand Theft Auto VI approaches, the series can be traced back to a group of young developers who worked in Dundee almost three decades ago. The original Grand Theft Auto was developed by the Scottish studio DMA Design, which later became known as Rockstar North after moving to Edinburgh.\n\nBrian Baglow, who contributed as a writer on the first title, stated that the project was carried out by a Scottish team without formal game‑design degrees and that the publisher initially wanted to cancel the project. Over the past thirty years the franchise has sold hundreds of millions of copies, and Rockstar North now employs more than 1,000 staff members. While Rockstar North is a prominent part of Scotland’s video‑game sector, the industry also includes other companies and projects beyond the Grand Theft Auto series."
+      },
+      "es": {
+        "title": "DMA Design de Escocia creó el primer Grand Theft Auto",
+        "description": "A medida que se acerca el lanzamiento de Grand Theft Auto VI, la serie se remonta a un grupo de jóvenes desarrolladores que trabajaban en Dundee ha...",
+        "fullContent": "A medida que se acerca el lanzamiento de Grand Theft Auto VI, la serie se remonta a un grupo de jóvenes desarrolladores que trabajaban en Dundee hace casi tres décadas. El juego original Grand Theft Auto fue desarrollado por el estudio escocés DMA Design, que posteriormente pasó a llamarse Rockstar North tras trasladarse a Edimburgo.\n\nBrian Baglow, quien trabajó como guionista en el título inicial, comentó que el proyecto fue realizado por un equipo escocés sin títulos formales en diseño de videojuegos y que el editor inicialmente quería cancelar el proyecto. En los últimos treinta años la franquicia ha vendido cientos de millones de copias y Rockstar North cuenta con más de 1 000 empleados. Aunque Rockstar North constituye una parte notable del sector de videojuegos en Escocia, la industria también incluye otras compañías y proyectos fuera de la serie Grand Theft Auto."
+      }
+    },
+    {
+      "id": "ec32d4869e7fff180ec3c6f8b7e2bd0e",
+      "tag": "NEWS",
+      "slug": "juegos-de-switch-2-por-menos-de-50-disponibles-en-walmart",
+      "url": "https://www.godzgames.com/noticias/juegos-de-switch-2-por-menos-de-50-disponibles-en-walmart/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794635349762_177.jpg",
+      "link": "https://www.tomshardware.com/video-games/nintendo/skip-the-usd70-price-tag-the-best-switch-2-games-under-usd50-right-now",
+      "en": {
+        "title": "Switch 2 games priced under $50 available at Walmart",
+        "description": "When a purchase is made through links on the site, an affiliate commission may be earned. The Switch 2 console has a high retail price, and several...",
+        "fullContent": "When a purchase is made through links on the site, an affiliate commission may be earned. The Switch 2 console has a high retail price, and several titles are currently listed for less than $50 at Walmart. The discounted prices, which can reach up to 50%, include first‑party releases such as Metroid Prime 4: Beyond and Pokémon Legends: Z‑A, as well as licensed titles like Assassin's Creed Shadows and Star Wars Outlaws Gold Edition.\n\nThe offers apply to physical cartridge editions that can be stored, traded, or lent. Some larger games are distributed as Switch 2 game‑key cards, requiring a download. For users with limited internal storage, a guide to microSD Express cards is referenced to expand capacity.\n\nOne of the listed games features Samus Aran as a bounty hunter exploring the planet Viewros and confronting the rival Sylux. Another title, Pokémon Legends: Z‑A, is set five years after Pokémon X and Y and allows players to explore Lumiose City within the Kalos region."
+      },
+      "es": {
+        "title": "Juegos de Switch 2 por menos de $50 disponibles en Walmart",
+        "description": "Al realizar una compra a través de los enlaces del sitio, es posible que se genere una comisión de afiliado. La consola Switch 2 tiene un precio el...",
+        "fullContent": "Al realizar una compra a través de los enlaces del sitio, es posible que se genere una comisión de afiliado. La consola Switch 2 tiene un precio elevado, y varios títulos se encuentran actualmente por debajo de los $50 en Walmart. Los descuentos, que pueden llegar hasta el 50 %, incluyen lanzamientos de primera mano como Metroid Prime 4: Beyond y Pokémon Legends: Z‑A, así como títulos licenciados como Assassin's Creed Shadows y Star Wars Outlaws Gold Edition.\n\nLas ofertas corresponden a ediciones físicas en cartucho, que pueden almacenarse, intercambiarse o prestarse. Algunos juegos de mayor tamaño se distribuyen como tarjetas de clave de juego para Switch 2, lo que requiere su descarga. Para usuarios con espacio interno limitado, se menciona una guía sobre tarjetas microSD Express para ampliar la capacidad de almacenamiento.\n\nUno de los juegos listados presenta a la cazarrecompensas Samus Aran explorando el planeta Viewros y enfrentándose al rival Sylux. Otro título, Pokémon Legends: Z‑A, se sitúa cinco años después de Pokémon X y Y y permite a los jugadores explorar la Ciudad Lumiose dentro de la región de Kalos."
+      }
+    },
+    {
+      "id": "aceea8209bc919e04e04162719094f7d",
+      "tag": "NEWS",
+      "slug": "recomendaciones-de-juegos-para-el-fin-de-semana-y-actualizaciones-del-13-de-noviembre-de-2026",
+      "url": "https://www.godzgames.com/noticias/recomendaciones-de-juegos-para-el-fin-de-semana-y-actualizaciones-del-13-de-noviembre-de-2026/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794635353067_959.jpg",
+      "link": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026",
+      "en": {
+        "title": "Weekend Game Recommendations and Updates for November 13, 2026",
+        "description": "The article notes that Friday the 13th coincides with the release of a list of weekend video game recommendations, accompanied by a summary of the ...",
+        "fullContent": "The article notes that Friday the 13th coincides with the release of a list of weekend video game recommendations, accompanied by a summary of the week's major stories. It advises readers to create free space on Xbox or PlayStation storage devices for the upcoming Grand Theft Auto VI, which is expected to occupy around 200 GB and is available for pre‑loading. The piece also suggests removing titles that are no longer being played, including Fortnite, to accommodate the new installation.\n\nA new deduction game titled Funeral for the Sun is described as featuring a historian exploring an abandoned Latin American town to investigate a historical incident involving the disappearance of hundreds of residents. The gameplay includes supernatural elements that allow players to view past events, identify individuals involved, and track relationships using a multifunction notebook similar to that in The Roottrees Are Dead. The game is reported to have a painterly visual style and an estimated playtime of approximately eight hours.\n\nNetEase is reported to have released the eleventh season of the superhero battler Marvel Rivals. The update introduces the X‑Men character Nightcrawler, who functions as a strategist with abilities to heal allies and damage opponents."
+      },
+      "es": {
+        "title": "Recomendaciones de juegos para el fin de semana y actualizaciones del 13 de noviembre de 2026",
+        "description": "El artículo indica que el viernes 13 coincide con la publicación de una lista de recomendaciones de videojuegos para el fin de semana, acompañada d...",
+        "fullContent": "El artículo indica que el viernes 13 coincide con la publicación de una lista de recomendaciones de videojuegos para el fin de semana, acompañada de un resumen de las principales noticias de la semana. Se aconseja a los lectores liberar espacio en los discos duros de Xbox o PlayStation para la próxima entrega de Grand Theft Auto VI, cuyo tamaño estimado es de alrededor de 200 GB y ya está disponible para pre‑carga. Asimismo, se sugiere eliminar títulos que ya no se juegan, incluido Fortnite, para hacer espacio para la nueva instalación.\n\nSe describe un nuevo juego de deducción llamado Funeral for the Sun, en el que un historiador explora una ciudad latinoamericana abandonada para investigar un incidente histórico que provocó la desaparición de cientos de residentes. El juego incorpora elementos sobrenaturales que permiten al jugador observar eventos pasados, identificar a las personas involucradas y registrar relaciones mediante una libreta multifunción similar a la de The Roottrees Are Dead. El título presenta una dirección de arte de estilo pictórico y una duración estimada de juego de aproximadamente ocho horas.\n\nNetEase ha anunciado el lanzamiento de la undécima temporada del juego de superhéroes Marvel Rivals. La actualización introduce al personaje de los X‑Men, Nightcrawler, quien actúa como estratega con habilidades para curar a los aliados y dañar a los oponentes."
+      }
+    },
     {
       "id": "65d3243f4a611903d426e09a29138248",
       "tag": "NEWS",
