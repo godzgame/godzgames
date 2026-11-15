@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-14T22:11:14.859Z",
+  "lastUpdated": "2026-11-15T05:50:14.245Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "4c392e2b57758ef3f86b3b43eb458034",
+      "tag": "NEWS",
+      "slug": "los-creadores-originales-de-gta-no-han-jugado-gta-6-antes-de-su-lanzamiento",
+      "url": "https://www.godzgames.com/noticias/los-creadores-originales-de-gta-no-han-jugado-gta-6-antes-de-su-lanzamiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794694269413_820.jpg",
+      "link": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo",
+      "en": {
+        "title": "Original GTA creators have not played GTA 6 ahead of its launch",
+        "description": "After a 13‑year development period, two announced delays and multiple high‑profile leaks, the release of Grand Theft Auto 6 is drawing near. The up...",
+        "fullContent": "After a 13‑year development period, two announced delays and multiple high‑profile leaks, the release of Grand Theft Auto 6 is drawing near. The upcoming installment continues the nearly three‑decade‑old franchise that allows players to explore open worlds and engage in criminal activities.\nRockstar Games has kept details of the title confidential, and even the individuals who contributed to the first game have not received early access. Co‑creator Dave Jones said, \"We're all waiting to see what they've done,\" while speaking with original writer and publicist Brian Baglow.\nWhen asked whether they have played the new game before its release, Baglow indicated that he has not, adding only that he possesses a pre‑order for the title."
+      },
+      "es": {
+        "title": "Los creadores originales de GTA no han jugado GTA 6 antes de su lanzamiento",
+        "description": "Tras una espera de 13 años, dos retrasos anunciados y varias filtraciones de alto perfil, el lanzamiento de Grand Theft Auto 6 se acerca. La próxim...",
+        "fullContent": "Tras una espera de 13 años, dos retrasos anunciados y varias filtraciones de alto perfil, el lanzamiento de Grand Theft Auto 6 se acerca. La próxima entrega continúa la franquicia de casi treinta años que permite a los jugadores explorar mundos abiertos y cometer actos delictivos.\nRockstar Games ha mantenido la información del juego bajo reserva, y aun las personas que participaron en el desarrollo del título original no han recibido acceso anticipado. El co‑creador Dave Jones comentó: \"Todos estamos esperando a ver lo que han hecho\", mientras conversaba con el escritor y publicista original Brian Baglow.\nAl ser preguntado si habían podido jugar al nuevo título antes de su salida, Baglow respondió que no, aunque señaló que cuenta con una pre‑orden del juego."
+      }
+    },
+    {
+      "id": "e4dd1d13f3de960574d936b946b28a0f",
+      "tag": "NEWS",
+      "slug": "aliens-fireteam-elite-2-se-lanza-con-problemas-tecnicos",
+      "url": "https://www.godzgames.com/noticias/aliens-fireteam-elite-2-se-lanza-con-problemas-tecnicos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794694274788_604.jpg",
+      "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+      "en": {
+        "title": "Aliens: Fireteam Elite 2 released with technical issues",
+        "description": "The sequel to Aliens: Fireteam Elite was announced at Summer Game Fest 2026, where the developers highlighted a new campaign, reworked character cl...",
+        "fullContent": "The sequel to Aliens: Fireteam Elite was announced at Summer Game Fest 2026, where the developers highlighted a new campaign, reworked character classes, and support for four‑player co‑op play. The title was positioned as a continuation of the franchise's recent focus on Xenomorph encounters.\n\nAt launch, the game experienced several technical problems that affected gameplay. The release follows recent Alien‑related titles such as Alien: Romulus (2024), Alien: Earth (2025), Aliens: Dark Descent, Rogue Incursion, and Isolation 2, which have explored various aspects of the series' horror and tactical elements."
+      },
+      "es": {
+        "title": "Aliens: Fireteam Elite 2 se lanza con problemas técnicos",
+        "description": "La secuela de Aliens: Fireteam Elite fue anunciada en el Summer Game Fest 2026, donde se presentaron una nueva campaña, clases de personajes revisa...",
+        "fullContent": "La secuela de Aliens: Fireteam Elite fue anunciada en el Summer Game Fest 2026, donde se presentaron una nueva campaña, clases de personajes revisadas y modo cooperativo para cuatro jugadores. El juego se describe como una continuación del reciente enfoque de la franquicia en los encuentros con Xenomorfos.\n\nAl iniciar, el título presentó varios problemas técnicos que afectaron la jugabilidad. El lanzamiento se produce después de otros títulos recientes del universo Alien, como Alien: Romulus (2024), Alien: Earth (2025), Aliens: Dark Descent, Rogue Incursion e Isolation 2, que han abordado diferentes facetas del horror y la táctica de la serie."
+      }
+    },
     {
       "id": "cf922e21db6212b45185a7c63ae5cdb3",
       "tag": "NEWS",
