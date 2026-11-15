@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-15T13:45:19.965Z",
+  "lastUpdated": "2026-11-15T22:40:15.849Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "747bd580848e97edd9d92fd9c082a529",
+      "tag": "NEWS",
+      "slug": "rockstar-revela-diez-anos-de-desarrollo-de-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/rockstar-revela-diez-anos-de-desarrollo-de-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750309064_985.jpg",
+      "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+      "en": {
+        "title": "Rockstar details ten-year development of Grand Theft Auto VI",
+        "description": "Rockstar Games confirmed the release of the latest installment of its Grand Theft Auto series, a project that has involved approximately 5,000 staf...",
+        "fullContent": "Rockstar Games confirmed the release of the latest installment of its Grand Theft Auto series, a project that has involved approximately 5,000 staff worldwide over a ten-year development period. The core development team remains based in Edinburgh, Scotland, where the studio Rockstar North has operated for decades. Employees who completed their tasks in the weeks before launch have taken leave, while a reduced staff continues to finalize the product.\n\nGrand Theft Auto VI is set in a fictional city called Vice City, located in the state of Leonida, which draws visual and thematic inspiration from Miami, Florida. The environment is described as a neon‑lit metropolitan area featuring a mix of nightlife and criminal activity. Rockstar has positioned the title as a major cultural release for the year."
+      },
+      "es": {
+        "title": "Rockstar revela diez años de desarrollo de Grand Theft Auto VI",
+        "description": "Rockstar Games ha confirmado el lanzamiento del último título de su serie Grand Theft Auto, un proyecto que ha contado con la participación de cerc...",
+        "fullContent": "Rockstar Games ha confirmado el lanzamiento del último título de su serie Grand Theft Auto, un proyecto que ha contado con la participación de cerca de 5.000 empleados en todo el mundo durante un periodo de desarrollo de diez años. El equipo central de desarrollo sigue ubicado en Edimburgo, Escocia, donde la filial Rockstar North lleva operando durante décadas. Los empleados que concluyeron sus labores en las semanas previas al lanzamiento han tomado licencia, mientras un reducido grupo continúa afinando el producto.\n\nGrand Theft Auto VI se sitúa en la ciudad ficticia de Vice City, dentro del estado de Leonida, cuya ambientación se inspira en Miami, Florida. La ciudad se presenta como un entorno urbano iluminado por neón, con una combinación de vida nocturna y actividades delictivas. Rockstar ha anunciado el título como uno de los principales lanzamientos culturales del año."
+      }
+    },
+    {
+      "id": "029fb9d07dbbba41f85169986bceb599",
+      "tag": "NEWS",
+      "slug": "el-equipo-de-cnet-recuerda-sus-momentos-favoritos-de-grand-theft-auto-antes-del-lanzamiento-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/el-equipo-de-cnet-recuerda-sus-momentos-favoritos-de-grand-theft-auto-antes-del-lanzamiento-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750319806_874.jpg",
+      "link": "https://www.cnet.com/tech/gaming/gta-6-grand-theft-auto-memories/",
+      "en": {
+        "title": "CNET staff recall favorite Grand Theft Auto moments ahead of GTA 6 launch",
+        "description": "The Grand Theft Auto franchise approaches its 30th anniversary. Rockstar Games has scheduled the release of Grand Theft Auto 6 for Thursday, Novemb...",
+        "fullContent": "The Grand Theft Auto franchise approaches its 30th anniversary. Rockstar Games has scheduled the release of Grand Theft Auto 6 for Thursday, November 19, and both PlayStation and Xbox report that it is the most pre‑ordered title in the history of each platform’s digital storefront. The series, which began in 1997, has been described as featuring satire, complex storylines and cinematic gameplay.\n\nIn preparation for the new installment, CNET staff members shared personal memories from previous games. One writer recalled playing Grand Theft Auto: San Andreas on a friend’s PlayStation 2 at a young age, noting that the mission “Wrong Side of the Tracks” was particularly memorable because the character Big Smoke says, “All we had to do was follow the damn train, CJ!” Another contributor mentioned quoting police officers from GTA London 1969 with the line “Stop right there! Oi!” while playing hot‑seat on an older laptop, noting that the Cockney police became a recurring joke among friends."
+      },
+      "es": {
+        "title": "El equipo de CNET recuerda sus momentos favoritos de Grand Theft Auto antes del lanzamiento de GTA 6",
+        "description": "La franquicia Grand Theft Auto está próxima a cumplir 30 años. Rockstar Games ha programado el lanzamiento de Grand Theft Auto 6 para el jueves 19 ...",
+        "fullContent": "La franquicia Grand Theft Auto está próxima a cumplir 30 años. Rockstar Games ha programado el lanzamiento de Grand Theft Auto 6 para el jueves 19 de noviembre, y tanto PlayStation como Xbox indican que es el juego más pre‑ordenado en la historia de sus tiendas digitales. La serie, que comenzó en 1997, se ha descrito como con sátira, tramas complejas y jugabilidad cinematográfica.\n\nEn preparación para el nuevo título, miembros del personal de CNET compartieron recuerdos personales de los juegos anteriores. Un escritor recordó jugar Grand Theft Auto: San Andreas en la PlayStation 2 de un amigo cuando era muy joven, señalando que la misión “Wrong Side of the Tracks” resultó memorable porque el personaje Big Smoke dice: “All we had to do was follow the damn train, CJ!”. Otro colaborador mencionó que citaba a los policías de GTA London 1969 con la frase “Stop right there! Oi!” mientras jugaba en modo hot‑seat en un portátil antiguo, y que los policías cockney se convirtieron en una broma recurrente entre sus amigos."
+      }
+    },
     {
       "id": "f04f0158b1fbeb5c3a4d044acaef0856",
       "tag": "NEWS",
