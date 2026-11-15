@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794721814246,
+  "updatedAt": 1794750319966,
   "articles": [
     {
-      "id": "f04f0158b1fbeb5c3a4d044acaef0856",
+      "id": "747bd580848e97edd9d92fd9c082a529",
       "tag": "NEWS",
-      "slug": "gta-vi-de-rockstar-se-lanzara-el-19-de-noviembre-con-mas-de-12-millones-de-prepedidos",
-      "url": "https://www.godzgames.com/noticias/gta-vi-de-rockstar-se-lanzara-el-19-de-noviembre-con-mas-de-12-millones-de-prepedidos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721801153_670.jpg",
-      "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "slug": "rockstar-revela-diez-anos-de-desarrollo-de-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/rockstar-revela-diez-anos-de-desarrollo-de-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750309064_985.jpg",
+      "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
       "en": {
-        "title": "Rockstar's GTA VI slated for November 19 launch amid record pre‑orders and industry attention",
-        "description": "Grand Theft Auto VI is scheduled to be released on November 19, following two postponements by Rockstar Games, a studio of Take‑Two Interactive. An...",
-        "fullContent": "Grand Theft Auto VI is scheduled to be released on November 19, following two postponements by Rockstar Games, a studio of Take‑Two Interactive. Analysts estimate that development costs have exceeded $1 billion. Sensor Tower reported more than 12 million pre‑orders as of November 13, and Morgan Stanley projects sales could reach 40 million copies by March 2027.\n\nThirteen years after Grand Theft Auto V debuted, the earlier title remains among the five most‑watched games on Twitch in 2024. Since the start of 2023, Take‑Two's share price has more than doubled. Market observers describe the upcoming launch as a significant event for Rockstar, its parent company, and the wider gaming industry."
+        "title": "Rockstar details ten-year development of Grand Theft Auto VI",
+        "description": "Rockstar Games confirmed the release of the latest installment of its Grand Theft Auto series, a project that has involved approximately 5,000 staf...",
+        "fullContent": "Rockstar Games confirmed the release of the latest installment of its Grand Theft Auto series, a project that has involved approximately 5,000 staff worldwide over a ten-year development period. The core development team remains based in Edinburgh, Scotland, where the studio Rockstar North has operated for decades. Employees who completed their tasks in the weeks before launch have taken leave, while a reduced staff continues to finalize the product.\n\nGrand Theft Auto VI is set in a fictional city called Vice City, located in the state of Leonida, which draws visual and thematic inspiration from Miami, Florida. The environment is described as a neon‑lit metropolitan area featuring a mix of nightlife and criminal activity. Rockstar has positioned the title as a major cultural release for the year."
       },
       "es": {
-        "title": "GTA VI de Rockstar se lanzará el 19 de noviembre con más de 12 millones de pre‑pedidos",
-        "description": "Grand Theft Auto VI tiene previsto su salida el 19 de noviembre, tras dos retrasos anunciados por Rockstar Games, la filial de Take‑Two Interactive...",
-        "fullContent": "Grand Theft Auto VI tiene previsto su salida el 19 de noviembre, tras dos retrasos anunciados por Rockstar Games, la filial de Take‑Two Interactive. Analistas estiman que el desarrollo superó el millardo de dólares. Sensor Tower informó que, hasta el 13 de noviembre, se contabilizaron más de 12 millones de pre‑pedidos, y Morgan Stanley prevé que las ventas puedan alcanzar los 40 millones de copias para marzo de 2027.\n\nTrece años después del lanzamiento de Grand Theft Auto V, ese título sigue entre los cinco juegos más vistos en Twitch en 2024. Desde principios de 2023, el valor de las acciones de Take‑Two se ha más que duplicado. Observadores del mercado califican el próximo lanzamiento como un hecho relevante para Rockstar, su empresa matriz y el sector de los videojuegos en general."
+        "title": "Rockstar revela diez años de desarrollo de Grand Theft Auto VI",
+        "description": "Rockstar Games ha confirmado el lanzamiento del último título de su serie Grand Theft Auto, un proyecto que ha contado con la participación de cerc...",
+        "fullContent": "Rockstar Games ha confirmado el lanzamiento del último título de su serie Grand Theft Auto, un proyecto que ha contado con la participación de cerca de 5.000 empleados en todo el mundo durante un periodo de desarrollo de diez años. El equipo central de desarrollo sigue ubicado en Edimburgo, Escocia, donde la filial Rockstar North lleva operando durante décadas. Los empleados que concluyeron sus labores en las semanas previas al lanzamiento han tomado licencia, mientras un reducido grupo continúa afinando el producto.\n\nGrand Theft Auto VI se sitúa en la ciudad ficticia de Vice City, dentro del estado de Leonida, cuya ambientación se inspira en Miami, Florida. La ciudad se presenta como un entorno urbano iluminado por neón, con una combinación de vida nocturna y actividades delictivas. Rockstar ha anunciado el título como uno de los principales lanzamientos culturales del año."
       }
     },
     {
-      "id": "ac7e05d26edaee0c2f4b646dcfe6e295",
+      "id": "e4dd1d13f3de960574d936b946b28a0f",
       "tag": "NEWS",
-      "slug": "the-guardian-revela-tres-detalles-sobre-gta-6",
-      "url": "https://www.godzgames.com/noticias/the-guardian-revela-tres-detalles-sobre-gta-6/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721803271_608.jpg",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-3-intriguing-details",
+      "slug": "aliens-fireteam-elite-2-se-lanza-con-nueva-campana-y-problemas-tecnicos",
+      "url": "https://www.godzgames.com/noticias/aliens-fireteam-elite-2-se-lanza-con-nueva-campana-y-problemas-tecnicos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750311357_129.jpg",
+      "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
       "en": {
-        "title": "The Guardian reveals three details about GTA 6",
-        "description": "The UK newspaper The Guardian published an exclusive preview of Grand Theft Auto VI in its Saturday print edition. The preview includes a walkthrou...",
-        "fullContent": "The UK newspaper The Guardian published an exclusive preview of Grand Theft Auto VI in its Saturday print edition. The preview includes a walkthrough of the early stages of the game set in Vice City and highlights three specific features. First, the game will allow players to keep a logbook of wildlife encountered in the streets and swamps of the fictional region Leonida, with Rockstar confirming the presence of 62 distinct bird species.\n\nSecond, the preview provides information about the relationship mechanics between the two protagonists, Jason and Lucia. Players will be able to call or text the other character when they are not together and can arrange dates that may involve activities such as drinking, exercising at a gym, or committing a robbery. The preview notes that these interactions will have in‑game consequences, though details of those outcomes were not disclosed."
+        "title": "Aliens: Fireteam Elite 2 launches with new campaign and technical issues",
+        "description": "Aliens: Fireteam Elite 2, the sequel to the previously released title, was announced with a new campaign, reworked classes, and support for four-pl...",
+        "fullContent": "Aliens: Fireteam Elite 2, the sequel to the previously released title, was announced with a new campaign, reworked classes, and support for four-player cooperative play during Summer Game Fest 2026. The original Aliens: Fireteam Elite was noted by the author as one of his preferred Alien video games, contributing to anticipation for the follow‑up.\n\nThe game became available in the months following the announcement, and its initial release has been accompanied by reports of technical problems affecting gameplay. Despite these issues, the title adds another entry to the recent series of Alien games, which include Alien: Romulus (2024), Alien: Earth (2025), Aliens: Dark Descent, Rogue Incursion, and Isolation 2.\n"
       },
       "es": {
-        "title": "The Guardian revela tres detalles sobre GTA 6",
-        "description": "El periódico británico The Guardian publicó una primicia exclusiva de Grand Theft Auto VI en su edición impresa del sábado. La primicia incluye un ...",
-        "fullContent": "El periódico británico The Guardian publicó una primicia exclusiva de Grand Theft Auto VI en su edición impresa del sábado. La primicia incluye un recorrido por las primeras etapas del juego ambientado en Vice City y destaca tres aspectos concretos. En primer lugar, el juego permitirá a los jugadores llevar un registro de la fauna encontrada en las calles y pantanos de la región ficticia de Leonida, con Rockstar confirmando la existencia de 62 especies diferentes de aves.\n\nEn segundo lugar, la primicia ofrece información sobre la mecánica de relación entre los dos protagonistas, Jason y Lucia. Los jugadores podrán llamar o enviar mensajes de texto al otro personaje cuando no estén juntos y podrán organizar citas que pueden incluir actividades como tomar una copa, ir al gimnasio o robar una licorería. La primicia indica que estas interacciones tendrán consecuencias dentro del juego, aunque no se especificaron los detalles de dichos resultados."
-      }
-    },
-    {
-      "id": "542a10ad6002db8051b0619e38a4cc1a",
-      "tag": "NEWS",
-      "slug": "grand-theft-auto-vi-se-lanza-el-19-de-noviembre-de-2026-y-el-preload-comienza-el-10-de-noviembre",
-      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-se-lanza-el-19-de-noviembre-de-2026-y-el-preload-comienza-el-10-de-noviembre/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721808628_349.jpg",
-      "link": "https://tech.yahoo.com/gaming/breaking-news/article/gta-6-launches-thursday-and-is-available-for-pre-load-now-everything-you-need-to-know-about-the-new-rockstar-game-140009247.html",
-      "en": {
-        "title": "Grand Theft Auto VI launches November 19, 2026 with pre‑load available from November 10",
-        "description": "Rockstar Games announced that Grand Theft Auto VI will be released worldwide on November 19, 2026. Pre‑loading for the game begins on November 10 f...",
-        "fullContent": "Rockstar Games announced that Grand Theft Auto VI will be released worldwide on November 19, 2026. Pre‑loading for the game begins on November 10 for PlayStation 5, Xbox Series X and Xbox Series S consoles. The launch will include only the single‑player story mode; online multiplayer will be added later.\n\nPlayers who pre‑order the digital version will be able to start playing at midnight local time on the day of release. The title will be available exclusively on current‑generation consoles, with no versions for PlayStation 4 or Xbox One. In the weeks leading up to launch, Rockstar shared more than 40 new screenshots of the game’s world and announced a one‑day music festival in Miami on November 21 featuring artists from the game's soundtrack."
-      },
-      "es": {
-        "title": "Grand Theft Auto VI se lanza el 19 de noviembre de 2026 y el pre‑load comienza el 10 de noviembre",
-        "description": "Rockstar Games confirmó que Grand Theft Auto VI se estrenará a nivel mundial el 19 de noviembre de 2026. El pre‑carga del juego iniciará el 10 de n...",
-        "fullContent": "Rockstar Games confirmó que Grand Theft Auto VI se estrenará a nivel mundial el 19 de noviembre de 2026. El pre‑carga del juego iniciará el 10 de noviembre para consolas PlayStation 5, Xbox Series X y Xbox Series S. En el lanzamiento solo estará disponible el modo historia para un solo jugador; el modo multijugador en línea se incorporará en una fecha posterior.\n\nLos usuarios que realicen la pre‑orden digital podrán comenzar a jugar a medianoche, hora local, el día del lanzamiento. El título se distribuirá exclusivamente para consolas de última generación, sin versiones para PlayStation 4 ni Xbox One. En los días previos al lanzamiento, Rockstar difundió más de 40 nuevas capturas de pantalla del mundo del juego y anunció un festival musical de un día en Miami el 21 de noviembre, con artistas de la banda sonora del juego."
-      }
-    },
-    {
-      "id": "0095e7b690e37645c260f8a23942c0d5",
-      "tag": "NEWS",
-      "slug": "por-que-gta-6-podria-convertirse-en-el-mayor-lanzamiento-de-videojuegos-generando-efectos-en-la-economia",
-      "url": "https://www.godzgames.com/noticias/por-que-gta-6-podria-convertirse-en-el-mayor-lanzamiento-de-videojuegos-generando-efectos-en-la-economia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721811326_617.jpg",
-      "link": "https://www.cnbc.com/video/2026/11/14/why-rockstar-games-gta-6-could-become-gamings-biggest-launch.html",
-      "en": {
-        "title": "Why GTA 6 could become gaming’s biggest launch, sending ripple effects across the economy",
-        "description": "The article invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox, along with information abou...",
-        "fullContent": "The article invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox, along with information about the company's products and services. It also includes a copyright notice stating that Versant Media, LLC, a Versant Media Company, holds all rights to the material as of 2026.\n\nA disclaimer is provided indicating that the data presented is a real‑time snapshot, with a minimum delay of 15 minutes, and that it covers global business and financial news, stock quotes, market data, and analysis."
-      },
-      "es": {
-        "title": "Por qué GTA 6 podría convertirse en el mayor lanzamiento de videojuegos, generando efectos en la economía",
-        "description": "El artículo invita a los lectores a suscribirse a boletines gratuitos para recibir contenido adicional de CNBC directamente en su bandeja de entrad...",
-        "fullContent": "El artículo invita a los lectores a suscribirse a boletines gratuitos para recibir contenido adicional de CNBC directamente en su bandeja de entrada, junto con información sobre los productos y servicios de la empresa. También incluye un aviso de derechos de autor que indica que Versant Media, LLC, una compañía de Versant Media, posee todos los derechos sobre el material en 2026.\n\nSe incluye una advertencia que señala que los datos presentados son una captura en tiempo real con un retraso mínimo de 15 minutos, y que abarcan noticias globales de negocios y finanzas, cotizaciones de acciones, datos de mercado y análisis."
+        "title": "Aliens: Fireteam Elite 2 se lanza con nueva campaña y problemas técnicos",
+        "description": "Aliens: Fireteam Elite 2, la secuela del título anterior, se presentó con una nueva campaña, clases rediseñadas y soporte para juego cooperativo de...",
+        "fullContent": "Aliens: Fireteam Elite 2, la secuela del título anterior, se presentó con una nueva campaña, clases rediseñadas y soporte para juego cooperativo de cuatro jugadores durante el Summer Game Fest 2026. El autor señaló que el primer Aliens: Fireteam Elite estaba entre sus videojuegos favoritos de la franquicia, lo que generó expectativas para la continuación.\n\nEl juego estuvo disponible en los meses posteriores al anuncio y su lanzamiento inicial ha sido acompañado de informes sobre problemas técnicos que afectan la jugabilidad. Además, este título se suma a la reciente lista de juegos de la saga Alien, que incluye Alien: Romulus (2024), Alien: Earth (2025), Aliens: Dark Descent, Rogue Incursion e Isolation 2.\n"
       }
     },
     {
       "id": "aceea8209bc919e04e04162719094f7d",
       "tag": "NEWS",
-      "slug": "actualizaciones-semanales-de-videojuegos-y-nuevos-lanzamientos-para-el-13-de-noviembre-de-2026",
-      "url": "https://www.godzgames.com/noticias/actualizaciones-semanales-de-videojuegos-y-nuevos-lanzamientos-para-el-13-de-noviembre-de-2026/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721814176_367.jpg",
+      "slug": "recomendaciones-de-juegos-para-el-fin-de-semana-13-de-noviembre-de-2026",
+      "url": "https://www.godzgames.com/noticias/recomendaciones-de-juegos-para-el-fin-de-semana-13-de-noviembre-de-2026/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750313975_791.jpg",
       "link": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026",
       "en": {
-        "title": "Weekly Gaming Updates and New Releases for November 13, 2026",
-        "description": "Friday, November 13, 2026, marks the start of a weekend roundup that includes the week’s major stories and a set of game recommendations. The repor...",
-        "fullContent": "Friday, November 13, 2026, marks the start of a weekend roundup that includes the week’s major stories and a set of game recommendations. The report advises players to allocate approximately 200 GB of storage on Xbox or PlayStation consoles for the upcoming Grand Theft Auto VI, which can be pre‑loaded now, and suggests removing titles and video clips that are no longer needed, including the game Fortnite.\n\nA new deduction title called Funeral for the Sun is described as a narrative‑driven experience in which the player assumes the role of a historian exploring an abandoned Latin American town to reconstruct the events surrounding a large‑scale disappearance. The game incorporates supernatural mechanics that allow viewing past moments, identifying individuals, and tracking relationships using a multifunction notebook similar to that found in The Rootrees Are Dead. The visual style is noted as painterly, and the estimated playtime is around eight hours.\n\nNetEase has released the eleventh season of the superhero battler Marvel Rivals. The update adds the X‑Men character Nightcrawler, who functions as a strategist with abilities to heal allies and damage opponents."
+        "title": "Weekend Game Recommendations and Updates – November 13, 2026",
+        "description": "It is Friday the 13th, and the outlet presents a list of games to consider for the upcoming weekend, alongside a summary of the biggest stories fro...",
+        "fullContent": "It is Friday the 13th, and the outlet presents a list of games to consider for the upcoming weekend, alongside a summary of the biggest stories from the past week. The article also advises readers to free up space on Xbox or PlayStation hard drives for the upcoming Grand Theft Auto VI, noting a download size of approximately 200 GB and the possibility to pre‑load the title now. It suggests removing games that are no longer being played, including video clips from trophy achievements and the game Fortnite.\n\nThe piece highlights a new deduction title, Funeral for the Sun, which follows a historian exploring an abandoned Latin American town to reconstruct events surrounding a fire that claimed hundreds of lives. The game provides supernatural mechanisms for viewing past events, a notebook system for tracking information, a painterly art direction, and an estimated playtime of around eight hours. Additionally, NetEase announced the release of season 11 for Marvel Rivals, introducing the X‑Men character Nightcrawler as a playable strategist with healing and offensive capabilities."
       },
       "es": {
-        "title": "Actualizaciones semanales de videojuegos y nuevos lanzamientos para el 13 de noviembre de 2026",
-        "description": "El viernes 13 de noviembre de 2026 inicia un resumen de fin de semana que incluye las principales noticias de la semana y una serie de recomendacio...",
-        "fullContent": "El viernes 13 de noviembre de 2026 inicia un resumen de fin de semana que incluye las principales noticias de la semana y una serie de recomendaciones de juegos. El informe sugiere reservar aproximadamente 200 GB de espacio en los discos duros de Xbox o PlayStation para el próximo Grand Theft Auto VI, el cual ya está disponible para pre‑carga, y recomienda eliminar títulos y clips de vídeo que ya no se utilicen, incluido el juego Fortnite.\n\nSe presenta un nuevo juego de deducción llamado Funeral for the Sun, en el que el jugador actúa como historiador que investiga una ciudad latinoamericana abandonada para reconstruir los hechos de una desaparición masiva. El juego incorpora mecánicas sobrenaturales que permiten observar momentos del pasado, identificar a los personajes y registrar relaciones mediante una libreta multifunción similar a la de The Rootrees Are Dead. La dirección artística se describe como pintoresca y la duración estimada es de alrededor de ocho horas.\n\nNetEase ha lanzado la undécima temporada del juego de combate de superhéroes Marvel Rivals. La actualización introduce al personaje de los X‑Men, Nightcrawler, quien desempeña el rol de estratega con habilidades para curar a los aliados y atacar a los enemigos."
+        "title": "Recomendaciones de juegos para el fin de semana – 13 de noviembre de 2026",
+        "description": "Es viernes 13, y la publicación ofrece una lista de videojuegos para el fin de semana, junto con un repaso de las principales noticias de la semana...",
+        "fullContent": "Es viernes 13, y la publicación ofrece una lista de videojuegos para el fin de semana, junto con un repaso de las principales noticias de la semana. También indica que se libere espacio en los discos duros de Xbox o PlayStation para el próximo Grand Theft Auto VI, cuyo tamaño de descarga ronda los 200 GB y que ya se puede pre‑cargar. Se sugiere eliminar los juegos que ya no se utilizan, los clips de vídeo de trofeos y el juego Fortnite.\n\nSe menciona el nuevo título de deducción Funeral for the Sun, que sigue a una historiadora que investiga un pueblo latinoamericano abandonado para reconstruir los hechos de un incendio que dejó desaparecidos a cientos de residentes. El juego permite ver el pasado mediante fuerzas sobrenaturales, lleva un cuaderno multifunción para registrar información, presenta una dirección de arte pintoresca y tiene una duración aproximada de ocho horas. Por otro lado, NetEase anunció la undécima temporada de Marvel Rivals, que incorpora al héroe X‑Men Nightcrawler como estratega con habilidades de curación y ataque."
+      }
+    },
+    {
+      "id": "16e69ca3f6fed91a3a952b6a8c395f45",
+      "tag": "NEWS",
+      "slug": "rockstar-games-lanza-grand-theft-auto-vi-y-al-jazeera-presenta-experiencia-de-50-anos-de-videojuegos-con-ia",
+      "url": "https://www.godzgames.com/noticias/rockstar-games-lanza-grand-theft-auto-vi-y-al-jazeera-presenta-experiencia-de-50-anos-de-videojuegos-con-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750317060_16.jpg",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games",
+      "en": {
+        "title": "Rockstar Games releases Grand Theft Auto VI and Al Jazeera launches AI‑generated 50‑year gaming experience",
+        "description": "On November 19, Rockstar Games released Grand Theft Auto VI, ending a 13‑year interval since the previous main entry in the series. The game's firs...",
+        "fullContent": "On November 19, Rockstar Games released Grand Theft Auto VI, ending a 13‑year interval since the previous main entry in the series. The game's first trailer recorded more than 90 million views on YouTube within 24 hours after its December 2023 debut, setting a record for a video‑game reveal.\n\nThe launch occurs in an industry that generated $201.6 billion in revenue in 2025, according to market‑research firm Newzoo. The sector traces its public visibility to early arcade titles that used two paddles and a square of light. Using artificial‑intelligence tools, Al Jazeera created six short levels inspired by games that defined each decade, from Pong to Grand Theft Auto VI, allowing users to play through 50 years of video‑game history and compare their completion times. Participants may select a specific decade or scroll through the entire sequence.\n\nWhile video games were not invented in 1972, that year marked a broader public adoption. In 1958, physicist William Higinbotham connected a tennis simulation to an oscilloscope at Brookhaven National Laboratory in New York. The resulting \"Tennis for Two\" attracted visitors who queued to play, although the device was never commercialized."
+      },
+      "es": {
+        "title": "Rockstar Games lanza Grand Theft Auto VI y Al Jazeera presenta experiencia de 50 años de videojuegos con IA",
+        "description": "El 19 de noviembre, Rockstar Games lanzó Grand Theft Auto VI, poniendo fin a un intervalo de 13 años desde la entrega anterior de la serie. El prim...",
+        "fullContent": "El 19 de noviembre, Rockstar Games lanzó Grand Theft Auto VI, poniendo fin a un intervalo de 13 años desde la entrega anterior de la serie. El primer tráiler del juego superó los 90 millones de reproducciones en YouTube en las primeras 24 horas tras su presentación en diciembre de 2023, estableciendo un récord para un anuncio de videojuego.\n\nEl lanzamiento se produce en una industria que generó 201,6 mil millones de dólares en ingresos en 2025, según la firma de investigación de mercado Newzoo. El sector alcanzó una mayor difusión pública con los primeros títulos de arcade que utilizaban dos paletas y un cuadro de luz. Con herramientas de inteligencia artificial, Al Jazeera desarrolló seis niveles cortos inspirados en los juegos que definieron cada década, desde Pong hasta Grand Theft Auto VI, permitiendo a los usuarios recorrer 50 años de historia de los videojuegos y comparar sus tiempos de finalización. Los usuarios pueden elegir una década específica o desplazarse por todo el recorrido.\n\nAunque los videojuegos no se inventaron en 1972, ese año marcó una mayor adopción pública. En 1958, el físico William Higinbotham conectó una simulación de tenis a un osciloscopio en el Laboratorio Nacional Brookhaven, en Nueva York. \"Tennis for Two\" atrajo a visitantes que hicieron fila para jugar, aunque el dispositivo nunca se comercializó."
+      }
+    },
+    {
+      "id": "029fb9d07dbbba41f85169986bceb599",
+      "tag": "NEWS",
+      "slug": "el-equipo-de-cnet-recuerda-sus-momentos-favoritos-de-grand-theft-auto-antes-del-lanzamiento-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/el-equipo-de-cnet-recuerda-sus-momentos-favoritos-de-grand-theft-auto-antes-del-lanzamiento-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794750319806_874.jpg",
+      "link": "https://www.cnet.com/tech/gaming/gta-6-grand-theft-auto-memories/",
+      "en": {
+        "title": "CNET staff recall favorite Grand Theft Auto moments ahead of GTA 6 launch",
+        "description": "The Grand Theft Auto franchise approaches its 30th anniversary. Rockstar Games has scheduled the release of Grand Theft Auto 6 for Thursday, Novemb...",
+        "fullContent": "The Grand Theft Auto franchise approaches its 30th anniversary. Rockstar Games has scheduled the release of Grand Theft Auto 6 for Thursday, November 19, and both PlayStation and Xbox report that it is the most pre‑ordered title in the history of each platform’s digital storefront. The series, which began in 1997, has been described as featuring satire, complex storylines and cinematic gameplay.\n\nIn preparation for the new installment, CNET staff members shared personal memories from previous games. One writer recalled playing Grand Theft Auto: San Andreas on a friend’s PlayStation 2 at a young age, noting that the mission “Wrong Side of the Tracks” was particularly memorable because the character Big Smoke says, “All we had to do was follow the damn train, CJ!” Another contributor mentioned quoting police officers from GTA London 1969 with the line “Stop right there! Oi!” while playing hot‑seat on an older laptop, noting that the Cockney police became a recurring joke among friends."
+      },
+      "es": {
+        "title": "El equipo de CNET recuerda sus momentos favoritos de Grand Theft Auto antes del lanzamiento de GTA 6",
+        "description": "La franquicia Grand Theft Auto está próxima a cumplir 30 años. Rockstar Games ha programado el lanzamiento de Grand Theft Auto 6 para el jueves 19 ...",
+        "fullContent": "La franquicia Grand Theft Auto está próxima a cumplir 30 años. Rockstar Games ha programado el lanzamiento de Grand Theft Auto 6 para el jueves 19 de noviembre, y tanto PlayStation como Xbox indican que es el juego más pre‑ordenado en la historia de sus tiendas digitales. La serie, que comenzó en 1997, se ha descrito como con sátira, tramas complejas y jugabilidad cinematográfica.\n\nEn preparación para el nuevo título, miembros del personal de CNET compartieron recuerdos personales de los juegos anteriores. Un escritor recordó jugar Grand Theft Auto: San Andreas en la PlayStation 2 de un amigo cuando era muy joven, señalando que la misión “Wrong Side of the Tracks” resultó memorable porque el personaje Big Smoke dice: “All we had to do was follow the damn train, CJ!”. Otro colaborador mencionó que citaba a los policías de GTA London 1969 con la frase “Stop right there! Oi!” mientras jugaba en modo hot‑seat en un portátil antiguo, y que los policías cockney se convirtieron en una broma recurrente entre sus amigos."
       }
     }
   ]

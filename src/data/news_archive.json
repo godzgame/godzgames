@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-15T05:50:14.245Z",
+  "lastUpdated": "2026-11-15T13:45:19.965Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "f04f0158b1fbeb5c3a4d044acaef0856",
+      "tag": "NEWS",
+      "slug": "gta-vi-de-rockstar-se-lanzara-el-19-de-noviembre-con-mas-de-12-millones-de-prepedidos",
+      "url": "https://www.godzgames.com/noticias/gta-vi-de-rockstar-se-lanzara-el-19-de-noviembre-con-mas-de-12-millones-de-prepedidos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721801153_670.jpg",
+      "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "en": {
+        "title": "Rockstar's GTA VI slated for November 19 launch amid record pre‑orders and industry attention",
+        "description": "Grand Theft Auto VI is scheduled to be released on November 19, following two postponements by Rockstar Games, a studio of Take‑Two Interactive. An...",
+        "fullContent": "Grand Theft Auto VI is scheduled to be released on November 19, following two postponements by Rockstar Games, a studio of Take‑Two Interactive. Analysts estimate that development costs have exceeded $1 billion. Sensor Tower reported more than 12 million pre‑orders as of November 13, and Morgan Stanley projects sales could reach 40 million copies by March 2027.\n\nThirteen years after Grand Theft Auto V debuted, the earlier title remains among the five most‑watched games on Twitch in 2024. Since the start of 2023, Take‑Two's share price has more than doubled. Market observers describe the upcoming launch as a significant event for Rockstar, its parent company, and the wider gaming industry."
+      },
+      "es": {
+        "title": "GTA VI de Rockstar se lanzará el 19 de noviembre con más de 12 millones de pre‑pedidos",
+        "description": "Grand Theft Auto VI tiene previsto su salida el 19 de noviembre, tras dos retrasos anunciados por Rockstar Games, la filial de Take‑Two Interactive...",
+        "fullContent": "Grand Theft Auto VI tiene previsto su salida el 19 de noviembre, tras dos retrasos anunciados por Rockstar Games, la filial de Take‑Two Interactive. Analistas estiman que el desarrollo superó el millardo de dólares. Sensor Tower informó que, hasta el 13 de noviembre, se contabilizaron más de 12 millones de pre‑pedidos, y Morgan Stanley prevé que las ventas puedan alcanzar los 40 millones de copias para marzo de 2027.\n\nTrece años después del lanzamiento de Grand Theft Auto V, ese título sigue entre los cinco juegos más vistos en Twitch en 2024. Desde principios de 2023, el valor de las acciones de Take‑Two se ha más que duplicado. Observadores del mercado califican el próximo lanzamiento como un hecho relevante para Rockstar, su empresa matriz y el sector de los videojuegos en general."
+      }
+    },
+    {
+      "id": "ac7e05d26edaee0c2f4b646dcfe6e295",
+      "tag": "NEWS",
+      "slug": "the-guardian-revela-tres-detalles-sobre-gta-6",
+      "url": "https://www.godzgames.com/noticias/the-guardian-revela-tres-detalles-sobre-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721803271_608.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-3-intriguing-details",
+      "en": {
+        "title": "The Guardian reveals three details about GTA 6",
+        "description": "The UK newspaper The Guardian published an exclusive preview of Grand Theft Auto VI in its Saturday print edition. The preview includes a walkthrou...",
+        "fullContent": "The UK newspaper The Guardian published an exclusive preview of Grand Theft Auto VI in its Saturday print edition. The preview includes a walkthrough of the early stages of the game set in Vice City and highlights three specific features. First, the game will allow players to keep a logbook of wildlife encountered in the streets and swamps of the fictional region Leonida, with Rockstar confirming the presence of 62 distinct bird species.\n\nSecond, the preview provides information about the relationship mechanics between the two protagonists, Jason and Lucia. Players will be able to call or text the other character when they are not together and can arrange dates that may involve activities such as drinking, exercising at a gym, or committing a robbery. The preview notes that these interactions will have in‑game consequences, though details of those outcomes were not disclosed."
+      },
+      "es": {
+        "title": "The Guardian revela tres detalles sobre GTA 6",
+        "description": "El periódico británico The Guardian publicó una primicia exclusiva de Grand Theft Auto VI en su edición impresa del sábado. La primicia incluye un ...",
+        "fullContent": "El periódico británico The Guardian publicó una primicia exclusiva de Grand Theft Auto VI en su edición impresa del sábado. La primicia incluye un recorrido por las primeras etapas del juego ambientado en Vice City y destaca tres aspectos concretos. En primer lugar, el juego permitirá a los jugadores llevar un registro de la fauna encontrada en las calles y pantanos de la región ficticia de Leonida, con Rockstar confirmando la existencia de 62 especies diferentes de aves.\n\nEn segundo lugar, la primicia ofrece información sobre la mecánica de relación entre los dos protagonistas, Jason y Lucia. Los jugadores podrán llamar o enviar mensajes de texto al otro personaje cuando no estén juntos y podrán organizar citas que pueden incluir actividades como tomar una copa, ir al gimnasio o robar una licorería. La primicia indica que estas interacciones tendrán consecuencias dentro del juego, aunque no se especificaron los detalles de dichos resultados."
+      }
+    },
+    {
+      "id": "542a10ad6002db8051b0619e38a4cc1a",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-se-lanza-el-19-de-noviembre-de-2026-y-el-preload-comienza-el-10-de-noviembre",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-se-lanza-el-19-de-noviembre-de-2026-y-el-preload-comienza-el-10-de-noviembre/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721808628_349.jpg",
+      "link": "https://tech.yahoo.com/gaming/breaking-news/article/gta-6-launches-thursday-and-is-available-for-pre-load-now-everything-you-need-to-know-about-the-new-rockstar-game-140009247.html",
+      "en": {
+        "title": "Grand Theft Auto VI launches November 19, 2026 with pre‑load available from November 10",
+        "description": "Rockstar Games announced that Grand Theft Auto VI will be released worldwide on November 19, 2026. Pre‑loading for the game begins on November 10 f...",
+        "fullContent": "Rockstar Games announced that Grand Theft Auto VI will be released worldwide on November 19, 2026. Pre‑loading for the game begins on November 10 for PlayStation 5, Xbox Series X and Xbox Series S consoles. The launch will include only the single‑player story mode; online multiplayer will be added later.\n\nPlayers who pre‑order the digital version will be able to start playing at midnight local time on the day of release. The title will be available exclusively on current‑generation consoles, with no versions for PlayStation 4 or Xbox One. In the weeks leading up to launch, Rockstar shared more than 40 new screenshots of the game’s world and announced a one‑day music festival in Miami on November 21 featuring artists from the game's soundtrack."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI se lanza el 19 de noviembre de 2026 y el pre‑load comienza el 10 de noviembre",
+        "description": "Rockstar Games confirmó que Grand Theft Auto VI se estrenará a nivel mundial el 19 de noviembre de 2026. El pre‑carga del juego iniciará el 10 de n...",
+        "fullContent": "Rockstar Games confirmó que Grand Theft Auto VI se estrenará a nivel mundial el 19 de noviembre de 2026. El pre‑carga del juego iniciará el 10 de noviembre para consolas PlayStation 5, Xbox Series X y Xbox Series S. En el lanzamiento solo estará disponible el modo historia para un solo jugador; el modo multijugador en línea se incorporará en una fecha posterior.\n\nLos usuarios que realicen la pre‑orden digital podrán comenzar a jugar a medianoche, hora local, el día del lanzamiento. El título se distribuirá exclusivamente para consolas de última generación, sin versiones para PlayStation 4 ni Xbox One. En los días previos al lanzamiento, Rockstar difundió más de 40 nuevas capturas de pantalla del mundo del juego y anunció un festival musical de un día en Miami el 21 de noviembre, con artistas de la banda sonora del juego."
+      }
+    },
+    {
+      "id": "0095e7b690e37645c260f8a23942c0d5",
+      "tag": "NEWS",
+      "slug": "por-que-gta-6-podria-convertirse-en-el-mayor-lanzamiento-de-videojuegos-generando-efectos-en-la-economia",
+      "url": "https://www.godzgames.com/noticias/por-que-gta-6-podria-convertirse-en-el-mayor-lanzamiento-de-videojuegos-generando-efectos-en-la-economia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794721811326_617.jpg",
+      "link": "https://www.cnbc.com/video/2026/11/14/why-rockstar-games-gta-6-could-become-gamings-biggest-launch.html",
+      "en": {
+        "title": "Why GTA 6 could become gaming’s biggest launch, sending ripple effects across the economy",
+        "description": "The article invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox, along with information abou...",
+        "fullContent": "The article invites readers to sign up for free newsletters to receive additional CNBC content directly in their inbox, along with information about the company's products and services. It also includes a copyright notice stating that Versant Media, LLC, a Versant Media Company, holds all rights to the material as of 2026.\n\nA disclaimer is provided indicating that the data presented is a real‑time snapshot, with a minimum delay of 15 minutes, and that it covers global business and financial news, stock quotes, market data, and analysis."
+      },
+      "es": {
+        "title": "Por qué GTA 6 podría convertirse en el mayor lanzamiento de videojuegos, generando efectos en la economía",
+        "description": "El artículo invita a los lectores a suscribirse a boletines gratuitos para recibir contenido adicional de CNBC directamente en su bandeja de entrad...",
+        "fullContent": "El artículo invita a los lectores a suscribirse a boletines gratuitos para recibir contenido adicional de CNBC directamente en su bandeja de entrada, junto con información sobre los productos y servicios de la empresa. También incluye un aviso de derechos de autor que indica que Versant Media, LLC, una compañía de Versant Media, posee todos los derechos sobre el material en 2026.\n\nSe incluye una advertencia que señala que los datos presentados son una captura en tiempo real con un retraso mínimo de 15 minutos, y que abarcan noticias globales de negocios y finanzas, cotizaciones de acciones, datos de mercado y análisis."
+      }
+    },
     {
       "id": "4c392e2b57758ef3f86b3b43eb458034",
       "tag": "NEWS",
