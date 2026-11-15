@@ -904,7 +904,7 @@ document.addEventListener('DOMContentLoaded', async () => {
           <div style="grid-column: 1/-1; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 40px 30px; background: rgba(255,255,255,0.02); border: 1px dashed var(--border-color); border-radius: 16px; text-align: center;">
             <span style="font-size: 2.5rem;">🎧</span>
             <h4 style="color: #fff; font-size: 1.1rem; margin: 0;">No hay reseñas de periféricos publicadas aún</h4>
-            <p style="color: #aaa; font-size: 0.9rem; max-width: 480px; line-height: 1.6; margin: 0;">Cuando guardes un link de afiliado real desde el <strong style="color: var(--color-primary)">Panel de Administración</strong> → Sugerencias Afiliados, aparecerá aquí automáticamente.</p>
+            <p style="color: #aaa; font-size: 0.9rem; max-width: 480px; line-height: 1.6; margin: 0;">Pronto aparecerán aquí las ofertas recomendadas por GodZGames.</p>
           </div>
         `;
       }
