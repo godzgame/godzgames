@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1794782415865,
+  "updatedAt": 1794808193814,
   "articles": [
+    {
+      "id": "747bd580848e97edd9d92fd9c082a529",
+      "tag": "NEWS",
+      "slug": "detras-de-grand-theft-auto-vi-diez-anos-de-desarrollo-equipo-global-de-miles-y-presupuesto-de-mil-millones-de-dolares",
+      "url": "https://www.godzgames.com/noticias/detras-de-grand-theft-auto-vi-diez-anos-de-desarrollo-equipo-global-de-miles-y-presupuesto-de-mil-millones-de-dolares/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794808183339_610.jpg",
+      "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+      "en": {
+        "title": "Inside look at Grand Theft Auto VI: ten years of development, a global team of thousands and a billion‑dollar budget",
+        "description": "Rockstar Games confirms that the development of Grand Theft Auto VI spanned ten years and involved a worldwide staff of nearly 5,000 people, with a...",
+        "fullContent": "Rockstar Games confirms that the development of Grand Theft Auto VI spanned ten years and involved a worldwide staff of nearly 5,000 people, with an estimated budget of around one billion dollars. The core studio, Rockstar North, is located in Edinburgh, Scotland, where many former employees and testers recall hearing about social gatherings at executives' homes during the 2000s. The studio remains a central hub for the project despite the large, distributed team.\n\nThe new installment is set in a fictional city called Vice City, placed in the state of Leonida and modeled after Miami, Florida. One month before its launch, activity at Rockstar’s headquarters decreased as many team members took leave after completing their work. Remaining staff are finalizing the product before its release, which is projected to generate significant revenue."
+      },
+      "es": {
+        "title": "Detrás de Grand Theft Auto VI: diez años de desarrollo, equipo global de miles y presupuesto de mil millones de dólares",
+        "description": "Rockstar Games confirma que el desarrollo de Grand Theft Auto VI se extendió durante diez años y contó con la participación de cerca de 5.000 emple...",
+        "fullContent": "Rockstar Games confirma que el desarrollo de Grand Theft Auto VI se extendió durante diez años y contó con la participación de cerca de 5.000 empleados en todo el mundo, con un presupuesto estimado de aproximadamente mil millones de dólares. El estudio principal, Rockstar North, está ubicado en Edimburgo, Escocia, donde varios ex‑empleados y testers recuerdan haber escuchado sobre reuniones sociales en las casas de los ejecutivos durante la década de 2000. El estudio sigue siendo el núcleo del proyecto a pesar de la gran plantilla distribuida.\n\nEl nuevo título se sitúa en una ciudad ficticia llamada Vice City, ubicada en el estado de Leonida y basada en Miami, Florida. Un mes antes de su lanzamiento, la actividad en la sede de Rockstar disminuyó mientras muchos miembros del equipo tomaron licencia tras concluir sus tareas. El personal restante está ultimando los detalles antes de la salida del juego, cuya proyección indica que generará ingresos considerables."
+      }
+    },
+    {
+      "id": "3f506bc81268e7dd082d01fe94060ee1",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-se-lanzara-el-19-de-noviembre-y-vuelve-a-vice-city-con-dos-protagonistas",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-se-lanzara-el-19-de-noviembre-y-vuelve-a-vice-city-con-dos-protagonistas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794808185781_419.jpg",
+      "link": "https://www.kcci.com/article/grand-theft-auto-vi-is-almost-here/74432125",
+      "en": {
+        "title": "Grand Theft Auto VI scheduled for release on November 19, returns to Vice City with two protagonists",
+        "description": "The Grand Theft Auto series, which originated in 1997 as a top‑down game that allowed players to explore fictional cities, steal vehicles and evade...",
+        "fullContent": "The Grand Theft Auto series, which originated in 1997 as a top‑down game that allowed players to explore fictional cities, steal vehicles and evade police, will launch its next main installment on November 19. The new title marks the first major entry in the franchise in 13 years and is set in a neon‑lit version of Vice City, featuring two playable protagonists.\n\nA video released alongside the announcement shows soldiers receiving additional leave time to play Grand Theft Auto VI. The launch of the game is linked to a substantial financial impact, with expectations of high revenue generation for the publisher."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI se lanzará el 19 de noviembre y vuelve a Vice City con dos protagonistas",
+        "description": "La serie Grand Theft Auto, que comenzó en 1997 como un juego de vista cenital que permitía a los jugadores explorar ciudades ficticias, robar vehíc...",
+        "fullContent": "La serie Grand Theft Auto, que comenzó en 1997 como un juego de vista cenital que permitía a los jugadores explorar ciudades ficticias, robar vehículos y evadir a la policía, tiene previsto su próximo lanzamiento principal el 19 de noviembre. Esta entrega es la primera del franquicia en 13 años y se desarrolla en una versión iluminada por neones de Vice City, con dos protagonistas jugables.\n\nUn video publicado junto al anuncio muestra a soldados recibiendo tiempo libre adicional para jugar Grand Theft Auto VI. El estreno del juego está asociado a un impacto financiero considerable, con expectativas de generar ingresos elevados para la compañía desarrolladora."
+      }
+    },
     {
       "id": "b68ff732720f76bc18182c7c7f7f0d8f",
       "tag": "NEWS",
-      "slug": "medios-indican-ausencias-masivas-de-empleados-por-el-lanzamiento-de-gta-vi",
-      "url": "https://www.godzgames.com/noticias/medios-indican-ausencias-masivas-de-empleados-por-el-lanzamiento-de-gta-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782403885_984.jpg",
+      "slug": "medios-informan-que-el-lanzamiento-de-gta-vi-podria-generar-ausencias-masivas-de-empleados",
+      "url": "https://www.godzgames.com/noticias/medios-informan-que-el-lanzamiento-de-gta-vi-podria-generar-ausencias-masivas-de-empleados/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794808188283_281.jpg",
       "link": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
       "en": {
-        "title": "Media reports suggest widespread employee absences on release of GTA VI",
-        "description": "Several media outlets have reported that the launch of Grand Theft Auto VI, the first new entry in the series in 13 years, could lead to a large nu...",
-        "fullContent": "Several media outlets have reported that the launch of Grand Theft Auto VI, the first new entry in the series in 13 years, could lead to a large number of workers calling in sick on 19 November. The term “GTA Flu” has been used to describe similar patterns of absences observed after the release of Grand Theft Auto V in 2013. Take‑Two Interactive CEO Strauss Zelnick is quoted as saying that “a lot of people will be calling in sick on November 19,” a comment that has been referenced in multiple articles.\n\nForecasts cited by the press estimate that GTA VI could sell around 40 million copies within the first three months, generating approximately US$3 billion in revenue. Comparisons are drawn with Grand Theft Auto V, which reached US$1 billion in sales faster than any previous entertainment product. Australian media have reported potential productivity losses of up to AU$70 million, while UK sources have suggested that 1.2 million British workers might take annual leave to play the game. The coverage emphasizes the scale of anticipated player engagement rather than confirming any measurable economic impact."
+        "title": "Media reports suggest GTA VI launch could cause widespread employee absences",
+        "description": "Several headlines have reported that the launch of Grand Theft Auto VI, the first new entry in the series in 13 years, may have a measurable impact...",
+        "fullContent": "Several headlines have reported that the launch of Grand Theft Auto VI, the first new entry in the series in 13 years, may have a measurable impact on the global economy on Thursday, November 19. A narrative describing a “new pandemic” scheduled for that date mentions that offices and worksites could be largely empty as employees claim sick leave for a non‑fatal illness expected to resolve within a few days.\n\nThe anticipation for Grand Theft Auto VI has been described as high, with the term “GTA Flu” referenced in relation to a similar pattern of employee absences observed after the release of Grand Theft Auto V in 2013. Forecasts cited in the coverage include an estimate of 40 million copies sold in the first three months, generating approximately US$3 billion in revenue, and a comparison to GTA V’s record‑setting sales of US$1 billion in a short period. Strauss Zelnick, CEO of Take‑Two Interactive, is quoted as saying that many people will call in sick on November 19. Australian media outlets reported potential productivity losses of AU$70 million, while UK sources suggested that up to 1.2 million British workers might take annual leave to play the game."
       },
       "es": {
-        "title": "Medios indican ausencias masivas de empleados por el lanzamiento de GTA VI",
-        "description": "Varios medios han informado que el lanzamiento de Grand Theft Auto VI, la primera entrega nueva de la saga en 13 años, podría provocar que un gran ...",
-        "fullContent": "Varios medios han informado que el lanzamiento de Grand Theft Auto VI, la primera entrega nueva de la saga en 13 años, podría provocar que un gran número de trabajadores se ausenten el 19 de noviembre. El término “GTA Flu” se ha utilizado para describir patrones similares de ausencias que se observaron tras el lanzamiento de Grand Theft Auto V en 2013. El CEO de Take‑Two Interactive, Strauss Zelnick, fue citado diciendo que “muchas personas van a llamar enfermas el 19 de noviembre”, comentario que ha sido mencionado en distintas publicaciones.\n\nPronósticos citados por la prensa estiman que GTA VI podría vender alrededor de 40 millones de copias en los primeros tres meses, generando aproximadamente US$3 mil millones en ingresos. Se compara con Grand Theft Auto V, que alcanzó US$1 mil millones en ventas más rápido que cualquier otro producto de entretenimiento. Medios australianos han reportado posibles pérdidas de productividad de hasta AU$70 millones, mientras que fuentes del Reino Unido han sugerido que 1,2 millones de trabajadores británicos podrían tomar vacaciones para jugar. La cobertura se centra en la magnitud de la participación esperada de los jugadores, sin confirmar un impacto económico medible."
+        "title": "Medios informan que el lanzamiento de GTA VI podría generar ausencias masivas de empleados",
+        "description": "Diversos titulares han informado que el lanzamiento de Grand Theft Auto VI, el primer título nuevo de la franquicia en 13 años, podría tener un imp...",
+        "fullContent": "Diversos titulares han informado que el lanzamiento de Grand Theft Auto VI, el primer título nuevo de la franquicia en 13 años, podría tener un impacto medible en la economía global el jueves 19 de noviembre. Un relato que describe una \"nueva pandemia\" programada para esa fecha menciona que oficinas y lugares de trabajo podrían quedar prácticamente vacíos mientras empleados solicitan baja por una enfermedad no mortal que se resolvería en pocos días.\n\nLa expectativa alrededor de Grand Theft Auto VI se ha descrito como alta, haciendo referencia al término \"GTA Flu\" en relación con un patrón similar de ausencias de empleados observado tras el lanzamiento de Grand Theft Auto V en 2013. Las proyecciones citadas incluyen la venta estimada de 40 millones de copias en los primeros tres meses, lo que generaría aproximadamente US$3 mil millones en ingresos, y una comparación con las ventas récord de GTA V, que alcanzó US$1 mil millones en un corto periodo. Strauss Zelnick, director ejecutivo de Take‑Two Interactive, fue citado diciendo que muchas personas se reportarán enfermas el 19 de noviembre. Medios australianos informaron posibles pérdidas de productividad de AU$70 millones, mientras que fuentes del Reino Unido sugirieron que hasta 1,2 millones de trabajadores británicos podrían tomar vacaciones anuales para jugar al juego."
       }
     },
     {
       "id": "766af17a0dcec6bbafd4e538a3831dd8",
       "tag": "NEWS",
-      "slug": "se-proyecta-que-gta-6-genere-entre-3-y-5-mil-millones-de-dolares-en-su-primera-semana-a-nivel-mundial",
-      "url": "https://www.godzgames.com/noticias/se-proyecta-que-gta-6-genere-entre-3-y-5-mil-millones-de-dolares-en-su-primera-semana-a-nivel-mundial/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782406619_256.jpg",
+      "slug": "analistas-estiman-entre-3-y-5-mil-millones-de-dolares-en-ventas-globales-de-gta-6-en-su-primera-semana",
+      "url": "https://www.godzgames.com/noticias/analistas-estiman-entre-3-y-5-mil-millones-de-dolares-en-ventas-globales-de-gta-6-en-su-primera-semana/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794808190882_955.jpg",
       "link": "https://theconversation.com/grand-theft-auto-6-could-make-us-3-5-billion-in-the-next-week-heres-how-games-make-so-much-money-290719",
       "en": {
-        "title": "GTA 6 projected to generate $3–5 billion in first week worldwide",
-        "description": "Grand Theft Auto 6 is scheduled for release on Thursday, and analysts estimate that the title could produce between US$3 billion and US$5 billion i...",
-        "fullContent": "Grand Theft Auto 6 is scheduled for release on Thursday, and analysts estimate that the title could produce between US$3 billion and US$5 billion in global sales during its first week on the market.\n\nFor context, the film Spider‑Man: Brand New Day has accumulated US$2.5 billion in worldwide box‑office receipts since its July debut, a figure that GTA 6 is expected to surpass despite the game's 17+ rating in the United States and Canada and an 18+ rating in Europe, the United Kingdom, Australia and New Zealand.\n\nThe preceding entry in the series, Grand Theft Auto V, was launched in 2013 and has recorded sales of 230 million copies, placing it as the second‑best‑selling video game after Minecraft, which has reached 425 million copies sold."
+        "title": "Analysts project $3‑5 billion in global sales for GTA 6 during its first week",
+        "description": "The launch of Grand Theft Auto 6, scheduled for Thursday, is expected to generate between $3 billion and $5 billion in worldwide revenue within its...",
+        "fullContent": "The launch of Grand Theft Auto 6, scheduled for Thursday, is expected to generate between $3 billion and $5 billion in worldwide revenue within its initial week, according to analysts. For comparison, the film Spider‑Man: Brand New Day has accumulated $2.5 billion in global box‑office receipts since its release in July.\n\nGrand Theft Auto 6 carries a 17+ rating in the United States and Canada and an 18+ rating in Europe, the United Kingdom, Australia and New Zealand due to its depiction of violence, sexual content and drug use. The previous entry in the series, Grand Theft Auto 5, released in 2013, recorded 230 million copies sold, making it the second‑largest selling game after Minecraft, which has reached 425 million sales.\n"
       },
       "es": {
-        "title": "Se proyecta que GTA 6 genere entre 3 y 5 mil millones de dólares en su primera semana a nivel mundial",
-        "description": "Grand Theft Auto 6 tiene programado su lanzamiento para el jueves, y los analistas estiman que el título podría generar entre 3 mil millones y 5 mi...",
-        "fullContent": "Grand Theft Auto 6 tiene programado su lanzamiento para el jueves, y los analistas estiman que el título podría generar entre 3 mil millones y 5 mil millones de dólares estadounidenses en ventas globales durante su primera semana.\n\nComo referencia, la película Spider‑Man: Brand New Day ha acumulado 2,5 mil millones de dólares en ingresos de taquilla a nivel mundial desde su estreno en julio, una cifra que GTA 6 se espera supere a pesar de su clasificación de 17+ en Estados Unidos y Canadá y de 18+ en Europa, Reino Unido, Australia y Nueva Zelanda.\n\nEl título anterior de la serie, Grand Theft Auto V, se lanzó en 2013 y ha registrado ventas de 230 millones de copias, situándose como el segundo videojuego más vendido después de Minecraft, que ha alcanzado 425 millones de copias vendidas."
+        "title": "Analistas estiman entre 3 y 5 mil millones de dólares en ventas globales de GTA 6 en su primera semana",
+        "description": "El lanzamiento de Grand Theft Auto 6, programado para el jueves, se prevé que genere entre 3 mil millones y 5 mil millones de dólares en ingresos m...",
+        "fullContent": "El lanzamiento de Grand Theft Auto 6, programado para el jueves, se prevé que genere entre 3 mil millones y 5 mil millones de dólares en ingresos mundiales durante su primera semana, según estimaciones de analistas. A modo de referencia, la película Spider‑Man: Brand New Day ha acumulado 2,5 mil millones de dólares en taquilla global desde su estreno en julio.\n\nGrand Theft Auto 6 cuenta con una clasificación de 17+ en Estados Unidos y Canadá y de 18+ en Europa, Reino Unido, Australia y Nueva Zelanda, debido a la presencia de violencia, contenido sexual y consumo de drogas. La entrega anterior de la serie, Grand Theft Auto 5, lanzada en 2013, registró 230 millones de copias vendidas, posicionándose como el segundo juego con mayor número de ventas después de Minecraft, que ha alcanzado 425 millones de unidades."
       }
     },
     {
       "id": "4c6bcec8c239c8765cb0dae91733a3f9",
       "tag": "NEWS",
-      "slug": "jugador-planea-una-semana-libre-para-jugar-grand-theft-auto-vi-el-dia-del-lanzamiento",
-      "url": "https://www.godzgames.com/noticias/jugador-planea-una-semana-libre-para-jugar-grand-theft-auto-vi-el-dia-del-lanzamiento/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782410176_359.jpg",
+      "slug": "empleado-se-toma-una-semana-libre-para-jugar-al-nuevo-gta-vi",
+      "url": "https://www.godzgames.com/noticias/empleado-se-toma-una-semana-libre-para-jugar-al-nuevo-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794808193733_235.jpg",
       "link": "https://www.smh.com.au/technology/video-games/i-m-taking-a-week-off-to-play-a-video-game-i-can-explain-20261116-p6187e.html",
       "en": {
-        "title": "Player plans week off to play Grand Theft Auto VI on release day",
-        "description": "The author states that they will take a week of annual leave to play a video game set in Vice City, a fictional location heavily inspired by Miami,...",
-        "fullContent": "The author states that they will take a week of annual leave to play a video game set in Vice City, a fictional location heavily inspired by Miami, Florida. Vice City is the setting for Grand Theft Auto VI, which is scheduled to launch on 19 November at midnight AEDT after a 13‑year interval since the previous main installment. The author also notes that all of their gift articles have been used and that three additional articles will become available on the first of each month.\n\nAccording to reports from the United States, an estimated 1.5 million Americans plan to miss work to play the game on its release day. Economist José García Montalvo previously projected that the launch could result in a loss of about US$1 billion for the U.S. economy, a figure that has been contested. Sensor Tower estimates indicate that 12.13 million copies of the game were pre‑sold worldwide for PlayStation and Xbox by 15 November, representing more than US$1.18 billion in revenue."
+        "title": "Employee Takes Week Off to Play Newly Released GTA VI",
+        "description": "A worker announced that he will take a week of annual leave to play Grand Theft Auto VI, which is set in the fictional city of Vice City, a locatio...",
+        "fullContent": "A worker announced that he will take a week of annual leave to play Grand Theft Auto VI, which is set in the fictional city of Vice City, a location inspired by Miami, Florida. He reported that colleagues responded with a range of reactions, including chuckles, a brief \"nice\" comment, and a question about whether Vice City is located in Queensland.\n\nGrand Theft Auto VI is scheduled for release on November 19 at midnight AEDT, marking a 13-year interval since the previous installment. Projections from the United States estimate that 1.5 million Americans intend to miss work on the release day. An academic projection by economist José García Montalvo previously suggested a potential economic impact of US$1 billion, a figure that has been contested. Sensor Tower reported that 12.13 million copies of the game were pre‑sold worldwide for PlayStation and Xbox by November 15, representing a value exceeding US$1.18 billion."
       },
       "es": {
-        "title": "Jugador planea una semana libre para jugar Grand Theft Auto VI el día del lanzamiento",
-        "description": "El autor indica que tomará una semana de vacaciones anuales para jugar a un videojuego ambientado en Vice City, una ciudad ficticia fuertemente ins...",
-        "fullContent": "El autor indica que tomará una semana de vacaciones anuales para jugar a un videojuego ambientado en Vice City, una ciudad ficticia fuertemente inspirada en Miami, Florida. Vice City es el escenario de Grand Theft Auto VI, cuyo lanzamiento está programado para el 19 de noviembre a medianoche AEDT, tras una espera de 13 años desde la entrega anterior. El autor también menciona que ha utilizado todos sus artículos de regalo y que tres artículos adicionales estarán disponibles el primero de cada mes.\n\nSegún informes de Estados Unidos, se estima que 1,5 millones de estadounidenses planean ausentarse del trabajo para jugar al título el día de su salida. El economista José García Montalvo proyectó previamente que el lanzamiento podría generar una pérdida de aproximadamente 1 mil millones de dólares para la economía estadounidense, cifra que ha sido objeto de debate. Sensor Tower calcula que, para el 15 de noviembre, se habían pre‑vendido 12,13 millones de copias del juego a nivel mundial para PlayStation y Xbox, lo que representa más de 1,18 mil millones de dólares en ingresos."
-      }
-    },
-    {
-      "id": "aceea8209bc919e04e04162719094f7d",
-      "tag": "NEWS",
-      "slug": "recomendaciones-de-juegos-para-el-fin-de-semana-13-de-noviembre-de-2026",
-      "url": "https://www.godzgames.com/noticias/recomendaciones-de-juegos-para-el-fin-de-semana-13-de-noviembre-de-2026/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782413232_859.jpg",
-      "link": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026",
-      "en": {
-        "title": "Weekend Game Recommendations and Updates – November 13, 2026",
-        "description": "The article notes that today is Friday the 13th and proceeds to list video games suggested for the upcoming weekend, alongside a summary of the wee...",
-        "fullContent": "The article notes that today is Friday the 13th and proceeds to list video games suggested for the upcoming weekend, alongside a summary of the week's main stories. It then provides a set of weekend game recommendations.\n\nIt advises users to free up space on Xbox or PlayStation hard drives in preparation for the pre‑load of Grand Theft Auto VI, which is expected to occupy around 200 GB. The text suggests removing games that are no longer being played, deleting video clips associated with trophy achievements, and removing Fortnite.\n\nThe piece introduces the deduction game \"Funeral for the Sun,\" describing its premise of a historian investigating an abandoned Latin American town, the use of supernatural elements to view the past, and a notebook system for tracking information. It also reports that NetEase has released the eleventh season of \"Marvel Rivals,\" adding the X‑Men character Nightcrawler as a playable strategist with healing and offensive capabilities."
-      },
-      "es": {
-        "title": "Recomendaciones de juegos para el fin de semana – 13 de noviembre de 2026",
-        "description": "El artículo indica que hoy es viernes 13 y continúa con una lista de videojuegos sugeridos para el fin de semana, acompañada de un resumen de las p...",
-        "fullContent": "El artículo indica que hoy es viernes 13 y continúa con una lista de videojuegos sugeridos para el fin de semana, acompañada de un resumen de las principales noticias de la semana. A continuación, presenta una serie de recomendaciones de juegos para el fin de semana.\n\nSe aconseja liberar espacio en los discos duros de Xbox o PlayStation para la carga anticipada de Grand Theft Auto VI, que ocupará aproximadamente 200 GB. El texto sugiere eliminar los juegos que ya no se utilizan, borrar los clips de vídeo vinculados a trofeos y desinstalar Fortnite.\n\nSe menciona el juego de deducción \"Funeral for the Sun\", describiendo su trama centrada en un historiador que investiga una ciudad latinoamericana abandonada, el uso de elementos sobrenaturales para observar el pasado y un cuaderno multifunción para registrar datos. También se informa que NetEase ha lanzado la undécima temporada de \"Marvel Rivals\", incorporando al personaje de los X‑Men, Nightcrawler, como estratega con habilidades de curación y ataque."
-      }
-    },
-    {
-      "id": "1d1f1370add913c6157e7297799bc448",
-      "tag": "NEWS",
-      "slug": "cerca-de-100-adolescentes-de-charlotte-participan-en-un-gamejam-de-un-dia",
-      "url": "https://www.godzgames.com/noticias/cerca-de-100-adolescentes-de-charlotte-participan-en-un-gamejam-de-un-dia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782415807_550.jpg",
-      "link": "https://www.yahoo.com/news/articles/nearly-100-charlotte-area-teens-192513743.html",
-      "en": {
-        "title": "Nearly 100 Charlotte-area teens participate in a one‑day game‑jam event",
-        "description": "On Sunday, approximately 100 high‑school students aged 13 to 18 gathered at Johnson C. Smith University for Haven Charlotte, a game‑jam where parti...",
-        "fullContent": "On Sunday, approximately 100 high‑school students aged 13 to 18 gathered at Johnson C. Smith University for Haven Charlotte, a game‑jam where participants develop video games from scratch within a single day. The event is part of a nationwide program organized by the nonprofit Hack Club, which focuses on expanding access to technology and coding education.\n\nThe organization of Haven Charlotte was led primarily by local high‑school students, who arranged the venue, secured hardware grants, coordinated peer mentors and ensured that participation remained free. Meals and access to equipment were provided to support students who might not have the resources to pursue coding independently.\n\nBy the end of the day, participants are expected to have acquired practical experience in software development while collaborating with peers who share an interest in technology, creativity and innovation."
-      },
-      "es": {
-        "title": "Cerca de 100 adolescentes de Charlotte participan en un game‑jam de un día",
-        "description": "El domingo, alrededor de 100 estudiantes de secundaria de entre 13 y 18 años se reunieron en la Universidad Johnson C. Smith para el evento Haven C...",
-        "fullContent": "El domingo, alrededor de 100 estudiantes de secundaria de entre 13 y 18 años se reunieron en la Universidad Johnson C. Smith para el evento Haven Charlotte, un game‑jam en el que los participantes crean videojuegos desde cero en un solo día. La iniciativa forma parte de un programa nacional organizado por la organización sin fines de lucro Hack Club, que busca ampliar el acceso a la educación tecnológica y la programación.\n\nLa organización del Haven Charlotte estuvo a cargo principalmente de estudiantes de secundaria locales, quienes gestionaron el espacio, obtuvieron subvenciones de hardware, coordinaron mentores pares y aseguraron que la participación fuera gratuita. Se ofrecieron comidas y acceso a equipos para apoyar a los estudiantes que podrían no contar con recursos para aprender a programar por su cuenta.\n\nAl concluir la jornada, se espera que los participantes hayan adquirido experiencia práctica en el desarrollo de software mientras colaboran con otros jóvenes interesados en la tecnología, la creatividad y la innovación."
+        "title": "Empleado se Toma una Semana Libre para Jugar al Nuevo GTA VI",
+        "description": "Un trabajador comunicó que tomará una semana de vacaciones anuales para jugar Grand Theft Auto VI, cuyo escenario es la ciudad ficticia de Vice Cit...",
+        "fullContent": "Un trabajador comunicó que tomará una semana de vacaciones anuales para jugar Grand Theft Auto VI, cuyo escenario es la ciudad ficticia de Vice City, inspirada en Miami, Florida. Señaló que sus compañeros reaccionaron de distintas maneras, entre ellas risas, un breve \"nice\" y una pregunta sobre si Vice City se encuentra en Queensland.\n\nGrand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre a la medianoche AEDT, después de un intervalo de 13 años desde la entrega anterior. Estimaciones de Estados Unidos indican que 1,5 millones de estadounidenses planean ausentarse del trabajo el día del estreno. Un pronóstico académico del economista José García Montalvo había sugerido un posible impacto económico de US$1 mil millones, cifra que ha sido objeto de debate. Sensor Tower informó que, para el 15 de noviembre, se habían pre‑vendido 12,13 millones de copias del juego a nivel mundial para PlayStation y Xbox, con un valor superior a US$1,18 mil millones."
       }
     }
   ]

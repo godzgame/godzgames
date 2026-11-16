@@ -1,8 +1,26 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-15T22:40:15.849Z",
+  "lastUpdated": "2026-11-16T05:49:53.812Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "1d1f1370add913c6157e7297799bc448",
+      "tag": "NEWS",
+      "slug": "cerca-de-100-adolescentes-de-charlotte-participan-en-un-gamejam-de-un-dia",
+      "url": "https://www.godzgames.com/noticias/cerca-de-100-adolescentes-de-charlotte-participan-en-un-gamejam-de-un-dia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794782415807_550.jpg",
+      "link": "https://www.yahoo.com/news/articles/nearly-100-charlotte-area-teens-192513743.html",
+      "en": {
+        "title": "Nearly 100 Charlotte-area teens participate in a one‑day game‑jam event",
+        "description": "On Sunday, approximately 100 high‑school students aged 13 to 18 gathered at Johnson C. Smith University for Haven Charlotte, a game‑jam where parti...",
+        "fullContent": "On Sunday, approximately 100 high‑school students aged 13 to 18 gathered at Johnson C. Smith University for Haven Charlotte, a game‑jam where participants develop video games from scratch within a single day. The event is part of a nationwide program organized by the nonprofit Hack Club, which focuses on expanding access to technology and coding education.\n\nThe organization of Haven Charlotte was led primarily by local high‑school students, who arranged the venue, secured hardware grants, coordinated peer mentors and ensured that participation remained free. Meals and access to equipment were provided to support students who might not have the resources to pursue coding independently.\n\nBy the end of the day, participants are expected to have acquired practical experience in software development while collaborating with peers who share an interest in technology, creativity and innovation."
+      },
+      "es": {
+        "title": "Cerca de 100 adolescentes de Charlotte participan en un game‑jam de un día",
+        "description": "El domingo, alrededor de 100 estudiantes de secundaria de entre 13 y 18 años se reunieron en la Universidad Johnson C. Smith para el evento Haven C...",
+        "fullContent": "El domingo, alrededor de 100 estudiantes de secundaria de entre 13 y 18 años se reunieron en la Universidad Johnson C. Smith para el evento Haven Charlotte, un game‑jam en el que los participantes crean videojuegos desde cero en un solo día. La iniciativa forma parte de un programa nacional organizado por la organización sin fines de lucro Hack Club, que busca ampliar el acceso a la educación tecnológica y la programación.\n\nLa organización del Haven Charlotte estuvo a cargo principalmente de estudiantes de secundaria locales, quienes gestionaron el espacio, obtuvieron subvenciones de hardware, coordinaron mentores pares y aseguraron que la participación fuera gratuita. Se ofrecieron comidas y acceso a equipos para apoyar a los estudiantes que podrían no contar con recursos para aprender a programar por su cuenta.\n\nAl concluir la jornada, se espera que los participantes hayan adquirido experiencia práctica en el desarrollo de software mientras colaboran con otros jóvenes interesados en la tecnología, la creatividad y la innovación."
+      }
+    },
     {
       "id": "747bd580848e97edd9d92fd9c082a529",
       "tag": "NEWS",
