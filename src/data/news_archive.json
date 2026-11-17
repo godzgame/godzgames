@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-17T01:47:09.760Z",
+  "lastUpdated": "2026-11-17T15:46:32.408Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "610d670651bb8c471568a6ca27ba3366",
+      "tag": "NEWS",
+      "slug": "duracion-estimada-de-la-campana-principal-y-finalizacion-completa-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/duracion-estimada-de-la-campana-principal-y-finalizacion-completa-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794880004574_791.jpg",
+      "link": "https://mashable.com/entertainment/how-long-will-it-take-to-play-gta-6",
+      "en": {
+        "title": "Estimated Playtime for GTA VI Main Campaign and Full Completion",
+        "description": "Grand Theft Auto VI is scheduled for release in the United States on November 19, more than 13 years after the launch of its predecessor. Insider G...",
+        "fullContent": "Grand Theft Auto VI is scheduled for release in the United States on November 19, more than 13 years after the launch of its predecessor. Insider Gaming reports that the main storyline is expected to require approximately 50 hours to finish, covering close to 100 missions distributed across five chapters. The estimate may differ according to individual player skill.\n\nThe 50‑hour figure refers only to the primary campaign. According to the same sources, achieving full completion of all game content will demand a considerably longer amount of time."
+      },
+      "es": {
+        "title": "Duración estimada de la campaña principal y finalización completa de GTA VI",
+        "description": "Grand Theft Auto VI se lanzará en Estados Unidos el 19 de noviembre, más de 13 años después de su predecesor. Insider Gaming indica que la campaña ...",
+        "fullContent": "Grand Theft Auto VI se lanzará en Estados Unidos el 19 de noviembre, más de 13 años después de su predecesor. Insider Gaming indica que la campaña principal requerirá alrededor de 50 horas para completarse, abarcando cerca de 100 misiones repartidas en cinco capítulos. La duración puede variar según la habilidad del jugador.\n\nEl cálculo de 50 horas corresponde únicamente a la campaña principal. Según la misma fuente, completar todo el contenido del juego demandará un tiempo considerablemente mayor."
+      }
+    },
+    {
+      "id": "cb5cd98cc15995ab8e524c7bb6822035",
+      "tag": "NEWS",
+      "slug": "bundle-de-twitchcon-incluye-siete-juegos-para-pc-por-1999",
+      "url": "https://www.godzgames.com/noticias/bundle-de-twitchcon-incluye-siete-juegos-para-pc-por-1999/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794880012019_773.jpg",
+      "link": "https://80.lv/articles/get-seven-completely-different-pc-games-in-this-twitchcon-bundle",
+      "en": {
+        "title": "TwitchCon Bundle Offers Seven PC Games for $19.99",
+        "description": "The $19.99 TwitchCon Bundle is available through Xsolla Mall from November 13 to December 13, 2026. It includes seven PC titles: Dead as Disco, Pla...",
+        "fullContent": "The $19.99 TwitchCon Bundle is available through Xsolla Mall from November 13 to December 13, 2026. It includes seven PC titles: Dead as Disco, Planet Coaster 2, Eternal Strands, Greak: Memories of Azur, 33 Immortals, Super Mombo Quest, and Raji: An Ancient Epic. Ten percent of the bundle’s purchase price, after taxes, fees and refunds, will be donated to Stand Up To Cancer, subject to applicable restrictions.\n\nThe collection covers a range of gameplay types, including rhythm‑driven combat, theme‑park management, 33‑player co‑op battles, elemental action, platforming, and mythological adventure.\n\nDead as Disco, developed by Brain Jar Games, blends beat‑'em‑up combat with rhythm mechanics. Players assume the role of Charlie Disco, executing punches, kicks, parries and other martial‑arts moves in sync with the music while confronting the Idols and working to reunite his band."
+      },
+      "es": {
+        "title": "Bundle de TwitchCon incluye siete juegos para PC por $19.99",
+        "description": "El bundle de TwitchCon, con un precio de $19.99, está disponible en Xsolla Mall del 13 de noviembre al 13 de diciembre de 2026. Incluye siete títul...",
+        "fullContent": "El bundle de TwitchCon, con un precio de $19.99, está disponible en Xsolla Mall del 13 de noviembre al 13 de diciembre de 2026. Incluye siete títulos para PC: Dead as Disco, Planet Coaster 2, Eternal Strands, Greak: Memories of Azur, 33 Immortals, Super Mombo Quest y Raji: An Ancient Epic. El 10 % del precio de compra, descontados impuestos, tarifas y reembolsos, se destinará a Stand Up To Cancer, con las restricciones que apliquen.\n\nLa colección abarca varios tipos de juego, como combate rítmico, gestión de parques temáticos, batallas cooperativas para 33 jugadores, acción elemental, plataformas y aventura mitológica.\n\nDead as Disco, de Brain Jar Games, combina combate beat‑'em‑up con mecánicas rítmicas. El jugador controla a Charlie Disco, realizando puñetazos, patadas, bloqueos y otros movimientos de artes marciales al compás de la música mientras se enfrenta a los Idols y trata de reunir a su banda."
+      }
+    },
+    {
+      "id": "771117b91fc2039858380c1b25d25c4e",
+      "tag": "NEWS",
+      "slug": "ebanx-amplia-alianza-con-el-mercado-de-videojuegos-eneba",
+      "url": "https://www.godzgames.com/noticias/ebanx-amplia-alianza-con-el-mercado-de-videojuegos-eneba/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794880023487_737.jpg",
+      "link": "https://www.pymnts.com/partnerships/2026/ebanx-expands-partnership-with-video-game-market-eneba/",
+      "en": {
+        "title": "EBANX Expands Partnership with Gaming Marketplace Eneba",
+        "description": "Payments provider EBANX announced an expansion of its partnership with Eneba, a digital marketplace for video games. The companies said the enhance...",
+        "fullContent": "Payments provider EBANX announced an expansion of its partnership with Eneba, a digital marketplace for video games. The companies said the enhanced collaboration will focus on building a payment portfolio that incorporates the local payment methods used by consumers in each market.\n\nThe partnership covers Brazil, Mexico, Colombia, Chile, Peru, Ecuador, Bolivia and Argentina. According to the joint release, the volume processed through EBANX for Eneba in Latin America increased by 138% through October compared with the same period last year, more than doubling year over year. Mantas Eitutis, head of payments and fraud at Eneba, stated that EBANX’s performance and coverage of local payment methods have supported Eneba’s growth across the region."
+      },
+      "es": {
+        "title": "EBANX Amplía Alianza con el Mercado de Videojuegos Eneba",
+        "description": "La empresa de servicios de pago EBANX anunció la ampliación de su alianza con Eneba, un mercado digital de videojuegos. Según el comunicado, la col...",
+        "fullContent": "La empresa de servicios de pago EBANX anunció la ampliación de su alianza con Eneba, un mercado digital de videojuegos. Según el comunicado, la colaboración reforzada tiene como objetivo crear una cartera de pagos que incluya los métodos locales que utilizan los consumidores en cada mercado.\n\nLa alianza abarca Brasil, México, Colombia, Chile, Perú, Ecuador, Bolivia y Argentina. El comunicado indica que el volumen procesado por EBANX para Eneba en América Latina aumentó un 138 % hasta octubre en comparación con el mismo período del año anterior, más del doble interanual. Mantas Eitutis, responsable de pagos y fraude en Eneba, señaló que el desempeño constante y la amplia cobertura de métodos de pago locales de EBANX han contribuido al crecimiento de la empresa en la región."
+      }
+    },
+    {
+      "id": "493475ff234fd2e6cc40b8d64a1f43d2",
+      "tag": "NEWS",
+      "slug": "programa-de-videojuegos-involucra-a-adultos-mayores-en-columbus-ohio",
+      "url": "https://www.godzgames.com/noticias/programa-de-videojuegos-involucra-a-adultos-mayores-en-columbus-ohio/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794880025828_581.jpg",
+      "link": "https://rinewstoday.com/video-games-offer-more-than-entertainment-for-older-americans-herb-weiss/",
+      "en": {
+        "title": "Video Game Program Engages Older Adults in Columbus, Ohio",
+        "description": "Pamela Shields, a 72-year-old retired health insurance agent from Columbus, Ohio, is among the roughly 60.2 million Americans aged 50 and older who...",
+        "fullContent": "Pamela Shields, a 72-year-old retired health insurance agent from Columbus, Ohio, is among the roughly 60.2 million Americans aged 50 and older who play video games. Shields began playing more regularly after learning about the Level Up Land Ohio program at a senior technology conference sponsored by Trabian Enterprises. She cited research indicating that video games may support cognitive function, visual acuity and memory as an initial motivation.\n\nLevel Up Land Ohio offers a free, three‑hour session each Tuesday for about 30 to 35 participants. The program, funded by the Franklin County Office on Aging, combines gaming instruction with education on emerging technologies such as artificial intelligence. Shields expressed appreciation for the assistance, stating, \"We would never get this kind of help and assistance anywhere else.\""
+      },
+      "es": {
+        "title": "Programa de videojuegos involucra a adultos mayores en Columbus, Ohio",
+        "description": "Pamela Shields, una agente de seguros de salud retirada de 72 años residente en Columbus, Ohio, forma parte de los aproximadamente 60,2 millones de...",
+        "fullContent": "Pamela Shields, una agente de seguros de salud retirada de 72 años residente en Columbus, Ohio, forma parte de los aproximadamente 60,2 millones de estadounidenses de 50 años o más que juegan videojuegos. Shields comenzó a jugar con mayor frecuencia después de conocer el programa Level Up Land Ohio en una conferencia de tecnología para adultos mayores patrocinada por Trabian Enterprises, y mencionó estudios que sugieren que los videojuegos pueden favorecer la función cognitiva, la agudeza visual y la memoria.\n\nLevel Up Land Ohio ofrece una sesión gratuita de tres horas cada martes para entre 30 y 35 participantes. El programa, financiado por la Oficina del Envejecimiento del Condado de Franklin, combina instrucción en videojuegos con educación sobre tecnologías emergentes, incluida la inteligencia artificial. Shields expresó su gratitud por la ayuda recibida, diciendo: \"Nunca obtendríamos este tipo de ayuda y asistencia en ningún otro lugar.\""
+      }
+    },
+    {
+      "id": "a184a1c921e8d6cd165bd90c12338031",
+      "tag": "NEWS",
+      "slug": "wendys-lanza-el-rpg-gratuito-wendyquest-legend-of-the-four-corner-stones-desarrollado-por-81-monkeys",
+      "url": "https://www.godzgames.com/noticias/wendys-lanza-el-rpg-gratuito-wendyquest-legend-of-the-four-corner-stones-desarrollado-por-81-monkeys/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794880029638_74.jpg",
+      "link": "https://sporked.com/article/wendys-video-game-wendyquest/",
+      "en": {
+        "title": "Wendy’s Releases Free RPG \"WendyQuest: Legend of the Four Corner Stones\" Developed by 81 Monkeys",
+        "description": "Earlier this month Wendy’s made available a free video game titled “WendyQuest: Legend of the Four Corner Stones,” which was developed by the studi...",
+        "fullContent": "Earlier this month Wendy’s made available a free video game titled “WendyQuest: Legend of the Four Corner Stones,” which was developed by the studio 81 Monkeys. The game is presented in a retro‑styled fantasy role‑playing format and the publisher states that it contains more than ten hours of content centered on the character Wendy, a knight on a quest to restore the land of Savoria.\n\nThe author of the original article reported completing a full playthrough in just over nine hours, noting that not every collectible or achievement was obtained and that the ten‑hour estimate therefore appears consistent with the experience. The developers have indicated that the game was created over multiple years without the use of generative AI.\n\nAn external comment was provided by Chris Quay, Art Director at Wraith Games, who said, “In an era where companies regularly slop together promotional material in mere minutes with no love or care in the world, the fact that a game like this exists is a genuine joy that I can only hope will lead to many more examples of ‘put money behind people who love and care.’” The article also mentions the presence of reference‑laden dialogue, including a beverage‑contract joke."
+      },
+      "es": {
+        "title": "Wendy’s lanza el RPG gratuito \"WendyQuest: Legend of the Four Corner Stones\" desarrollado por 81 Monkeys",
+        "description": "A principios de este mes Wendy’s puso a disposición del público un videojuego gratuito titulado “WendyQuest: Legend of the Four Corner Stones”, des...",
+        "fullContent": "A principios de este mes Wendy’s puso a disposición del público un videojuego gratuito titulado “WendyQuest: Legend of the Four Corner Stones”, desarrollado por el estudio 81 Monkeys. El juego se presenta con un estilo retro de rol fantástico y la empresa indica que incluye más de diez horas de contenido, centrado en la caballera Wendy y su misión de restaurar la tierra de Savoria.\n\nEl autor del artículo original informó haber completado una partida completa en poco más de nueve horas, señalando que no se obtuvieron todos los coleccionables ni se desbloquearon todos los logros, y que la estimación de diez horas parece coherente con esa experiencia. Los desarrolladores declararon que el juego se creó durante varios años sin utilizar inteligencia artificial generativa.\n\nSe incluyó un comentario externo de Chris Quay, Director de Arte de Wraith Games, quien afirmó: “En una época en la que las compañías ensamblan material promocional en minutos sin amor ni cuidado, el hecho de que exista un juego como este es una alegría genuina que solo espero conduzca a más ejemplos de ‘poner dinero detrás de personas que aman y se preocupan’.” El artículo también menciona la presencia de diálogos cargados de referencias, incluido un chiste sobre un contrato de bebidas."
+      }
+    },
     {
       "id": "54876d0eabc769a8bc64fc9bfd68d21f",
       "tag": "NEWS",
