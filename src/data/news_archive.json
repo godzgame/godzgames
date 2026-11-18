@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-17T15:46:32.408Z",
+  "lastUpdated": "2026-11-18T00:49:03.794Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "93f4b810658988d1e6b966a5b9f8f4aa",
+      "tag": "NEWS",
+      "slug": "gta-6-se-lanzara-el-19-de-noviembre-con-clasificacion-m-y-mas-de-1-mil-millones-en-preventas",
+      "url": "https://www.godzgames.com/noticias/gta-6-se-lanzara-el-19-de-noviembre-con-clasificacion-m-y-mas-de-1-mil-millones-en-preventas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794930371263_824.jpg",
+      "link": "https://www.yahoo.com/entertainment/article/gta-6-could-make-gaming-history-its-mature-rating-should-give-parents-pause-175742822.html",
+      "en": {
+        "title": "GTA 6 slated for Nov 19 release with M rating and over $1 billion in presales",
+        "description": "Grand Theft Auto VI is scheduled to launch on November 19, two days from now, with industry analysts projecting it to be one of the largest enterta...",
+        "fullContent": "Grand Theft Auto VI is scheduled to launch on November 19, two days from now, with industry analysts projecting it to be one of the largest entertainment releases in history and presales already surpassing $1 billion.\n\nThe game carries an M (Mature 17+) rating from the Entertainment Software Rating Board. Jasmine Hood Miller, director of family resources and content strategy at Common Sense Media, explains that the gameplay asks players to assume the roles of criminals, including activities such as stealing vehicles, conducting robberies and using weapons.\n\nGTA 6 follows the characters Jason Duval and Lucia Caminos in the fictional state of Leonida, a setting inspired by Florida and reminiscent of Miami and Vice City. Miller adds that the Grand Theft Auto series is one of the largest game series worldwide and is designed for adult players."
+      },
+      "es": {
+        "title": "GTA 6 se lanzará el 19 de noviembre con clasificación M y más de 1 mil millones en preventas",
+        "description": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre, a dos días de la fecha actual, y los analistas de la industria estiman que se...",
+        "fullContent": "Grand Theft Auto VI tiene previsto su lanzamiento el 19 de noviembre, a dos días de la fecha actual, y los analistas de la industria estiman que será uno de los lanzamientos de entretenimiento más grandes de la historia, con preventas que ya superan los 1 mil millones de dólares.\n\nEl juego cuenta con una clasificación M (Mature 17+) otorgada por la Entertainment Software Rating Board. Jasmine Hood Miller, directora de recursos familiares y estrategia de contenido en Common Sense Media, indica que la jugabilidad invita a los jugadores a asumir roles de criminales, incluyendo actividades como el robo de vehículos, asaltos y el uso de armas.\n\nGTA 6 presenta a los personajes Jason Duval y Lucia Caminos en el estado ficticio de Leonida, un entorno inspirado en Florida y con reminiscencias de Miami y Vice City. Miller señala que la serie Grand Theft Auto es una de las más grandes del sector y está destinada a un público adulto."
+      }
+    },
+    {
+      "id": "16e4e6e887bc72e8bb580c536838cb8a",
+      "tag": "NEWS",
+      "slug": "lanzamiento-de-grand-theft-auto-vi-alcanza-15-millones-de-preordenes-y-se-describe-como-gran-evento-de-entretenimiento",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-de-grand-theft-auto-vi-alcanza-15-millones-de-preordenes-y-se-describe-como-gran-evento-de-entretenimiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794930382525_311.jpg",
+      "link": "https://www.cnn.com/2026/11/16/media/grand-theft-auto-gta-vi-entertainment-media",
+      "en": {
+        "title": "Grand Theft Auto VI launch draws 15 million preorders, described as major entertainment event",
+        "description": "The release of Grand Theft Auto VI this week has been characterized by some observers as the largest media and entertainment event of the year, acc...",
+        "fullContent": "The release of Grand Theft Auto VI this week has been characterized by some observers as the largest media and entertainment event of the year, according to a story that also appeared in CNN's Reliable Sources newsletter. The game’s launch follows a nine‑year interval since the previous installment, which was released in 2013.\n\nData from Sensor Tower indicate that approximately 15 million copies of Grand Theft Auto VI have been preordered. Take‑Two Interactive CEO Strauss H. Zelnick told investors that the sales figures are at \"unprecedented levels.\" Peer Schneider, executive vice president and co‑founder of IGN Entertainment, commented that the question is not whether the title will be successful, but the scale of its impact."
+      },
+      "es": {
+        "title": "Lanzamiento de Grand Theft Auto VI alcanza 15 millones de preórdenes y se describe como gran evento de entretenimiento",
+        "description": "El lanzamiento de Grand Theft Auto VI esta semana ha sido descrito por algunos observadores como el mayor evento de medios y entretenimiento del añ...",
+        "fullContent": "El lanzamiento de Grand Theft Auto VI esta semana ha sido descrito por algunos observadores como el mayor evento de medios y entretenimiento del año, según una noticia que también se publicó en el boletín Reliable Sources de CNN. El estreno se produce tras un intervalo de nueve años desde la entrega anterior, que salió en 2013.\n\nDatos de Sensor Tower señalan que alrededor de 15 millones de copias de Grand Theft Auto VI ya han sido preordenadas. El director ejecutivo de Take‑Two Interactive, Strauss H. Zelnick, informó a los inversores que las cifras de venta alcanzan \"niveles sin precedentes\". Peer Schneider, vicepresidente ejecutivo y cofundador de IGN Entertainment, comentó que la cuestión no es si el juego será un éxito, sino la magnitud de su impacto."
+      }
+    },
+    {
+      "id": "3fb9d3a9b9aef626ee55788d0ab986ce",
+      "tag": "NEWS",
+      "slug": "aficionados-programan-ausencias-y-otras-acciones-para-el-lanzamiento-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/aficionados-programan-ausencias-y-otras-acciones-para-el-lanzamiento-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794930386609_746.jpg",
+      "link": "https://www.bbc.com/news/articles/cm4gn9xnn1ppo",
+      "en": {
+        "title": "Fans schedule leave and other measures for GTA 6 launch",
+        "description": "After a 13‑year interval since the previous installment, Rockstar Games plans to release Grand Theft Auto VI at midnight on Thursday. Fans are taki...",
+        "fullContent": "After a 13‑year interval since the previous installment, Rockstar Games plans to release Grand Theft Auto VI at midnight on Thursday. Fans are taking steps to be ready for the launch. Victoria Evans, a resident of West Sussex, set an alarm for 05:00 GMT and booked a day off, stating that she entered the release date on her leave request form, which was approved even though her manager was reportedly unfamiliar with the title.\n\nData from BrightHR, a human‑resources software provider, covering more than 1.2 million employees across 70 000 UK businesses, shows that “GTA” appears in 4.6 % of time‑off requests. The analysis estimates that roughly 83 000 days of leave were scheduled for November and December to accommodate the game’s launch.\n\nIn addition to taking leave, some fans are acquiring new consoles or indicating a location far from their actual address in order to qualify for early access."
+      },
+      "es": {
+        "title": "Aficionados programan ausencias y otras acciones para el lanzamiento de GTA 6",
+        "description": "Tras un intervalo de 13 años desde la entrega anterior, Rockstar Games tiene previsto lanzar Grand Theft Auto VI a medianoche del jueves. Los segui...",
+        "fullContent": "Tras un intervalo de 13 años desde la entrega anterior, Rockstar Games tiene previsto lanzar Grand Theft Auto VI a medianoche del jueves. Los seguidores están tomando medidas para estar preparados para el estreno. Victoria Evans, residente de West Sussex, programó su alarma a las 05:00 GMT y solicitó un día libre, indicando que incluyó la fecha de lanzamiento en su formulario de solicitud de permiso, que fue aprobado aunque su jefe no conocía el título.\n\nDatos de BrightHR, una empresa de software de recursos humanos, que abarcan a más de 1,2 millones de empleados de 70 000 empresas del Reino Unido, revelan que “GTA” se menciona en el 4,6 % de las solicitudes de ausencia. El análisis estima que alrededor de 83 000 días de permiso se reservaron durante noviembre y diciembre para el lanzamiento del juego.\n\nAdemás de solicitar permisos, algunos seguidores están adquiriendo nuevas consolas o indicando una ubicación distante de su residencia real para poder acceder anticipadamente."
+      }
+    },
+    {
+      "id": "619c44421831134520ecb547b2e5219d",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-se-lanza-con-ambientacion-inspirada-en-miami",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-se-lanza-con-ambientacion-inspirada-en-miami/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1794930392251_878.jpg",
+      "link": "https://abcnews.com/Lifestyle/wireStory/miami-embraces-vice-city-alter-ego-seizing-buzz-138200521",
+      "en": {
+        "title": "Grand Theft Auto VI launches with Miami‑inspired setting",
+        "description": "Rockstar Games announced that Grand Theft Auto VI, set in a city modeled after Miami and referred to as Vice City, will be released on PlayStation ...",
+        "fullContent": "Rockstar Games announced that Grand Theft Auto VI, set in a city modeled after Miami and referred to as Vice City, will be released on PlayStation and Xbox this Thursday. A PC version is scheduled for the following year, and the game's installation file exceeds 200 gigabytes.\n\nFlorida resident Felix Jarquin said he has watched the trailers and is waiting to see how the game incorporates elements of Miami’s environment. He also mentioned that he and a group of friends plan to play together and explore the in‑game houses.\n\nGrand Theft Auto VI arrives more than 13 years after the franchise’s previous installment, and Rockstar describes it as the most detailed open‑world experience the series has produced to date."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI se lanza con ambientación inspirada en Miami",
+        "description": "Rockstar Games informó que Grand Theft Auto VI, ambientado en una ciudad basada en Miami y conocida como Vice City, estará disponible para PlayStat...",
+        "fullContent": "Rockstar Games informó que Grand Theft Auto VI, ambientado en una ciudad basada en Miami y conocida como Vice City, estará disponible para PlayStation y Xbox este jueves. Se espera una versión para PC el próximo año, y el archivo de instalación supera los 200 gigabytes.\n\nEl residente de Florida, Félix Jarquín, comentó que ha visto los tráilers y está a la espera de observar cómo el juego incorpora elementos del entorno de Miami. Añadió que él y un grupo de amigos jugarán juntos y explorarán las casas dentro del juego.\n\nGrand Theft Auto VI llega más de 13 años después de la entrega anterior de la franquicia, y Rockstar lo describe como la experiencia de mundo abierto más detallada que ha creado la serie hasta la fecha."
+      }
+    },
     {
       "id": "610d670651bb8c471568a6ca27ba3366",
       "tag": "NEWS",
