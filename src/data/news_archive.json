@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-18T15:26:34.681Z",
+  "lastUpdated": "2026-11-18T23:33:52.147Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "622082a9cd0cb7723c2ad2835a49c737",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-se-lanzara-el-19-de-noviembre-y-regresa-a-vice-city-con-dos-protagonistas",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-se-lanzara-el-19-de-noviembre-y-regresa-a-vice-city-con-dos-protagonistas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795015583100_798.jpg",
+      "link": "https://www.pbs.org/newshour/arts/the-long-wait-is-almost-over-heres-what-to-know-about-the-upcoming-release-of-grand-theft-auto-vi",
+      "en": {
+        "title": "Grand Theft Auto VI slated for November 19 release, returns to Vice City with two protagonists",
+        "description": "Jonathan Landrum Jr. reports for the Associated Press from Los Angeles that the next installment of the Grand Theft Auto series is scheduled to lau...",
+        "fullContent": "Jonathan Landrum Jr. reports for the Associated Press from Los Angeles that the next installment of the Grand Theft Auto series is scheduled to launch on November 19. The game will revisit the neon‑lit environment of Vice City and feature two playable characters, marking the franchise's first major release in 13 years.\nThe series, which began nearly three decades ago with a focus on car theft, police chases and open‑world crime, has maintained a prominent position in the entertainment market. A related report noted that the company behind the franchise recently acquired the FarmVille developer in a transaction valued at $12.7 billion."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI se lanzará el 19 de noviembre y regresa a Vice City con dos protagonistas",
+        "description": "Jonathan Landrum Jr., de la Associated Press, informó desde Los Ángeles que el próximo título de la serie Grand Theft Auto tiene previsto su lanzam...",
+        "fullContent": "Jonathan Landrum Jr., de la Associated Press, informó desde Los Ángeles que el próximo título de la serie Grand Theft Auto tiene previsto su lanzamiento el 19 de noviembre. El juego volverá al entorno iluminado por neones de Vice City y contará con dos personajes jugables, siendo la primera entrega principal en 13 años.\nLa franquicia, que surgió hace casi tres décadas centrada en el robo de autos, persecuciones policiales y un mundo abierto de actividades delictivas, sigue ocupando un lugar destacado en el sector del entretenimiento. En un informe relacionado se señaló que la empresa responsable del juego adquirió recientemente al desarrollador de FarmVille en una operación de 12.7 mil millones de dólares."
+      }
+    },
+    {
+      "id": "b08e25df657bffca0888efd2c717698a",
+      "tag": "NEWS",
+      "slug": "lanzamiento-previsto-de-gta-6-y-su-posicion-entre-los-diez-videojuegos-con-mayores-ingresos-historicos",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-previsto-de-gta-6-y-su-posicion-entre-los-diez-videojuegos-con-mayores-ingresos-historicos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795015586294_174.jpg",
+      "link": "https://www.gamingbible.com/news/highest-grossing-video-games-all-time-062882-20261116",
+      "en": {
+        "title": "GTA 6’s projected launch and its position among the ten highest‑grossing video games ever",
+        "description": "Grand Theft Auto VI is slated for a worldwide release on 19 November 2026 for PlayStation 5 and Xbox Series X/S. Industry estimates describe the la...",
+        "fullContent": "Grand Theft Auto VI is slated for a worldwide release on 19 November 2026 for PlayStation 5 and Xbox Series X/S. Industry estimates describe the launch as one of the largest entertainment releases to date, and the title is expected to generate significant sales and revenue for Rockstar Games and its parent company, Take‑Two Interactive.\n\nThe accompanying analysis identifies the ten video games that have generated the highest lifetime revenue, measured by the sum of full‑game sales, downloadable content, expansions, micro‑transactions and game‑linked subscriptions. The ranking excludes merchandise, hardware, adaptations and franchise‑wide earnings. Among the titles considered are Grand Theft Auto V (2013), Fortnite, Minecraft and Candy Crush Saga, along with several lesser‑known games that have achieved comparable financial results.\n\nThe article evaluates whether GTA VI could eventually surpass the current leaders in total revenue, based on the projected performance of its launch and subsequent monetisation streams."
+      },
+      "es": {
+        "title": "Lanzamiento previsto de GTA 6 y su posición entre los diez videojuegos con mayores ingresos históricos",
+        "description": "Grand Theft Auto VI tiene programado su lanzamiento mundial para el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X/S. Las estimaciones de...",
+        "fullContent": "Grand Theft Auto VI tiene programado su lanzamiento mundial para el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X/S. Las estimaciones de la industria describen este estreno como uno de los mayores lanzamientos de entretenimiento registrados, y se anticipa que generará ingresos considerables para Rockstar Games y su empresa matriz, Take‑Two Interactive.\n\nEl análisis asociado determina los diez videojuegos que han acumulado los mayores ingresos a lo largo de su vida útil, considerando la suma de ventas del juego completo, contenido descargable, expansiones, microtransacciones y suscripciones vinculadas directamente al juego. La clasificación excluye ingresos por merchandising, hardware, adaptaciones y ganancias de franquicias completas. Entre los títulos evaluados se encuentran Grand Theft Auto V (2013), Fortnite, Minecraft y Candy Crush Saga, junto a varios juegos menos conocidos que han alcanzado resultados financieros similares.\n\nEl artículo examina la posibilidad de que GTA VI supere eventualmente a los actuales líderes en ingresos totales, basándose en el desempeño proyectado de su lanzamiento y en los flujos de monetización posteriores."
+      }
+    },
+    {
+      "id": "e23de9a96edd407fa6b50a7a825938d8",
+      "tag": "NEWS",
+      "slug": "cinco-videojuegos-con-aperturas-destacadas",
+      "url": "https://www.godzgames.com/noticias/cinco-videojuegos-con-aperturas-destacadas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795015588441_311.jpg",
+      "link": "https://www.svg.com/2315869/best-video-game-openings-ranked/",
+      "en": {
+        "title": "Five Video Games Recognized for Notable Opening Sequences",
+        "description": "The article outlines a selection of five video game titles whose initial segments are highlighted for their ability to engage players from the begi...",
+        "fullContent": "The article outlines a selection of five video game titles whose initial segments are highlighted for their ability to engage players from the beginning. It notes that an effective opening can set the tone for the remainder of the experience and that the listed games each provide a distinct introductory moment, whether through gameplay or narrative elements.\n\nOne of the titles discussed is Super Mario 64. The piece explains that this installment introduced a three‑dimensional environment to the series, featuring an opening cutscene followed by player control of Mario in the courtyard of Peach's castle. The area is presented without enemies or hazards, allowing players to familiarize themselves with the game's controls and the new 3D navigation system."
+      },
+      "es": {
+        "title": "Cinco videojuegos con aperturas destacadas",
+        "description": "El artículo presenta una selección de cinco videojuegos cuyas secuencias iniciales se señalan por su capacidad para captar la atención del jugador ...",
+        "fullContent": "El artículo presenta una selección de cinco videojuegos cuyas secuencias iniciales se señalan por su capacidad para captar la atención del jugador desde el comienzo. Se indica que una apertura eficaz puede establecer la dirección del resto de la experiencia y que los juegos mencionados ofrecen un momento introductivo distintivo, ya sea mediante la jugabilidad o elementos narrativos.\n\nEntre los títulos analizados se encuentra Super Mario 64. Se describe que esta entrega introdujo un entorno tridimensional en la serie, comenzando con una breve escena de apertura y luego entregando al jugador el control de Mario en el patio del castillo de la princesa Peach. El área carece de enemigos y peligros, lo que permite al jugador familiarizarse con los controles y la navegación en tres dimensiones."
+      }
+    },
+    {
+      "id": "0663cca7c06de205a3113ed2f975358e",
+      "tag": "NEWS",
+      "slug": "empleado-de-rockstar-solicita-reconocimiento-sindical-tras-el-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/empleado-de-rockstar-solicita-reconocimiento-sindical-tras-el-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795015590961_494.jpg",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+      "en": {
+        "title": "Rockstar employee calls for union recognition following GTA VI launch",
+        "description": "Grand Theft Auto VI was released this week, marking the culmination of more than a decade of development. Nestor Uriarte, an animation programmer a...",
+        "fullContent": "Grand Theft Auto VI was released this week, marking the culmination of more than a decade of development. Nestor Uriarte, an animation programmer at Rockstar's Edinburgh studio, described his personal connection to the franchise and his role in its creation.\n\nA ballot is currently open for Rockstar employees to decide whether the union formed with colleagues should receive official recognition. Uriarte indicated that he intends to vote in favor of recognition, stating that it would provide employees with a formal mechanism to influence workplace conditions and could serve as a reference point for other workers in the United Kingdom's video‑game sector.\n\nThe statement referenced that Grand Theft Auto V has sold over 230 million copies and generated more than $10 billion in worldwide revenue, surpassing the earnings of many films. It added that the new installment is expected to exceed those figures, highlighting the contribution of thousands of staff members to the series."
+      },
+      "es": {
+        "title": "Empleado de Rockstar solicita reconocimiento sindical tras el lanzamiento de GTA VI",
+        "description": "Grand Theft Auto VI se lanzó esta semana, concluyendo más de una década de desarrollo. Nestor Uriarte, programador de animación en el estudio de Ro...",
+        "fullContent": "Grand Theft Auto VI se lanzó esta semana, concluyendo más de una década de desarrollo. Nestor Uriarte, programador de animación en el estudio de Rockstar en Edimburgo, relató su vínculo personal con la franquicia y su participación en su creación.\n\nActualmente está abierto un voto para que los empleados de Rockstar decidan si el sindicato que han formado con sus colegas debe obtener reconocimiento oficial. Uriarte indicó que tiene previsto votar a favor del reconocimiento, señalando que permitiría a los empleados contar con un mecanismo formal para influir en sus condiciones laborales y podría servir de referencia para otros trabajadores del sector de videojuegos en el Reino Unido.\n\nEl comunicado mencionó que Grand Theft Auto V ha vendido más de 230 millones de copias y ha generado más de 10 mil millones de dólares en ingresos a nivel mundial, superando a muchas producciones cinematográficas. Asimismo, se indicó que se espera que la nueva entrega supere esas cifras, subrayando la contribución de miles de personas al desarrollo de la saga."
+      }
+    },
+    {
+      "id": "a784d2f38089a64ba3e9974d18d552e6",
+      "tag": "NEWS",
+      "slug": "los-patriots-organizan-noche-de-videojuegos-para-veteranos-y-familias-militares",
+      "url": "https://www.godzgames.com/noticias/los-patriots-organizan-noche-de-videojuegos-para-veteranos-y-familias-militares/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795015594610_415.jpg",
+      "link": "https://www.cbsnews.com/boston/news/patriots-video-game-event-veterans-military/",
+      "en": {
+        "title": "Patriots hold video game night for veterans and military families",
+        "description": "The New England Patriots organized a video game night at Gillette Stadium on Tuesday, partnering with the nonprofit Frost Call, which focuses on co...",
+        "fullContent": "The New England Patriots organized a video game night at Gillette Stadium on Tuesday, partnering with the nonprofit Frost Call, which focuses on connecting military members and veterans through gaming. The event honored veterans and families of service members, including Jeffrey Glynn, who served 12 years as a combat medic and military police officer.\nGlynn said that after leaving the service many veterans experience isolation, and events like this can help them connect. Current and former Patriots players expressed appreciation for the opportunity to support the community. Offensive lineman Walter Rouse said the event allowed him to give back and bring smiles to participants, while former player Jonas Gray noted that playing video games creates immediate camaraderie among participants."
+      },
+      "es": {
+        "title": "Los Patriots organizan noche de videojuegos para veteranos y familias militares",
+        "description": "Los New England Patriots llevaron a cabo una noche de videojuegos en el Gillette Stadium el martes, en colaboración con la organización sin fines d...",
+        "fullContent": "Los New England Patriots llevaron a cabo una noche de videojuegos en el Gillette Stadium el martes, en colaboración con la organización sin fines de lucro Frost Call, dedicada a conectar a militares y veteranos mediante el juego. El evento rindió homenaje a veteranos y a las familias de los miembros del servicio, entre ellos Jeffrey Glynn, quien trabajó 12 años como médico de combate y oficial de policía militar.\nGlynn comentó que, al terminar el servicio, muchos veteranos se sienten aislados y que actividades como esta pueden ayudar a establecer vínculos. Jugadores actuales y anteriores de los Patriots manifestaron su agradecimiento por la oportunidad de apoyar a la comunidad. El liniero ofensivo Walter Rouse indicó que el evento le permitió devolver algo a la comunidad y generar sonrisas, mientras que el exjugador Jonas Gray señaló que jugar videojuegos genera una camaradería inmediata entre los participantes."
+      }
+    },
     {
       "id": "f45436e31cf69513c84c440418a875b3",
       "tag": "NEWS",
