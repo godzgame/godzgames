@@ -115,3 +115,23 @@ jobs:
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
 
+
+      # 8. Publicar las noticias nuevas en Telegram (despues del deploy, para que los enlaces ya abran)
+      - name: Publicar noticias nuevas en Telegram
+        continue-on-error: true
+        run: node scripts/post_telegram.cjs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      # 9. Guardar el registro de notas ya enviadas a Telegram
+      - name: Guardar registro de Telegram
+        continue-on-error: true
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/telegram_enviadas.json
+          git diff --staged --quiet \
+            && echo "Sin cambios en el registro de Telegram." \
+            || git commit -m "Auto-update: registro de Telegram [skip ci]"
+          git push || (git pull --rebase --autostash && git push) || echo "No se pudo subir el registro."
