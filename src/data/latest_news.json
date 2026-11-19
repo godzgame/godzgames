@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1795046817776,
+  "updatedAt": 1795102322982,
   "articles": [
     {
-      "id": "1009b4551277bb03842ae6b194635489",
+      "id": "24d5e9fae9dc1947a10a38ad48ddd12f",
       "tag": "NEWS",
-      "slug": "playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software",
-      "url": "https://www.godzgames.com/noticias/playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046804341_417.jpg",
-      "link": "https://www.nbcnews.com/nightly-news/video/outages-spread-to-video-games-as-government-officials-cite-software-patches-273773125706",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-que-no-juega-videojuegos-apuesta-1-mil-millones-por-el-lanzamiento-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-que-no-juega-videojuegos-apuesta-1-mil-millones-por-el-lanzamiento-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102311433_223.jpg",
+      "link": "https://fortune.com/article/grand-theft-auto-6-gta-strauss-zelnick-ceo-video-games-tech-take-two-interactive/",
       "en": {
-        "title": "PlayStation and Fortnite Experience Brief Outages, Officials Attribute to Software Updates",
-        "description": "PlayStation and the online game Fortnite experienced short-lived service interruptions, marking the latest incidents in a series of disruptions aff...",
-        "fullContent": "PlayStation and the online game Fortnite experienced short-lived service interruptions, marking the latest incidents in a series of disruptions affecting major technology platforms over the past week. The outages were brief and affected users of both services.\n\nGovernment officials have stated that the interruptions were not caused by a cyber‑attack. According to their statements, the outages resulted from software updates being applied as new artificial‑intelligence tools are used to identify and address system vulnerabilities.\n\nThe information was reported by Tom Costello of NBC News on November 18, 2026."
+        "title": "Take‑Two CEO Strauss Zelnick, who does not play video games, backs GTA VI launch with $1 billion bet",
+        "description": "Strauss Zelnick, a graduate of Harvard Law School and Harvard Business School, has been chief executive officer of Take‑Two Interactive Software si...",
+        "fullContent": "Strauss Zelnick, a graduate of Harvard Law School and Harvard Business School, has been chief executive officer of Take‑Two Interactive Software since 2011. Under his leadership the company’s share price rose from roughly $12 per share to $221 per share, an increase of about 1,700%, and net revenue grew from under $1 billion to $5.6 billion for the full year 2025.\n\nZelnick has said he does not play the games produced by Take‑Two, noting that he does not consider it necessary for a CEO to be a consumer‑in‑chief. He observes gameplay through others and has indicated that he watches others play the titles. The upcoming release of Grand Theft Auto VI this week is positioned as a major event for the publisher.\n\nAccording to Business Insider, Zelnick does not consume alcohol or tobacco and follows a regular exercise routine, sometimes working out twice a day."
       },
       "es": {
-        "title": "PlayStation y Fortnite sufren breves interrupciones, funcionarios atribuyen a actualizaciones de software",
-        "description": "PlayStation y el juego en línea Fortnite experimentaron interrupciones de servicio de corta duración, convirtiéndose en los últimos incidentes de u...",
-        "fullContent": "PlayStation y el juego en línea Fortnite experimentaron interrupciones de servicio de corta duración, convirtiéndose en los últimos incidentes de una serie de fallas que han afectado a plataformas tecnológicas importantes durante la última semana. Las interrupciones fueron breves y afectaron a los usuarios de ambos servicios.\n\nFuncionarios gubernamentales declararon que los incidentes no fueron el resultado de un ataque cibernético. Según sus declaraciones, las interrupciones se debieron a actualizaciones de software que se están realizando mientras se emplean nuevas herramientas de inteligencia artificial para identificar y corregir vulnerabilidades del sistema.\n\nLa información fue reportada por Tom Costello de NBC News el 18 de noviembre de 2026."
+        "title": "El CEO de Take‑Two, Strauss Zelnick, que no juega videojuegos, apuesta $1 mil millones por el lanzamiento de GTA VI",
+        "description": "Strauss Zelnick, egresado de la Facultad de Derecho y la Escuela de Negocios de Harvard, ocupa el cargo de director ejecutivo de Take‑Two Interacti...",
+        "fullContent": "Strauss Zelnick, egresado de la Facultad de Derecho y la Escuela de Negocios de Harvard, ocupa el cargo de director ejecutivo de Take‑Two Interactive Software desde 2011. Durante su gestión, el precio de la acción de la compañía pasó de aproximadamente $12 a $221 por acción, lo que representa un incremento cercano al 1.700%, y los ingresos netos crecieron de menos de $1 mil millones a $5,6 mil millones en el año completo 2025.\n\nZelnick ha manifestado que no juega a los videojuegos que publica Take‑Two, y ha señalado que no considera necesario que el director ejecutivo sea el consumidor principal. Señala que observa el juego a través de otras personas y ha mencionado que ve a otros jugar los títulos. La salida de Grand Theft Auto VI, programada para esta semana, constituye un evento importante para la editorial.\n\nSegún Business Insider, Zelnick no consume alcohol ni tabaco y mantiene una rutina de ejercicio regular, en ocasiones entrenando dos veces al día."
       }
     },
     {
       "id": "479d6ca287565c4b9d20292c8ee0cfcc",
       "tag": "NEWS",
-      "slug": "luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-lada-riva-primer-caso-reportado",
-      "url": "https://www.godzgames.com/noticias/luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-lada-riva-primer-caso-reportado/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046808508_387.jpg",
+      "slug": "luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-un-lada-riva",
+      "url": "https://www.godzgames.com/noticias/luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-un-lada-riva/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102314054_455.jpg",
       "link": "https://www.theautopian.com/video-games-in-taillights-is-a-new-trend-and-im-afraid-the-us-is-falling-behind/",
       "en": {
-        "title": "LED Matrix Taillights Display Snake Game on Lada Riva, First Reported Instance",
-        "description": "At approximately 3 a.m., the author was awakened by a cybernetically enhanced pelican used to monitor developments related to vehicle taillights. T...",
-        "fullContent": "At approximately 3 a.m., the author was awakened by a cybernetically enhanced pelican used to monitor developments related to vehicle taillights. The pelican projected an Instagram video onto the wall of the author's sleep pod.\n\nThe video, posted by Instagram user СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe), shows a Lada Riva/VAZ-2105 with its taillights replaced by LED matrix panels that are connected to a computer running the classic Snake game.\n\nThe author notes that while LCD screens and LED matrices have previously been employed in taillights for animated displays, this appears to be the first documented implementation of the Snake game on vehicle taillight hardware."
+        "title": "LED-Matrix Tail Lights Display Classic Snake Game on Lada Riva",
+        "description": "At approximately 3 a.m., the author reported being awakened by a cybernetically enhanced pelican used for monitoring tail‑light‑related development...",
+        "fullContent": "At approximately 3 a.m., the author reported being awakened by a cybernetically enhanced pelican used for monitoring tail‑light‑related developments. The author instructed the device to present its findings.\n\nThe device projected an Instagram video posted by the account СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe). The video shows a Lada Riva/VAZ‑2105 whose tail lights have been replaced with LED matrix panels that are connected to a computer running the classic Snake game.\n\nAccording to the author, while LED matrices have previously been used in tail lights for animated displays, this is the first reported implementation of the Snake game on a set of tail lights."
       },
       "es": {
-        "title": "Luces traseras con matriz LED reproducen el juego Snake en Lada Riva, primer caso reportado",
-        "description": "Alrededor de las 3 a.m., el autor fue despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relacionados con luce...",
-        "fullContent": "Alrededor de las 3 a.m., el autor fue despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relacionados con luces traseras de vehículos. El pelícano proyectó un video de Instagram en la pared de la cápsula de sueño del autor.\n\nEl video, publicado por el usuario de Instagram СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe), muestra una Lada Riva/VAZ‑2105 cuyas luces traseras han sido sustituidas por paneles de matriz LED conectados a un ordenador que ejecuta el juego clásico Snake.\n\nEl autor indica que, aunque pantallas LCD y matrices LED ya se han utilizado en luces traseras para mostrar animaciones, este parece ser el primer caso documentado de la integración del juego Snake en el hardware de las luces traseras de un vehículo."
+        "title": "Luces traseras con matriz LED reproducen el juego Snake en un Lada Riva",
+        "description": "Alrededor de las 3 a.m., el autor informó haber sido despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relaci...",
+        "fullContent": "Alrededor de las 3 a.m., el autor informó haber sido despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relacionados con luces traseras. El autor ordenó al dispositivo que mostrara lo encontrado.\n\nEl dispositivo proyectó un video de Instagram publicado por la cuenta СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe). En el video se observa un Lada Riva/VAZ‑2105 cuyas luces traseras han sido sustituidas por paneles de matriz LED conectados a un ordenador que ejecuta el juego clásico Snake.\n\nSegún el autor, aunque las matrices LED se han usado antes en luces traseras para mostrar animaciones, esta sería la primera implementación conocida del juego Snake en un conjunto de luces traseras."
+      }
+    },
+    {
+      "id": "1009b4551277bb03842ae6b194635489",
+      "tag": "NEWS",
+      "slug": "playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software",
+      "url": "https://www.godzgames.com/noticias/playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102317003_381.jpg",
+      "link": "https://www.nbcnews.com/nightly-news/video/outages-spread-to-video-games-as-government-officials-cite-software-patches-273773125706",
+      "en": {
+        "title": "PlayStation and Fortnite experience brief outages, officials attribute to software updates",
+        "description": "PlayStation and the online game Fortnite experienced brief service interruptions, adding to a series of disruptions affecting major technology plat...",
+        "fullContent": "PlayStation and the online game Fortnite experienced brief service interruptions, adding to a series of disruptions affecting major technology platforms over the past week. The outages were temporary and impacted users of both services.\n\nGovernment representatives stated that the interruptions were not caused by a cyberattack. According to NBC News reporter Tom Costello, officials indicated that the downtime resulted from software updates being applied as new artificial‑intelligence tools are used to identify system vulnerabilities. The report was published on November 18, 2026."
+      },
+      "es": {
+        "title": "PlayStation y Fortnite sufren breves interrupciones, funcionarios atribuyen a actualizaciones de software",
+        "description": "PlayStation y el juego en línea Fortnite experimentaron breves interrupciones de servicio, sumándose a una serie de fallas que han afectado a plata...",
+        "fullContent": "PlayStation y el juego en línea Fortnite experimentaron breves interrupciones de servicio, sumándose a una serie de fallas que han afectado a plataformas tecnológicas importantes durante la última semana. Las interrupciones fueron temporales y afectaron a los usuarios de ambos servicios.\n\nRepresentantes gubernamentales declararon que los incidentes no fueron provocados por un ciberataque. Según el reportero de NBC News Tom Costello, los funcionarios señalaron que la indisponibilidad se debió a actualizaciones de software que se están aplicando mientras se emplean nuevas herramientas de inteligencia artificial para identificar vulnerabilidades del sistema. La información se publicó el 18 de noviembre de 2026."
       }
     },
     {
       "id": "4c74e6939e6aa90b3de02bd468347fe0",
       "tag": "NEWS",
-      "slug": "trip-hawkins-consigue-el-nombre-de-john-madden-para-un-videojuego-de-futbol-en-1984",
-      "url": "https://www.godzgames.com/noticias/trip-hawkins-consigue-el-nombre-de-john-madden-para-un-videojuego-de-futbol-en-1984/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046811859_699.jpg",
+      "slug": "trip-hawkins-propone-a-john-madden-un-videojuego-en-1984-la-pelicula-madden-se-estrena-el-18-de-nov",
+      "url": "https://www.godzgames.com/noticias/trip-hawkins-propone-a-john-madden-un-videojuego-en-1984-la-pelicula-madden-se-estrena-el-18-de-nov/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102319969_542.jpg",
       "link": "https://time.com/article/2026/11/18/madden-movie-true-story-video-game-nfl/",
       "en": {
-        "title": "Trip Hawkins Secures John Madden's Name for 1984 Football Video Game Pitch",
-        "description": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by train from Denver to a meeting with John Madden, a former NFL coach and CBS football...",
-        "fullContent": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by train from Denver to a meeting with John Madden, a former NFL coach and CBS football commentator known for his on‑air presence. During the discussion, Hawkins explained that the 8‑bit home consoles of the time could not support a full 11‑v‑11 simulation, and he proposed developing a 7‑v‑7 version of the sport under Madden's name.\n\nMadden responded that a reduced version of football did not represent the sport accurately, rejecting the suggestion. Hawkins later recounted Madden's reaction, noting that Madden looked at him and said, \"That's not real football,\" and described Madden's serious demeanor during the conversation.\n\nThe origin of the Madden franchise is depicted in the third act of David O. Russell's upcoming film \"Madden,\" scheduled for release on November 18 in limited theaters and on Prime Video. The movie stars Nicholas Cage as John Madden, Christian Bale as Al Davis, and Kathryn Hahn as Madden's wife, Virginia, and includes scenes covering Madden's coaching career, his family life, and his transition to broadcasting."
+        "title": "Trip Hawkins pitches John Madden for video game in 1984; film 'Madden' releases Nov 18",
+        "description": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by Amtrak from Denver to meet John Madden, a CBS football commentator and commercial sp...",
+        "fullContent": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by Amtrak from Denver to meet John Madden, a CBS football commentator and commercial spokesperson. During the meeting Hawkins explained that the 8‑bit home consoles of the time could not support an 11‑v‑11 NFL simulation, and he suggested a 7‑v‑7 version of football instead. Madden responded that a reduced version of the sport would not be authentic, stating, “That’s not real football.”\n\nThe origins of the Madden video‑game franchise are depicted in the third act of David O. Russell’s upcoming sports drama titled \"Madden,\" scheduled to open in limited theaters and on Prime Video on November 18. The film features Nicholas Cage as John Madden, Christian Bale as Al Davis, and Kathryn Hahn as Madden’s wife Virginia, and it also covers Madden’s coaching tenure, his family life, and his transition to broadcasting for CBS."
       },
       "es": {
-        "title": "Trip Hawkins consigue el nombre de John Madden para un videojuego de fútbol en 1984",
-        "description": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren en Denver para reunirse con John Madden, exentrenador de la NFL y comentarista de ...",
-        "fullContent": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren en Denver para reunirse con John Madden, exentrenador de la NFL y comentarista de fútbol americano en CBS, reconocido por su presencia en la televisión. Durante la reunión, Hawkins explicó que las consolas domésticas de 8 bits de la época no podían reproducir un partido completo de 11 contra 11, y propuso crear una versión de 7 contra 7 bajo el nombre de Madden.\n\nMadden respondió que una versión reducida del fútbol americano no representaba el deporte de manera adecuada y rechazó la propuesta. Hawkins recordó que Madden lo miró y dijo: \"Eso no es fútbol real\", describiendo la actitud seria de Madden durante la conversación.\n\nEl origen de la franquicia Madden se muestra en el tercer acto de la película \"Madden\" del director David O. Russell, cuya salida está prevista para el 18 de noviembre en cines limitados y en Prime Video. La película cuenta con Nicholas Cage como John Madden, Christian Bale como Al Davis y Kathryn Hahn como Virginia, esposa de Madden, e incluye episodios de la carrera como entrenador, su vida familiar y su paso a la transmisión televisiva."
+        "title": "Trip Hawkins propone a John Madden un videojuego en 1984; la película 'Madden' se estrena el 18 de nov",
+        "description": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren Amtrak en Denver para reunirse con John Madden, comentarista de fútbol de CBS y po...",
+        "fullContent": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren Amtrak en Denver para reunirse con John Madden, comentarista de fútbol de CBS y portavoz publicitario. Hawkins explicó que las consolas domésticas de 8 bits de la época no podían reproducir un partido de la NFL con 11 contra 11 y propuso una versión de fútbol de 7 contra 7. Madden respondió que una versión reducida del deporte no era auténtica, diciendo: “Eso no es fútbol real”.\n\nLos inicios de la franquicia de videojuegos Madden aparecen en el tercer acto del drama deportivo \"Madden\", dirigido por David O. Russell y programado para estrenarse el 18 de noviembre en cines limitados y en Prime Video. La película cuenta con Nicholas Cage interpretando a John Madden, Christian Bale como Al Davis y Kathryn Hahn como Virginia, la esposa de Madden, y también aborda la carrera como entrenador de Madden, su vida familiar y su paso a la transmisión en CBS."
       }
     },
     {
-      "id": "d11edcc1c34116b1db95edc897f6c918",
+      "id": "eb287dbc6f97c411c1169f1efaa75b11",
       "tag": "NEWS",
-      "slug": "desarrolladores-indie-de-arkansas-brooke-y-david-condolora-presentan-su-proximo-juego-de-rompecabezas",
-      "url": "https://www.godzgames.com/noticias/desarrolladores-indie-de-arkansas-brooke-y-david-condolora-presentan-su-proximo-juego-de-rompecabezas/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046814500_58.jpg",
-      "link": "https://arktimes.com/arkansas-blog/2026/11/18/the-gamemakers-a-qa-with-rogers-based-video-game-developers-brooke-and-david-condolora",
+      "slug": "lanzamiento-de-grand-theft-auto-6-reaviva-debate-sobre-violencia-en-videojuegos",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-de-grand-theft-auto-6-reaviva-debate-sobre-violencia-en-videojuegos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102322882_541.jpg",
+      "link": "https://www.ky3.com/2026/11/19/grand-theft-auto-6-release-renews-debate-over-violent-video-games/",
       "en": {
-        "title": "Arkansas indie developers Brooke and David Condolora discuss upcoming puzzle game",
-        "description": "Brooke and David Condolora, a husband-and-wife team based in Rogers, Arkansas, operate the studio Brain&Brain. They met while studying at Harding U...",
-        "fullContent": "Brooke and David Condolora, a husband-and-wife team based in Rogers, Arkansas, operate the studio Brain&Brain. They met while studying at Harding University, later moved to California where they released the 2016 title Burly Men at Sea, which was included in a Smithsonian exhibit and listed among TIME's top 15 games of the year. After returning to Northwest Arkansas, the Condoloras have been developing games and organizing the annual OZ Play convention for local developers.\nTheir next project, The Marvelous Raincaster of Yell Holler, is a storybook‑style puzzle game inspired by Ozark folklore and scheduled for release in 2027. The gameplay involves controlling a rooster through illustrated environments rendered in Brooke's minimalist aesthetic. A demo has been released, the team partnered with Onyx Coffee on an Advent calendar, and they will attend the AdventureX convention in London to present the title. In an interview, David described the game as a storytelling experience structured like a song, while Brooke noted its early‑1900s setting and emphasis on folk narrative techniques."
+        "title": "Grand Theft Auto 6 launches, reviving discussion on video game violence",
+        "description": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 became available to players at 11 p.m. local time, marking the first installment in the series since th...",
+        "fullContent": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 became available to players at 11 p.m. local time, marking the first installment in the series since the release of Grand Theft Auto 5 thirteen years ago. Local gamers described the launch as highly anticipated, with Jared Hines stating, “Stuff like this doesn’t happen very often, like this is arguably the most anticipated game of all time.” Emma Pottberg added that she informed her managers of her intention to play the new title and would be taking time off for it.\n\nThe Grand Theft Auto series allows players to engage in activities such as stealing vehicles, confronting police officers, and harming pedestrians. The release has renewed a long‑standing conversation about the impact of violent video games on players. Brad Bushman, a professor of communication at The Ohio State University, noted that video games differ from other media in how they are experienced."
       },
       "es": {
-        "title": "Desarrolladores indie de Arkansas, Brooke y David Condolora, presentan su próximo juego de rompecabezas",
-        "description": "Brooke y David Condolora, una pareja de desarrolladores de videojuegos con sede en Rogers, Arkansas, dirigen el estudio Brain&Brain. Se conocieron ...",
-        "fullContent": "Brooke y David Condolora, una pareja de desarrolladores de videojuegos con sede en Rogers, Arkansas, dirigen el estudio Brain&Brain. Se conocieron en la Universidad Harding, se trasladaron a California después de graduarse y en 2016 lanzaron el juego Burly Men at Sea, que fue incluido en una exposición del Smithsonian y seleccionado por TIME entre los 15 mejores juegos del año. Tras regresar al noroeste de Arkansas, los Condolora continúan creando juegos y organizan la convención anual OZ Play para desarrolladores locales.\nSu próximo título, The Marvelous Raincaster of Yell Holler, es un juego de rompecabezas con estilo de libro ilustrado, inspirado en el folklore de los Ozarks y programado para su lanzamiento en 2027. El jugador controla un gallo que recorre entornos dibujados con el estilo minimalista de Brooke. Ya se ha publicado una demo, el estudio colaboró con Onyx Coffee en un calendario de adviento y se preparan para asistir a la convención AdventureX en Londres para presentar el juego. En la entrevista, David explicó que el juego aborda la narración como una canción, mientras que Brooke señaló que, ambientado a principios del siglo XX, se centra en la forma en que se contaban las historias populares."
-      }
-    },
-    {
-      "id": "3bca86697f459e6791687b40b6ddc70b",
-      "tag": "NEWS",
-      "slug": "lanzamiento-de-gta-vi-reaviva-debate-sobre-violencia-en-videojuegos-y-agresion-en-la-vida-real",
-      "url": "https://www.godzgames.com/noticias/lanzamiento-de-gta-vi-reaviva-debate-sobre-violencia-en-videojuegos-y-agresion-en-la-vida-real/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046817676_618.jpg",
-      "link": "https://www.nationalreview.com/corner/don-t-fear-gta-vi-violent-video-games-do-not-beget-real-world-violence",
-      "en": {
-        "title": "GTA VI release reignites debate over video-game violence and real-world aggression",
-        "description": "The upcoming release of Grand Theft Auto VI has brought back the recurring claim that violent video games inspire real-world violence and that poli...",
-        "fullContent": "The upcoming release of Grand Theft Auto VI has brought back the recurring claim that violent video games inspire real-world violence and that political or regulatory measures may be needed. The article observes that individuals who challenge this claim often face strong rebuttals from those who regard the connection as a matter of belief, describing it as an article of faith that fuels intense discussion. The commentary is written by Noah Rothman, a senior writer at National Review, whose third book, Blood and Progress: A Century of Left-Wing Violence, was published by Hachette in May 2026."
-      },
-      "es": {
-        "title": "Lanzamiento de GTA VI reaviva debate sobre violencia en videojuegos y agresión en la vida real",
-        "description": "El próximo lanzamiento de Grand Theft Auto VI ha traído de nuevo la afirmación recurrente de que los videojuegos violentos inspiran violencia en el...",
-        "fullContent": "El próximo lanzamiento de Grand Theft Auto VI ha traído de nuevo la afirmación recurrente de que los videojuegos violentos inspiran violencia en el mundo real y que podrían ser necesarias medidas políticas o regulatorias. El artículo señala que quienes cuestionan esta afirmación a menudo reciben respuestas enérgicas de quienes la consideran una cuestión de fe, describiéndola como un artículo de creencia que alimenta un debate intenso. El comentario está escrito por Noah Rothman, escritor senior de National Review, cuyo tercer libro, Blood and Progress: A Century of Left-Wing Violence, fue publicado por Hachette en mayo de 2026."
+        "title": "Lanzamiento de Grand Theft Auto 6 reaviva debate sobre violencia en videojuegos",
+        "description": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 estuvo disponible para los jugadores a las 11 p.m. hora local, marcando la primera entrega de la serie ...",
+        "fullContent": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 estuvo disponible para los jugadores a las 11 p.m. hora local, marcando la primera entrega de la serie desde el lanzamiento de Grand Theft Auto 5 hace trece años. Los jugadores locales describieron el estreno como muy esperado; Jared Hines comentó: “Este tipo de cosas no ocurre muy a menudo, como que es, posiblemente, el juego más anticipado de todos los tiempos”. Emma Pottberg señaló que informó a sus supervisores que jugaría el nuevo título y que se tomaría un tiempo libre para ello.\n\nLa serie Grand Theft Auto permite a los jugadores realizar acciones como robar vehículos, enfrentarse a la policía y dañar a peatones. El lanzamiento ha reavivado una conversación prolongada sobre el efecto de los videojuegos violentos en los jugadores. Brad Bushman, profesor de comunicación en la Universidad Estatal de Ohio, indicó que los videojuegos se diferencian de otros medios en la forma en que se experimentan."
       }
     }
   ]

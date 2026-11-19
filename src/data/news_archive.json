@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-19T00:06:57.763Z",
+  "lastUpdated": "2026-11-19T15:32:02.953Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "d11edcc1c34116b1db95edc897f6c918",
+      "tag": "NEWS",
+      "slug": "desarrolladores-indie-de-arkansas-brooke-y-david-condolora-presentan-su-proximo-juego-de-rompecabezas",
+      "url": "https://www.godzgames.com/noticias/desarrolladores-indie-de-arkansas-brooke-y-david-condolora-presentan-su-proximo-juego-de-rompecabezas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046814500_58.jpg",
+      "link": "https://arktimes.com/arkansas-blog/2026/11/18/the-gamemakers-a-qa-with-rogers-based-video-game-developers-brooke-and-david-condolora",
+      "en": {
+        "title": "Arkansas indie developers Brooke and David Condolora discuss upcoming puzzle game",
+        "description": "Brooke and David Condolora, a husband-and-wife team based in Rogers, Arkansas, operate the studio Brain&Brain. They met while studying at Harding U...",
+        "fullContent": "Brooke and David Condolora, a husband-and-wife team based in Rogers, Arkansas, operate the studio Brain&Brain. They met while studying at Harding University, later moved to California where they released the 2016 title Burly Men at Sea, which was included in a Smithsonian exhibit and listed among TIME's top 15 games of the year. After returning to Northwest Arkansas, the Condoloras have been developing games and organizing the annual OZ Play convention for local developers.\nTheir next project, The Marvelous Raincaster of Yell Holler, is a storybook‑style puzzle game inspired by Ozark folklore and scheduled for release in 2027. The gameplay involves controlling a rooster through illustrated environments rendered in Brooke's minimalist aesthetic. A demo has been released, the team partnered with Onyx Coffee on an Advent calendar, and they will attend the AdventureX convention in London to present the title. In an interview, David described the game as a storytelling experience structured like a song, while Brooke noted its early‑1900s setting and emphasis on folk narrative techniques."
+      },
+      "es": {
+        "title": "Desarrolladores indie de Arkansas, Brooke y David Condolora, presentan su próximo juego de rompecabezas",
+        "description": "Brooke y David Condolora, una pareja de desarrolladores de videojuegos con sede en Rogers, Arkansas, dirigen el estudio Brain&Brain. Se conocieron ...",
+        "fullContent": "Brooke y David Condolora, una pareja de desarrolladores de videojuegos con sede en Rogers, Arkansas, dirigen el estudio Brain&Brain. Se conocieron en la Universidad Harding, se trasladaron a California después de graduarse y en 2016 lanzaron el juego Burly Men at Sea, que fue incluido en una exposición del Smithsonian y seleccionado por TIME entre los 15 mejores juegos del año. Tras regresar al noroeste de Arkansas, los Condolora continúan creando juegos y organizan la convención anual OZ Play para desarrolladores locales.\nSu próximo título, The Marvelous Raincaster of Yell Holler, es un juego de rompecabezas con estilo de libro ilustrado, inspirado en el folklore de los Ozarks y programado para su lanzamiento en 2027. El jugador controla un gallo que recorre entornos dibujados con el estilo minimalista de Brooke. Ya se ha publicado una demo, el estudio colaboró con Onyx Coffee en un calendario de adviento y se preparan para asistir a la convención AdventureX en Londres para presentar el juego. En la entrevista, David explicó que el juego aborda la narración como una canción, mientras que Brooke señaló que, ambientado a principios del siglo XX, se centra en la forma en que se contaban las historias populares."
+      }
+    },
+    {
+      "id": "3bca86697f459e6791687b40b6ddc70b",
+      "tag": "NEWS",
+      "slug": "lanzamiento-de-gta-vi-reaviva-debate-sobre-violencia-en-videojuegos-y-agresion-en-la-vida-real",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-de-gta-vi-reaviva-debate-sobre-violencia-en-videojuegos-y-agresion-en-la-vida-real/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795046817676_618.jpg",
+      "link": "https://www.nationalreview.com/corner/don-t-fear-gta-vi-violent-video-games-do-not-beget-real-world-violence",
+      "en": {
+        "title": "GTA VI release reignites debate over video-game violence and real-world aggression",
+        "description": "The upcoming release of Grand Theft Auto VI has brought back the recurring claim that violent video games inspire real-world violence and that poli...",
+        "fullContent": "The upcoming release of Grand Theft Auto VI has brought back the recurring claim that violent video games inspire real-world violence and that political or regulatory measures may be needed. The article observes that individuals who challenge this claim often face strong rebuttals from those who regard the connection as a matter of belief, describing it as an article of faith that fuels intense discussion. The commentary is written by Noah Rothman, a senior writer at National Review, whose third book, Blood and Progress: A Century of Left-Wing Violence, was published by Hachette in May 2026."
+      },
+      "es": {
+        "title": "Lanzamiento de GTA VI reaviva debate sobre violencia en videojuegos y agresión en la vida real",
+        "description": "El próximo lanzamiento de Grand Theft Auto VI ha traído de nuevo la afirmación recurrente de que los videojuegos violentos inspiran violencia en el...",
+        "fullContent": "El próximo lanzamiento de Grand Theft Auto VI ha traído de nuevo la afirmación recurrente de que los videojuegos violentos inspiran violencia en el mundo real y que podrían ser necesarias medidas políticas o regulatorias. El artículo señala que quienes cuestionan esta afirmación a menudo reciben respuestas enérgicas de quienes la consideran una cuestión de fe, describiéndola como un artículo de creencia que alimenta un debate intenso. El comentario está escrito por Noah Rothman, escritor senior de National Review, cuyo tercer libro, Blood and Progress: A Century of Left-Wing Violence, fue publicado por Hachette en mayo de 2026."
+      }
+    },
     {
       "id": "99498564fcb918352f9a9ddc0fce2f33",
       "tag": "NEWS",
