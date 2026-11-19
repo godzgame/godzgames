@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-18T23:33:52.147Z",
+  "lastUpdated": "2026-11-19T00:06:57.763Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "99498564fcb918352f9a9ddc0fce2f33",
+      "tag": "NEWS",
+      "slug": "se-reportan-interrupciones-en-playstation-network-antes-del-lanzamiento-de-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/se-reportan-interrupciones-en-playstation-network-antes-del-lanzamiento-de-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795044812690_379.jpg",
+      "link": "https://www.wral.com/news/local/outage-hits-playstation-network-on-eve-grand-theft-auto-vi-release-november-2026/",
+      "en": {
+        "title": "PlayStation Network experiences outage reports on eve of Grand Theft Auto VI launch",
+        "description": "Multiple sources indicate that at least a thousand PlayStation users encountered connection problems on the day before the release of Grand Theft A...",
+        "fullContent": "Multiple sources indicate that at least a thousand PlayStation users encountered connection problems on the day before the release of Grand Theft Auto VI. DownDetector, a service that monitors network disruptions, recorded more than 1,500 users reporting difficulty accessing PlayStation Network.\n\nPlayStation's own status page listed all services as operational at the same time. WRAL News has reached out to Sony Interactive Entertainment for comment. The reported outage occurred a few hours prior to the launch of Grand Theft Auto VI, a title that has been in development for several years and is described as one of the most anticipated games. The franchise has sold over 470 million copies worldwide, with Grand Theft Auto V accounting for more than 230 million of those sales and achieving $1 billion in retail revenue within three days of its release."
+      },
+      "es": {
+        "title": "Se reportan interrupciones en PlayStation Network antes del lanzamiento de Grand Theft Auto VI",
+        "description": "Diversas fuentes indican que al menos mil usuarios de PlayStation experimentaron problemas de conexión en la víspera del lanzamiento de Grand Theft...",
+        "fullContent": "Diversas fuentes indican que al menos mil usuarios de PlayStation experimentaron problemas de conexión en la víspera del lanzamiento de Grand Theft Auto VI. DownDetector, una herramienta que monitorea interrupciones de red, señaló que más de 1 500 clientes tenían dificultades para acceder a PlayStation Network.\n\nEl sitio de estado de PlayStation mostraba todos los servicios como operativos en ese mismo momento. WRAL News ha contactado a Sony Interactive Entertainment para solicitar información. La interrupción se reportó unas horas antes del estreno de Grand Theft Auto VI, un juego en desarrollo desde hace varios años y descrito como uno de los más esperados. La franquicia ha vendido más de 470 millones de unidades a nivel mundial; Grand Theft Auto V representa más de 230 millones de esas ventas y alcanzó mil millones de dólares en ventas minoristas en los primeros tres días tras su lanzamiento."
+      }
+    },
+    {
+      "id": "0780ea26df8f17d16d489f8fbe4f0d2e",
+      "tag": "NEWS",
+      "slug": "lanzamiento-de-gta-vi-previsto-para-generar-82-mil-millones-senala-cuestiones-de-acceso-juvenil-y-comunicacion-en-linea",
+      "url": "https://www.godzgames.com/noticias/lanzamiento-de-gta-vi-previsto-para-generar-82-mil-millones-senala-cuestiones-de-acceso-juvenil-y-comunicacion-en-linea/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795044829236_754.jpg",
+      "link": "https://bhr.stern.nyu.edu/quick-take/gta-vi-shouldnt-spark-a-moral-panic-it-should-spark-new-rules/",
+      "en": {
+        "title": "GTA VI Launch Projected to Generate $8.2 Billion, Highlights Youth Access and Online Interaction Issues",
+        "description": "Rockstar Games’ next installment, Grand Theft Auto VI, is scheduled for release on November 19. The title is set in a virtual recreation of Vice Ci...",
+        "fullContent": "Rockstar Games’ next installment, Grand Theft Auto VI, is scheduled for release on November 19. The title is set in a virtual recreation of Vice City, a coastal environment, and Take‑Two Interactive has projected that the launch could produce up to $8.2 billion in revenue from new and returning customers.\n\nThe Entertainment Software Rating Board assigned the game an M (Mature) rating, citing depictions of intense violence, strong sexual content, and drug use. The rating system continues to be used to determine age suitability for video‑game content, a practice that originated after congressional hearings on video‑game violence in the early 1990s.\n\nResearch over several decades has not established a causal link between video‑game play and real‑world violence. The article notes that multiplayer titles also function as social platforms, allowing players to communicate via text and voice, view public profiles, and exchange messages. Studies cited by the online‑safety firm Resolver indicate that such communication channels can be used by predators to initiate high‑risk conversations with minors within seconds."
+      },
+      "es": {
+        "title": "Lanzamiento de GTA VI Previsto para Generar $8.2 Mil millones, Señala Cuestiones de Acceso Juvenil y Comunicación en Línea",
+        "description": "Grand Theft Auto VI, el próximo título de Rockstar Games, tiene programada su salida para el 19 de noviembre. El juego recrea una versión virtual d...",
+        "fullContent": "Grand Theft Auto VI, el próximo título de Rockstar Games, tiene programada su salida para el 19 de noviembre. El juego recrea una versión virtual de Vice City, una zona costera, y Take‑Two Interactive ha estimado que el lanzamiento podría generar hasta 8.200 millones de dólares en ingresos provenientes de clientes nuevos y recurrentes.\n\nEl Entertainment Software Rating Board calificó el juego con una etiqueta M (Mature), indicando la presencia de violencia intensa, contenido sexual fuerte y consumo de drogas. El sistema de clasificación sigue utilizándose para determinar la idoneidad por edad del contenido de los videojuegos, una práctica que se instauró tras audiencias del Congreso sobre la violencia en los juegos a principios de los años noventa.\n\nEstudios realizados durante varias décadas no han demostrado una relación causal entre el juego y la violencia en la vida real. El artículo menciona que los títulos multijugador también funcionan como plataformas sociales, permitiendo a los usuarios comunicarse mediante texto y voz, consultar perfiles públicos y enviar mensajes directos. Según la firma de seguridad en línea Resolver, esos canales de comunicación pueden ser empleados por depredadores para iniciar conversaciones de alto riesgo con menores en cuestión de segundos."
+      }
+    },
     {
       "id": "622082a9cd0cb7723c2ad2835a49c737",
       "tag": "NEWS",
