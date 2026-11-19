@@ -65,6 +65,9 @@ const generateSitemap = () => {
   // 2. URLs de los videojuegos
   games.forEach(game => {
     if (!game.id) return;
+    // SITEMAP_SOLO_CON_CARATULA: solo se listan juegos con caratula real
+    const tieneCaratula = (typeof game.customCover === 'string' && game.customCover.startsWith('http')) || (typeof game.cover === 'string' && game.cover.startsWith('http'));
+    if (tieneCaratula === false) return;
     
     // Crear la ruta según el tipo de enrutador
     const gamePath = `/?game=${game.id}`;

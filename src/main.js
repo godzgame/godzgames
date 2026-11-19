@@ -21,6 +21,22 @@ document.addEventListener('DOMContentLoaded', async () => {
     link.setAttribute("href", url);
   };
 
+  // NOINDEX_SIN_CARATULA: marca noindex en las paginas de juegos sin caratula real
+  window.setNoIndex = (activo) => {
+    let meta = document.querySelector("meta[name='robots'][data-godz='1']");
+    if (activo) {
+      if (meta === null) {
+        meta = document.createElement('meta');
+        meta.setAttribute('name', 'robots');
+        meta.setAttribute('data-godz', '1');
+        document.head.appendChild(meta);
+      }
+      meta.setAttribute('content', 'noindex,follow');
+    } else if (meta !== null) {
+      meta.remove();
+    }
+  };
+
   window.navigateTo = (e, path) => {
     if (e) e.preventDefault();
     window.history.pushState(null, '', path);
@@ -1357,6 +1373,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       ? shuffledGames 
       : shuffledGames.filter(g => g.console === currentCategory);
 
+    // PORTADA_SOLO_CON_CARATULA: en TODO sin busqueda solo se muestran juegos con caratula real
+    if (currentCategory === 'ALL' && searchQuery.trim().length === 0) {
+      filteredGames = filteredGames.filter(g => (typeof g.customCover === 'string' && g.customCover.startsWith('http')) || (typeof g.cover === 'string' && g.cover.startsWith('http')));
+    }
+
     // Apply search filter if query is not empty
     if (searchQuery.trim().length > 0) {
       const query = searchQuery.toLowerCase().trim();
@@ -1600,6 +1621,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Render Game Details View
   const renderGamePage = (game) => {
+    if (window.setNoIndex) {
+      const caratulaReal = (typeof game.customCover === 'string' && game.customCover.startsWith('http')) || (typeof game.cover === 'string' && game.cover.startsWith('http'));
+      window.setNoIndex(caratulaReal === false);
+    }
     homeView.style.display = 'none';
     gameView.style.display = 'block';
     
@@ -2237,6 +2262,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const articleIdParam = urlParams.get('article');
     const initialArticleId = window.INITIAL_ARTICLE_ID;
     const hash = window.location.hash;
+    if (window.setNoIndex) window.setNoIndex(false);
 
     // Backward compatibility for old hash links
     if (hash.startsWith('#/game/')) {
