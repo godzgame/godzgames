@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-20T15:10:57.784Z",
+  "lastUpdated": "2026-11-20T23:52:03.946Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "dec77be8f1f0ea034e8ba86bf5903934",
+      "tag": "NEWS",
+      "slug": "los-27-mejores-videojuegos-de-2026-hasta-la-fecha",
+      "url": "https://www.godzgames.com/noticias/los-27-mejores-videojuegos-de-2026-hasta-la-fecha/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795187447349_439.jpg",
+      "link": "https://www.esquire.com/entertainment/a74481334/best-video-games-to-play-2026/",
+      "en": {
+        "title": "27 Top Video Games of 2026 (So Far)",
+        "description": "Esquire’s editors compiled a list of twenty‑seven video games released before Thursday, November 19, 2026. The list includes Grand Theft Auto VI, w...",
+        "fullContent": "Esquire’s editors compiled a list of twenty‑seven video games released before Thursday, November 19, 2026. The list includes Grand Theft Auto VI, which has required a substantial amount of playtime since its launch. The article also notes that the video‑game industry continues to face economic challenges, with several studios reporting downsizing, budget reductions, and staff layoffs, including developers working on Grand Theft Auto VI.\n\nAmong the titles highlighted are the Nintendo remake of The Legend of Zelda: Ocarina of Time with updated graphics, Resident Evil Requiem, which combines third‑person action and first‑person survival‑horror perspectives, and action games such as 007 First Light, Control Resonant, and Onimusha: Way of the Sword. The article also mentions the coming‑of‑age game Mixtape and a Pokémon spin‑off focused on town building and environmental protection, which has achieved the highest rating in the franchise’s thirty‑year history."
+      },
+      "es": {
+        "title": "Los 27 Mejores Videojuegos de 2026 (Hasta la Fecha)",
+        "description": "Los editores de Esquire elaboraron una lista de veintisiete videojuegos publicados antes del jueves 19 de noviembre de 2026. La lista incluye Grand...",
+        "fullContent": "Los editores de Esquire elaboraron una lista de veintisiete videojuegos publicados antes del jueves 19 de noviembre de 2026. La lista incluye Grand Theft Auto VI, cuyo lanzamiento ha demandado una considerable cantidad de horas de juego. El artículo también indica que la industria del videojuego sigue enfrentando dificultades económicas, con varios estudios reportando reducciones de personal, recortes de presupuesto y despidos, entre ellos los desarrolladores de Grand Theft Auto VI.\n\nEntre los títulos señalados se encuentran la remake de Nintendo de The Legend of Zelda: Ocarina of Time con gráficos actualizados, Resident Evil Requiem, que combina acción en tercera persona y supervivencia en primera persona, y juegos de acción como 007 First Light, Control Resonant y Onimusha: Way of the Sword. Además, se menciona el juego de llegada a la adultez Mixtape y un spin‑off de Pokémon centrado en la construcción de pueblos y la protección del medio ambiente, que ha obtenido la calificación más alta en los treinta años de historia de la franquicia."
+      }
+    },
+    {
+      "id": "b03ecfc4d5452bc3e009d72e35a63d9a",
+      "tag": "NEWS",
+      "slug": "el-representante-tim-burchett-dice-que-permitir-que-los-ninos-jueguen-gta-6-convierte-a-un-padre-en-malo",
+      "url": "https://www.godzgames.com/noticias/el-representante-tim-burchett-dice-que-permitir-que-los-ninos-jueguen-gta-6-convierte-a-un-padre-en-malo/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795187450704_82.jpg",
+      "link": "https://thehill.com/homenews/house/6232789-gop-rep-warns-parents-gta-6/",
+      "en": {
+        "title": "Rep. Tim Burchett says allowing children to play GTA 6 makes a parent “bad”",
+        "description": "U.S. Representative Tim Burchett (R‑Tennessee) told TMZ that parents who permit their children to play the newly released video game Grand Theft Au...",
+        "fullContent": "U.S. Representative Tim Burchett (R‑Tennessee) told TMZ that parents who permit their children to play the newly released video game Grand Theft Auto VI are, in his view, “bad parents.” The comment was made during an interview with TMZ’s Jacob Wasserman and was shared on social media by the outlet.\n\nGrand Theft Auto VI launched on Thursday, marking the first main entry in the series in 13 years. The game carries a Mature rating and offers an open‑world environment in which players can engage in a variety of activities, including violent and sexual content.\n\nFox News commentators also addressed the release. Rosanna Scotto, anchor for Fox 5 New York, questioned what behaviors the game might teach children, citing examples such as stealing cars, shooting, and other illegal actions, and asked whether the game could affect perceptions of crime."
+      },
+      "es": {
+        "title": "El representante Tim Burchett dice que permitir que los niños jueguen GTA 6 convierte a un padre en “malo”",
+        "description": "El representante estadounidense Tim Burchett (R‑Tennessee) declaró a TMZ que los padres que permiten a sus hijos jugar al recién lanzado videojuego...",
+        "fullContent": "El representante estadounidense Tim Burchett (R‑Tennessee) declaró a TMZ que los padres que permiten a sus hijos jugar al recién lanzado videojuego Grand Theft Auto VI son, en su opinión, \"padres malos\". El comentario se realizó durante una entrevista con Jacob Wasserman de TMZ y fue difundido en redes sociales por el medio.\n\nGrand Theft Auto VI se lanzó el jueves, siendo la primera entrega principal de la serie en 13 años. El juego tiene una clasificación para adultos (M) y ofrece un entorno de mundo abierto donde los jugadores pueden participar en diversas actividades, incluidas contenido violento y sexual.\n\nComentadores de Fox News también abordaron el lanzamiento. Rosanna Scotto, presentadora de Fox 5 Nueva York, preguntó qué conductas podría estar enseñando el juego a los niños, citando ejemplos como robar autos, disparar y otras acciones ilegales, y se cuestionó si el juego podría influir en la percepción del delito."
+      }
+    },
+    {
+      "id": "c603cb19acafa7715c6c27dcb97dfba4",
+      "tag": "NEWS",
+      "slug": "gta-vi-incorpora-mecanicas-de-relacion-con-los-protagonistas-jason-y-lucia",
+      "url": "https://www.godzgames.com/noticias/gta-vi-incorpora-mecanicas-de-relacion-con-los-protagonistas-jason-y-lucia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795187453521_615.jpg",
+      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "en": {
+        "title": "GTA VI adds relationship mechanics with protagonists Jason and Lucia",
+        "description": "Rockstar Games released Grand Theft Auto VI, the newest entry in the series, featuring two protagonists, Jason and Lucia, whose story begins with b...",
+        "fullContent": "Rockstar Games released Grand Theft Auto VI, the newest entry in the series, featuring two protagonists, Jason and Lucia, whose story begins with both attempting to hijack the same vehicle. The game is set in a fictionalized version of South Florida and includes optional missions that let players influence the couple's emotional bond through actions such as delivering flowers, buying groceries, getting a haircut or beard trim, gifting jewelry, repainting walls, and engaging in sexual encounters.\n\nA number of gamers have voiced criticism on social media, with a verified user on X posting a screenshot of a mission that shows a flower delivery increasing affection and describing the game as \"woke slop.\" According to reports, the title is approaching 20 million copies sold and approximately $2 billion in revenue shortly after its launch."
+      },
+      "es": {
+        "title": "GTA VI incorpora mecánicas de relación con los protagonistas Jason y Lucia",
+        "description": "Rockstar Games lanzó Grand Theft Auto VI, la última entrega de la saga, con dos protagonistas, Jason y Lucia, cuyo encuentro inicial ocurre cuando ...",
+        "fullContent": "Rockstar Games lanzó Grand Theft Auto VI, la última entrega de la saga, con dos protagonistas, Jason y Lucia, cuyo encuentro inicial ocurre cuando ambos intentan robar el mismo coche. El juego se desarrolla en una versión ficticia del sur de Florida e incluye misiones opcionales que permiten al jugador influir en el vínculo emocional de la pareja mediante acciones como entregar flores, comprar comestibles, cortarse el pelo o arreglar la barba, regalar joyas, pintar paredes y mantener relaciones sexuales.\n\nVarios jugadores han expresado críticas en redes sociales; un usuario verificado en X compartió una captura de pantalla de una misión que muestra la entrega de flores y la aumenta el afecto, calificando al juego de \"woke slop\". Según los informes, el título está cercano a los 20 millones de copias vendidas y a unos 2 mil millones de dólares en ingresos poco después de su lanzamiento."
+      }
+    },
+    {
+      "id": "5b2fb6ccb5cd456ce0dffc97feadd1c5",
+      "tag": "NEWS",
+      "slug": "actor-de-voz-veterano-tim-powers-colabora-en-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/actor-de-voz-veterano-tim-powers-colabora-en-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795187455081_925.jpg",
+      "link": "https://13wham.com/news/local/fairport-voice-actor-featured-in-grand-theft-auto-vi-gta-6-tim-powers-rockstar-games-video-game-release",
+      "en": {
+        "title": "Veteran voice actor Tim Powers contributes to Grand Theft Auto VI",
+        "description": "Rochester, N.Y. (WHAM) – After a 13-year development period, Grand Theft Auto VI has been released. Tim Powers, a voice actor based in Fairport, pe...",
+        "fullContent": "Rochester, N.Y. (WHAM) – After a 13-year development period, Grand Theft Auto VI has been released. Tim Powers, a voice actor based in Fairport, performed the voices of two characters in the game.\nPowers said the project is the largest of his career, noting that he recorded his lines two years ago and was required to keep his involvement confidential until the game's launch. He also mentioned that the production introduced him to new technology, including facial performance capture."
+      },
+      "es": {
+        "title": "Actor de voz veterano Tim Powers colabora en Grand Theft Auto VI",
+        "description": "Rochester, N.Y. (WHAM) – Tras una espera de 13 años, Grand Theft Auto VI se ha lanzado. Tim Powers, actor de voz de Fairport, dio vida a dos person...",
+        "fullContent": "Rochester, N.Y. (WHAM) – Tras una espera de 13 años, Grand Theft Auto VI se ha lanzado. Tim Powers, actor de voz de Fairport, dio vida a dos personajes del juego.\nPowers afirmó que se trata del proyecto más grande de su carrera, explicó que grabó sus líneas hace dos años y que tuvo que mantener su participación en secreto hasta el lanzamiento. También señaló que la producción le introdujo a nuevas tecnologías, entre ellas la captura de rendimiento facial."
+      }
+    },
+    {
+      "id": "da7bbe3dd259b17f4f35e8ba05075d7f",
+      "tag": "NEWS",
+      "slug": "consideraciones-para-comprar-una-ps5-o-xbox-series-para-jugar-gta-6",
+      "url": "https://www.godzgames.com/noticias/consideraciones-para-comprar-una-ps5-o-xbox-series-para-jugar-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795187457708_780.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-should-i-buy-a-ps5-xbox-console",
+      "en": {
+        "title": "Considerations for Buying a PS5 or Xbox Series to Play GTA 6",
+        "description": "Grand Theft Auto VI has been released, and some potential players may not currently own a PlayStation 5 or Xbox Series console. The original source...",
+        "fullContent": "Grand Theft Auto VI has been released, and some potential players may not currently own a PlayStation 5 or Xbox Series console. The original source notes that without one of these consoles, a user would miss the launch of what is described as the biggest gaming release of the year.\n\nAccording to the source, the main reason to purchase a console is that it is the only real way to play GTA 6 at launch, although it mentions that another method exists without providing details. The article states that the game is \"pretty fantastic\" and suggests that without a console the experience will differ from that of other players.\n\nThe source also points out that owning a PS5 or Xbox Series provides access to the last six years of current‑gen titles, as well as backward‑compatible ports, remasters, and remakes from previous hardware generations. Additionally, models equipped with disc drives function as 4K Blu‑ray players."
+      },
+      "es": {
+        "title": "Consideraciones para Comprar una PS5 o Xbox Series para Jugar GTA 6",
+        "description": "Grand Theft Auto VI ya está disponible, y algunos lectores pueden no poseer una consola PlayStation 5 o Xbox Series. La fuente original indica que,...",
+        "fullContent": "Grand Theft Auto VI ya está disponible, y algunos lectores pueden no poseer una consola PlayStation 5 o Xbox Series. La fuente original indica que, sin una de estas consolas, el usuario perdería el lanzamiento de lo que se describe como el mayor lanzamiento de videojuegos del año.\n\nSegún la fuente, la razón principal para adquirir una consola es que es la única manera real de jugar GTA 6 en su lanzamiento, aunque menciona que existe otro método sin entrar en detalles. El artículo califica al juego como \"pretty fantastic\" y sugiere que, sin una consola, la experiencia será diferente a la de los demás jugadores.\n\nLa fuente también señala que poseer una PS5 o Xbox Series brinda acceso a los últimos seis años de títulos de generación actual, así como a juegos compatibles hacia atrás, puertos, remasterizaciones y reediciones de generaciones anteriores. Además, los modelos con unidad de disco funcionan como reproductores de Blu‑ray 4K."
+      }
+    },
     {
       "id": "8736ac19d15572ed9dcc1116ecbafedc",
       "tag": "NEWS",
