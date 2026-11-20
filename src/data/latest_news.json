@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1795102322982,
+  "updatedAt": 1795134547595,
   "articles": [
     {
-      "id": "24d5e9fae9dc1947a10a38ad48ddd12f",
+      "id": "8736ac19d15572ed9dcc1116ecbafedc",
       "tag": "NEWS",
-      "slug": "el-ceo-de-taketwo-strauss-zelnick-que-no-juega-videojuegos-apuesta-1-mil-millones-por-el-lanzamiento-de-gta-vi",
-      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-que-no-juega-videojuegos-apuesta-1-mil-millones-por-el-lanzamiento-de-gta-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102311433_223.jpg",
-      "link": "https://fortune.com/article/grand-theft-auto-6-gta-strauss-zelnick-ceo-video-games-tech-take-two-interactive/",
+      "slug": "los-personajes-no-jugables-de-grand-theft-auto-vi-utilizan-dialogos-breves-para-enriquecer-el-mundo-del-juego",
+      "url": "https://www.godzgames.com/noticias/los-personajes-no-jugables-de-grand-theft-auto-vi-utilizan-dialogos-breves-para-enriquecer-el-mundo-del-juego/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134536687_57.jpg",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world",
       "en": {
-        "title": "Take‑Two CEO Strauss Zelnick, who does not play video games, backs GTA VI launch with $1 billion bet",
-        "description": "Strauss Zelnick, a graduate of Harvard Law School and Harvard Business School, has been chief executive officer of Take‑Two Interactive Software si...",
-        "fullContent": "Strauss Zelnick, a graduate of Harvard Law School and Harvard Business School, has been chief executive officer of Take‑Two Interactive Software since 2011. Under his leadership the company’s share price rose from roughly $12 per share to $221 per share, an increase of about 1,700%, and net revenue grew from under $1 billion to $5.6 billion for the full year 2025.\n\nZelnick has said he does not play the games produced by Take‑Two, noting that he does not consider it necessary for a CEO to be a consumer‑in‑chief. He observes gameplay through others and has indicated that he watches others play the titles. The upcoming release of Grand Theft Auto VI this week is positioned as a major event for the publisher.\n\nAccording to Business Insider, Zelnick does not consume alcohol or tobacco and follows a regular exercise routine, sometimes working out twice a day."
+        "title": "Non-player characters in Grand Theft Auto VI use short dialogue lines to enhance world building",
+        "description": "In video games, “barks” are brief spoken lines assigned to various characters within the environment. Grand Theft Auto VI employs this type of dial...",
+        "fullContent": "In video games, “barks” are brief spoken lines assigned to various characters within the environment. Grand Theft Auto VI employs this type of dialogue across its non‑player characters, allowing the game world to feel more populated and responsive. The implementation of barks provides contextual information and reactions that occur as the player moves through different areas of the city.\n\nThe use of these short voice clips is presented as a design element that contributes to the overall sense of immersion in the title. NPR notes that it does not accept money for coverage or interviews, and that any offers or requests made by individuals not employed by NPR do not represent the organization."
       },
       "es": {
-        "title": "El CEO de Take‑Two, Strauss Zelnick, que no juega videojuegos, apuesta $1 mil millones por el lanzamiento de GTA VI",
-        "description": "Strauss Zelnick, egresado de la Facultad de Derecho y la Escuela de Negocios de Harvard, ocupa el cargo de director ejecutivo de Take‑Two Interacti...",
-        "fullContent": "Strauss Zelnick, egresado de la Facultad de Derecho y la Escuela de Negocios de Harvard, ocupa el cargo de director ejecutivo de Take‑Two Interactive Software desde 2011. Durante su gestión, el precio de la acción de la compañía pasó de aproximadamente $12 a $221 por acción, lo que representa un incremento cercano al 1.700%, y los ingresos netos crecieron de menos de $1 mil millones a $5,6 mil millones en el año completo 2025.\n\nZelnick ha manifestado que no juega a los videojuegos que publica Take‑Two, y ha señalado que no considera necesario que el director ejecutivo sea el consumidor principal. Señala que observa el juego a través de otras personas y ha mencionado que ve a otros jugar los títulos. La salida de Grand Theft Auto VI, programada para esta semana, constituye un evento importante para la editorial.\n\nSegún Business Insider, Zelnick no consume alcohol ni tabaco y mantiene una rutina de ejercicio regular, en ocasiones entrenando dos veces al día."
+        "title": "Los personajes no jugables de Grand Theft Auto VI utilizan diálogos breves para enriquecer el mundo del juego",
+        "description": "En los videojuegos, los “barks” son líneas de diálogo cortas asignadas a distintos personajes del entorno. Grand Theft Auto VI incorpora este tipo ...",
+        "fullContent": "En los videojuegos, los “barks” son líneas de diálogo cortas asignadas a distintos personajes del entorno. Grand Theft Auto VI incorpora este tipo de diálogo en sus personajes no jugables, lo que permite que el mundo del juego parezca más poblado y reactivo. La incorporación de los barks brinda información contextual y reacciones que se activan mientras el jugador recorre diferentes zonas de la ciudad.\n\nEl uso de estos fragmentos de voz se describe como un elemento de diseño que aporta al sentido de inmersión del título. NPR indica que no ofrece ni acepta dinero por coberturas o entrevistas, y que cualquier oferta o solicitud realizada por personas que no son empleados de NPR no representa a la organización."
       }
     },
     {
-      "id": "479d6ca287565c4b9d20292c8ee0cfcc",
+      "id": "e5dd6e14af3de8c64ff9db9d2fb780da",
       "tag": "NEWS",
-      "slug": "luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-un-lada-riva",
-      "url": "https://www.godzgames.com/noticias/luces-traseras-con-matriz-led-reproducen-el-juego-snake-en-un-lada-riva/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102314054_455.jpg",
-      "link": "https://www.theautopian.com/video-games-in-taillights-is-a-new-trend-and-im-afraid-the-us-is-falling-behind/",
+      "slug": "autor-aconseja-no-comprar-gta-vi-para-ninos-pequenos",
+      "url": "https://www.godzgames.com/noticias/autor-aconseja-no-comprar-gta-vi-para-ninos-pequenos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134539231_911.jpg",
+      "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
       "en": {
-        "title": "LED-Matrix Tail Lights Display Classic Snake Game on Lada Riva",
-        "description": "At approximately 3 a.m., the author reported being awakened by a cybernetically enhanced pelican used for monitoring tail‑light‑related development...",
-        "fullContent": "At approximately 3 a.m., the author reported being awakened by a cybernetically enhanced pelican used for monitoring tail‑light‑related developments. The author instructed the device to present its findings.\n\nThe device projected an Instagram video posted by the account СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe). The video shows a Lada Riva/VAZ‑2105 whose tail lights have been replaced with LED matrix panels that are connected to a computer running the classic Snake game.\n\nAccording to the author, while LED matrices have previously been used in tail lights for animated displays, this is the first reported implementation of the Snake game on a set of tail lights."
+        "title": "Author advises against purchasing GTA VI for young children",
+        "description": "At a birthday party for his stepson in 2014, the author reported that a nine‑year‑old asked to play Grand Theft Auto V. The author declined and lat...",
+        "fullContent": "At a birthday party for his stepson in 2014, the author reported that a nine‑year‑old asked to play Grand Theft Auto V. The author declined and later informed the child's mother that GTA V carries an 18 rating, which the mother indicated she had not previously associated with adult content. The author also noted that the mother mentioned the child’s proficiency with video games.\n\nGrand Theft Auto VI was released this week. According to the author, the game presents a detailed virtual recreation of Florida, follows a narrative involving two fugitives named Jason and Lucia, and includes depictions of sexual content, drug use, and various forms of violence, including shootings, executions, police raids and torture. The author states that the game has received an 18 rating and that the content is not considered appropriate for children aged ten and seven."
       },
       "es": {
-        "title": "Luces traseras con matriz LED reproducen el juego Snake en un Lada Riva",
-        "description": "Alrededor de las 3 a.m., el autor informó haber sido despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relaci...",
-        "fullContent": "Alrededor de las 3 a.m., el autor informó haber sido despertado por un pelícano cibernéticamente mejorado utilizado para vigilar desarrollos relacionados con luces traseras. El autor ordenó al dispositivo que mostrara lo encontrado.\n\nEl dispositivo proyectó un video de Instagram publicado por la cuenta СЫН ПОДРУГИ ТВОЕЙ МАМЫ ???????????? (@nikitka.nixuyasebe). En el video se observa un Lada Riva/VAZ‑2105 cuyas luces traseras han sido sustituidas por paneles de matriz LED conectados a un ordenador que ejecuta el juego clásico Snake.\n\nSegún el autor, aunque las matrices LED se han usado antes en luces traseras para mostrar animaciones, esta sería la primera implementación conocida del juego Snake en un conjunto de luces traseras."
+        "title": "Autor aconseja no comprar GTA VI para niños pequeños",
+        "description": "En una fiesta de cumpleaños de su hijastro en 2014, el autor relató que un niño de nueve años pidió que se jugara Grand Theft Auto V. El autor se n...",
+        "fullContent": "En una fiesta de cumpleaños de su hijastro en 2014, el autor relató que un niño de nueve años pidió que se jugara Grand Theft Auto V. El autor se negó y posteriormente informó a la madre del niño que GTA V tiene una clasificación de 18 años, a lo que la madre respondió que no había asociado esa clasificación con contenido para adultos. El autor también señaló que la madre comentó que el niño era hábil con los videojuegos.\n\nGrand Theft Auto VI se lanzó esta semana. Según el autor, el juego muestra una recreación virtual detallada de Florida, sigue una historia centrada en dos fugitivos, Jason y Lucia, y contiene representaciones de contenido sexual, consumo de drogas y diversas formas de violencia, entre ellas tiroteos, ejecuciones, redadas policiales y tortura. El autor indica que el juego ha recibido una clasificación de 18 años y que el contenido no se considera apropiado para niños de diez y siete años."
       }
     },
     {
-      "id": "1009b4551277bb03842ae6b194635489",
+      "id": "f22997de882ded122075648adcbccf8c",
       "tag": "NEWS",
-      "slug": "playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software",
-      "url": "https://www.godzgames.com/noticias/playstation-y-fortnite-sufren-breves-interrupciones-funcionarios-atribuyen-a-actualizaciones-de-software/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102317003_381.jpg",
-      "link": "https://www.nbcnews.com/nightly-news/video/outages-spread-to-video-games-as-government-officials-cite-software-patches-273773125706",
+      "slug": "entrevista-con-los-fundadores-de-rockstar-realizada-antes-del-lanzamiento-de-gta-vice-city",
+      "url": "https://www.godzgames.com/noticias/entrevista-con-los-fundadores-de-rockstar-realizada-antes-del-lanzamiento-de-gta-vice-city/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134542347_124.jpg",
+      "link": "https://www.gq.com/story/houser-grand-theft-auto-interview",
       "en": {
-        "title": "PlayStation and Fortnite experience brief outages, officials attribute to software updates",
-        "description": "PlayStation and the online game Fortnite experienced brief service interruptions, adding to a series of disruptions affecting major technology plat...",
-        "fullContent": "PlayStation and the online game Fortnite experienced brief service interruptions, adding to a series of disruptions affecting major technology platforms over the past week. The outages were temporary and impacted users of both services.\n\nGovernment representatives stated that the interruptions were not caused by a cyberattack. According to NBC News reporter Tom Costello, officials indicated that the downtime resulted from software updates being applied as new artificial‑intelligence tools are used to identify system vulnerabilities. The report was published on November 18, 2026."
+        "title": "Interview with Rockstar Founders Conducted Before Release of GTA: Vice City",
+        "description": "In October 2002, a journalist from Rolling Stone met Sam Houser, Dan Houser, and Terry Donovan at a loft in Soho, Manhattan, a few weeks before the...",
+        "fullContent": "In October 2002, a journalist from Rolling Stone met Sam Houser, Dan Houser, and Terry Donovan at a loft in Soho, Manhattan, a few weeks before the launch of Grand Theft Auto: Vice City. During the interview Sam Houser said, \"You can’t fuck with Keith Richards,\" and explained that the name Rockstar Games was inspired by his appreciation for the classic era of rock stars, mentioning Keith Moon’s behavior as an example of the attitude he wished to reflect in games.\n\nThe interview was followed by a period in which the company reported sales exceeding $10 billion, was referenced alongside authors such as Balzac and Dickens in Time magazine, and faced legal actions alleging that its games caused real‑world violence. An undisclosed sexual scene discovered in the 2005 release Grand Theft Auto: San Andreas prompted legislative discussions, and then‑Senator Hillary Clinton commented on the material, stating it was affecting children and parental responsibilities.\n\nAccording to the source, the earlier public concern surrounding the series has evolved as the generation that grew up with the games has entered positions of influence. The article notes that the Scottish‑originated title is now recognized as one of the most successful and influential video games."
       },
       "es": {
-        "title": "PlayStation y Fortnite sufren breves interrupciones, funcionarios atribuyen a actualizaciones de software",
-        "description": "PlayStation y el juego en línea Fortnite experimentaron breves interrupciones de servicio, sumándose a una serie de fallas que han afectado a plata...",
-        "fullContent": "PlayStation y el juego en línea Fortnite experimentaron breves interrupciones de servicio, sumándose a una serie de fallas que han afectado a plataformas tecnológicas importantes durante la última semana. Las interrupciones fueron temporales y afectaron a los usuarios de ambos servicios.\n\nRepresentantes gubernamentales declararon que los incidentes no fueron provocados por un ciberataque. Según el reportero de NBC News Tom Costello, los funcionarios señalaron que la indisponibilidad se debió a actualizaciones de software que se están aplicando mientras se emplean nuevas herramientas de inteligencia artificial para identificar vulnerabilidades del sistema. La información se publicó el 18 de noviembre de 2026."
+        "title": "Entrevista con los fundadores de Rockstar realizada antes del lanzamiento de GTA: Vice City",
+        "description": "En octubre de 2002, un periodista de Rolling Stone se reunió con Sam Houser, Dan Houser y Terry Donovan en un loft de Soho, Manhattan, a pocas sema...",
+        "fullContent": "En octubre de 2002, un periodista de Rolling Stone se reunió con Sam Houser, Dan Houser y Terry Donovan en un loft de Soho, Manhattan, a pocas semanas del lanzamiento de Grand Theft Auto: Vice City. Durante la entrevista Sam Houser declaró: \"No puedes meterte con Keith Richards\" y explicó que el nombre Rockstar Games se inspiró en su admiración por la era clásica de los rockeros, citando el comportamiento de Keith Moon como ejemplo de la actitud que deseaban trasladar a los videojuegos.\n\nPosteriormente, la compañía reportó ventas superiores a los 10 mil millones de dólares, fue comparada con autores como Balzac y Dickens en la revista Time y enfrentó acciones legales que alegaban que sus juegos provocaban violencia en la vida real. En 2005 se descubrió una escena sexual oculta en Grand Theft Auto: San Andreas, lo que generó discusiones legislativas; la entonces senadora Hillary Clinton comentó que el material afectaba a los niños y complicaba la labor de los padres.\n\nSegún la fuente, la preocupación pública inicial ha cambiado a medida que la generación que creció con los juegos ha asumido cargos de influencia. El artículo indica que el título, originario de Escocia, se ha convertido en uno de los videojuegos más exitosos e influyentes."
       }
     },
     {
-      "id": "4c74e6939e6aa90b3de02bd468347fe0",
+      "id": "5c76f2ec5dd8756b7941b07bb5db0bd1",
       "tag": "NEWS",
-      "slug": "trip-hawkins-propone-a-john-madden-un-videojuego-en-1984-la-pelicula-madden-se-estrena-el-18-de-nov",
-      "url": "https://www.godzgames.com/noticias/trip-hawkins-propone-a-john-madden-un-videojuego-en-1984-la-pelicula-madden-se-estrena-el-18-de-nov/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102319969_542.jpg",
-      "link": "https://time.com/article/2026/11/18/madden-movie-true-story-video-game-nfl/",
+      "slug": "panel-de-fox-news-discute-gta-vi-y-critica-a-fans-que-toman-licencia-manosphere-comenta-sobre-el-personaje-lucia",
+      "url": "https://www.godzgames.com/noticias/panel-de-fox-news-discute-gta-vi-y-critica-a-fans-que-toman-licencia-manosphere-comenta-sobre-el-personaje-lucia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134545194_850.jpg",
+      "link": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
       "en": {
-        "title": "Trip Hawkins pitches John Madden for video game in 1984; film 'Madden' releases Nov 18",
-        "description": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by Amtrak from Denver to meet John Madden, a CBS football commentator and commercial sp...",
-        "fullContent": "In 1984, Trip Hawkins, founder of Electronic Arts, traveled by Amtrak from Denver to meet John Madden, a CBS football commentator and commercial spokesperson. During the meeting Hawkins explained that the 8‑bit home consoles of the time could not support an 11‑v‑11 NFL simulation, and he suggested a 7‑v‑7 version of football instead. Madden responded that a reduced version of the sport would not be authentic, stating, “That’s not real football.”\n\nThe origins of the Madden video‑game franchise are depicted in the third act of David O. Russell’s upcoming sports drama titled \"Madden,\" scheduled to open in limited theaters and on Prime Video on November 18. The film features Nicholas Cage as John Madden, Christian Bale as Al Davis, and Kathryn Hahn as Madden’s wife Virginia, and it also covers Madden’s coaching tenure, his family life, and his transition to broadcasting for CBS."
+        "title": "Fox News panel discusses GTA VI, criticizes fans taking leave; Manosphere comments on character Lucia",
+        "description": "On the November 19 episode of Fox News’ program “Outnumbered,” co‑host Harris Faulkner said that fans who take paid time off to play “Grand Theft A...",
+        "fullContent": "On the November 19 episode of Fox News’ program “Outnumbered,” co‑host Harris Faulkner said that fans who take paid time off to play “Grand Theft Auto VI” are shirking civic duties and urged them to return to work. Fox News contributor Paul Mauro added that taking time off for the game constitutes abandoning responsibilities and expressed concern about the game’s violence, comparing it to giving a child a gun before they understand the responsibility.\n\nClips of the discussion were posted on X by journalist Acyn Torabi and attracted attention online. In a separate response, influencers associated with the manosphere expressed frustration that the game encourages players to treat the main character Jason’s girlfriend, Lucia, with respect."
       },
       "es": {
-        "title": "Trip Hawkins propone a John Madden un videojuego en 1984; la película 'Madden' se estrena el 18 de nov",
-        "description": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren Amtrak en Denver para reunirse con John Madden, comentarista de fútbol de CBS y po...",
-        "fullContent": "En 1984, Trip Hawkins, fundador de Electronic Arts, tomó un tren Amtrak en Denver para reunirse con John Madden, comentarista de fútbol de CBS y portavoz publicitario. Hawkins explicó que las consolas domésticas de 8 bits de la época no podían reproducir un partido de la NFL con 11 contra 11 y propuso una versión de fútbol de 7 contra 7. Madden respondió que una versión reducida del deporte no era auténtica, diciendo: “Eso no es fútbol real”.\n\nLos inicios de la franquicia de videojuegos Madden aparecen en el tercer acto del drama deportivo \"Madden\", dirigido por David O. Russell y programado para estrenarse el 18 de noviembre en cines limitados y en Prime Video. La película cuenta con Nicholas Cage interpretando a John Madden, Christian Bale como Al Davis y Kathryn Hahn como Virginia, la esposa de Madden, y también aborda la carrera como entrenador de Madden, su vida familiar y su paso a la transmisión en CBS."
+        "title": "Panel de Fox News discute GTA VI y critica a fans que toman licencia; Manosphere comenta sobre el personaje Lucia",
+        "description": "En el episodio del 19 de noviembre del programa “Outnumbered” de Fox News, el co‑presentador Harris Faulkner afirmó que los fans que toman licencia...",
+        "fullContent": "En el episodio del 19 de noviembre del programa “Outnumbered” de Fox News, el co‑presentador Harris Faulkner afirmó que los fans que toman licencia remunerada para jugar “Grand Theft Auto VI” están evadiendo sus deberes cívicos y los instó a volver al trabajo. El colaborador de Fox News Paul Mauro añadió que ausentarse del trabajo para jugar representa abandonar responsabilidades y manifestó su preocupación por la violencia del juego, comparándola con dar un arma a un niño antes de que comprenda la responsabilidad.\n\nLos fragmentos de la discusión fueron publicados en X por la periodista Acyn Torabi y generaron atención en línea. Por otro lado, influenciadores vinculados a la manosfera expresaron su frustración porque el juego incentiva a los jugadores a tratar con respeto a Lucia, la novia del personaje principal Jason."
       }
     },
     {
-      "id": "eb287dbc6f97c411c1169f1efaa75b11",
+      "id": "f57b4792486d9aeb76324af8d36bdfb0",
       "tag": "NEWS",
-      "slug": "lanzamiento-de-grand-theft-auto-6-reaviva-debate-sobre-violencia-en-videojuegos",
-      "url": "https://www.godzgames.com/noticias/lanzamiento-de-grand-theft-auto-6-reaviva-debate-sobre-violencia-en-videojuegos/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795102322882_541.jpg",
-      "link": "https://www.ky3.com/2026/11/19/grand-theft-auto-6-release-renews-debate-over-violent-video-games/",
+      "slug": "doja-cat-manifiesta-su-descontento-en-x-por-no-aparecer-en-la-banda-sonora-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/doja-cat-manifiesta-su-descontento-en-x-por-no-aparecer-en-la-banda-sonora-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134547476_170.jpg",
+      "link": "https://www.billboard.com/music/rb-hip-hop/doja-cat-slams-rockstar-games-grand-theft-auto-6-music-1236385746/",
       "en": {
-        "title": "Grand Theft Auto 6 launches, reviving discussion on video game violence",
-        "description": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 became available to players at 11 p.m. local time, marking the first installment in the series since th...",
-        "fullContent": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 became available to players at 11 p.m. local time, marking the first installment in the series since the release of Grand Theft Auto 5 thirteen years ago. Local gamers described the launch as highly anticipated, with Jared Hines stating, “Stuff like this doesn’t happen very often, like this is arguably the most anticipated game of all time.” Emma Pottberg added that she informed her managers of her intention to play the new title and would be taking time off for it.\n\nThe Grand Theft Auto series allows players to engage in activities such as stealing vehicles, confronting police officers, and harming pedestrians. The release has renewed a long‑standing conversation about the impact of violent video games on players. Brad Bushman, a professor of communication at The Ohio State University, noted that video games differ from other media in how they are experienced."
+        "title": "Doja Cat expresses disappointment on X over not being included in GTA 6 soundtrack",
+        "description": "On November 19, the Grammy‑winning artist Doja Cat posted on X that she was \"so f‑kin bitter\" about not having her music featured in Grand Theft Au...",
+        "fullContent": "On November 19, the Grammy‑winning artist Doja Cat posted on X that she was \"so f‑kin bitter\" about not having her music featured in Grand Theft Auto VI, directing a message to Rockstar Games and using explicit language. She followed the initial post with additional comments that included further profanity and a direct address to the developer.\n\nFollowers noted that Rockstar Games had previously added new music to Grand Theft Auto V through updates, suggesting that future opportunities might exist. The publisher has announced a lineup of artists for GTA VI radio stations, including Morgan Wallen, Lana Del Rey, Bad Bunny, Burna Boy, Trina, Trick Daddy and PinkPantheress. An original soundtrack album for the game, containing 34 tracks from performers such as Dua Lipa, Playboi Carti, Don Toliver, Travis Scott and Cardi B, is scheduled for release on November 20, with the score composed by Justice."
       },
       "es": {
-        "title": "Lanzamiento de Grand Theft Auto 6 reaviva debate sobre violencia en videojuegos",
-        "description": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 estuvo disponible para los jugadores a las 11 p.m. hora local, marcando la primera entrega de la serie ...",
-        "fullContent": "SPRINGFIELD, Mo. (KY3) – Grand Theft Auto 6 estuvo disponible para los jugadores a las 11 p.m. hora local, marcando la primera entrega de la serie desde el lanzamiento de Grand Theft Auto 5 hace trece años. Los jugadores locales describieron el estreno como muy esperado; Jared Hines comentó: “Este tipo de cosas no ocurre muy a menudo, como que es, posiblemente, el juego más anticipado de todos los tiempos”. Emma Pottberg señaló que informó a sus supervisores que jugaría el nuevo título y que se tomaría un tiempo libre para ello.\n\nLa serie Grand Theft Auto permite a los jugadores realizar acciones como robar vehículos, enfrentarse a la policía y dañar a peatones. El lanzamiento ha reavivado una conversación prolongada sobre el efecto de los videojuegos violentos en los jugadores. Brad Bushman, profesor de comunicación en la Universidad Estatal de Ohio, indicó que los videojuegos se diferencian de otros medios en la forma en que se experimentan."
+        "title": "Doja Cat manifiesta su descontento en X por no aparecer en la banda sonora de GTA 6",
+        "description": "El 19 de noviembre, la artista ganadora de un Grammy, Doja Cat, publicó en X que se sentía \"so f‑kin bitter\" por no haber incluido su música en Gra...",
+        "fullContent": "El 19 de noviembre, la artista ganadora de un Grammy, Doja Cat, publicó en X que se sentía \"so f‑kin bitter\" por no haber incluido su música en Grand Theft Auto VI, dirigiendo su mensaje a Rockstar Games y utilizando lenguaje explícito. En un segundo mensaje añadió más expresiones vulgares y volvió a mencionar a la compañía desarrolladora.\n\nAlgunos seguidores señalaron que Rockstar Games había incorporado música a Grand Theft Auto V mediante actualizaciones, lo que podría indicar la posibilidad de futuras colaboraciones. La empresa ha revelado una lista de artistas que participarán en las emisoras del juego, entre los que se encuentran Morgan Wallen, Lana Del Rey, Bad Bunny, Burna Boy, Trina, Trick Daddy y PinkPantheress. Además, se ha anunciado un álbum de banda sonora original para GTA VI, con 34 temas de artistas como Dua Lipa, Playboi Carti, Don Toliver, Travis Scott y Cardi B, cuya fecha de lanzamiento es el 20 de noviembre, y la partitura ha sido compuesta por Justice."
       }
     }
   ]
