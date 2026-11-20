@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-20T00:29:07.593Z",
+  "lastUpdated": "2026-11-20T15:10:57.784Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "8736ac19d15572ed9dcc1116ecbafedc",
+      "tag": "NEWS",
+      "slug": "los-personajes-no-jugables-de-grand-theft-auto-vi-utilizan-dialogos-breves-para-enriquecer-el-mundo-del-juego",
+      "url": "https://www.godzgames.com/noticias/los-personajes-no-jugables-de-grand-theft-auto-vi-utilizan-dialogos-breves-para-enriquecer-el-mundo-del-juego/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134536687_57.jpg",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world",
+      "en": {
+        "title": "Non-player characters in Grand Theft Auto VI use short dialogue lines to enhance world building",
+        "description": "In video games, “barks” are brief spoken lines assigned to various characters within the environment. Grand Theft Auto VI employs this type of dial...",
+        "fullContent": "In video games, “barks” are brief spoken lines assigned to various characters within the environment. Grand Theft Auto VI employs this type of dialogue across its non‑player characters, allowing the game world to feel more populated and responsive. The implementation of barks provides contextual information and reactions that occur as the player moves through different areas of the city.\n\nThe use of these short voice clips is presented as a design element that contributes to the overall sense of immersion in the title. NPR notes that it does not accept money for coverage or interviews, and that any offers or requests made by individuals not employed by NPR do not represent the organization."
+      },
+      "es": {
+        "title": "Los personajes no jugables de Grand Theft Auto VI utilizan diálogos breves para enriquecer el mundo del juego",
+        "description": "En los videojuegos, los “barks” son líneas de diálogo cortas asignadas a distintos personajes del entorno. Grand Theft Auto VI incorpora este tipo ...",
+        "fullContent": "En los videojuegos, los “barks” son líneas de diálogo cortas asignadas a distintos personajes del entorno. Grand Theft Auto VI incorpora este tipo de diálogo en sus personajes no jugables, lo que permite que el mundo del juego parezca más poblado y reactivo. La incorporación de los barks brinda información contextual y reacciones que se activan mientras el jugador recorre diferentes zonas de la ciudad.\n\nEl uso de estos fragmentos de voz se describe como un elemento de diseño que aporta al sentido de inmersión del título. NPR indica que no ofrece ni acepta dinero por coberturas o entrevistas, y que cualquier oferta o solicitud realizada por personas que no son empleados de NPR no representa a la organización."
+      }
+    },
+    {
+      "id": "e5dd6e14af3de8c64ff9db9d2fb780da",
+      "tag": "NEWS",
+      "slug": "autor-aconseja-no-comprar-gta-vi-para-ninos-pequenos",
+      "url": "https://www.godzgames.com/noticias/autor-aconseja-no-comprar-gta-vi-para-ninos-pequenos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134539231_911.jpg",
+      "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
+      "en": {
+        "title": "Author advises against purchasing GTA VI for young children",
+        "description": "At a birthday party for his stepson in 2014, the author reported that a nine‑year‑old asked to play Grand Theft Auto V. The author declined and lat...",
+        "fullContent": "At a birthday party for his stepson in 2014, the author reported that a nine‑year‑old asked to play Grand Theft Auto V. The author declined and later informed the child's mother that GTA V carries an 18 rating, which the mother indicated she had not previously associated with adult content. The author also noted that the mother mentioned the child’s proficiency with video games.\n\nGrand Theft Auto VI was released this week. According to the author, the game presents a detailed virtual recreation of Florida, follows a narrative involving two fugitives named Jason and Lucia, and includes depictions of sexual content, drug use, and various forms of violence, including shootings, executions, police raids and torture. The author states that the game has received an 18 rating and that the content is not considered appropriate for children aged ten and seven."
+      },
+      "es": {
+        "title": "Autor aconseja no comprar GTA VI para niños pequeños",
+        "description": "En una fiesta de cumpleaños de su hijastro en 2014, el autor relató que un niño de nueve años pidió que se jugara Grand Theft Auto V. El autor se n...",
+        "fullContent": "En una fiesta de cumpleaños de su hijastro en 2014, el autor relató que un niño de nueve años pidió que se jugara Grand Theft Auto V. El autor se negó y posteriormente informó a la madre del niño que GTA V tiene una clasificación de 18 años, a lo que la madre respondió que no había asociado esa clasificación con contenido para adultos. El autor también señaló que la madre comentó que el niño era hábil con los videojuegos.\n\nGrand Theft Auto VI se lanzó esta semana. Según el autor, el juego muestra una recreación virtual detallada de Florida, sigue una historia centrada en dos fugitivos, Jason y Lucia, y contiene representaciones de contenido sexual, consumo de drogas y diversas formas de violencia, entre ellas tiroteos, ejecuciones, redadas policiales y tortura. El autor indica que el juego ha recibido una clasificación de 18 años y que el contenido no se considera apropiado para niños de diez y siete años."
+      }
+    },
+    {
+      "id": "f22997de882ded122075648adcbccf8c",
+      "tag": "NEWS",
+      "slug": "entrevista-con-los-fundadores-de-rockstar-realizada-antes-del-lanzamiento-de-gta-vice-city",
+      "url": "https://www.godzgames.com/noticias/entrevista-con-los-fundadores-de-rockstar-realizada-antes-del-lanzamiento-de-gta-vice-city/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134542347_124.jpg",
+      "link": "https://www.gq.com/story/houser-grand-theft-auto-interview",
+      "en": {
+        "title": "Interview with Rockstar Founders Conducted Before Release of GTA: Vice City",
+        "description": "In October 2002, a journalist from Rolling Stone met Sam Houser, Dan Houser, and Terry Donovan at a loft in Soho, Manhattan, a few weeks before the...",
+        "fullContent": "In October 2002, a journalist from Rolling Stone met Sam Houser, Dan Houser, and Terry Donovan at a loft in Soho, Manhattan, a few weeks before the launch of Grand Theft Auto: Vice City. During the interview Sam Houser said, \"You can’t fuck with Keith Richards,\" and explained that the name Rockstar Games was inspired by his appreciation for the classic era of rock stars, mentioning Keith Moon’s behavior as an example of the attitude he wished to reflect in games.\n\nThe interview was followed by a period in which the company reported sales exceeding $10 billion, was referenced alongside authors such as Balzac and Dickens in Time magazine, and faced legal actions alleging that its games caused real‑world violence. An undisclosed sexual scene discovered in the 2005 release Grand Theft Auto: San Andreas prompted legislative discussions, and then‑Senator Hillary Clinton commented on the material, stating it was affecting children and parental responsibilities.\n\nAccording to the source, the earlier public concern surrounding the series has evolved as the generation that grew up with the games has entered positions of influence. The article notes that the Scottish‑originated title is now recognized as one of the most successful and influential video games."
+      },
+      "es": {
+        "title": "Entrevista con los fundadores de Rockstar realizada antes del lanzamiento de GTA: Vice City",
+        "description": "En octubre de 2002, un periodista de Rolling Stone se reunió con Sam Houser, Dan Houser y Terry Donovan en un loft de Soho, Manhattan, a pocas sema...",
+        "fullContent": "En octubre de 2002, un periodista de Rolling Stone se reunió con Sam Houser, Dan Houser y Terry Donovan en un loft de Soho, Manhattan, a pocas semanas del lanzamiento de Grand Theft Auto: Vice City. Durante la entrevista Sam Houser declaró: \"No puedes meterte con Keith Richards\" y explicó que el nombre Rockstar Games se inspiró en su admiración por la era clásica de los rockeros, citando el comportamiento de Keith Moon como ejemplo de la actitud que deseaban trasladar a los videojuegos.\n\nPosteriormente, la compañía reportó ventas superiores a los 10 mil millones de dólares, fue comparada con autores como Balzac y Dickens en la revista Time y enfrentó acciones legales que alegaban que sus juegos provocaban violencia en la vida real. En 2005 se descubrió una escena sexual oculta en Grand Theft Auto: San Andreas, lo que generó discusiones legislativas; la entonces senadora Hillary Clinton comentó que el material afectaba a los niños y complicaba la labor de los padres.\n\nSegún la fuente, la preocupación pública inicial ha cambiado a medida que la generación que creció con los juegos ha asumido cargos de influencia. El artículo indica que el título, originario de Escocia, se ha convertido en uno de los videojuegos más exitosos e influyentes."
+      }
+    },
+    {
+      "id": "5c76f2ec5dd8756b7941b07bb5db0bd1",
+      "tag": "NEWS",
+      "slug": "panel-de-fox-news-discute-gta-vi-y-critica-a-fans-que-toman-licencia-manosphere-comenta-sobre-el-personaje-lucia",
+      "url": "https://www.godzgames.com/noticias/panel-de-fox-news-discute-gta-vi-y-critica-a-fans-que-toman-licencia-manosphere-comenta-sobre-el-personaje-lucia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134545194_850.jpg",
+      "link": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
+      "en": {
+        "title": "Fox News panel discusses GTA VI, criticizes fans taking leave; Manosphere comments on character Lucia",
+        "description": "On the November 19 episode of Fox News’ program “Outnumbered,” co‑host Harris Faulkner said that fans who take paid time off to play “Grand Theft A...",
+        "fullContent": "On the November 19 episode of Fox News’ program “Outnumbered,” co‑host Harris Faulkner said that fans who take paid time off to play “Grand Theft Auto VI” are shirking civic duties and urged them to return to work. Fox News contributor Paul Mauro added that taking time off for the game constitutes abandoning responsibilities and expressed concern about the game’s violence, comparing it to giving a child a gun before they understand the responsibility.\n\nClips of the discussion were posted on X by journalist Acyn Torabi and attracted attention online. In a separate response, influencers associated with the manosphere expressed frustration that the game encourages players to treat the main character Jason’s girlfriend, Lucia, with respect."
+      },
+      "es": {
+        "title": "Panel de Fox News discute GTA VI y critica a fans que toman licencia; Manosphere comenta sobre el personaje Lucia",
+        "description": "En el episodio del 19 de noviembre del programa “Outnumbered” de Fox News, el co‑presentador Harris Faulkner afirmó que los fans que toman licencia...",
+        "fullContent": "En el episodio del 19 de noviembre del programa “Outnumbered” de Fox News, el co‑presentador Harris Faulkner afirmó que los fans que toman licencia remunerada para jugar “Grand Theft Auto VI” están evadiendo sus deberes cívicos y los instó a volver al trabajo. El colaborador de Fox News Paul Mauro añadió que ausentarse del trabajo para jugar representa abandonar responsabilidades y manifestó su preocupación por la violencia del juego, comparándola con dar un arma a un niño antes de que comprenda la responsabilidad.\n\nLos fragmentos de la discusión fueron publicados en X por la periodista Acyn Torabi y generaron atención en línea. Por otro lado, influenciadores vinculados a la manosfera expresaron su frustración porque el juego incentiva a los jugadores a tratar con respeto a Lucia, la novia del personaje principal Jason."
+      }
+    },
+    {
+      "id": "f57b4792486d9aeb76324af8d36bdfb0",
+      "tag": "NEWS",
+      "slug": "doja-cat-manifiesta-su-descontento-en-x-por-no-aparecer-en-la-banda-sonora-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/doja-cat-manifiesta-su-descontento-en-x-por-no-aparecer-en-la-banda-sonora-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795134547476_170.jpg",
+      "link": "https://www.billboard.com/music/rb-hip-hop/doja-cat-slams-rockstar-games-grand-theft-auto-6-music-1236385746/",
+      "en": {
+        "title": "Doja Cat expresses disappointment on X over not being included in GTA 6 soundtrack",
+        "description": "On November 19, the Grammy‑winning artist Doja Cat posted on X that she was \"so f‑kin bitter\" about not having her music featured in Grand Theft Au...",
+        "fullContent": "On November 19, the Grammy‑winning artist Doja Cat posted on X that she was \"so f‑kin bitter\" about not having her music featured in Grand Theft Auto VI, directing a message to Rockstar Games and using explicit language. She followed the initial post with additional comments that included further profanity and a direct address to the developer.\n\nFollowers noted that Rockstar Games had previously added new music to Grand Theft Auto V through updates, suggesting that future opportunities might exist. The publisher has announced a lineup of artists for GTA VI radio stations, including Morgan Wallen, Lana Del Rey, Bad Bunny, Burna Boy, Trina, Trick Daddy and PinkPantheress. An original soundtrack album for the game, containing 34 tracks from performers such as Dua Lipa, Playboi Carti, Don Toliver, Travis Scott and Cardi B, is scheduled for release on November 20, with the score composed by Justice."
+      },
+      "es": {
+        "title": "Doja Cat manifiesta su descontento en X por no aparecer en la banda sonora de GTA 6",
+        "description": "El 19 de noviembre, la artista ganadora de un Grammy, Doja Cat, publicó en X que se sentía \"so f‑kin bitter\" por no haber incluido su música en Gra...",
+        "fullContent": "El 19 de noviembre, la artista ganadora de un Grammy, Doja Cat, publicó en X que se sentía \"so f‑kin bitter\" por no haber incluido su música en Grand Theft Auto VI, dirigiendo su mensaje a Rockstar Games y utilizando lenguaje explícito. En un segundo mensaje añadió más expresiones vulgares y volvió a mencionar a la compañía desarrolladora.\n\nAlgunos seguidores señalaron que Rockstar Games había incorporado música a Grand Theft Auto V mediante actualizaciones, lo que podría indicar la posibilidad de futuras colaboraciones. La empresa ha revelado una lista de artistas que participarán en las emisoras del juego, entre los que se encuentran Morgan Wallen, Lana Del Rey, Bad Bunny, Burna Boy, Trina, Trick Daddy y PinkPantheress. Además, se ha anunciado un álbum de banda sonora original para GTA VI, con 34 temas de artistas como Dua Lipa, Playboi Carti, Don Toliver, Travis Scott y Cardi B, cuya fecha de lanzamiento es el 20 de noviembre, y la partitura ha sido compuesta por Justice."
+      }
+    },
     {
       "id": "24d5e9fae9dc1947a10a38ad48ddd12f",
       "tag": "NEWS",
