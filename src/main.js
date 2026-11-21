@@ -833,7 +833,9 @@ document.addEventListener('DOMContentLoaded', async () => {
           </div>
         `;
       } else {
-        gamesGrid.innerHTML = savedAffiliates.map(item => {
+        // AVISO_AFILIADO_PATCH: aviso de comision para enlaces de afiliado
+        const avisoAfiliado = '<div style="grid-column:1/-1; background:rgba(255,230,0,0.08); border:1px solid rgba(255,230,0,0.35); color:#dddddd; padding:12px 16px; border-radius:10px; font-size:0.85rem; line-height:1.5;">Como afiliado de Mercado Libre, GodZGames puede recibir una comisión por las compras realizadas desde estos enlaces, sin costo adicional para ti. Los precios y la disponibilidad pueden cambiar: verifícalos en Mercado Libre.</div>';
+        gamesGrid.innerHTML = avisoAfiliado + savedAffiliates.map(item => {
           const offerUrl = getOfferUrl(item);
           const priceText = item.price ? `$${Number(item.price).toLocaleString('es-MX')} MXN` : 'Consultar precio';
           return `
