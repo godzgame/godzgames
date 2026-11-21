@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-20T23:52:03.946Z",
+  "lastUpdated": "2026-11-21T06:34:37.636Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "30d2a1e4577a8de9976467591bb2ecdc",
+      "tag": "NEWS",
+      "slug": "jugadores-de-gta-6-registran-avistamientos-de-aves-mientras-juegan",
+      "url": "https://www.godzgames.com/noticias/jugadores-de-gta-6-registran-avistamientos-de-aves-mientras-juegan/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795218716229_277.jpg",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047504/video-game-gta-6-players-are-logging-birds-as-they-play-the-anticipated-new-release",
+      "en": {
+        "title": "GTA 6 players log bird sightings during gameplay",
+        "description": "Fans of Grand Theft Auto VI have begun recording bird observations while playing the newly released title. The activity combines gaming with birdwa...",
+        "fullContent": "Fans of Grand Theft Auto VI have begun recording bird observations while playing the newly released title. The activity combines gaming with birdwatching, creating a shared experience for participants of both interests.\n\nThe reports note that the practice is being carried out by players who are simultaneously engaged in the game and noting avian species they encounter. NPR states that it does not offer or accept money for coverage or interviews, and that any individual making such an offer is not an NPR employee and does not represent NPR."
+      },
+      "es": {
+        "title": "Jugadores de GTA 6 registran avistamientos de aves mientras juegan",
+        "description": "Los seguidores de Grand Theft Auto VI han empezado a anotar avistamientos de aves mientras juegan al recién lanzado título. La actividad combina el...",
+        "fullContent": "Los seguidores de Grand Theft Auto VI han empezado a anotar avistamientos de aves mientras juegan al recién lanzado título. La actividad combina el juego con la observación de aves, creando una experiencia compartida entre ambos grupos.\n\nLos informes indican que los jugadores están simultáneamente inmersos en el juego y registrando las especies de aves que encuentran. NPR declara que no ofrece ni acepta dinero por cobertura o entrevistas, y que cualquier persona que haga tal oferta no es un empleado de NPR y no representa a la organización."
+      }
+    },
+    {
+      "id": "b195bc13992303799a6bd0dda817cffb",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-es-popular-a-nivel-mundial-no-se-registra-entre-los-senadores-de-ee-uu",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-es-popular-a-nivel-mundial-no-se-registra-entre-los-senadores-de-ee-uu/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795218718503_545.jpg",
+      "link": "https://www.nbcnews.com/politics/congress/grand-theft-auto-vi-senate-players-minecraft-pong-mario-kart-rcna610488",
+      "en": {
+        "title": "Grand Theft Auto VI popular worldwide, not reported among U.S. Senate members",
+        "description": "Washington — The release of Grand Theft Auto VI has generated strong engagement across multiple regions, with sales and online activity indicating ...",
+        "fullContent": "Washington — The release of Grand Theft Auto VI has generated strong engagement across multiple regions, with sales and online activity indicating widespread popularity. Market data and player statistics show that the title is being played extensively in a variety of countries.\n\nAccording to the source, no U.S. senator has been identified as spending personal time within the game’s virtual environment, which includes activities such as vehicle theft and property renovation in the fictional state of Leonida. The report does not indicate any official statement from members of the Senate regarding the game."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI es popular a nivel mundial, no se registra entre los senadores de EE. UU.",
+        "description": "Washington — El lanzamiento de Grand Theft Auto VI ha generado una alta participación en distintas regiones, con cifras de ventas y actividad en lí...",
+        "fullContent": "Washington — El lanzamiento de Grand Theft Auto VI ha generado una alta participación en distintas regiones, con cifras de ventas y actividad en línea que indican una popularidad generalizada. Los datos de mercado y las estadísticas de jugadores muestran que el título se está utilizando de forma intensiva en varios países.\n\nSegún la fuente, no se ha identificado a ningún senador de EE. UU. que dedique tiempo personal al entorno virtual del juego, que incluye actividades como el robo de vehículos y la renovación de propiedades en el estado ficticio de Leonida. El informe no menciona ninguna declaración oficial de los miembros del Senado sobre el juego."
+      }
+    },
+    {
+      "id": "9a9fa300d95451aae3e51f99d594f06e",
+      "tag": "NEWS",
+      "slug": "firaxis-games-despide-a-37-empleados-en-maryland-como-parte-de-reestructuracion",
+      "url": "https://www.godzgames.com/noticias/firaxis-games-despide-a-37-empleados-en-maryland-como-parte-de-reestructuracion/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795218721082_166.jpg",
+      "link": "https://www.thebanner.com/economy/firaxis-games-maryland-layoffs-OC3F4WVAPJBKLP7JJ6K44MQXBI/",
+      "en": {
+        "title": "Firaxis Games lays off 37 employees in Maryland amid restructuring",
+        "description": "Firaxis Games, a video game developer located in Baltimore County, notified state officials that 37 staff members at its Sparks facility were termi...",
+        "fullContent": "Firaxis Games, a video game developer located in Baltimore County, notified state officials that 37 staff members at its Sparks facility were terminated on Tuesday. The company previously employed more than 200 people at that location.\n\nA spokesperson for 2K Games, the publisher of Firaxis, said the layoffs are part of a restructuring effort intended to refocus the studio on design, player experience and technology. The spokesperson added, \"This is a hard day, but it’s a necessary one for the health and future of our studio, our game franchises and our fans who deserve the very best. We are deeply grateful for the contributions every member of the team has made.\"\n\n2K Games did not disclose the total number of employees affected. Bloomberg News reported that approximately 60 Firaxis employees nationwide were laid off. The announcement follows layoffs earlier this year affecting staff at ZeniMax and Bethesda studios in the Baltimore area after Microsoft announced cuts of roughly 4,800 jobs, including 166 at Bethesda Games Studio and 213 at ZeniMax Online Studios."
+      },
+      "es": {
+        "title": "Firaxis Games despide a 37 empleados en Maryland como parte de reestructuración",
+        "description": "Firaxis Games, desarrollador de videojuegos con sede en el condado de Baltimore, informó a las autoridades estatales que el martes se despidió a 37...",
+        "fullContent": "Firaxis Games, desarrollador de videojuegos con sede en el condado de Baltimore, informó a las autoridades estatales que el martes se despidió a 37 empleados de la ubicación de Sparks. La empresa contaba con más de 200 trabajadores antes de la medida.\n\nUn portavoz de 2K Games, la editorial de Firaxis, indicó que los despidos forman parte de un proceso de reestructuración orientado a reenfocar al estudio en diseño, experiencia del jugador y tecnología. El portavoz comentó: \"Este es un día difícil, pero es necesario para la salud y el futuro de nuestro estudio, nuestras franquicias de juegos y nuestros fans que merecen lo mejor. Estamos profundamente agradecidos por las contribuciones de cada miembro del equipo\".\n\n2K Games no proporcionó cifras específicas sobre el número total de empleados afectados. Bloomberg News informó que alrededor de 60 empleados de Firaxis en todo el país fueron despedidos. La medida se produce tras los despidos de profesionales de la industria en ZeniMax y Bethesda en el área de Baltimore, ocurridos después de que Microsoft anunciara recortes de aproximadamente 4.800 puestos, incluidos 166 en Bethesda Games Studio y 213 en ZeniMax Online Studios."
+      }
+    },
+    {
+      "id": "ef5d01f8ebfc95588dcb5b05836bc411",
+      "tag": "NEWS",
+      "slug": "gta-6-permite-escuchar-la-radio-mientras-se-camina",
+      "url": "https://www.godzgames.com/noticias/gta-6-permite-escuchar-la-radio-mientras-se-camina/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795218723889_924.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-listen-radio-headphones",
+      "en": {
+        "title": "GTA 6 Allows Players to Listen to Radio While On Foot",
+        "description": "Rockstar Games has introduced a feature in Grand Theft Auto VI that lets players access the in‑game radio stations without being inside a vehicle. ...",
+        "fullContent": "Rockstar Games has introduced a feature in Grand Theft Auto VI that lets players access the in‑game radio stations without being inside a vehicle. The system uses virtual headphones, similar to personal audio devices, and becomes available early in the gameplay experience.\n\nHeadphones can be purchased at any electronics retailer indicated by a headphone icon on the in‑game map. One such store, Zeke's Electronics, is located on the north side of the town of Hamlet, reachable from the protagonist's starting area. Acquiring the headphones requires in‑game currency."
+      },
+      "es": {
+        "title": "GTA 6 permite escuchar la radio mientras se camina",
+        "description": "Rockstar Games ha incorporado en Grand Theft Auto VI la posibilidad de usar las emisoras de radio del juego sin necesidad de estar dentro de un veh...",
+        "fullContent": "Rockstar Games ha incorporado en Grand Theft Auto VI la posibilidad de usar las emisoras de radio del juego sin necesidad de estar dentro de un vehículo. La función emplea auriculares virtuales y está disponible desde una etapa temprana del juego.\n\nLos auriculares pueden comprarse en cualquier tienda de electrónica cuyo ícono en el mapa sea un par de auriculares. Una de esas tiendas, Zeke's Electronics, se encuentra en el lado norte de la localidad de Hamlet, accesible desde el barrio inicial del protagonista. La compra requiere dinero del juego."
+      }
+    },
     {
       "id": "dec77be8f1f0ea034e8ba86bf5903934",
       "tag": "NEWS",
