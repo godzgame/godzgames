@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-21T06:34:37.636Z",
+  "lastUpdated": "2026-11-21T18:57:15.599Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "088dca5da218793ce6e854f74e0c85c3",
+      "tag": "NEWS",
+      "slug": "gta-6-genera-3800-millones-de-dolares-en-ventas-en-su-primer-dia-completo-estableciendo-record-de-lanzamientos-de-entretenimiento",
+      "url": "https://www.godzgames.com/noticias/gta-6-genera-3800-millones-de-dolares-en-ventas-en-su-primer-dia-completo-estableciendo-record-de-lanzamientos-de-entretenimiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795242859535_76.jpg",
+      "link": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "en": {
+        "title": "GTA 6 generates $3.8 billion in sales on first full day, setting record for entertainment launches",
+        "description": "Grand Theft Auto 6 recorded retail revenue of $3.8 billion (£2.9 billion) in its first full day of availability, according to Take‑Two Interactive,...",
+        "fullContent": "Grand Theft Auto 6 recorded retail revenue of $3.8 billion (£2.9 billion) in its first full day of availability, according to Take‑Two Interactive, the parent company of Rockstar Games. The figure, based on estimates up to the end of Thursday, represents the highest launch revenue for any entertainment product and follows a pre‑order total of 32.5 million copies.\n\nFor context, the highest‑grossing film of the year, *Spider‑Man: Brand New Day*, has earned $2.5 billion (£1.8 billion) over its entire theatrical run. Cloudflare reported that PlayStation 5 downloads in the United Kingdom peaked at 8.6 times the normal level around the launch, while New Zealand, the first region where the game was accessible, experienced a 14.8‑fold increase four hours before the official release. The same provider also observed traffic to Rockstar’s online services rise to 11.2 times the usual volume in Australia and 9.3 times on the U.S. East Coast."
+      },
+      "es": {
+        "title": "GTA 6 genera 3.800 millones de dólares en ventas en su primer día completo, estableciendo récord de lanzamientos de entretenimiento",
+        "description": "Grand Theft Auto 6 alcanzó ingresos minoristas de 3.800 millones de dólares (2.900 millones de libras) durante su primer día completo de disponibil...",
+        "fullContent": "Grand Theft Auto 6 alcanzó ingresos minoristas de 3.800 millones de dólares (2.900 millones de libras) durante su primer día completo de disponibilidad, según informó Take‑Two Interactive, la empresa matriz de Rockstar Games. La cifra, basada en estimaciones hasta el final del jueves, constituye el mayor ingreso de lanzamiento para cualquier producto de entretenimiento y se produce tras una pre‑venta de 32,5 millones de copias.\n\nEn comparación, la película con mayor recaudación del año, *Spider‑Man: Brand New Day*, ha acumulado 2.500 millones de dólares (1.800 millones de libras) a lo largo de toda su exhibición en cines. Cloudflare señaló que las descargas de PS5 en el Reino Unido alcanzaron un pico de 8,6 veces el nivel habitual alrededor del lanzamiento, mientras que Nueva Zelanda, la primera región donde el juego estuvo disponible, registró un aumento de 14,8 veces cuatro horas antes de la salida oficial. El mismo proveedor también detectó que el tráfico a los servicios en línea de Rockstar se multiplicó 11,2 veces en Australia y 9,3 veces en la costa este de EE. UU."
+      }
+    },
+    {
+      "id": "3cb404db334e49d9316da079e80f9b5f",
+      "tag": "NEWS",
+      "slug": "historiadora-senala-como-gta-vi-y-otros-juegos-relacionan-con-la-comprension-historica",
+      "url": "https://www.godzgames.com/noticias/historiadora-senala-como-gta-vi-y-otros-juegos-relacionan-con-la-comprension-historica/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795242872734_49.jpg",
+      "link": "https://news.fiu.edu/2026/playing-gta-vi-heres-what-an-fiu-historian-wants-you-to-pay-attention-to",
+      "en": {
+        "title": "Historian Highlights How GTA VI and Other Games Relate to Historical Understanding",
+        "description": "Lindsey Maxwell, associate teaching professor in the Department of History at Florida International University, explains that video games such as G...",
+        "fullContent": "Lindsey Maxwell, associate teaching professor in the Department of History at Florida International University, explains that video games such as Grand Theft Auto VI recreate real‑world locations, including elements of Miami that appear in the game’s fictional Vice City. She notes that the inclusion or omission of particular buildings, neighborhoods, and activities reflects design choices about how the city is portrayed.\n\nMaxwell’s interest grew from conversations with her students, who reported detailed knowledge of historical periods acquired through playing titles such as Red Dead Redemption 2 and Call of Duty. In response, she developed a course titled History Through Gaming, where students analyze how video games present and interpret history through storytelling and gameplay."
+      },
+      "es": {
+        "title": "Historiadora Señala Cómo GTA VI y Otros Juegos Relacionan con la Comprensión Histórica",
+        "description": "Lindsey Maxwell, profesora asociada de enseñanza en el Departamento de Historia de la Universidad Internacional de Florida, indica que videojuegos ...",
+        "fullContent": "Lindsey Maxwell, profesora asociada de enseñanza en el Departamento de Historia de la Universidad Internacional de Florida, indica que videojuegos como Grand Theft Auto VI recrean ubicaciones del mundo real, incluyendo elementos de Miami que aparecen en la Vice City ficticia del juego. Señala que la inclusión o exclusión de edificios, barrios y actividades específicos refleja decisiones de diseño sobre la representación de la ciudad.\n\nEl interés de Maxwell surgió a partir de conversaciones con sus estudiantes, quienes informaron haber adquirido conocimientos detallados sobre períodos históricos mediante juegos como Red Dead Redemption 2 y Call of Duty. Con base en ello, diseñó un curso llamado History Through Gaming, en el que los estudiantes examinan cómo los videojuegos presentan e interpretan la historia a través de la narrativa y la jugabilidad."
+      }
+    },
+    {
+      "id": "8a30f9d40d4d26a1402a614445f82263",
+      "tag": "NEWS",
+      "slug": "estudiante-de-ciencias-de-la-computacion-de-maryville-colabora-en-la-adaptacion-de-juegos-educativos-del-smithsonian-a-nintendo-switch",
+      "url": "https://www.godzgames.com/noticias/estudiante-de-ciencias-de-la-computacion-de-maryville-colabora-en-la-adaptacion-de-juegos-educativos-del-smithsonian-a-nintendo-switch/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795242875129_42.jpg",
+      "link": "https://www.maryville.edu/mpress/maryville-game-design-students-and-alumni-help-bring-smithsonian-games-to-nintendo-switch/",
+      "en": {
+        "title": "Maryville Computer Science Student Assists in Porting Smithsonian Educational Games to Nintendo Switch",
+        "description": "Justin Alvey, a computer science sophomore at Maryville University slated to graduate in 2027, completed an internship with St. Louis developer Gra...",
+        "fullContent": "Justin Alvey, a computer science sophomore at Maryville University slated to graduate in 2027, completed an internship with St. Louis developer Graphite Lab to adapt two Smithsonian educational titles for the Nintendo Switch platform. The games, Smithsonian: Digging for Dinosaurs and Smithsonian: Planets and the Solar System, were originally created in collaboration with PlayDate Digital and the Smithsonian Institution.\n\nDuring the internship, Alvey worked on translating the games' control schemes to the Switch hardware, configuring save‑file management, and locating and resolving software bugs. He performed these tasks alongside Graphite Lab lead programmer and Maryville alumnus Collin Patrick (class of ’22) and lead quality‑assurance specialist David Greenfield (class of ’12). Professor of Practice of Game Design Matt Raithel commented on the interdisciplinary collaboration between design, visual art, and computer science students.\n\nThe title Smithsonian: Digging for Dinosaurs launched in August 2026, offering players a virtual excavation experience that includes assembling fossilized specimens and accessing informational content about the prehistoric animals."
+      },
+      "es": {
+        "title": "Estudiante de Ciencias de la Computación de Maryville colabora en la adaptación de juegos educativos del Smithsonian a Nintendo Switch",
+        "description": "Justin Alvey, estudiante de segundo año de la carrera de Ciencias de la Computación en la Universidad Maryville, con graduación prevista para 2027,...",
+        "fullContent": "Justin Alvey, estudiante de segundo año de la carrera de Ciencias de la Computación en la Universidad Maryville, con graduación prevista para 2027, realizó una pasantía en la empresa de desarrollo Graphite Lab, con sede en St. Louis, para adaptar dos juegos educativos del Smithsonian a la consola Nintendo Switch. Los títulos, Smithsonian: Digging for Dinosaurs y Smithsonian: Planets and the Solar System, fueron desarrollados en conjunto con PlayDate Digital y la Institución Smithsonian.\n\nEn el marco de la pasantía, Alvey se encargó de adaptar los esquemas de control de los juegos al hardware de la Switch, configurar la gestión de guardado de partidas y detectar y corregir errores de software. Trabajó junto al programador principal de Graphite Lab y ex‑alumno de Maryville Collin Patrick (promoción 2022) y al especialista principal de aseguramiento de calidad David Greenfield (promoción 2012). El profesor de práctica de diseño de videojuegos Matt Raithel señaló la colaboración interdisciplinaria entre estudiantes de diseño, arte visual y ciencias de la computación.\n\nEl juego Smithsonian: Digging for Dinosaurs se lanzó en agosto de 2026, ofreciendo a los jugadores una experiencia virtual de excavación que incluye el ensamblaje de fósiles y el acceso a información sobre los animales prehistóricos."
+      }
+    },
+    {
+      "id": "1d8c54270a40450da8ae48b2a46f2e59",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-genera-1500-millones-de-dolares-antes-del-lanzamiento-con-proyeccion-de-superar-los-3000-millones-en-la-primera-semana",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-1500-millones-de-dolares-antes-del-lanzamiento-con-proyeccion-de-superar-los-3000-millones-en-la-primera-semana/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795242877463_423.jpg",
+      "link": "https://foreignpolicy.com/2026/11/20/grand-theft-auto-power-play-osborn-review-geopolitics-video-games/",
+      "en": {
+        "title": "Grand Theft Auto VI Generates $1.5 Billion Pre‑Launch, Projected to Surpass $3 Billion in First Week",
+        "description": "Grand Theft Auto VI, the newest installment of the globally best‑selling video‑game franchise, recorded nearly $1.5 billion in sales before its off...",
+        "fullContent": "Grand Theft Auto VI, the newest installment of the globally best‑selling video‑game franchise, recorded nearly $1.5 billion in sales before its official launch, covering an estimated development budget that exceeded $1 billion. Industry projections indicate that total revenue could exceed $3 billion within the first week of release. For reference, the worldwide earnings of Taylor Swift’s Eras tour have been reported at just over $2 billion, while the film Avengers: Endgame grossed approximately $2.9 billion.\n\nConsultant George Osborn notes in his recently published book *Power Play: Video Games, Politics, and the Battle for Global Influence* that video games have become a significant cultural platform, with online play creating a shared “third place” for participants, particularly younger audiences. Osborn is quoted as saying, “what happens in video games communities bleeds out into reality—all the way into our political discourse.” The book, released by Prometheus in July 2026, is 376 pages long and priced at $34."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI genera 1.500 millones de dólares antes del lanzamiento, con proyección de superar los 3.000 millones en la primera semana",
+        "description": "Grand Theft Auto VI, la última entrega de la franquicia de videojuegos más vendida del mundo, alcanzó casi 1.500 millones de dólares en ventas ante...",
+        "fullContent": "Grand Theft Auto VI, la última entrega de la franquicia de videojuegos más vendida del mundo, alcanzó casi 1.500 millones de dólares en ventas antes de su lanzamiento oficial, cubriendo un presupuesto de desarrollo estimado en más de 1 mil millones de dólares. Las proyecciones de la industria indican que los ingresos totales podrían superar los 3 mil millones de dólares en la primera semana. Como referencia, la gira Eras de Taylor Swift ha recaudado poco más de 2 mil millones de dólares, mientras que la película Avengers: Endgame obtuvo alrededor de 2,9 mil millones de dólares.\n\nEl consultor George Osborn señala en su libro reciente *Power Play: Video Games, Politics, and the Battle for Global Influence* que los videojuegos se han convertido en una plataforma cultural importante, con el juego en línea creando un “tercer lugar” compartido para los participantes, especialmente entre los jóvenes. Osborn afirma que “lo que ocurre en las comunidades de videojuegos se traslada a la realidad, hasta el discurso político”. El libro, publicado por Prometheus en julio de 2026, cuenta con 376 páginas y tiene un precio de 34 dólares."
+      }
+    },
     {
       "id": "30d2a1e4577a8de9976467591bb2ecdc",
       "tag": "NEWS",
