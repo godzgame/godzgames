@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-23T06:55:36.615Z",
+  "lastUpdated": "2026-11-23T23:40:16.354Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "365db3cc3411678d0a847c5f80e402a6",
+      "tag": "NEWS",
+      "slug": "juegos-de-nes-sin-re-lanzamientos-oficiales-actuales",
+      "url": "https://www.godzgames.com/noticias/juegos-de-nes-sin-re-lanzamientos-oficiales-actuales/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795416910555_773.jpg",
+      "link": "https://www.svg.com/2321980/classic-nes-games-unplayable-today/",
+      "en": {
+        "title": "NES Games Without Official Modern Re-releases",
+        "description": "The Nintendo Entertainment System (NES) library includes numerous titles that have been remastered and released on contemporary platforms such as N...",
+        "fullContent": "The Nintendo Entertainment System (NES) library includes numerous titles that have been remastered and released on contemporary platforms such as Nintendo Switch Online. However, several games from the original catalog have not received an official re-release, meaning they can only be played using the original console and cartridge, provided the hardware remains functional. The lack of legal avenues for playing these titles is attributed to factors such as expired licensing agreements or other rights-related issues, raising the possibility that the games could become inaccessible over time.\n\nOne example is the \"Wizards & Warriors\" series, developed by Rare. The franchise began with a 1987 release that combined platforming and hack‑and‑slash elements, and it was followed by two additional NES sequels and a Game Boy entry before Rare shifted focus to other projects. Currently, none of the \"Wizards & Warriors\" titles are available through Nintendo Switch Online or the \"Rare Replay\" collection. The article suggests that the division of intellectual property rights between Rare and its former publisher Acclaim Entertainment may be a factor in their absence from modern services."
+      },
+      "es": {
+        "title": "Juegos de NES sin re-lanzamientos oficiales actuales",
+        "description": "La biblioteca de la Nintendo Entertainment System (NES) incluye numerosos títulos que han sido remasterizados y publicados en plataformas contempor...",
+        "fullContent": "La biblioteca de la Nintendo Entertainment System (NES) incluye numerosos títulos que han sido remasterizados y publicados en plataformas contemporáneas como Nintendo Switch Online. No obstante, varios juegos del catálogo original no han recibido un re-lanzamiento oficial, lo que implica que solo pueden jugarse mediante la consola y el cartucho originales, siempre que el hardware siga funcionando. La ausencia de vías legales para jugar a estos títulos se atribuye a factores como la expiración de licencias o a otras cuestiones relacionadas con los derechos, lo que podría hacer que los juegos se vuelvan inaccesibles con el tiempo.\n\nUn caso mencionado es la serie \"Wizards & Warriors\", desarrollada por Rare. La franquicia se inició con un lanzamiento en 1987 que combinaba plataformas y acción de hack‑and‑slash, y continuó con dos secuelas adicionales para NES y una entrega para Game Boy antes de que Rare dirigiera su atención a otros proyectos. En la actualidad, ninguno de los títulos de \"Wizards & Warriors\" está disponible en Nintendo Switch Online ni en la colección \"Rare Replay\". El artículo indica que la división de los derechos de propiedad intelectual entre Rare y su anterior editor Acclaim Entertainment podría ser una causa de su ausencia en los servicios modernos."
+      }
+    },
+    {
+      "id": "82d85fd92dd54229022c8c56db5bdc2d",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-registra-379-mil-millones-de-dolares-en-ventas-minoristas-del-primer-dia",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-registra-379-mil-millones-de-dolares-en-ventas-minoristas-del-primer-dia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795416913221_408.jpg",
+      "link": "https://www.ksl.com/article/51647136/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports",
+      "en": {
+        "title": "Grand Theft Auto VI reports $3.79 billion in first‑day retail sales",
+        "description": "Rockstar Games announced that the launch of Grand Theft Auto VI generated $3.79 billion in retail sales worldwide on its first day, based on compan...",
+        "fullContent": "Rockstar Games announced that the launch of Grand Theft Auto VI generated $3.79 billion in retail sales worldwide on its first day, based on company estimates up to the end of Thursday, the day the title was released. The publisher also reported that 32.5 million units were sold prior to launch, a figure described as a record across platforms.\n\nSam Houser, president and founder of Rockstar, said the company is humbled by the response from players around the world. For comparison, Grand Theft Auto V, released in 2013, recorded $1 billion in retail sales during its first three days and has sold more than 230 million copies globally, according to Take‑Two Interactive.\n\nMarket research firm Sensor Tower estimated that GTA VI generated $2.36 billion in revenue from approximately 24.6 million units sold. The standard edition of the game is priced at about $80 in the United States."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI registra 3.79 mil millones de dólares en ventas minoristas del primer día",
+        "description": "Rockstar Games informó que el lanzamiento de Grand Theft Auto VI generó 3.79 mil millones de dólares en ventas minoristas a nivel mundial en su pri...",
+        "fullContent": "Rockstar Games informó que el lanzamiento de Grand Theft Auto VI generó 3.79 mil millones de dólares en ventas minoristas a nivel mundial en su primer día, según estimaciones de la compañía hasta el cierre del jueves, día de la salida del título. La editorial también señaló que se vendieron 32.5 millones de unidades antes del lanzamiento, una cifra que describió como un récord en todas las plataformas.\n\nSam Houser, presidente y fundador de Rockstar, manifestó que la empresa está honrada por la respuesta de los jugadores de todo el mundo. En comparación, Grand Theft Auto V, lanzado en 2013, alcanzó mil millones de dólares en ventas minoristas durante sus primeros tres días y ha vendido más de 230 millones de copias a nivel global, según Take‑Two Interactive.\n\nLa firma de investigación de mercado Sensor Tower estimó que GTA VI generó 2.36 mil millones de dólares en ingresos a partir de aproximadamente 24.6 millones de unidades vendidas. La edición estándar del juego tiene un precio aproximado de 80 dólares en Estados Unidos."
+      }
+    },
+    {
+      "id": "09bb942f9321d61fd4a9bc4421ab4697",
+      "tag": "NEWS",
+      "slug": "dario-amodei-comento-que-los-videojuegos-podrian-ser-una-respuesta-al-desempleo-causado-por-la-ia-en-un-perfil-del-wsj",
+      "url": "https://www.godzgames.com/noticias/dario-amodei-comento-que-los-videojuegos-podrian-ser-una-respuesta-al-desempleo-causado-por-la-ia-en-un-perfil-del-wsj/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795416927719_138.jpg",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "en": {
+        "title": "Dario Amodei mentioned video games as possible response to AI‑related unemployment in WSJ profile",
+        "description": "A profile of Dario and Daniela Amodei published in the Wall Street Journal after Anthropic’s initial public offering includes an anecdote describin...",
+        "fullContent": "A profile of Dario and Daniela Amodei published in the Wall Street Journal after Anthropic’s initial public offering includes an anecdote describing a discussion among employees. In the account, Dario Amodei is reported to have acknowledged the potential societal impact of artificial intelligence on employment and to have suggested that immersive video games could serve as a way to address political tensions linked to AI‑induced job loss. The suggestion is attributed to messages shared on the company’s internal Slack channel.\n\nThe Wall Street Journal article references the Slack exchange as part of a broader description of the founders' perspectives on the challenges posed by AI technologies. No further context or analysis of the proposal is provided in the report."
+      },
+      "es": {
+        "title": "Dario Amodei comentó que los videojuegos podrían ser una respuesta al desempleo causado por la IA en un perfil del WSJ",
+        "description": "Un perfil de Dario y Daniela Amodei publicado en el Wall Street Journal tras la salida a bolsa de Anthropic incluye una anécdota que describe un de...",
+        "fullContent": "Un perfil de Dario y Daniela Amodei publicado en el Wall Street Journal tras la salida a bolsa de Anthropic incluye una anécdota que describe un debate interno entre empleados. En esa narración, se indica que Dario Amodei reconoció el posible impacto social de la inteligencia artificial en el empleo y propuso que los videojuegos inmersivos podrían servir como una forma de mitigar las tensiones políticas relacionadas con la pérdida de puestos de trabajo provocada por la IA. La propuesta se atribuye a mensajes compartidos en el canal interno de Slack de la empresa.\n\nEl artículo del Wall Street Journal menciona el intercambio en Slack como parte de una descripción más amplia de las perspectivas de los fundadores sobre los retos que plantea la tecnología de IA. No se ofrece un contexto adicional ni un análisis de la sugerencia en el informe."
+      }
+    },
+    {
+      "id": "63f8313c99e5ce641056510b10676e02",
+      "tag": "NEWS",
+      "slug": "disenador-del-et-de-atari-compara-el-auge-de-juegos-ia-con-la-sobreoferta-previa-al-colapso-de-1983",
+      "url": "https://www.godzgames.com/noticias/disenador-del-et-de-atari-compara-el-auge-de-juegos-ia-con-la-sobreoferta-previa-al-colapso-de-1983/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795416936513_75.jpg",
+      "link": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+      "en": {
+        "title": "Atari’s former E.T. designer compares AI game surge to pre‑1983 market glut",
+        "description": "Generative AI coding tools have led to a noticeable increase in the number of titles available on platforms such as Steam and itch.io. Since the su...",
+        "fullContent": "Generative AI coding tools have led to a noticeable increase in the number of titles available on platforms such as Steam and itch.io. Since the summer, many developers have used systems like Claude to produce large volumes of games that have been described as clones and AI slop games.\n\nHoward Scott Warshaw, the creator of several Atari 2600 titles including Yars' Revenge, Raiders of the Lost Ark, and the 1982 E.T. the Extra‑Terrestrial tie‑in, noted that the E.T. game has been cited as a contributing factor in the 1983 video‑game industry crash.\n\nDuring a presentation at the DevGAMM Lisbon conference, Warshaw observed that AI coding tools have reduced development cycles, allowing work that previously required weeks, months or years to be completed in days. He also stated that AI will be a \"super positive thing\" for the industry."
+      },
+      "es": {
+        "title": "Diseñador del E.T. de Atari compara el auge de juegos IA con la sobreoferta previa al colapso de 1983",
+        "description": "Las herramientas de IA generativa para codificación han provocado un aumento visible en la cantidad de títulos disponibles en plataformas como Stea...",
+        "fullContent": "Las herramientas de IA generativa para codificación han provocado un aumento visible en la cantidad de títulos disponibles en plataformas como Steam e itch.io. Desde el verano, numerosos desarrolladores han utilizado sistemas como Claude para producir grandes volúmenes de juegos que se describen como clones y juegos de \"AI slop\".\n\nHoward Scott Warshaw, creador de varios títulos para Atari 2600, entre ellos Yars' Revenge, Raiders of the Lost Ark y el juego de 1982 E.T. the Extra‑Terrestrial, señaló que dicho juego ha sido mencionado como un factor que contribuyó al colapso de la industria de los videojuegos en 1983.\n\nEn una ponencia en la conferencia DevGAMM Lisboa, Warshaw indicó que las herramientas de programación con IA han acortado los ciclos de desarrollo, permitiendo que trabajos que antes requerían semanas, meses o años se completen en días. Además, afirmó que la IA será una \"cosa super positiva\" para la industria."
+      }
+    },
     {
       "id": "34c2a59b9be02bedb071d2b7a33976e1",
       "tag": "NEWS",
