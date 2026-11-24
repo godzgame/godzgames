@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-23T23:40:16.354Z",
+  "lastUpdated": "2026-11-24T09:21:34.767Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "dd7b9e7124e0d494ae08964bf1d9f0bb",
+      "tag": "NEWS",
+      "slug": "walmart-reduce-precios-de-nuevos-juegos-de-switch-2-y-ps5-a-30-antes-de-la-venta-de-black-friday",
+      "url": "https://www.godzgames.com/noticias/walmart-reduce-precios-de-nuevos-juegos-de-switch-2-y-ps5-a-30-antes-de-la-venta-de-black-friday/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795477207393_808.jpg",
+      "link": "https://www.ign.com/articles/walmart-drops-a-whole-bunch-ps5-and-switch-2-games-to-just-30-for-a-limited-time-black-friday-2026",
+      "en": {
+        "title": "Walmart Reduces Prices of New Switch 2 and PS5 Games to $30 Ahead of Black Friday Sale",
+        "description": "Walmart has announced a price reduction on a selection of newly released video games for the Switch 2 and PlayStation 5, with several titles listed...",
+        "fullContent": "Walmart has announced a price reduction on a selection of newly released video games for the Switch 2 and PlayStation 5, with several titles listed at $30 before the retailer’s official November 27 sale begins. The $30 price point applies to Switch 2 titles such as Donkey Kong Bananza, Kirby Air Riders, Super Mario Party Jamboree, and both Super Mario Galaxy and Super Mario Galaxy 2. For PlayStation 5, the same price includes Resident Evil Requiem, Assassin’s Creed Black Flag Resynced, The Blood of Dawnwalker, and Saros.\n\nIn addition to the $30 games, Walmart’s promotion lists a number of titles priced at $15, including Sonic Racing: CrossWorlds, Sonic Frontiers, Elden Ring, Star Wars Outlaws, Mortal Kombat 1, Grand Theft Auto V, Final Fantasy VII Rebirth, Red Dead Redemption 2, Assassin’s Creed Shadows, among others.\n\nNintendo previously reduced the price of the listed Switch 2 games by $20; Walmart applied an additional $20 discount, resulting in a reduction of more than 50% for Donkey Kong Bananza. The retailer indicated that the offers are limited in quantity and may sell out before the official sale period starts."
+      },
+      "es": {
+        "title": "Walmart Reduce Precios de Nuevos Juegos de Switch 2 y PS5 a $30 antes de la Venta de Black Friday",
+        "description": "Walmart ha anunciado una reducción de precios en una selección de videojuegos recién lanzados para Switch 2 y PlayStation 5, con varios títulos fij...",
+        "fullContent": "Walmart ha anunciado una reducción de precios en una selección de videojuegos recién lanzados para Switch 2 y PlayStation 5, con varios títulos fijados en $30 antes del inicio de la venta oficial del 27 de noviembre. El precio de $30 se aplica a títulos de Switch 2 como Donkey Kong Bananza, Kirby Air Riders, Super Mario Party Jamboree y tanto Super Mario Galaxy como Super Mario Galaxy 2. Para PlayStation 5, el mismo precio incluye Resident Evil Requiem, Assassin’s Creed Black Flag Resynced, The Blood of Dawnwalker y Saros.\n\nAdemás de los juegos a $30, la promoción de Walmart muestra varios títulos a $15, entre ellos Sonic Racing: CrossWorlds, Sonic Frontiers, Elden Ring, Star Wars Outlaws, Mortal Kombat 1, Grand Theft Auto V, Final Fantasy VII Rebirth, Red Dead Redemption 2, Assassin’s Creed Shadows, entre otros.\n\nNintendo redujo previamente el precio de los juegos de Switch 2 listados en $20; Walmart aplicó un descuento adicional de $20, lo que representa una reducción de más del 50% para Donkey Kong Bananza. El minorista ha indicado que las ofertas son limitadas en cantidad y podrían agotarse antes de que comience el periodo oficial de venta."
+      }
+    },
+    {
+      "id": "90a697fa9561ea66ac6f8960b6bbb7a2",
+      "tag": "NEWS",
+      "slug": "tesla-lanza-la-version-15-de-su-software-de-conduccion-asistida-con-nueva-interfaz-visual",
+      "url": "https://www.godzgames.com/noticias/tesla-lanza-la-version-15-de-su-software-de-conduccion-asistida-con-nueva-interfaz-visual/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795477211574_423.jpg",
+      "link": "https://www.caranddriver.com/news/a74510768/tesla-driver-assistance-software-video-game/",
+      "en": {
+        "title": "Tesla releases version 15 of Full Self-Driving software with new visual interface",
+        "description": "Tesla has begun rolling out the 15th iteration of its Full Self-Driving (Supervised) software, named Tesla Reality View. The update utilizes the ve...",
+        "fullContent": "Tesla has begun rolling out the 15th iteration of its Full Self-Driving (Supervised) software, named Tesla Reality View. The update utilizes the vehicle's cameras to capture the surrounding environment and reproduces the scene on the central touchscreen, displaying arrows, turn indicators and the selected parking space when auto park is engaged.\n\nAccording to Tesla, the new version improves detection of potholes, small animals and road debris, and incorporates fleet learning from other Teslas traveling the same routes. The company states that the update is 25 times safer in critical interventions, though it has not released supporting mileage data.\n\nUser reports on Tesla forums indicate that version 15 may exhibit increased caution in certain situations, with some comments describing aggressive avoidance of objects and reactions to road repair sites. Tesla's documentation continues to require drivers to keep their attention on the road while the system operates."
+      },
+      "es": {
+        "title": "Tesla lanza la versión 15 de su software de conducción asistida con nueva interfaz visual",
+        "description": "Tesla ha comenzado a desplegar la 15ª iteración de su software Full Self-Driving (Supervisado), denominado Tesla Reality View. La actualización emp...",
+        "fullContent": "Tesla ha comenzado a desplegar la 15ª iteración de su software Full Self-Driving (Supervisado), denominado Tesla Reality View. La actualización emplea las cámaras del vehículo para capturar el entorno y recrea la escena en la pantalla central, mostrando flechas, indicaciones de giro y el espacio de estacionamiento seleccionado cuando se activa el autoestacionamiento.\n\nTesla indica que la nueva versión mejora la detección de baches, animales pequeños y escombros en la carretera, y utiliza el aprendizaje de flota a partir de los viajes de otros Teslas que recorren la misma ruta. La compañía afirma que la actualización es 25 veces más segura en intervenciones críticas, sin proporcionar datos de kilometraje que respalden la afirmación.\n\nLos usuarios en foros de Tesla han reportado que la versión 15 muestra una mayor cautela en ciertas situaciones, con algunos comentarios que describen una evasión agresiva de objetos y reacciones a obras viales como si fueran baches. La documentación de Tesla sigue indicando que los conductores deben mantener la atención en la carretera mientras el sistema está activo."
+      }
+    },
+    {
+      "id": "a836903ea970c1574f3fc66b48876c0c",
+      "tag": "NEWS",
+      "slug": "deborah-ann-woll-interpretara-a-faye-en-la-serie-de-accion-real-de-god-of-war",
+      "url": "https://www.godzgames.com/noticias/deborah-ann-woll-interpretara-a-faye-en-la-serie-de-accion-real-de-god-of-war/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795477213977_23.jpg",
+      "link": "https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900/",
+      "en": {
+        "title": "Deborah Ann Woll Cast as Faye in Amazon's God of War Live-Action Series",
+        "description": "Variety reports that Deborah Ann Woll will portray Faye in the upcoming live‑action adaptation of God of War for Amazon Prime Video. Woll previousl...",
+        "fullContent": "Variety reports that Deborah Ann Woll will portray Faye in the upcoming live‑action adaptation of God of War for Amazon Prime Video. Woll previously voiced the character in the video game God of War Ragnarok and is slated to lead the forthcoming game God of War Laufey, scheduled for release in May 2027.\n\nThe announced cast also includes Dave Bautista as Kratos, Callum Vinson as Atreus, Mandy Patinkin as Odin, Ed Skrein as Baldur, Max Parker as Heimdall, Ólafur Darri Ólafsson as Thor, Teresa Palmer as Sif, Alair Duncan as Mimir, Jeff Gulka as Sindri, Danny Woodburn as Brok, Sonya Walger as Freya, Island Austin as Thrud, Ben Chapple as Magni, Louis Cunningham as Modi and Evelyn Miller as Gna. The series description notes that Faye is the late wife of Kratos and mother of Atreus, whose death initiates the events of the original game. Woll has previously reprised the role of Karen Page in Marvel productions on Disney+ and has appeared in series such as True Blood and The Testaments."
+      },
+      "es": {
+        "title": "Deborah Ann Woll interpretará a Faye en la serie de acción real de God of War",
+        "description": "Según informa Variety, Deborah Ann Woll interpretará a Faye en la próxima serie de acción real basada en God of War que se emitirá en Amazon Prime ...",
+        "fullContent": "Según informa Variety, Deborah Ann Woll interpretará a Faye en la próxima serie de acción real basada en God of War que se emitirá en Amazon Prime Video. Woll ya había dado vida al personaje en el videojuego God of War Ragnarok y también encabezará el próximo juego God of War Laufey, previsto para su lanzamiento en mayo de 2027.\n\nEl elenco anunciado incluye a Dave Bautista como Kratos, Callum Vinson como Atreus, Mandy Patinkin como Odin, Ed Skrein como Baldur, Max Parker como Heimdall, Ólafur Darri Ólafsson como Thor, Teresa Palmer como Sif, Alair Duncan como Mimir, Jeff Gulka como Sindri, Danny Woodburn como Brok, Sonya Walger como Freya, Island Austin como Thrud, Ben Chapple como Magni, Louis Cunningham como Modi y Evelyn Miller como Gna. La serie describe a Faye como la difunta esposa de Kratos y madre de Atreus, cuya muerte desencadena los acontecimientos del juego original. Woll también ha retomado el papel de Karen Page en producciones de Marvel en Disney+ y ha participado en series como True Blood y The Testaments."
+      }
+    },
     {
       "id": "365db3cc3411678d0a847c5f80e402a6",
       "tag": "NEWS",
