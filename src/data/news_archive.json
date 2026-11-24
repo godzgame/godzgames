@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-24T09:21:34.767Z",
+  "lastUpdated": "2026-11-24T22:11:35.601Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "cdd6d20c820a8d0b9baf4ff0cce5c2d5",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-establece-record-de-prepedidos-y-empata-la-mayor-puntuacion-de-criticos",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-establece-record-de-prepedidos-y-empata-la-mayor-puntuacion-de-criticos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795512082310_98.jpg",
+      "link": "https://crisismagazine.com/opinion/the-soul-of-video-gaming",
+      "en": {
+        "title": "Grand Theft Auto VI sets pre‑order record and ties highest critic score",
+        "description": "On November 19, Grand Theft Auto VI was released after achieving the highest number of pre‑orders ever recorded for a video game. Estimates from Se...",
+        "fullContent": "On November 19, Grand Theft Auto VI was released after achieving the highest number of pre‑orders ever recorded for a video game. Estimates from Sensor Tower indicate that more than 17 million copies, equivalent to approximately $1.65 billion in revenue, were sold before launch, surpassing the pre‑launch performance of Grand Theft Auto V, which reached $1 billion in sales within three days.\n\nAccording to surveys, 32 percent of Gen Z workers and 27 percent of millennial employees planned to take personal time off to play the title throughout the weekend of its release. The game also tied the record for the highest critics’ score ever recorded for a video game. Data from the Entertainment Software Association show that the average age of a gamer in the United States is 37, and more than half of Gen X and baby‑boomer respondents reported playing video games regularly.\n\nThe game's premise involves the player assuming the role of a low‑life character who carries out criminal activities such as carjacking, running down pedestrians, shooting bystanders, robbing banks and interacting with sex workers as part of mission objectives."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI establece récord de pre‑pedidos y empata la mayor puntuación de críticos",
+        "description": "El 19 de noviembre se lanzó Grand Theft Auto VI después de alcanzar la mayor cantidad de pre‑pedidos registrada para un videojuego. Estimaciones de...",
+        "fullContent": "El 19 de noviembre se lanzó Grand Theft Auto VI después de alcanzar la mayor cantidad de pre‑pedidos registrada para un videojuego. Estimaciones de Sensor Tower indican que se vendieron más de 17 millones de copias antes del lanzamiento, lo que representa alrededor de 1.650 millones de dólares en ingresos, superando el desempeño previo de Grand Theft Auto V, que alcanzó mil millones de dólares en ventas en tres días.\n\nSegún encuestas, el 32 por ciento de los trabajadores de la generación Z y el 27 por ciento de los empleados milenarios planearon tomar tiempo libre personal para jugar durante el fin de semana del lanzamiento. El juego también empató el récord de la puntuación más alta otorgada por críticos a un videojuego. Datos de la Entertainment Software Association revelan que la edad promedio de un jugador en Estados Unidos es de 37 años, y más de la mitad de los encuestados de la generación X y los baby‑boomers informaron jugar videojuegos de forma regular.\n\nLa premisa del juego sitúa al jugador en el papel de un personaje de bajo perfil que lleva a cabo actividades delictivas, como atracar vehículos, atropellar peatones, disparar a transeúntes, robar bancos y relacionarse con trabajadoras sexuales, todo dentro de los objetivos de las misiones."
+      }
+    },
+    {
+      "id": "87a06139e9794ac29b46a115fe79a9e5",
+      "tag": "NEWS",
+      "slug": "ceo-de-anthropic-dario-amodei-propuso-juegos-de-video-inmersivos-como-respuesta-a-posibles-disturbios-por-la-automatizacion-de-la-ia",
+      "url": "https://www.godzgames.com/noticias/ceo-de-anthropic-dario-amodei-propuso-juegos-de-video-inmersivos-como-respuesta-a-posibles-disturbios-por-la-automatizacion-de-la-ia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795512084914_336.jpg",
+      "link": "https://futurism.com/future-society/dario-amodei-video-games-revolution-ai-jobs",
+      "en": {
+        "title": "Anthropic CEO Dario Amodei Suggested Immersive Video Games as a Response to Potential Unrest from AI-Driven Job Displacement",
+        "description": "A profile published by the Wall Street Journal about Dario Amodei, CEO of Anthropic, and his sister Daniela, also a principal at the lab, reports t...",
+        "fullContent": "A profile published by the Wall Street Journal about Dario Amodei, CEO of Anthropic, and his sister Daniela, also a principal at the lab, reports that Amodei once expressed the view that immersive video games could serve as a political solution to unrest that might arise when artificial intelligence automates most jobs. The article notes that Amodei defended this idea in debates with other AI researchers and employees before leaving OpenAI in 2020 to found Anthropic.\n\nSince founding Anthropic, Amodei has become a public advocate of universal basic income as a response to widespread job loss. In an essay released in June, he outlined a hypothetical financing model for UBI that would rely on taxes levied on relevant companies or an increase in capital gains tax, and he mentioned the possibility of universal capital accounts and the role of rapid economic growth in creating a tax base for shared prosperity."
+      },
+      "es": {
+        "title": "CEO de Anthropic, Dario Amodei, Propuso Juegos de Video Inmersivos como Respuesta a Posibles Disturbios por la Automatización de la IA",
+        "description": "Un perfil publicado por el Wall Street Journal sobre Dario Amodei, CEO de Anthropic, y su hermana Daniela, también principal en el laboratorio, ind...",
+        "fullContent": "Un perfil publicado por el Wall Street Journal sobre Dario Amodei, CEO de Anthropic, y su hermana Daniela, también principal en el laboratorio, indica que Amodei expresó en algún momento que los videojuegos inmersivos podrían constituir una solución política a los disturbios que pudieran surgir cuando la inteligencia artificial automatice la mayor parte del trabajo. El artículo menciona que Amodei defendió esa idea en debates con otros investigadores y empleados de IA antes de abandonar OpenAI en 2020 para fundar Anthropic.\n\nDesde la creación de Anthropic, Amodei se ha posicionado públicamente a favor de una renta básica universal como respuesta al desempleo masivo. En un ensayo publicado en junio, describió un modelo hipotético de financiación para la renta básica que incluiría impuestos a empresas relevantes o un aumento del impuesto a las ganancias de capital, y señaló la posibilidad de cuentas de capital universal y el papel del rápido crecimiento económico en la generación de una base tributaria para la prosperidad compartida."
+      }
+    },
+    {
+      "id": "17b9d05b00700d6414c10b1968384b6c",
+      "tag": "NEWS",
+      "slug": "estudiantes-de-la-uw-presentan-proyectos-en-el-demo-day-de-cseed-buildspace",
+      "url": "https://www.godzgames.com/noticias/estudiantes-de-la-uw-presentan-proyectos-en-el-demo-day-de-cseed-buildspace/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795512086953_24.jpg",
+      "link": "https://www.geekwire.com/2026/from-dorm-delivery-robots-to-real-world-video-games-uw-students-show-off-inventions/",
+      "en": {
+        "title": "UW students present projects at CSEED Buildspace Demo Day",
+        "description": "At the recent Buildspace Demo Day organized by the CSEED student club at the University of Washington, approximately 60 undergraduate participants ...",
+        "fullContent": "At the recent Buildspace Demo Day organized by the CSEED student club at the University of Washington, approximately 60 undergraduate participants demonstrated a range of projects that incorporate artificial intelligence. The event took place last week and featured demonstrations that the club’s co‑president Leonard Paya described as exceeding the typical output of college students, noting that advances in AI have enabled faster scaling of knowledge and execution.\n\nCSEED, a club founded several years ago and supported by the Paul G. Allen School of Computer Science & Engineering, as well as venture‑capital firms including AI House, Madrona and Pack Ventures, aims to assist aspiring software designers and engineers. Members of the organization have previously joined startup incubators such as Y Combinator, Z Fellows and Founders Inc."
+      },
+      "es": {
+        "title": "Estudiantes de la UW presentan proyectos en el Demo Day de CSEED Buildspace",
+        "description": "En el reciente Demo Day de Buildspace, organizado por el club estudiantil CSEED de la Universidad de Washington, alrededor de 60 estudiantes de pre...",
+        "fullContent": "En el reciente Demo Day de Buildspace, organizado por el club estudiantil CSEED de la Universidad de Washington, alrededor de 60 estudiantes de pregrado mostraron una variedad de proyectos que incorporan inteligencia artificial. El evento, que se realizó la semana pasada, incluyó demostraciones que el co‑presidente del club, Leonard Paya, calificó como superiores a las producciones típicas de estudiantes universitarios, señalando que los avances en IA han permitido una mayor rapidez en la expansión del conocimiento y la ejecución.\n\nCSEED, fundado hace varios años y respaldado por la Paul G. Allen School of Computer Science & Engineering, así como por firmas de capital de riesgo como AI House, Madrona y Pack Ventures, tiene como objetivo apoyar a futuros diseñadores y ingenieros de software. Los miembros del club han ingresado previamente a incubadoras de startups como Y Combinator, Z Fellows y Founders Inc."
+      }
+    },
+    {
+      "id": "3cacbd8b064f6691ae0ac5240039eb6f",
+      "tag": "NEWS",
+      "slug": "rockstar-lanza-el-primer-parche-postlanzamiento-de-gta-6-corrigiendo-siete-errores",
+      "url": "https://www.godzgames.com/noticias/rockstar-lanza-el-primer-parche-postlanzamiento-de-gta-6-corrigiendo-siete-errores/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795512091462_727.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-first-update-post-launch",
+      "en": {
+        "title": "Rockstar releases first post-launch patch for GTA 6, fixing seven bugs",
+        "description": "On Monday, Rockstar Games published the first official post‑launch update for Grand Theft Auto VI, which is available for download on PlayStation 5...",
+        "fullContent": "On Monday, Rockstar Games published the first official post‑launch update for Grand Theft Auto VI, which is available for download on PlayStation 5 and Xbox Series consoles. The update is presented as a routine patch that players can install before continuing their sessions.\n\nThe patch notes list seven issues that were identified during the initial days after release. Among the problems addressed are weather conditions that remained unchanged for extended periods, in‑game phone calls—including those that advance the narrative—not triggering on schedule, and a bug where partner characters failed to hand the player bags of contraband.\n\nAlthough GTA VI is a single‑player experience, the notes suggest that installing the update may improve stability and ensure the intended gameplay flow."
+      },
+      "es": {
+        "title": "Rockstar lanza el primer parche post‑lanzamiento de GTA 6, corrigiendo siete errores",
+        "description": "El lunes, Rockstar Games publicó la primera actualización oficial posterior al lanzamiento de Grand Theft Auto VI, disponible para descarga en cons...",
+        "fullContent": "El lunes, Rockstar Games publicó la primera actualización oficial posterior al lanzamiento de Grand Theft Auto VI, disponible para descarga en consolas PlayStation 5 y Xbox Series. El parche se describe como una corrección rutinaria que los jugadores pueden instalar antes de continuar sus partidas.\n\nSegún las notas del parche, se solucionan siete problemas detectados durante los primeros días tras el estreno. Entre los errores corregidos se encuentran condiciones climáticas que no cambiaban durante períodos prolongados, llamadas telefónicas dentro del juego —incluidas aquellas que impulsan la historia— que no se activaban a tiempo, y un fallo que impedía a los personajes compañeros entregar al jugador bolsas de contrabando.\n\nAunque GTA VI es una experiencia para un solo jugador, las notas indican que la instalación del parche puede mejorar la estabilidad y garantizar el correcto desarrollo del juego."
+      }
+    },
+    {
+      "id": "72cd6a836c725a4b759189c68fc262e2",
+      "tag": "NEWS",
+      "slug": "autor-critica-mecanicas-de-relaciones-y-tendencias-percibidas-en-videojuegos-recientes",
+      "url": "https://www.godzgames.com/noticias/autor-critica-mecanicas-de-relaciones-y-tendencias-percibidas-en-videojuegos-recientes/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795512094691_549.jpg",
+      "link": "https://www.mcsweeneys.net/articles/my-video-game-girlfriend-is-starting-to-sound-an-awful-lot-like-my-ex-wife",
+      "en": {
+        "title": "Author Criticizes Recent Video Game Relationship Mechanics and Perceived Political Trends",
+        "description": "According to a recent WIRED article, the Grand Theft Auto series has never provided instruction on activities such as bank robbery or police shooto...",
+        "fullContent": "According to a recent WIRED article, the Grand Theft Auto series has never provided instruction on activities such as bank robbery or police shootouts, but the latest storyline in the franchise includes elements that portray aspects of romantic relationships. The article notes that a segment of right‑wing gamers has expressed concerns that the upcoming GTA VI might be perceived as overly \"woke,\" and a user on the platform X posted comments such as \"RIP GTA\" and \"Killed by women.\"\n\nThe author of the commentary states that they use video games as a form of escapism from daily stressors, including work, politics, and finances. The author also mentions that after a day spent discussing policies regarding women in combat roles, they prefer not to engage with in‑game scenarios that involve assisting a fictional female character with domestic tasks.\n\nThe commentary further observes that recent game designs have introduced female characters with independent feelings and preferences, including mechanics that require the player to remember birthdays, purchase flowers, and perform errands. The author reports personal experience with such mechanics, noting that they resulted in a reduction of in‑game currency."
+      },
+      "es": {
+        "title": "Autor critica mecánicas de relaciones y tendencias percibidas en videojuegos recientes",
+        "description": "Según un artículo reciente de WIRED, la serie Grand Theft Auto nunca ha ofrecido instrucciones sobre actividades como el robo de bancos o los tirot...",
+        "fullContent": "Según un artículo reciente de WIRED, la serie Grand Theft Auto nunca ha ofrecido instrucciones sobre actividades como el robo de bancos o los tiroteos con la policía, pero la última trama de la franquicia incluye elementos que representan aspectos de relaciones románticas. El artículo señala que un sector de jugadores de derecha ha expresado preocupación de que el próximo GTA VI pueda percibirse como excesivamente \"woke\", y un usuario en la plataforma X publicó comentarios como \"RIP GTA\" y \"Killed by women\".\n\nEl autor de la opinión indica que utiliza los videojuegos como forma de escapismo frente al estrés cotidiano, que incluye trabajo, política y finanzas. Asimismo, menciona que, después de un día dedicado a discutir la participación de las mujeres en roles de combate, prefiere no involucrarse en escenarios del juego que requieran ayudar a una personaje femenina ficticia con tareas domésticas.\n\nEl comentario observa que los diseños de juegos recientes han introducido personajes femeninos con sentimientos y preferencias propias, incorporando mecánicas que obligan al jugador a recordar cumpleaños, comprar flores y realizar recados. El autor relata una experiencia personal con esas mecánicas, indicando que le provocaron una disminución de la moneda virtual disponible."
+      }
+    },
     {
       "id": "dd7b9e7124e0d494ae08964bf1d9f0bb",
       "tag": "NEWS",
