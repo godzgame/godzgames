@@ -1,8 +1,44 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-25T07:54:55.667Z",
+  "lastUpdated": "2026-11-25T21:27:53.895Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "43a0ad1fbb4b835fcf0fcd4f480bbb6f",
+      "tag": "NEWS",
+      "slug": "gta-vi-incluye-mas-de-800-canciones-en-emisoras-de-radio-personalizadas",
+      "url": "https://www.godzgames.com/noticias/gta-vi-incluye-mas-de-800-canciones-en-emisoras-de-radio-personalizadas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593286203_75.jpg",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+      "en": {
+        "title": "GTA VI includes more than 800 songs on custom radio stations",
+        "description": "Rockstar Games' upcoming title Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a parolee, as they na...",
+        "fullContent": "Rockstar Games' upcoming title Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a parolee, as they navigate a recreation of central Florida known as Vice City, Leonida. The game’s open world allows players to switch between the two protagonists, complete story missions, engage in side activities, and explore the map without fast‑travel options.\n\nThe soundtrack consists of over 800 tracks distributed across several radio stations that reflect the simulated region’s music scene. In early gameplay, the 2003 soca track \"Turn Me On\" by Kevin Lyttle plays from a speedboat’s radio while the player approaches a yacht gathering, illustrating how each vehicle’s audio can differ."
+      },
+      "es": {
+        "title": "GTA VI incluye más de 800 canciones en emisoras de radio personalizadas",
+        "description": "El próximo título de Rockstar Games, Grand Theft Auto VI, sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, exreclusa, mientra...",
+        "fullContent": "El próximo título de Rockstar Games, Grand Theft Auto VI, sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, exreclusa, mientras recorren una recreación de la zona central de Florida denominada Vice City, Leonida. El mundo abierto del juego permite alternar entre los dos protagonistas, cumplir misiones de la historia, participar en actividades secundarias y explorar el mapa sin opciones de viaje rápido.\n\nLa banda sonora cuenta con más de 800 piezas distribuidas en varias emisoras de radio que representan la escena musical del área simulada. En una de las primeras sesiones de juego, la canción soca de 2003 \"Turn Me On\" de Kevin Lyttle suena en la radio de una lancha rápida mientras el jugador se acerca a una fiesta en yate, demostrando cómo el audio varía según el vehículo."
+      }
+    },
+    {
+      "id": "5f05434b5d97adabca5e1169b6da9cc6",
+      "tag": "NEWS",
+      "slug": "lana-del-rey-y-jeremy-dufrene-aparecen-como-personajes-en-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/lana-del-rey-y-jeremy-dufrene-aparecen-como-personajes-en-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593291596_377.jpg",
+      "link": "https://www.nola.com/entertainment_life/lana-del-rey-grand-theft-auto/article_098cf4c4-2094-43f9-ba9b-66f96f5e4946.html",
+      "en": {
+        "title": "Lana Del Rey and Jeremy Dufrene appear as characters in Grand Theft Auto VI",
+        "description": "Lana Del Rey and her husband Jeremy Dufrene were photographed at the Valentino Womenswear Spring/Summer 2026 presentation during Paris Fashion Week...",
+        "fullContent": "Lana Del Rey and her husband Jeremy Dufrene were photographed at the Valentino Womenswear Spring/Summer 2026 presentation during Paris Fashion Week on 5 October 2025. Both are listed among the attendees of the event in Paris, France.\n\nIn the upcoming release Grand Theft Auto VI, the couple is represented as fictional characters whose narratives incorporate elements drawn from their personal backgrounds, including settings such as swamps and themes related to romance and country music. Del Rey provides the voice for a radio host named Delta Dawne on the game's country‑music station, Back Country Radio, where she introduces tracks by artists such as David Allan Coe and Loretta Lynn.\n\nThe game's soundtrack also includes Del Rey's song \"Crazy for You,\" a ballad that features a harmonica and organ arrangement reminiscent of her 2017 album \"Lust for Life.\""
+      },
+      "es": {
+        "title": "Lana Del Rey y Jeremy Dufrene aparecen como personajes en Grand Theft Auto VI",
+        "description": "Lana Del Rey y su esposo Jeremy Dufrene asistieron al desfile Valentino Womenswear Spring/Summer 2026 durante la Semana de la Moda de París el 5 de...",
+        "fullContent": "Lana Del Rey y su esposo Jeremy Dufrene asistieron al desfile Valentino Womenswear Spring/Summer 2026 durante la Semana de la Moda de París el 5 de octubre de 2025, según la cobertura del evento en París, Francia.\n\nEn el próximo título Grand Theft Auto VI, la pareja está representada como personajes ficticios cuyas historias incluyen referencias a entornos pantanosos, romance y música country, reflejando aspectos de sus vidas reales. Del Rey interpreta a una locutora de radio llamada Delta Dawne en la emisora de música country del juego, Back Country Radio, donde presenta canciones de David Allan Coe y Loretta Lynn.\n\nLa banda sonora del juego también incluye la balada \"Crazy for You\" de Del Rey, con una armonía de armónica y órgano que recuerda al estilo de su álbum de 2017, \"Lust for Life\"."
+      }
+    },
     {
       "id": "17ddccba58b6254e57f7e40b63af0ae7",
       "tag": "NEWS",
