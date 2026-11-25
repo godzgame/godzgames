@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-24T22:11:35.601Z",
+  "lastUpdated": "2026-11-25T07:54:55.667Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "17ddccba58b6254e57f7e40b63af0ae7",
+      "tag": "NEWS",
+      "slug": "jugador-tiene-dificultad-para-avanzar-mas-alla-del-capitulo-1-de-gta-6",
+      "url": "https://www.godzgames.com/noticias/jugador-tiene-dificultad-para-avanzar-mas-alla-del-capitulo-1-de-gta-6/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558289724_658.jpg",
+      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
+      "en": {
+        "title": "Player finds it difficult to advance past Chapter 1 in GTA 6",
+        "description": "A player of Grand Theft Auto VI reports experiencing a prolonged period of low motivation to continue the game after completing most of Chapter 1. ...",
+        "fullContent": "A player of Grand Theft Auto VI reports experiencing a prolonged period of low motivation to continue the game after completing most of Chapter 1. The player states that only one story mission remains before the chapter concludes, and that there are few other activities available at that point. The player expresses a desire to move on to later parts of the game but feels inclined to remain within the routine of the protagonist Jason Duval.\n\nAccording to the player's account, Chapter 1 follows Jason Duval, who works as a low‑level operative for a boatyard owner involved in drug trafficking, while the second protagonist, Lucia, is released from prison partway through the chapter but is not playable for most of it. The player describes the daily in‑game actions—such as feeding a pet snake, drinking coffee, exercising, and taking a shower—as part of the routine that defines the early segment of the story."
+      },
+      "es": {
+        "title": "Jugador tiene dificultad para avanzar más allá del Capítulo 1 de GTA 6",
+        "description": "Un jugador de Grand Theft Auto VI informa que ha experimentado un periodo prolongado de baja motivación para continuar el juego después de completa...",
+        "fullContent": "Un jugador de Grand Theft Auto VI informa que ha experimentado un periodo prolongado de baja motivación para continuar el juego después de completar la mayor parte del Capítulo 1. El jugador indica que solo queda una misión de la historia antes de que el capítulo termine y que, en ese momento, hay pocas actividades adicionales disponibles. Manifiesta el deseo de pasar a las secciones posteriores del juego, pero se siente inclinado a permanecer dentro de la rutina del protagonista Jason Duval.\n\nSegún el relato del jugador, el Capítulo 1 sigue a Jason Duval, quien trabaja como operario de bajo nivel para un propietario de astillero que se dedica al tráfico de drogas, mientras que la segunda protagonista, Lucía, es liberada de prisión a mitad del capítulo pero no es jugable durante la mayor parte del mismo. El jugador describe las acciones diarias dentro del juego—alimentar a una serpiente mascota, tomar café, hacer ejercicio y ducharse—como parte de la rutina que define la primera parte de la historia."
+      }
+    },
+    {
+      "id": "64cf112bba77624183060aa32d396a13",
+      "tag": "NEWS",
+      "slug": "gta-vi-incluye-mas-de-170-especies-de-aves-y-atrae-a-jugadores-interesados-en-la-ornitologia",
+      "url": "https://www.godzgames.com/noticias/gta-vi-incluye-mas-de-170-especies-de-aves-y-atrae-a-jugadores-interesados-en-la-ornitologia/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558292327_254.jpg",
+      "link": "https://www.wired.com/story/gta-vi-birders-paradise/",
+      "en": {
+        "title": "GTA VI Features Over 170 Bird Species, Attracts Ornithology‑Focused Players",
+        "description": "Grand Theft Auto VI has received near‑universal acclaim and is projected to become the highest‑grossing entertainment launch in history. In additio...",
+        "fullContent": "Grand Theft Auto VI has received near‑universal acclaim and is projected to become the highest‑grossing entertainment launch in history. In addition to its broader reception, the game includes more than 170 animal species, with a particular emphasis on avian life that corresponds to Florida’s ecosystems, as Vice City is modeled after Miami.\n\nPlayers receive a pair of binoculars early in the campaign and can explore the open world after the introductory mission. Observations reported by a birder who has not previously engaged with video games indicate that a variety of birds are present throughout the map, including brown pelicans, house sparrows, blue jays, and laughing gulls. The community has noted the emergence of “ornithologist runs,” in which participants aim to log as many bird species as possible, coinciding with a reported increase in interest in birdwatching among younger audiences.\n"
+      },
+      "es": {
+        "title": "GTA VI incluye más de 170 especies de aves y atrae a jugadores interesados en la ornitología",
+        "description": "Grand Theft Auto VI ha recibido una aceptación casi universal y se prevé que sea el lanzamiento de entretenimiento con mayores ingresos de la histo...",
+        "fullContent": "Grand Theft Auto VI ha recibido una aceptación casi universal y se prevé que sea el lanzamiento de entretenimiento con mayores ingresos de la historia. Además de su recepción general, el juego incorpora más de 170 especies animales, con especial atención a la avifauna que representa los ecosistemas de Florida, ya que Vice City está inspirado en Miami.\n\nLos jugadores reciben un par de binoculares al iniciar la primera misión y pueden explorar el mundo abierto una vez concluida la introducción. Un observador de aves que no es jugador ha señalado la presencia de diversas especies en todo el mapa, entre ellas pelícanos pardos, gorriones domésticos, arrendajos azules y charranes risueños. La comunidad ha registrado la aparición de \"corridas de ornitólogos\", en las que los participantes buscan registrar la mayor cantidad posible de especies de aves, coincidiendo con un aumento del interés en la observación de aves entre audiencias jóvenes."
+      }
+    },
+    {
+      "id": "f075845f0ea95b0096fe12388acf5930",
+      "tag": "NEWS",
+      "slug": "rockstar-elimina-servidores-de-project-leonida-creador-de-15-anos-recibe-prohibicion-de-dos-anos-en-discord",
+      "url": "https://www.godzgames.com/noticias/rockstar-elimina-servidores-de-project-leonida-creador-de-15-anos-recibe-prohibicion-de-dos-anos-en-discord/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558295529_672.jpg",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/rockstar-nukes-15-year-olds-gta-6-recompilation-project-discord-and-github-servers-taken-down-project-leonida-had-almost-180-000-discord-members-host-account-banned-for-two-years",
+      "en": {
+        "title": "Rockstar removes Project Leonida servers; 15-year-old developer banned from Discord for two years",
+        "description": "Project Leonida, a recompilation effort that aimed to run the console version of Grand Theft Auto VI on Windows PCs, has been taken offline. Both t...",
+        "fullContent": "Project Leonida, a recompilation effort that aimed to run the console version of Grand Theft Auto VI on Windows PCs, has been taken offline. Both the Discord community, which had close to 180,000 members, and the project's GitHub repositories were removed following a request from Rockstar Games. The individual behind the project, identified as a 15‑year‑old using the name NotRezed, confirmed a two‑year ban from Discord.\n\nThe shutdown occurred shortly after leaker Cyberleek released a near‑complete Xbox build of GTA VI and a missing executable was posted on 23 November. The incident follows other recent recompilation attempts, such as a version of Zelda: Ocarina of Time adapted for Apple platforms and other projects that have employed AI‑assisted tools. NotRezed stated a desire to create projects but indicated that circumstances beyond their control led to the current situation, and there has been no indication that parallel efforts will face similar actions."
+      },
+      "es": {
+        "title": "Rockstar elimina servidores de Project Leonida; creador de 15 años recibe prohibición de dos años en Discord",
+        "description": "Project Leonida, un proyecto de recompilación que buscaba ejecutar la versión de consola de Grand Theft Auto VI en PC con Windows, ha sido dado de ...",
+        "fullContent": "Project Leonida, un proyecto de recompilación que buscaba ejecutar la versión de consola de Grand Theft Auto VI en PC con Windows, ha sido dado de baja. Los servidores de Discord, que contaban con cerca de 180.000 miembros, y los repositorios de GitHub del proyecto fueron retirados tras una solicitud de Rockstar Games. La persona detrás del proyecto, identificada como un adolescente de 15 años bajo el nombre NotRezed, confirmó una sanción de dos años en Discord.\n\nEl cierre se produjo pocos días después de que el filtrador conocido como Cyberleek publicara una versión casi completa para Xbox de GTA VI y de que un ejecutable faltante fuera difundido el 23 de noviembre. El hecho se enmarca dentro de una serie de intentos de recompilación recientes, como la adaptación de Zelda: Ocarina of Time para plataformas Apple y otros proyectos que han utilizado herramientas asistidas por IA. NotRezed manifestó su intención de crear contenidos, pero señaló que circunstancias fuera de su control llevaron a la situación actual, sin que haya indicios de que proyectos paralelos enfrenten medidas similares."
+      }
+    },
     {
       "id": "cdd6d20c820a8d0b9baf4ff0cce5c2d5",
       "tag": "NEWS",

@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1795558295603,
+  "updatedAt": 1795593295669,
   "articles": [
+    {
+      "id": "43a0ad1fbb4b835fcf0fcd4f480bbb6f",
+      "tag": "NEWS",
+      "slug": "gta-vi-incluye-mas-de-800-canciones-en-emisoras-de-radio-personalizadas",
+      "url": "https://www.godzgames.com/noticias/gta-vi-incluye-mas-de-800-canciones-en-emisoras-de-radio-personalizadas/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593286203_75.jpg",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+      "en": {
+        "title": "GTA VI includes more than 800 songs on custom radio stations",
+        "description": "Rockstar Games' upcoming title Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a parolee, as they na...",
+        "fullContent": "Rockstar Games' upcoming title Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a parolee, as they navigate a recreation of central Florida known as Vice City, Leonida. The game’s open world allows players to switch between the two protagonists, complete story missions, engage in side activities, and explore the map without fast‑travel options.\n\nThe soundtrack consists of over 800 tracks distributed across several radio stations that reflect the simulated region’s music scene. In early gameplay, the 2003 soca track \"Turn Me On\" by Kevin Lyttle plays from a speedboat’s radio while the player approaches a yacht gathering, illustrating how each vehicle’s audio can differ."
+      },
+      "es": {
+        "title": "GTA VI incluye más de 800 canciones en emisoras de radio personalizadas",
+        "description": "El próximo título de Rockstar Games, Grand Theft Auto VI, sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, exreclusa, mientra...",
+        "fullContent": "El próximo título de Rockstar Games, Grand Theft Auto VI, sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, exreclusa, mientras recorren una recreación de la zona central de Florida denominada Vice City, Leonida. El mundo abierto del juego permite alternar entre los dos protagonistas, cumplir misiones de la historia, participar en actividades secundarias y explorar el mapa sin opciones de viaje rápido.\n\nLa banda sonora cuenta con más de 800 piezas distribuidas en varias emisoras de radio que representan la escena musical del área simulada. En una de las primeras sesiones de juego, la canción soca de 2003 \"Turn Me On\" de Kevin Lyttle suena en la radio de una lancha rápida mientras el jugador se acerca a una fiesta en yate, demostrando cómo el audio varía según el vehículo."
+      }
+    },
+    {
+      "id": "660b643256f37c58b3996fdc9d3f7539",
+      "tag": "NEWS",
+      "slug": "autor-describe-mecanicas-de-romance-en-gta-vi-en-comparacion-con-otros-juegos",
+      "url": "https://www.godzgames.com/noticias/autor-describe-mecanicas-de-romance-en-gta-vi-en-comparacion-con-otros-juegos/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593289458_811.jpg",
+      "link": "https://gameinformer.com/opinion/2026/11/24/i-hate-video-game-romance-heres-why-grand-theft-auto-vi-is-the-exception",
+      "en": {
+        "title": "Author Describes Romance Mechanics in GTA VI Compared to Other Games",
+        "description": "The author states that they generally do not favor romance mechanics in video games, describing typical implementations as rapid developments that ...",
+        "fullContent": "The author states that they generally do not favor romance mechanics in video games, describing typical implementations as rapid developments that often rely on a small number of conversations and gift exchanges. They mention titles such as Baldur's Gate 3, Stardew Valley and Date Everything as examples where the romance loop follows a pattern of dialogue choices, sympathy for backstory, promises, and the provision of preferred items, leading to a confession of affection.\n\nIn Grand Theft Auto VI, the author reports feeling a higher level of investment in the romance between the characters Jason and Lucia, attributing this to the game's quieter moments and slice‑of‑life mechanics. They note that the relationship in GTA VI begins with the characters already dating, thereby bypassing the initial courtship phase present in many other titles, while remaining conditional and adjustable throughout the game.\n\nThe author further comments that, in their view, many games allocate limited development resources to romance, which results in a mechanical presentation that requires players to fill narrative gaps. They contrast this with Rockstar's approach, which they describe as having allocated sufficient time and space for romance elements within the broader game world."
+      },
+      "es": {
+        "title": "Autor Describe Mecánicas de Romance en GTA VI en Comparación con Otros Juegos",
+        "description": "El autor indica que, en general, no le gustan las mecánicas de romance en los videojuegos, describiendo las implementaciones habituales como desarr...",
+        "fullContent": "El autor indica que, en general, no le gustan las mecánicas de romance en los videojuegos, describiendo las implementaciones habituales como desarrollos rápidos que suelen basarse en un pequeño número de conversaciones y entregas de regalos. Menciona títulos como Baldur's Gate 3, Stardew Valley y Date Everything como ejemplos donde el ciclo romántico sigue un patrón de opciones de diálogo, simpatía por la historia personal, promesas y la entrega de objetos preferidos, culminando en una confesión de afecto.\n\nEn Grand Theft Auto VI, el autor señala sentir un mayor nivel de inversión en el romance entre los personajes Jason y Lucia, atribuyéndolo a los momentos más tranquilos y a las mecánicas de slice‑of‑life del juego. Señala que la relación en GTA VI comienza con los personajes ya saliendo, omitiendo la fase inicial de cortejo presente en muchos otros títulos, aunque sigue siendo condicional y modificable a lo largo del juego.\n\nEl autor también comenta que, según su perspectiva, muchos juegos destinan recursos limitados al desarrollo del romance, lo que produce una presentación mecánica que requiere que los jugadores completen los vacíos narrativos. Contrasta esto con el enfoque de Rockstar, al que describe como habiendo asignado tiempo y espacio suficiente para los elementos románticos dentro del mundo más amplio del juego."
+      }
+    },
+    {
+      "id": "5f05434b5d97adabca5e1169b6da9cc6",
+      "tag": "NEWS",
+      "slug": "lana-del-rey-y-jeremy-dufrene-aparecen-como-personajes-en-grand-theft-auto-vi",
+      "url": "https://www.godzgames.com/noticias/lana-del-rey-y-jeremy-dufrene-aparecen-como-personajes-en-grand-theft-auto-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593291596_377.jpg",
+      "link": "https://www.nola.com/entertainment_life/lana-del-rey-grand-theft-auto/article_098cf4c4-2094-43f9-ba9b-66f96f5e4946.html",
+      "en": {
+        "title": "Lana Del Rey and Jeremy Dufrene appear as characters in Grand Theft Auto VI",
+        "description": "Lana Del Rey and her husband Jeremy Dufrene were photographed at the Valentino Womenswear Spring/Summer 2026 presentation during Paris Fashion Week...",
+        "fullContent": "Lana Del Rey and her husband Jeremy Dufrene were photographed at the Valentino Womenswear Spring/Summer 2026 presentation during Paris Fashion Week on 5 October 2025. Both are listed among the attendees of the event in Paris, France.\n\nIn the upcoming release Grand Theft Auto VI, the couple is represented as fictional characters whose narratives incorporate elements drawn from their personal backgrounds, including settings such as swamps and themes related to romance and country music. Del Rey provides the voice for a radio host named Delta Dawne on the game's country‑music station, Back Country Radio, where she introduces tracks by artists such as David Allan Coe and Loretta Lynn.\n\nThe game's soundtrack also includes Del Rey's song \"Crazy for You,\" a ballad that features a harmonica and organ arrangement reminiscent of her 2017 album \"Lust for Life.\""
+      },
+      "es": {
+        "title": "Lana Del Rey y Jeremy Dufrene aparecen como personajes en Grand Theft Auto VI",
+        "description": "Lana Del Rey y su esposo Jeremy Dufrene asistieron al desfile Valentino Womenswear Spring/Summer 2026 durante la Semana de la Moda de París el 5 de...",
+        "fullContent": "Lana Del Rey y su esposo Jeremy Dufrene asistieron al desfile Valentino Womenswear Spring/Summer 2026 durante la Semana de la Moda de París el 5 de octubre de 2025, según la cobertura del evento en París, Francia.\n\nEn el próximo título Grand Theft Auto VI, la pareja está representada como personajes ficticios cuyas historias incluyen referencias a entornos pantanosos, romance y música country, reflejando aspectos de sus vidas reales. Del Rey interpreta a una locutora de radio llamada Delta Dawne en la emisora de música country del juego, Back Country Radio, donde presenta canciones de David Allan Coe y Loretta Lynn.\n\nLa banda sonora del juego también incluye la balada \"Crazy for You\" de Del Rey, con una armonía de armónica y órgano que recuerda al estilo de su álbum de 2017, \"Lust for Life\"."
+      }
+    },
+    {
+      "id": "17b9d05b00700d6414c10b1968384b6c",
+      "tag": "NEWS",
+      "slug": "estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed",
+      "url": "https://www.godzgames.com/noticias/estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593293176_226.jpg",
+      "link": "https://www.geekwire.com/2026/from-dorm-delivery-robots-to-real-world-video-games-uw-students-show-off-inventions/",
+      "en": {
+        "title": "University of Washington students present projects at CSEED Buildspace Demo Day",
+        "description": "At the recent Buildspace Demo Day organized by the CSEED student club at the University of Washington, approximately 60 undergraduate participants ...",
+        "fullContent": "At the recent Buildspace Demo Day organized by the CSEED student club at the University of Washington, approximately 60 undergraduate participants demonstrated a range of projects that incorporate artificial intelligence technologies. The event was described by club co‑president Leonard Paya as showcasing work that exceeds typical undergraduate output, noting that advancements in AI have expanded the scope of what students are able to develop.\n\nCSEED, a club supported by the Paul G. Allen School of Computer Science & Engineering and venture capital firms including AI House, Madrona and Pack Ventures, aims to assist students pursuing software design and engineering. Members of the club have subsequently joined startup incubators such as Y Combinator, Z Fellows and Founders Inc."
+      },
+      "es": {
+        "title": "Estudiantes de la Universidad de Washington presentan proyectos en el Demo Day de CSEED",
+        "description": "En el Demo Day de Buildspace, organizado por el club estudiantil CSEED de la Universidad de Washington, alrededor de 60 estudiantes de pregrado mos...",
+        "fullContent": "En el Demo Day de Buildspace, organizado por el club estudiantil CSEED de la Universidad de Washington, alrededor de 60 estudiantes de pregrado mostraron una serie de proyectos que incorporan tecnologías de inteligencia artificial. El co‑presidente del club, Leonard Paya, indicó que los trabajos presentados superan lo que normalmente se espera de estudiantes universitarios, señalando que los avances en IA han ampliado el rango de posibilidades de desarrollo.\n\nCSEED, club financiado por la Paul G. Allen School of Computer Science & Engineering y firmas de capital de riesgo como AI House, Madrona y Pack Ventures, tiene como objetivo apoyar a estudiantes interesados en diseño y ingeniería de software. Algunos de sus miembros han ingresado a incubadoras de startups, entre ellas Y Combinator, Z Fellows y Founders Inc."
+      }
+    },
     {
       "id": "aaa92e811d2f2d0374bc32442cd5df75",
       "tag": "NEWS",
       "slug": "grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia",
       "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558283600_623.jpg",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795593295537_310.jpg",
       "link": "https://www.thenation.com/article/society/grand-theft-auto-explainer-art-video-games/",
       "en": {
-        "title": "Grand Theft Auto VI generates $3.8 billion on first day",
-        "description": "Grand Theft Auto VI was released last week by Rockstar Games as the latest entry in the Grand Theft Auto series. According to estimates, the game e...",
-        "fullContent": "Grand Theft Auto VI was released last week by Rockstar Games as the latest entry in the Grand Theft Auto series. According to estimates, the game earned approximately $3.8 billion in revenue on its first day, a figure reported to be higher than the opening revenues of the recent Avengers film, the Harry Potter and the Transphobic Author release, and the Super Bowl.\n\nThe title is described as an open‑world sandbox crime simulator that permits players to steal vehicles, sell drugs, engage with law‑enforcement characters, and interact with a virtual environment that loosely represents a fictionalized version of Florida.\n\nThe author of the original commentary identifies as a full‑time employed American father who also plays video games regularly. He reports buying a new game roughly every six to eight weeks and allocating about ten hours per week to playing."
+        "title": "Grand Theft Auto VI generates $3.8 billion on its first day of release",
+        "description": "Rockstar Games released Grand Theft Auto VI last week, adding a new entry to the franchise that has become the most financially successful media se...",
+        "fullContent": "Rockstar Games released Grand Theft Auto VI last week, adding a new entry to the franchise that has become the most financially successful media series worldwide. According to reports, the game earned an estimated $3.8 billion on its opening day, a figure that exceeds the first‑day revenues of major film releases such as the latest Avengers installment, recent Harry Potter titles, and the revenue generated by the Super Bowl.\n\nGrand Theft Auto VI is described as an open‑world crime simulator that allows players to engage in activities such as vehicle theft, drug distribution, and confrontations with law‑enforcement characters. The game’s setting is a fictionalized version of Florida, and it includes scenarios such as robbing establishments, interacting with automated teller machines, and other actions that mirror criminal behavior within the virtual environment.\n\nThe high level of public attention has prompted questions from individuals who do not regularly play video games about the reasons for the title’s commercial performance and cultural prominence. The article’s author identifies himself as a father with a full‑time job who also plays video games regularly, purchasing new titles roughly every six to eight weeks and dedicating about ten hours per week to gaming."
       },
       "es": {
-        "title": "Grand Theft Auto VI genera 3.800 millones de dólares en su primer día",
-        "description": "Grand Theft Auto VI se lanzó la semana pasada por Rockstar Games como la última entrega de la serie Grand Theft Auto. Según estimaciones, el juego ...",
-        "fullContent": "Grand Theft Auto VI se lanzó la semana pasada por Rockstar Games como la última entrega de la serie Grand Theft Auto. Según estimaciones, el juego obtuvo aproximadamente 3.800 millones de dólares en ingresos durante su primer día, una cifra que se ha comparado con los ingresos de apertura de la última película de Avengers, de Harry Potter and the Transphobic Author y del Super Bowl.\n\nEl juego se describe como un simulador de crimen de mundo abierto que permite a los jugadores robar vehículos, vender drogas, interactuar con personajes policiales y explorar un entorno virtual que representa una versión ficticia del estado de Florida.\n\nEl autor del comentario original se presenta como un padre estadounidense con empleo a tiempo completo que también es jugador frecuente. Indica que adquiere un juego nuevo aproximadamente cada seis a ocho semanas y dedica alrededor de diez horas semanales a jugar."
-      }
-    },
-    {
-      "id": "43a0ad1fbb4b835fcf0fcd4f480bbb6f",
-      "tag": "NEWS",
-      "slug": "gta-vi-incluye-musica-en-cada-vehiculo-robado",
-      "url": "https://www.godzgames.com/noticias/gta-vi-incluye-musica-en-cada-vehiculo-robado/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558286329_794.jpg",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
-      "en": {
-        "title": "GTA VI includes music on every stolen vehicle",
-        "description": "Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a newly released parolee, as they navigate a recreat...",
-        "fullContent": "Grand Theft Auto VI follows the characters Jason Duval, a military veteran, and Lucia Caminos, a newly released parolee, as they navigate a recreation of central Florida known as Vice City, Leonida. The game’s open world allows players to switch between the two protagonists, complete linear missions that advance the storyline, and engage in side activities across the map.\n\nThe title features more than 800 licensed tracks distributed across custom radio stations that reflect the region’s musical culture. In early gameplay, Kevin Lyttle’s 2003 song “Turn Me On” was heard on a speedboat’s radio while approaching a yacht party. Hijacking vehicles is a core mechanic; each vehicle’s radio contributes to the atmosphere as players travel without using fast‑travel options."
-      },
-      "es": {
-        "title": "GTA VI incluye música en cada vehículo robado",
-        "description": "Grand Theft Auto VI sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, recién liberada bajo libertad condicional, mientras reco...",
-        "fullContent": "Grand Theft Auto VI sigue a los personajes Jason Duval, veterano militar, y Lucia Caminos, recién liberada bajo libertad condicional, mientras recorren una recreación del centro de Florida llamada Vice City, Leonida. El mundo abierto del juego permite a los jugadores alternar entre los dos protagonistas, completar misiones lineales que impulsan la trama y participar en actividades secundarias en todo el mapa.\n\nEl título cuenta con más de 800 canciones licenciadas distribuidas en emisoras de radio personalizadas que reflejan la cultura musical de la zona. En los inicios de la partida, la canción “Turn Me On” de Kevin Lyttle (2003) se escuchó en la radio de una lancha rápida al acercarse a una fiesta en yate. Robar vehículos es una mecánica central; la radio de cada coche aporta al ambiente mientras los jugadores se desplazan sin utilizar opciones de viaje rápido."
-      }
-    },
-    {
-      "id": "17ddccba58b6254e57f7e40b63af0ae7",
-      "tag": "NEWS",
-      "slug": "jugador-tiene-dificultad-para-avanzar-mas-alla-del-capitulo-1-de-gta-6",
-      "url": "https://www.godzgames.com/noticias/jugador-tiene-dificultad-para-avanzar-mas-alla-del-capitulo-1-de-gta-6/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558289724_658.jpg",
-      "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
-      "en": {
-        "title": "Player finds it difficult to advance past Chapter 1 in GTA 6",
-        "description": "A player of Grand Theft Auto VI reports experiencing a prolonged period of low motivation to continue the game after completing most of Chapter 1. ...",
-        "fullContent": "A player of Grand Theft Auto VI reports experiencing a prolonged period of low motivation to continue the game after completing most of Chapter 1. The player states that only one story mission remains before the chapter concludes, and that there are few other activities available at that point. The player expresses a desire to move on to later parts of the game but feels inclined to remain within the routine of the protagonist Jason Duval.\n\nAccording to the player's account, Chapter 1 follows Jason Duval, who works as a low‑level operative for a boatyard owner involved in drug trafficking, while the second protagonist, Lucia, is released from prison partway through the chapter but is not playable for most of it. The player describes the daily in‑game actions—such as feeding a pet snake, drinking coffee, exercising, and taking a shower—as part of the routine that defines the early segment of the story."
-      },
-      "es": {
-        "title": "Jugador tiene dificultad para avanzar más allá del Capítulo 1 de GTA 6",
-        "description": "Un jugador de Grand Theft Auto VI informa que ha experimentado un periodo prolongado de baja motivación para continuar el juego después de completa...",
-        "fullContent": "Un jugador de Grand Theft Auto VI informa que ha experimentado un periodo prolongado de baja motivación para continuar el juego después de completar la mayor parte del Capítulo 1. El jugador indica que solo queda una misión de la historia antes de que el capítulo termine y que, en ese momento, hay pocas actividades adicionales disponibles. Manifiesta el deseo de pasar a las secciones posteriores del juego, pero se siente inclinado a permanecer dentro de la rutina del protagonista Jason Duval.\n\nSegún el relato del jugador, el Capítulo 1 sigue a Jason Duval, quien trabaja como operario de bajo nivel para un propietario de astillero que se dedica al tráfico de drogas, mientras que la segunda protagonista, Lucía, es liberada de prisión a mitad del capítulo pero no es jugable durante la mayor parte del mismo. El jugador describe las acciones diarias dentro del juego—alimentar a una serpiente mascota, tomar café, hacer ejercicio y ducharse—como parte de la rutina que define la primera parte de la historia."
-      }
-    },
-    {
-      "id": "64cf112bba77624183060aa32d396a13",
-      "tag": "NEWS",
-      "slug": "gta-vi-incluye-mas-de-170-especies-de-aves-y-atrae-a-jugadores-interesados-en-la-ornitologia",
-      "url": "https://www.godzgames.com/noticias/gta-vi-incluye-mas-de-170-especies-de-aves-y-atrae-a-jugadores-interesados-en-la-ornitologia/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558292327_254.jpg",
-      "link": "https://www.wired.com/story/gta-vi-birders-paradise/",
-      "en": {
-        "title": "GTA VI Features Over 170 Bird Species, Attracts Ornithology‑Focused Players",
-        "description": "Grand Theft Auto VI has received near‑universal acclaim and is projected to become the highest‑grossing entertainment launch in history. In additio...",
-        "fullContent": "Grand Theft Auto VI has received near‑universal acclaim and is projected to become the highest‑grossing entertainment launch in history. In addition to its broader reception, the game includes more than 170 animal species, with a particular emphasis on avian life that corresponds to Florida’s ecosystems, as Vice City is modeled after Miami.\n\nPlayers receive a pair of binoculars early in the campaign and can explore the open world after the introductory mission. Observations reported by a birder who has not previously engaged with video games indicate that a variety of birds are present throughout the map, including brown pelicans, house sparrows, blue jays, and laughing gulls. The community has noted the emergence of “ornithologist runs,” in which participants aim to log as many bird species as possible, coinciding with a reported increase in interest in birdwatching among younger audiences.\n"
-      },
-      "es": {
-        "title": "GTA VI incluye más de 170 especies de aves y atrae a jugadores interesados en la ornitología",
-        "description": "Grand Theft Auto VI ha recibido una aceptación casi universal y se prevé que sea el lanzamiento de entretenimiento con mayores ingresos de la histo...",
-        "fullContent": "Grand Theft Auto VI ha recibido una aceptación casi universal y se prevé que sea el lanzamiento de entretenimiento con mayores ingresos de la historia. Además de su recepción general, el juego incorpora más de 170 especies animales, con especial atención a la avifauna que representa los ecosistemas de Florida, ya que Vice City está inspirado en Miami.\n\nLos jugadores reciben un par de binoculares al iniciar la primera misión y pueden explorar el mundo abierto una vez concluida la introducción. Un observador de aves que no es jugador ha señalado la presencia de diversas especies en todo el mapa, entre ellas pelícanos pardos, gorriones domésticos, arrendajos azules y charranes risueños. La comunidad ha registrado la aparición de \"corridas de ornitólogos\", en las que los participantes buscan registrar la mayor cantidad posible de especies de aves, coincidiendo con un aumento del interés en la observación de aves entre audiencias jóvenes."
-      }
-    },
-    {
-      "id": "f075845f0ea95b0096fe12388acf5930",
-      "tag": "NEWS",
-      "slug": "rockstar-elimina-servidores-de-project-leonida-creador-de-15-anos-recibe-prohibicion-de-dos-anos-en-discord",
-      "url": "https://www.godzgames.com/noticias/rockstar-elimina-servidores-de-project-leonida-creador-de-15-anos-recibe-prohibicion-de-dos-anos-en-discord/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795558295529_672.jpg",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/rockstar-nukes-15-year-olds-gta-6-recompilation-project-discord-and-github-servers-taken-down-project-leonida-had-almost-180-000-discord-members-host-account-banned-for-two-years",
-      "en": {
-        "title": "Rockstar removes Project Leonida servers; 15-year-old developer banned from Discord for two years",
-        "description": "Project Leonida, a recompilation effort that aimed to run the console version of Grand Theft Auto VI on Windows PCs, has been taken offline. Both t...",
-        "fullContent": "Project Leonida, a recompilation effort that aimed to run the console version of Grand Theft Auto VI on Windows PCs, has been taken offline. Both the Discord community, which had close to 180,000 members, and the project's GitHub repositories were removed following a request from Rockstar Games. The individual behind the project, identified as a 15‑year‑old using the name NotRezed, confirmed a two‑year ban from Discord.\n\nThe shutdown occurred shortly after leaker Cyberleek released a near‑complete Xbox build of GTA VI and a missing executable was posted on 23 November. The incident follows other recent recompilation attempts, such as a version of Zelda: Ocarina of Time adapted for Apple platforms and other projects that have employed AI‑assisted tools. NotRezed stated a desire to create projects but indicated that circumstances beyond their control led to the current situation, and there has been no indication that parallel efforts will face similar actions."
-      },
-      "es": {
-        "title": "Rockstar elimina servidores de Project Leonida; creador de 15 años recibe prohibición de dos años en Discord",
-        "description": "Project Leonida, un proyecto de recompilación que buscaba ejecutar la versión de consola de Grand Theft Auto VI en PC con Windows, ha sido dado de ...",
-        "fullContent": "Project Leonida, un proyecto de recompilación que buscaba ejecutar la versión de consola de Grand Theft Auto VI en PC con Windows, ha sido dado de baja. Los servidores de Discord, que contaban con cerca de 180.000 miembros, y los repositorios de GitHub del proyecto fueron retirados tras una solicitud de Rockstar Games. La persona detrás del proyecto, identificada como un adolescente de 15 años bajo el nombre NotRezed, confirmó una sanción de dos años en Discord.\n\nEl cierre se produjo pocos días después de que el filtrador conocido como Cyberleek publicara una versión casi completa para Xbox de GTA VI y de que un ejecutable faltante fuera difundido el 23 de noviembre. El hecho se enmarca dentro de una serie de intentos de recompilación recientes, como la adaptación de Zelda: Ocarina of Time para plataformas Apple y otros proyectos que han utilizado herramientas asistidas por IA. NotRezed manifestó su intención de crear contenidos, pero señaló que circunstancias fuera de su control llevaron a la situación actual, sin que haya indicios de que proyectos paralelos enfrenten medidas similares."
+        "title": "Grand Theft Auto VI genera 3.800 millones de dólares en su primer día",
+        "description": "Rockstar Games lanzó Grand Theft Auto VI la semana pasada, añadiendo una nueva entrega a la franquicia que se ha convertido en la serie mediática m...",
+        "fullContent": "Rockstar Games lanzó Grand Theft Auto VI la semana pasada, añadiendo una nueva entrega a la franquicia que se ha convertido en la serie mediática más rentable a nivel mundial. Según los informes, el juego obtuvo aproximadamente 3.800 millones de dólares en su día de apertura, una cifra superior a los ingresos de estreno de películas como la última entrega de los Vengadores, títulos recientes de Harry Potter y los ingresos generados por el Super Bowl.\n\nGrand Theft Auto VI se describe como un simulador de crimen de mundo abierto que permite a los jugadores participar en actividades como el robo de vehículos, la distribución de drogas y enfrentamientos con personajes policiales. El juego se sitúa en una versión ficticia de Florida e incluye situaciones como asaltar establecimientos, interactuar con cajeros automáticos y otras acciones que replican conductas delictivas dentro del entorno virtual.\n\nEl elevado nivel de atención pública ha generado preguntas de personas que no juegan videojuegos de forma habitual sobre las razones del desempeño comercial y la presencia cultural del título. El autor del artículo se presenta como un padre con empleo a tiempo completo que también juega videojuegos de manera regular, adquiriendo nuevos títulos aproximadamente cada seis a ocho semanas y dedicando alrededor de diez horas semanales al juego."
       }
     }
   ]
