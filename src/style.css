@@ -2570,12 +2570,12 @@ html {
 }
 
 /* SOCIAL_BAR_PATCH */
-.social-bar { background: var(--color-surface, #14141c); border-bottom: 1px solid var(--border-color, rgba(255,255,255,0.08)); }
-.social-bar-inner { display: flex; align-items: center; justify-content: flex-end; gap: 10px; padding: 6px 0; }
-.social-bar-label { font-size: 0.8rem; color: var(--color-text-muted, #aaaaaa); margin-right: 4px; }
 .social-link { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease; }
 .social-link:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .social-telegram { background: #229ed9; }
 .social-facebook { background: #1877f2; }
 .social-instagram { background: linear-gradient(45deg, #f09433, #dc2743, #bc1888); }
-@media (max-width: 600px) { .social-bar-inner { justify-content: center; } }
+
+/* SOCIAL_HEADER_PATCH */
+.social-links { display: inline-flex; align-items: center; gap: 8px; }
+@media (max-width: 600px) { .header-right { flex-wrap: wrap; justify-content: center !important; } }
