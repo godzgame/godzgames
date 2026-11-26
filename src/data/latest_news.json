@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1795679144417,
+  "updatedAt": 1795727709970,
   "articles": [
+    {
+      "id": "aaa92e811d2f2d0374bc32442cd5df75",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia-y-se-convierte-en-el-lanzamiento-mediatico-de-mayor-recaudacion-esta-semana",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia-y-se-convierte-en-el-lanzamiento-mediatico-de-mayor-recaudacion-esta-semana/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795727697464_732.jpg",
+      "link": "https://www.thenation.com/article/society/grand-theft-auto-explainer-art-video-games/",
+      "en": {
+        "title": "Grand Theft Auto VI Generates $3.8 Billion on First Day, Becomes Highest‑Grossing Media Release This Week",
+        "description": "Rockstar Games released Grand Theft Auto VI last week. The game is the latest entry in the Grand Theft Auto franchise, which is described as a sand...",
+        "fullContent": "Rockstar Games released Grand Theft Auto VI last week. The game is the latest entry in the Grand Theft Auto franchise, which is described as a sandbox crime‑simulation series. According to estimates, the title generated approximately $3.8 billion in revenue on its first day, surpassing the opening day earnings of recent releases such as the latest Avengers film, the newest Harry Potter installment, and the Super Bowl broadcast.\n\nThe game's mechanics allow players to drive vehicles, engage in illegal activities, and interact with a virtual representation of a Florida‑inspired environment. The release has attracted attention beyond the gaming community, prompting questions about its cultural impact and financial performance. The article's author, who identifies as a father, husband, full‑time employee, and regular gamer, notes personal purchasing habits of acquiring a new game roughly every six to eight weeks and allocating about ten hours per week to play."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI genera 3.800 millones de dólares en su primer día y se convierte en el lanzamiento mediático de mayor recaudación esta semana",
+        "description": "Rockstar Games lanzó Grand Theft Auto VI la semana pasada. El título es la última entrega de la franquicia Grand Theft Auto, catalogada como una se...",
+        "fullContent": "Rockstar Games lanzó Grand Theft Auto VI la semana pasada. El título es la última entrega de la franquicia Grand Theft Auto, catalogada como una serie de simulación de crímenes en un mundo abierto. Según estimaciones, el juego obtuvo alrededor de 3.800 millones de dólares en ingresos durante su primer día, superando las cifras de apertura de los últimos filmes de los Avengers, la última película de Harry Potter y la transmisión del Super Bowl.\n\nLa jugabilidad permite a los jugadores conducir vehículos, realizar actividades ilegales y explorar un entorno virtual inspirado en Florida. El lanzamiento ha llamado la atención fuera del público de videojuegos, generando preguntas sobre su impacto cultural y su desempeño financiero. El autor del artículo indica que, además de ser padre, esposo y trabajador a tiempo completo, juega de forma regular, compra un juego nuevo cada seis a ocho semanas y dedica aproximadamente diez horas semanales al juego."
+      }
+    },
+    {
+      "id": "86fe936a02fada05ea78ab6194848495",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-genera-379-mil-millones-de-dolares-en-sus-primeras-24-horas-equivalentes-al-15-del-recaudado-anual-en-cines-a-nivel-mundial",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-379-mil-millones-de-dolares-en-sus-primeras-24-horas-equivalentes-al-15-del-recaudado-anual-en-cines-a-nivel-mundial/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795727701033_258.jpg",
+      "link": "https://www.indiewire.com/features/commentary/grand-theft-auto-6-video-game-movie-criticism-1235230976/",
+      "en": {
+        "title": "Grand Theft Auto VI Generates $3.79 Billion in First 24 Hours, Equivalent to 15% of Annual Global Box Office",
+        "description": "Grand Theft Auto VI recorded $3.79 billion in worldwide sales within its first 24 hours of release, an amount that represents roughly 15 percent of...",
+        "fullContent": "Grand Theft Auto VI recorded $3.79 billion in worldwide sales within its first 24 hours of release, an amount that represents roughly 15 percent of the total global box‑office revenue for the year. The launch took place on November 19, and the revenue figure was reported by industry sources.\n\nMedia outlets, including TheWrap, have raised questions about the potential impact of the game's release on the broader attention economy. Analysts cited in various industry assessments indicated that the game's extensive open‑world format could attract a significant share of consumer time, potentially affecting viewership of movies and television. A former video‑game critic who now covers film and television stated that the competition for audience engagement between games, movies, TV shows, and social media is noteworthy.\n\nThe discussion highlighted by analysts and commentators centers on the assumption that time spent with one type of entertainment can be directly compared to time spent with another, and whether such comparisons provide insight into the relative value of each medium."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI genera 3.79 mil millones de dólares en sus primeras 24 horas, equivalentes al 15 % del recaudado anual en cines a nivel mundial",
+        "description": "Grand Theft Auto VI alcanzó 3.79 mil millones de dólares en ventas globales durante sus primeras 24 horas de lanzamiento, una cifra que corresponde...",
+        "fullContent": "Grand Theft Auto VI alcanzó 3.79 mil millones de dólares en ventas globales durante sus primeras 24 horas de lanzamiento, una cifra que corresponde aproximadamente al 15 por ciento de la recaudación total de la taquilla mundial del año. El lanzamiento se realizó el 19 de noviembre y el dato de ingresos fue comunicado por fuentes de la industria.\n\nMedios de comunicación, entre ellos TheWrap, han planteado preguntas sobre el posible efecto del estreno del juego en la economía de la atención. Analistas citados en diferentes evaluaciones del sector señalaron que el formato de mundo abierto del juego podría captar una parte importante del tiempo de los consumidores, influyendo potencialmente en la visualización de películas y programas de televisión. Un crítico de videojuegos que ahora cubre cine y televisión manifestó que la competencia por la atención del público entre videojuegos, películas, series y redes sociales resulta relevante.\n\nEl debate señalado por analistas y comentaristas se centra en la suposición de que el tiempo dedicado a un tipo de entretenimiento puede compararse directamente con el tiempo dedicado a otro, y en si dichas comparaciones aportan información sobre el valor relativo de cada medio."
+      }
+    },
+    {
+      "id": "91d59fe872377048958b39fb4910f7d5",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-muestra-cifras-impresionantes-en-su-primera-semana",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-muestra-cifras-impresionantes-en-su-primera-semana/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795727704467_983.jpg",
+      "link": "https://www.cnn.com/2026/11/26/entertainment/video/hollywood-entertainment-video-games-grand-theft-auto-vi-one-week-later",
+      "en": {
+        "title": "Grand Theft Auto VI delivers impressive first‑week numbers",
+        "description": "Grand Theft Auto VI, the latest entry in the series, has reported delivering impressive numbers during its first week of release, according to Rick...",
+        "fullContent": "Grand Theft Auto VI, the latest entry in the series, has reported delivering impressive numbers during its first week of release, according to Rick Damigella.\n\nThe report was issued by Cable News Network (CNN) and includes a 2026 copyright notice. A QR code included in the story provides a link to download the CNN app from the Apple Store."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI muestra cifras impresionantes en su primera semana",
+        "description": "Grand Theft Auto VI, la última entrega de la saga, ha informado que está entregando cifras impresionantes durante su primera semana de lanzamiento,...",
+        "fullContent": "Grand Theft Auto VI, la última entrega de la saga, ha informado que está entregando cifras impresionantes durante su primera semana de lanzamiento, según Rick Damigella.\n\nEl informe fue publicado por Cable News Network (CNN) e incluye una nota de derechos de autor de 2026. Un código QR incluido en la pieza ofrece un enlace para descargar la aplicación de CNN desde la Apple Store."
+      }
+    },
     {
       "id": "9ccf11257d909a7537febc66f1b913c2",
       "tag": "NEWS",
-      "slug": "ea-sports-fc-27-incorporara-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson",
-      "url": "https://www.godzgames.com/noticias/ea-sports-fc-27-incorporara-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679135192_576.jpg",
+      "slug": "ea-sports-fc-27-incluira-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson",
+      "url": "https://www.godzgames.com/noticias/ea-sports-fc-27-incluira-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795727707033_515.jpg",
       "link": "https://www.bbc.com/news/articles/c65y10j841jpo",
       "en": {
-        "title": "EA Sports FC 27 to Include AI-Generated Voice of Late Commentator John Motson",
-        "description": "Electronic Arts has confirmed to the BBC that the upcoming release of EA Sports FC 27 will feature a digitally recreated voice of the late John Mot...",
-        "fullContent": "Electronic Arts has confirmed to the BBC that the upcoming release of EA Sports FC 27 will feature a digitally recreated voice of the late John Motson. The voice was produced using a combination of archival recordings and generative artificial intelligence, following consent from Motson's widow and son.\n\nMotson, who passed away in February 2023 at the age of 77, previously served as a commentator for the FIFA video game series during the 1990s and 2000s. This marks the first instance of a deceased commentator being incorporated into the franchise, which was formerly known as FIFA. The updated commentary option will be available to players from the game's launch on 26 November."
+        "title": "EA Sports FC 27 to include AI‑generated voice of late commentator John Motson",
+        "description": "Electronic Arts confirmed that the upcoming title EA Sports FC 27 will feature a digitally recreated voice of John Motson, the former BBC Sport com...",
+        "fullContent": "Electronic Arts confirmed that the upcoming title EA Sports FC 27 will feature a digitally recreated voice of John Motson, the former BBC Sport commentator who passed away in February 2023. The voice was generated using a combination of archival recordings and generative artificial intelligence, and its inclusion follows permission granted by Motson's widow and son.\n\nMotson, who served as the main BBC Sport commentator for several decades and previously contributed commentary to earlier editions of the football video game series during the 1990s and 2000s, will become the first deceased commentator represented in the franchise, which was previously known as FIFA. The AI‑generated commentary is scheduled to be available to players on 26 November, the release date of FC 27.\n\nFred Motson, the commentator's son, told the BBC that having his father's voice in the game \"means an awful lot.\""
       },
       "es": {
-        "title": "EA Sports FC 27 incorporará la voz generada por IA del fallecido comentarista John Motson",
-        "description": "Electronic Arts ha comunicado a la BBC que la próxima edición de EA Sports FC 27 incluirá una voz recreada digitalmente del difunto John Motson. La...",
-        "fullContent": "Electronic Arts ha comunicado a la BBC que la próxima edición de EA Sports FC 27 incluirá una voz recreada digitalmente del difunto John Motson. La voz se obtuvo mediante la combinación de grabaciones de archivo y una inteligencia artificial generativa, con el permiso de la viuda y el hijo de Motson.\n\nMotson, quien falleció en febrero de 2023 a los 77 años, fue comentarista principal de la serie de videojuegos FIFA durante los años 90 y 2000. Esta es la primera vez que la franquicia, antes conocida como FIFA, incorpora a un comentarista fallecido. La opción de comentario estará disponible para los usuarios a partir del lanzamiento del juego, el 26 de noviembre."
+        "title": "EA Sports FC 27 incluirá la voz generada por IA del fallecido comentarista John Motson",
+        "description": "Electronic Arts ha confirmado que el próximo título EA Sports FC 27 incorporará una voz recreada digitalmente de John Motson, el excomentarista de ...",
+        "fullContent": "Electronic Arts ha confirmado que el próximo título EA Sports FC 27 incorporará una voz recreada digitalmente de John Motson, el excomentarista de BBC Sport que falleció en febrero de 2023. La voz se generó a partir de una combinación de grabaciones de archivo y de inteligencia artificial generativa, con el permiso de la viuda y el hijo de Motson.\n\nMotson, quien fue el comentarista principal de BBC Sport durante varias décadas y colaboró en entregas anteriores de la serie de videojuegos de fútbol en los años 90 y 2000, será el primer comentarista fallecido representado en la franquicia, anteriormente conocida como FIFA. La narración generada por IA estará disponible para los jugadores a partir del 26 de noviembre, fecha de lanzamiento de FC 27.\n\nFred Motson, hijo del comentarista, declaró a la BBC que contar con la voz de su padre en el juego \"significa mucho\"."
       }
     },
     {
-      "id": "a8f11cb94f7751005430403d1ea89e32",
+      "id": "187d8eff69c8c89b22ded5a9d855d9c2",
       "tag": "NEWS",
-      "slug": "guia-de-regalos-navidenos-2026-destaca-productos-de-gaming",
-      "url": "https://www.godzgames.com/noticias/guia-de-regalos-navidenos-2026-destaca-productos-de-gaming/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679137548_196.jpg",
-      "link": "https://gameinformer.com/gear/2026/11/25/holiday-gift-guide-2026",
+      "slug": "cronologia-e-impacto-de-la-serie-grand-theft-auto-resaltados-tras-record-de-ventas-de-gta-vi",
+      "url": "https://www.godzgames.com/noticias/cronologia-e-impacto-de-la-serie-grand-theft-auto-resaltados-tras-record-de-ventas-de-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795727709890_931.jpg",
+      "link": "https://www.rollingstone.com/culture/rs-gaming-lists/gta-grand-theft-auto-games-ranked-1235661232/",
       "en": {
-        "title": "Holiday Gift Guide 2026 Highlights Gaming Products",
-        "description": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publi...",
-        "fullContent": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publication. The guide reports that it has examined a range of technology products, tabletop games, collectibles and other categories.\n\nOne of the featured items is a platform called The Board, which was recommended shortly after its launch. The guide notes that the platform now includes an expanded game library and a price lower than the initial launch price, listed at $399. The device displays a horizontally oriented screen that can show the backdrop of included games or add‑on titles, and each game uses physical play pieces that interact with the on‑screen action.\n\nThe guide also lists a new expansion for the Dungeons & Dragons ruleset, priced at $50, which adds subclasses, spells, creatures, magical items and factions. In addition, a Tomb Raider statue approximately nine inches tall, depicting the character in her original attire, is described as a collectible item."
+        "title": "Grand Theft Auto series timeline and impact highlighted as GTA VI breaks sales records",
+        "description": "Grand Theft Auto debuted in 1997 on PC and PlayStation, achieving commercial success and later becoming a widely recognized entertainment property....",
+        "fullContent": "Grand Theft Auto debuted in 1997 on PC and PlayStation, achieving commercial success and later becoming a widely recognized entertainment property. The franchise expanded throughout the early 2000s and, as of this year, released its latest installment, GTA VI, which generated day‑one sales of over $3.79 billion, surpassing previous records for media launches and equating to the gross domestic product of a small nation.\n\nThe series has been noted for influencing the development of open‑world games, with its cinematic presentation and player‑driven freedom cited as reference points for subsequent titles across various genres. In addition to its industry impact, GTA has appeared as a visual reference in films and television programs, and it has been the subject of political commentary that links the game to broader societal discussions.\n\nGameplay in the GTA titles includes a range of actions, such as interactions with sex workers and large‑scale shooting scenarios. The narrative framework portrays aspects of American culture, including themes of greed, hypocrisy and the pursuit of the American Dream, which are presented through the game's storyline and setting."
       },
       "es": {
-        "title": "Guía de Regalos Navideños 2026 Destaca Productos de Gaming",
-        "description": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los a...",
-        "fullContent": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los artículos relevantes en la publicación. La guía indica que ha revisado una variedad de productos tecnológicos, juegos de mesa, coleccionables y otras categorías.\n\nUno de los artículos destacados es una plataforma llamada The Board, recomendada poco después de su lanzamiento. La guía señala que la plataforma ahora cuenta con una biblioteca de juegos ampliada y un precio inferior al del lanzamiento inicial, fijado en $399. El dispositivo muestra una pantalla horizontal que puede presentar el fondo de los juegos incluidos o de los títulos adicionales, y cada juego utiliza piezas físicas que interactúan con la acción en pantalla.\n\nLa guía también menciona una nueva expansión para el conjunto de reglas de Dungeons & Dragons, con un precio de $50, que incorpora nuevas subclases, hechizos, criaturas, objetos mágicos y facciones. Además, se describe una estatua de Tomb Raider de aproximadamente nueve pulgadas de altura, que representa al personaje con su vestimenta clásica, como un artículo de colección."
-      }
-    },
-    {
-      "id": "17b9d05b00700d6414c10b1968384b6c",
-      "tag": "NEWS",
-      "slug": "estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed",
-      "url": "https://www.godzgames.com/noticias/estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679139745_235.jpg",
-      "link": "https://www.geekwire.com/2026/from-dorm-delivery-robots-to-real-world-video-games-uw-students-show-off-inventions/",
-      "en": {
-        "title": "University of Washington students present projects at CSEED Buildspace Demo Day",
-        "description": "Last week, the Buildspace Demo Day organized by CSEED, a University of Washington student club, featured presentations from 60 undergraduate partic...",
-        "fullContent": "Last week, the Buildspace Demo Day organized by CSEED, a University of Washington student club, featured presentations from 60 undergraduate participants. The event took place amid ongoing discussions about the impact of recent AI developments on software engineering studies, including concerns that some coursework can be completed using chatbots.\n\nLeonard Paya, co‑president of CSEED, said, \"We’re seeing projects that normal college students would not be expected to make. As AI becomes more advanced, you can see how fast they scale up their knowledge and execute on things that are truly amazing.\" CSEED receives funding from the Paul G. Allen School of Computer Science & Engineering and venture‑capital firms AI House, Madrona and Pack Ventures. Former members of the club have joined startup incubators such as Y Combinator, Z Fellows and Founders Inc."
-      },
-      "es": {
-        "title": "Estudiantes de la Universidad de Washington presentan proyectos en el Demo Day de CSEED",
-        "description": "La semana pasada se celebró el Demo Day de Buildspace, organizado por CSEED, un club estudiantil de la Universidad de Washington, donde 60 estudian...",
-        "fullContent": "La semana pasada se celebró el Demo Day de Buildspace, organizado por CSEED, un club estudiantil de la Universidad de Washington, donde 60 estudiantes de pregrado mostraron sus proyectos. El evento se realizó en medio de debates sobre el impacto de los recientes avances en IA en los estudios de ingeniería de software, incluida la preocupación de que algunas tareas académicas puedan ser realizadas por chatbots.\n\nLeonard Paya, co‑presidente de CSEED, declaró: \"Estamos viendo proyectos que a estudiantes universitarios normales no se les esperaría crear. A medida que la IA avanza, se puede observar la rapidez con la que amplían sus conocimientos y ejecutan cosas realmente asombrosas.\" CSEED cuenta con financiación de la Paul G. Allen School of Computer Science & Engineering y de firmas de capital de riesgo como AI House, Madrona y Pack Ventures. Ex‑miembros del club han ingresado a incubadoras de startups como Y Combinator, Z Fellows y Founders Inc."
-      }
-    },
-    {
-      "id": "25472c419014b4876302539b3dc1ee72",
-      "tag": "NEWS",
-      "slug": "psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta",
-      "url": "https://www.godzgames.com/noticias/psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679142724_90.jpg",
-      "link": "https://www.gamebyte.com/video-games-for-depression/",
-      "en": {
-        "title": "Psychologist Rates Nine Video Games for Depression, Three Receive Perfect Score",
-        "description": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he cons...",
-        "fullContent": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he considers potentially beneficial for individuals experiencing depression. Each game was assessed on three criteria: ease of pick‑up, degree of help provided, and overall experience. The psychologist explained that his approach aligns with behavioural activation, a therapeutic method that encourages activities that generate joy, accomplishment, and social connection. He organized the games into three categories: those that promote positive feelings, those that offer small wins, and those that foster a sense of connection.\n\nThe first game presented in the list is Untitled Goose Game, which received a score of 9. According to the psychologist, the game involves playing as a goose that disrupts the daily routine of villagers, and its comedic situations, such as stealing a hat, are intended to elicit laughter. The shorter length of the title was cited as the reason it did not achieve a perfect 10. Three of the nine evaluated games were awarded a perfect score of 10, though their titles were not disclosed in the summary."
-      },
-      "es": {
-        "title": "Psicólogo califica nueve videojuegos para la depresión, tres obtienen puntuación perfecta",
-        "description": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntu...",
-        "fullContent": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntuaciones a nueve títulos que considera potencialmente útiles para personas que atraviesan una depresión. Cada juego fue valorado según tres criterios: facilidad para comenzar, medida de ayuda y experiencia global. El psicólogo explicó que su método se basa en la activación conductual, una técnica terapéutica que promueve actividades que generan alegría, sentido de logro y conexión social. Los videojuegos se agruparon en tres secciones: los que generan sensaciones positivas, los que brindan pequeñas victorias y los que favorecen la sensación de conexión.\n\nEl primer juego mencionado en la lista es Untitled Goose Game, al que se le otorgó una puntuación de 9. Según el psicólogo, el juego consiste en controlar a una oca que altera la rutina diaria de los habitantes de un pueblo, y situaciones como robar un sombrero están diseñadas para provocar risa. La duración más corta del título se citó como la razón por la que no alcanzó la puntuación máxima de 10. Tres de los nueve juegos evaluados recibieron una puntuación perfecta de 10, aunque sus nombres no se especificaron en el resumen."
-      }
-    },
-    {
-      "id": "dc537699ee7eefee4e36734594993a1b",
-      "tag": "NEWS",
-      "slug": "mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york",
-      "url": "https://www.godzgames.com/noticias/mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679144321_403.jpg",
-      "link": "https://local21news.com/news/local/over-6000-worth-of-video-games-jewelry-stolen-from-york-county-home-red-lion-pa-pennsylvania-nintendo-switch-console-police-investigation",
-      "en": {
-        "title": "More Than $6,000 in Video Games and Jewelry Stolen from York County Home",
-        "description": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue i...",
-        "fullContent": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue in Red Lion. The incident resulted in the theft of video games and jewelry valued at over $6,000.\n\nPennsylvania State Troopers are conducting an investigation into the case. No details regarding potential suspects have been released. The troopers listed the stolen items as video games and various pieces of jewelry."
-      },
-      "es": {
-        "title": "Más de $6,000 en videojuegos y joyas robados de una vivienda en el condado de York",
-        "description": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p...",
-        "fullContent": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p.m. del 10 de noviembre. En el robo se sustrajeron videojuegos y joyas cuyo valor supera los $6,000.\n\nLos patrulleros estatales de Pensilvania están investigando el hecho. No se ha divulgado información sobre posibles sospechosos. Según los oficiales, los objetos robados incluyen videojuegos y diversas piezas de joyería."
+        "title": "Cronología e impacto de la serie Grand Theft Auto resaltados tras récord de ventas de GTA VI",
+        "description": "Grand Theft Auto se lanzó en 1997 para PC y PlayStation, logrando éxito comercial y convirtiéndose posteriormente en una propiedad de entretenimien...",
+        "fullContent": "Grand Theft Auto se lanzó en 1997 para PC y PlayStation, logrando éxito comercial y convirtiéndose posteriormente en una propiedad de entretenimiento ampliamente reconocida. La franquicia se expandió durante la primera década del siglo XXI y, en el presente año, presentó su última entrega, GTA VI, que generó ventas del primer día superiores a 3.790 millones de dólares, superando los récords anteriores de lanzamientos mediáticos y equivalentes al producto interno bruto de una pequeña nación.\n\nSe ha señalado que la serie ha influido en el desarrollo de juegos de mundo abierto, con su presentación cinematográfica y la libertad de decisión del jugador citadas como referencias para títulos posteriores de diversos géneros. Además de su impacto en la industria, GTA aparece como referencia visual en películas y programas de televisión, y ha sido objeto de comentarios políticos que lo relacionan con debates sociales más amplios.\n\nLa jugabilidad de los títulos GTA incluye una variedad de acciones, como interacciones con trabajadoras sexuales y escenarios de tiroteos a gran escala. El marco narrativo representa aspectos de la cultura estadounidense, incluyendo temas de codicia, hipocresía y la búsqueda del Sueño Americano, presentados a través de la historia y el entorno del juego."
       }
     }
   ]

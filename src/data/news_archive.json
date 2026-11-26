@@ -1,8 +1,62 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-26T07:45:44.415Z",
+  "lastUpdated": "2026-11-26T21:15:09.967Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "a8f11cb94f7751005430403d1ea89e32",
+      "tag": "NEWS",
+      "slug": "guia-de-regalos-navidenos-2026-destaca-productos-de-gaming",
+      "url": "https://www.godzgames.com/noticias/guia-de-regalos-navidenos-2026-destaca-productos-de-gaming/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679137548_196.jpg",
+      "link": "https://gameinformer.com/gear/2026/11/25/holiday-gift-guide-2026",
+      "en": {
+        "title": "Holiday Gift Guide 2026 Highlights Gaming Products",
+        "description": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publi...",
+        "fullContent": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publication. The guide reports that it has examined a range of technology products, tabletop games, collectibles and other categories.\n\nOne of the featured items is a platform called The Board, which was recommended shortly after its launch. The guide notes that the platform now includes an expanded game library and a price lower than the initial launch price, listed at $399. The device displays a horizontally oriented screen that can show the backdrop of included games or add‑on titles, and each game uses physical play pieces that interact with the on‑screen action.\n\nThe guide also lists a new expansion for the Dungeons & Dragons ruleset, priced at $50, which adds subclasses, spells, creatures, magical items and factions. In addition, a Tomb Raider statue approximately nine inches tall, depicting the character in her original attire, is described as a collectible item."
+      },
+      "es": {
+        "title": "Guía de Regalos Navideños 2026 Destaca Productos de Gaming",
+        "description": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los a...",
+        "fullContent": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los artículos relevantes en la publicación. La guía indica que ha revisado una variedad de productos tecnológicos, juegos de mesa, coleccionables y otras categorías.\n\nUno de los artículos destacados es una plataforma llamada The Board, recomendada poco después de su lanzamiento. La guía señala que la plataforma ahora cuenta con una biblioteca de juegos ampliada y un precio inferior al del lanzamiento inicial, fijado en $399. El dispositivo muestra una pantalla horizontal que puede presentar el fondo de los juegos incluidos o de los títulos adicionales, y cada juego utiliza piezas físicas que interactúan con la acción en pantalla.\n\nLa guía también menciona una nueva expansión para el conjunto de reglas de Dungeons & Dragons, con un precio de $50, que incorpora nuevas subclases, hechizos, criaturas, objetos mágicos y facciones. Además, se describe una estatua de Tomb Raider de aproximadamente nueve pulgadas de altura, que representa al personaje con su vestimenta clásica, como un artículo de colección."
+      }
+    },
+    {
+      "id": "25472c419014b4876302539b3dc1ee72",
+      "tag": "NEWS",
+      "slug": "psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta",
+      "url": "https://www.godzgames.com/noticias/psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679142724_90.jpg",
+      "link": "https://www.gamebyte.com/video-games-for-depression/",
+      "en": {
+        "title": "Psychologist Rates Nine Video Games for Depression, Three Receive Perfect Score",
+        "description": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he cons...",
+        "fullContent": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he considers potentially beneficial for individuals experiencing depression. Each game was assessed on three criteria: ease of pick‑up, degree of help provided, and overall experience. The psychologist explained that his approach aligns with behavioural activation, a therapeutic method that encourages activities that generate joy, accomplishment, and social connection. He organized the games into three categories: those that promote positive feelings, those that offer small wins, and those that foster a sense of connection.\n\nThe first game presented in the list is Untitled Goose Game, which received a score of 9. According to the psychologist, the game involves playing as a goose that disrupts the daily routine of villagers, and its comedic situations, such as stealing a hat, are intended to elicit laughter. The shorter length of the title was cited as the reason it did not achieve a perfect 10. Three of the nine evaluated games were awarded a perfect score of 10, though their titles were not disclosed in the summary."
+      },
+      "es": {
+        "title": "Psicólogo califica nueve videojuegos para la depresión, tres obtienen puntuación perfecta",
+        "description": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntu...",
+        "fullContent": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntuaciones a nueve títulos que considera potencialmente útiles para personas que atraviesan una depresión. Cada juego fue valorado según tres criterios: facilidad para comenzar, medida de ayuda y experiencia global. El psicólogo explicó que su método se basa en la activación conductual, una técnica terapéutica que promueve actividades que generan alegría, sentido de logro y conexión social. Los videojuegos se agruparon en tres secciones: los que generan sensaciones positivas, los que brindan pequeñas victorias y los que favorecen la sensación de conexión.\n\nEl primer juego mencionado en la lista es Untitled Goose Game, al que se le otorgó una puntuación de 9. Según el psicólogo, el juego consiste en controlar a una oca que altera la rutina diaria de los habitantes de un pueblo, y situaciones como robar un sombrero están diseñadas para provocar risa. La duración más corta del título se citó como la razón por la que no alcanzó la puntuación máxima de 10. Tres de los nueve juegos evaluados recibieron una puntuación perfecta de 10, aunque sus nombres no se especificaron en el resumen."
+      }
+    },
+    {
+      "id": "dc537699ee7eefee4e36734594993a1b",
+      "tag": "NEWS",
+      "slug": "mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york",
+      "url": "https://www.godzgames.com/noticias/mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679144321_403.jpg",
+      "link": "https://local21news.com/news/local/over-6000-worth-of-video-games-jewelry-stolen-from-york-county-home-red-lion-pa-pennsylvania-nintendo-switch-console-police-investigation",
+      "en": {
+        "title": "More Than $6,000 in Video Games and Jewelry Stolen from York County Home",
+        "description": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue i...",
+        "fullContent": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue in Red Lion. The incident resulted in the theft of video games and jewelry valued at over $6,000.\n\nPennsylvania State Troopers are conducting an investigation into the case. No details regarding potential suspects have been released. The troopers listed the stolen items as video games and various pieces of jewelry."
+      },
+      "es": {
+        "title": "Más de $6,000 en videojuegos y joyas robados de una vivienda en el condado de York",
+        "description": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p...",
+        "fullContent": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p.m. del 10 de noviembre. En el robo se sustrajeron videojuegos y joyas cuyo valor supera los $6,000.\n\nLos patrulleros estatales de Pensilvania están investigando el hecho. No se ha divulgado información sobre posibles sospechosos. Según los oficiales, los objetos robados incluyen videojuegos y diversas piezas de joyería."
+      }
+    },
     {
       "id": "660b643256f37c58b3996fdc9d3f7539",
       "tag": "NEWS",
