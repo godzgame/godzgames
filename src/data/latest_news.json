@@ -1,94 +1,94 @@
 {
-  "updatedAt": 1795642073898,
+  "updatedAt": 1795679144417,
   "articles": [
-    {
-      "id": "660b643256f37c58b3996fdc9d3f7539",
-      "tag": "NEWS",
-      "slug": "autor-analiza-mecanicas-de-romance-en-videojuegos-y-destaca-grand-theft-auto-vi",
-      "url": "https://www.godzgames.com/noticias/autor-analiza-mecanicas-de-romance-en-videojuegos-y-destaca-grand-theft-auto-vi/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795642056995_123.jpg",
-      "link": "https://gameinformer.com/opinion/2026/11/24/i-hate-video-game-romance-heres-why-grand-theft-auto-vi-is-the-exception",
-      "en": {
-        "title": "Author Discusses Romance Mechanics in Video Games, Highlights Grand Theft Auto VI",
-        "description": "The author states a general dislike for romance mechanics in video games, describing them as often unconvincing and progressing quickly, with succe...",
-        "fullContent": "The author states a general dislike for romance mechanics in video games, describing them as often unconvincing and progressing quickly, with success typically achieved through a limited set of dialogues and gift exchanges. Specific examples mentioned include Baldur's Gate 3, Stardew Valley, and Date Everything, where the author outlines a typical gameplay loop involving conversation, sympathy for backstory, promises, and gifting to increase affinity ratings.\n\nIn contrast, the author notes that Grand Theft Auto VI presents a romance between the characters Jason and Lucia that feels more engaging, attributing this to quieter moments and slice‑of‑life mechanics. The author explains that Rockstar allocated additional development resources, allowing the romance to exist alongside other world elements, and mentions that the characters begin the game already dating, thereby bypassing the traditional courtship phase while keeping the relationship conditional and adjustable."
-      },
-      "es": {
-        "title": "Autor Analiza Mecánicas de Romance en Videojuegos y Destaca Grand Theft Auto VI",
-        "description": "El autor manifiesta una aversión general hacia las mecánicas de romance en los videojuegos, describiéndolas como poco convincentes y con un desarro...",
-        "fullContent": "El autor manifiesta una aversión general hacia las mecánicas de romance en los videojuegos, describiéndolas como poco convincentes y con un desarrollo rápido, donde el éxito se logra habitualmente mediante un conjunto limitado de diálogos y regalos. Entre los ejemplos citados se encuentran Baldur's Gate 3, Stardew Valley y Date Everything, y el autor detalla un bucle de juego típico que incluye conversaciones, empatía con la historia del personaje, promesas y obsequios para aumentar la afinidad.\n\nEn contraste, el autor señala que Grand Theft Auto VI presenta una relación entre los personajes Jason y Lucia que resulta más inmersiva, atribuyéndolo a momentos más tranquilos y mecánicas de estilo slice‑of‑life. Además, menciona que Rockstar destinó recursos de desarrollo adicionales, lo que permitió que el romance coexistiera con otros elementos del mundo del juego, y destaca que los personajes inician la partida ya en una relación, omitiendo la fase tradicional de cortejo mientras la relación sigue siendo condicional y modificable."
-      }
-    },
     {
       "id": "9ccf11257d909a7537febc66f1b913c2",
       "tag": "NEWS",
-      "slug": "ea-sports-fc-27-incluira-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson",
-      "url": "https://www.godzgames.com/noticias/ea-sports-fc-27-incluira-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795642063431_475.jpg",
+      "slug": "ea-sports-fc-27-incorporara-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson",
+      "url": "https://www.godzgames.com/noticias/ea-sports-fc-27-incorporara-la-voz-generada-por-ia-del-fallecido-comentarista-john-motson/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679135192_576.jpg",
       "link": "https://www.bbc.com/news/articles/c65y10j841jpo",
       "en": {
-        "title": "EA Sports FC 27 to feature AI-generated voice of late commentator John Motson",
-        "description": "Electronic Arts confirmed to the BBC that the upcoming edition of EA Sports FC will contain a digitally recreated voice of the late commentator Joh...",
-        "fullContent": "Electronic Arts confirmed to the BBC that the upcoming edition of EA Sports FC will contain a digitally recreated voice of the late commentator John Motson. The voice was synthesized using a combination of archival recordings and generative artificial intelligence.\n\nThe recreation was carried out with the consent of Motson's widow and his son, and it will be available in FC 27 when the game launches on 26 November. This is the first occasion the franchise, previously known as FIFA, has included a commentator who has passed away.\n\nJohn Motson, who died in February 2023 at the age of 77, served as the main commentator for BBC Sport for many years and provided commentary for the video‑game series during the 1990s and 2000s. His son, Fred Motson, told the BBC that having his father's voice in the game \"means an awful lot\"."
+        "title": "EA Sports FC 27 to Include AI-Generated Voice of Late Commentator John Motson",
+        "description": "Electronic Arts has confirmed to the BBC that the upcoming release of EA Sports FC 27 will feature a digitally recreated voice of the late John Mot...",
+        "fullContent": "Electronic Arts has confirmed to the BBC that the upcoming release of EA Sports FC 27 will feature a digitally recreated voice of the late John Motson. The voice was produced using a combination of archival recordings and generative artificial intelligence, following consent from Motson's widow and son.\n\nMotson, who passed away in February 2023 at the age of 77, previously served as a commentator for the FIFA video game series during the 1990s and 2000s. This marks the first instance of a deceased commentator being incorporated into the franchise, which was formerly known as FIFA. The updated commentary option will be available to players from the game's launch on 26 November."
       },
       "es": {
-        "title": "EA Sports FC 27 incluirá la voz generada por IA del fallecido comentarista John Motson",
-        "description": "Electronic Arts informó a la BBC que la próxima edición de EA Sports FC contará con una voz recreada digitalmente del fallecido comentarista John M...",
-        "fullContent": "Electronic Arts informó a la BBC que la próxima edición de EA Sports FC contará con una voz recreada digitalmente del fallecido comentarista John Motson. La voz fue sintetizada mediante la combinación de grabaciones de archivo y una inteligencia artificial generativa.\n\nLa recreación se realizó con la autorización de la viuda y del hijo de Motson, y estará disponible en FC 27 a partir del 26 de noviembre, fecha de lanzamiento del juego. Se trata de la primera vez que la serie, antes conocida como FIFA, incorpora a un comentarista fallecido.\n\nJohn Motson, quien murió en febrero de 2023 a los 77 años, fue el comentarista principal de BBC Sport durante varias décadas y participó en la serie de videojuegos en los años 90 y 2000. Su hijo, Fred Motson, declaró a la BBC que la presencia de la voz de su padre en el juego \"significa mucho\"."
+        "title": "EA Sports FC 27 incorporará la voz generada por IA del fallecido comentarista John Motson",
+        "description": "Electronic Arts ha comunicado a la BBC que la próxima edición de EA Sports FC 27 incluirá una voz recreada digitalmente del difunto John Motson. La...",
+        "fullContent": "Electronic Arts ha comunicado a la BBC que la próxima edición de EA Sports FC 27 incluirá una voz recreada digitalmente del difunto John Motson. La voz se obtuvo mediante la combinación de grabaciones de archivo y una inteligencia artificial generativa, con el permiso de la viuda y el hijo de Motson.\n\nMotson, quien falleció en febrero de 2023 a los 77 años, fue comentarista principal de la serie de videojuegos FIFA durante los años 90 y 2000. Esta es la primera vez que la franquicia, antes conocida como FIFA, incorpora a un comentarista fallecido. La opción de comentario estará disponible para los usuarios a partir del lanzamiento del juego, el 26 de noviembre."
       }
     },
     {
-      "id": "7e6b58a9909da9f465185d290a27a05b",
+      "id": "a8f11cb94f7751005430403d1ea89e32",
       "tag": "NEWS",
-      "slug": "take-two-solicita-eliminacion-de-proyecto-no-autorizado-de-gta-6-para-pc",
-      "url": "https://www.godzgames.com/noticias/take-two-solicita-eliminacion-de-proyecto-no-autorizado-de-gta-6-para-pc/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795642065785_53.jpg",
-      "link": "https://mashable.com/tech/gta-6-pc-port-project-shut-down-by-take-two",
+      "slug": "guia-de-regalos-navidenos-2026-destaca-productos-de-gaming",
+      "url": "https://www.godzgames.com/noticias/guia-de-regalos-navidenos-2026-destaca-productos-de-gaming/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679137548_196.jpg",
+      "link": "https://gameinformer.com/gear/2026/11/25/holiday-gift-guide-2026",
       "en": {
-        "title": "Take-Two Issues DMCA Takedown Against Unauthorized GTA 6 PC Port Project",
-        "description": "Take-Two Interactive, the parent company of Rockstar Games, submitted a Digital Millennium Copyright Act (DMCA) takedown request concerning a GitHu...",
-        "fullContent": "Take-Two Interactive, the parent company of Rockstar Games, submitted a Digital Millennium Copyright Act (DMCA) takedown request concerning a GitHub repository named \"Leonida\" that hosted an unofficial PC port of Grand Theft Auto VI. The notice, issued by Take-Two's IP Enforcement Team, identified the repository and more than 2,900 forks as infringing on copyrighted material belonging to Rockstar Games.\n\nThe project had been using an executable file of the Xbox version of the game that was previously released by a user known as Cyberleek. According to the DMCA notice, the repository facilitated copyright infringement of the title. Following the request, GitHub removed the repository and associated forks from the platform.\n\nGrand Theft Auto VI is currently available on Xbox Series X|S and PlayStation 5, while a PC version has not yet been announced. Take-Two indicated that it will continue to enforce its intellectual property rights in relation to the game."
+        "title": "Holiday Gift Guide 2026 Highlights Gaming Products",
+        "description": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publi...",
+        "fullContent": "The Holiday Gift Guide 2026 invites readers to consider gaming enthusiasts when selecting presents and suggests marking relevant items in the publication. The guide reports that it has examined a range of technology products, tabletop games, collectibles and other categories.\n\nOne of the featured items is a platform called The Board, which was recommended shortly after its launch. The guide notes that the platform now includes an expanded game library and a price lower than the initial launch price, listed at $399. The device displays a horizontally oriented screen that can show the backdrop of included games or add‑on titles, and each game uses physical play pieces that interact with the on‑screen action.\n\nThe guide also lists a new expansion for the Dungeons & Dragons ruleset, priced at $50, which adds subclasses, spells, creatures, magical items and factions. In addition, a Tomb Raider statue approximately nine inches tall, depicting the character in her original attire, is described as a collectible item."
       },
       "es": {
-        "title": "Take-Two solicita eliminación de proyecto no autorizado de GTA 6 para PC",
-        "description": "Take-Two Interactive, empresa matriz de Rockstar Games, presentó una solicitud de eliminación bajo la Ley de Derechos de Autor de la Era Digital (D...",
-        "fullContent": "Take-Two Interactive, empresa matriz de Rockstar Games, presentó una solicitud de eliminación bajo la Ley de Derechos de Autor de la Era Digital (DMCA) contra un repositorio de GitHub llamado \"Leonida\" que alojaba un puerto no oficial de Grand Theft Auto VI para PC. La notificación, emitida por el Equipo de Aplicación de Propiedad Intelectual de Take-Two, señaló que el repositorio y más de 2.900 bifurcaciones infringían material protegido por derechos de autor de Rockstar Games.\n\nEl proyecto utilizaba un archivo ejecutable de la versión de Xbox del juego que había sido difundido previamente por un usuario identificado como Cyberleek. Según la notificación DMCA, el repositorio facilitaba la infracción de los derechos de autor del título. Tras la solicitud, GitHub eliminó el repositorio y sus bifurcaciones de la plataforma.\n\nGrand Theft Auto VI está disponible en Xbox Series X|S y PlayStation 5, mientras que una versión para PC aún no ha sido anunciada. Take-Two ha señalado que continuará aplicando sus derechos de propiedad intelectual en relación con el juego."
+        "title": "Guía de Regalos Navideños 2026 Destaca Productos de Gaming",
+        "description": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los a...",
+        "fullContent": "La Guía de Regalos Navideños 2026 invita a los lectores a considerar a los aficionados a los videojuegos al elegir presentes y sugiere marcar los artículos relevantes en la publicación. La guía indica que ha revisado una variedad de productos tecnológicos, juegos de mesa, coleccionables y otras categorías.\n\nUno de los artículos destacados es una plataforma llamada The Board, recomendada poco después de su lanzamiento. La guía señala que la plataforma ahora cuenta con una biblioteca de juegos ampliada y un precio inferior al del lanzamiento inicial, fijado en $399. El dispositivo muestra una pantalla horizontal que puede presentar el fondo de los juegos incluidos o de los títulos adicionales, y cada juego utiliza piezas físicas que interactúan con la acción en pantalla.\n\nLa guía también menciona una nueva expansión para el conjunto de reglas de Dungeons & Dragons, con un precio de $50, que incorpora nuevas subclases, hechizos, criaturas, objetos mágicos y facciones. Además, se describe una estatua de Tomb Raider de aproximadamente nueve pulgadas de altura, que representa al personaje con su vestimenta clásica, como un artículo de colección."
       }
     },
     {
-      "id": "aaa92e811d2f2d0374bc32442cd5df75",
+      "id": "17b9d05b00700d6414c10b1968384b6c",
       "tag": "NEWS",
-      "slug": "grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia-y-se-convierte-en-el-lanzamiento-mediatico-mas-rentable",
-      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-3800-millones-de-dolares-en-su-primer-dia-y-se-convierte-en-el-lanzamiento-mediatico-mas-rentable/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795642070270_203.jpg",
-      "link": "https://www.thenation.com/article/society/grand-theft-auto-explainer-art-video-games/",
+      "slug": "estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed",
+      "url": "https://www.godzgames.com/noticias/estudiantes-de-la-universidad-de-washington-presentan-proyectos-en-el-demo-day-de-cseed/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679139745_235.jpg",
+      "link": "https://www.geekwire.com/2026/from-dorm-delivery-robots-to-real-world-video-games-uw-students-show-off-inventions/",
       "en": {
-        "title": "Grand Theft Auto VI Generates $3.8 Billion on First Day, Becomes Highest‑Grossing Media Release",
-        "description": "Grand Theft Auto VI was released last week by Rockstar Games as the latest entry in the franchise that has been described as the most lucrative med...",
-        "fullContent": "Grand Theft Auto VI was released last week by Rockstar Games as the latest entry in the franchise that has been described as the most lucrative media franchise on Earth. According to estimates, the game earned approximately $3.8 billion on its first day, a figure reported to exceed the opening revenues of the Avengers franchise, the Harry Potter and the Transphobic Author title, and the Super Bowl, making it the largest single cultural product in the current market.\n\nThe title is characterized as a sandbox crime simulator that permits players to engage in activities such as vehicle theft, drug distribution, confrontations with law‑enforcement characters, and other actions set in a loosely fictionalized representation of the state of Florida.\n\nObservers who are not regular video‑game players have posed questions about the reasons for the title’s commercial performance and its presence in public discourse. The author of the original commentary identifies as a father with a full‑time job who purchases a new video game roughly every six to eight weeks and allocates about ten hours per week to playing."
+        "title": "University of Washington students present projects at CSEED Buildspace Demo Day",
+        "description": "Last week, the Buildspace Demo Day organized by CSEED, a University of Washington student club, featured presentations from 60 undergraduate partic...",
+        "fullContent": "Last week, the Buildspace Demo Day organized by CSEED, a University of Washington student club, featured presentations from 60 undergraduate participants. The event took place amid ongoing discussions about the impact of recent AI developments on software engineering studies, including concerns that some coursework can be completed using chatbots.\n\nLeonard Paya, co‑president of CSEED, said, \"We’re seeing projects that normal college students would not be expected to make. As AI becomes more advanced, you can see how fast they scale up their knowledge and execute on things that are truly amazing.\" CSEED receives funding from the Paul G. Allen School of Computer Science & Engineering and venture‑capital firms AI House, Madrona and Pack Ventures. Former members of the club have joined startup incubators such as Y Combinator, Z Fellows and Founders Inc."
       },
       "es": {
-        "title": "Grand Theft Auto VI genera 3.800 millones de dólares en su primer día y se convierte en el lanzamiento mediático más rentable",
-        "description": "Grand Theft Auto VI se lanzó la semana pasada por Rockstar Games como la última entrega de la franquicia que ha sido descrita como la más lucrativa...",
-        "fullContent": "Grand Theft Auto VI se lanzó la semana pasada por Rockstar Games como la última entrega de la franquicia que ha sido descrita como la más lucrativa del planeta. Según estimaciones, el juego obtuvo alrededor de 3.800 millones de dólares en su primer día, cifra que se ha comparado con los ingresos iniciales de la saga de los Vengadores, del título Harry Potter and the Transphobic Author y del Super Bowl, posicionándolo como el producto cultural individual de mayor magnitud en la actualidad.\n\nEl juego se define como un simulador de crímenes de mundo abierto que permite a los jugadores realizar acciones como robar vehículos, vender drogas, enfrentarse a la policía y otras actividades dentro de una representación ligeramente ficticia del estado de Florida.\n\nPersonas que no son jugadoras habituales han formulado preguntas sobre las causas del desempeño comercial del título y su presencia en el discurso público. El autor del comentario original se describe como un padre con empleo a tiempo completo que adquiere un nuevo videojuego aproximadamente cada seis a ocho semanas y dedica alrededor de diez horas semanales a jugar."
+        "title": "Estudiantes de la Universidad de Washington presentan proyectos en el Demo Day de CSEED",
+        "description": "La semana pasada se celebró el Demo Day de Buildspace, organizado por CSEED, un club estudiantil de la Universidad de Washington, donde 60 estudian...",
+        "fullContent": "La semana pasada se celebró el Demo Day de Buildspace, organizado por CSEED, un club estudiantil de la Universidad de Washington, donde 60 estudiantes de pregrado mostraron sus proyectos. El evento se realizó en medio de debates sobre el impacto de los recientes avances en IA en los estudios de ingeniería de software, incluida la preocupación de que algunas tareas académicas puedan ser realizadas por chatbots.\n\nLeonard Paya, co‑presidente de CSEED, declaró: \"Estamos viendo proyectos que a estudiantes universitarios normales no se les esperaría crear. A medida que la IA avanza, se puede observar la rapidez con la que amplían sus conocimientos y ejecutan cosas realmente asombrosas.\" CSEED cuenta con financiación de la Paul G. Allen School of Computer Science & Engineering y de firmas de capital de riesgo como AI House, Madrona y Pack Ventures. Ex‑miembros del club han ingresado a incubadoras de startups como Y Combinator, Z Fellows y Founders Inc."
       }
     },
     {
-      "id": "77868196a9e2ad343d7075c78d8f9748",
+      "id": "25472c419014b4876302539b3dc1ee72",
       "tag": "NEWS",
-      "slug": "nuevo-grand-theft-auto-vi-incluye-elementos-de-juego-centrados-en-relaciones",
-      "url": "https://www.godzgames.com/noticias/nuevo-grand-theft-auto-vi-incluye-elementos-de-juego-centrados-en-relaciones/",
-      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795642073763_405.jpg",
-      "link": "https://www.bostonglobe.com/2026/11/25/lifestyle/grand-theft-auto-teaching-relationship-empathy/",
+      "slug": "psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta",
+      "url": "https://www.godzgames.com/noticias/psicologo-califica-nueve-videojuegos-para-la-depresion-tres-obtienen-puntuacion-perfecta/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679142724_90.jpg",
+      "link": "https://www.gamebyte.com/video-games-for-depression/",
       "en": {
-        "title": "New 'Grand Theft Auto VI' Includes Relationship-Focused Gameplay Elements",
-        "description": "Players report that within roughly an hour of playing the recently released 'Grand Theft Auto VI', they encounter a storyline in which the male pro...",
-        "fullContent": "Players report that within roughly an hour of playing the recently released 'Grand Theft Auto VI', they encounter a storyline in which the male protagonist, Jason, takes actions aimed at improving his home environment for his girlfriend. Specific actions described include purchasing flowers for her before her release from prison and ensuring she has appropriate clothing.\n\nThe game also retains traditional elements associated with the franchise, such as drug transactions, large-scale violence, theft, and shooting missions. In addition to these activities, the game presents relationship-oriented objectives that emphasize loyalty, self‑care, and communication. Players receive points for choices such as selecting a protein shake instead of a beer, resting, and holding hands with the partner. The inclusion of mechanics that aim to test or encourage empathy skills has been noted as a feature present in earlier video games, even when the narratives involve violent content."
+        "title": "Psychologist Rates Nine Video Games for Depression, Three Receive Perfect Score",
+        "description": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he cons...",
+        "fullContent": "A psychologist who regularly evaluates video games for mental health posted a new Instagram Reel in which he assigned scores to nine titles he considers potentially beneficial for individuals experiencing depression. Each game was assessed on three criteria: ease of pick‑up, degree of help provided, and overall experience. The psychologist explained that his approach aligns with behavioural activation, a therapeutic method that encourages activities that generate joy, accomplishment, and social connection. He organized the games into three categories: those that promote positive feelings, those that offer small wins, and those that foster a sense of connection.\n\nThe first game presented in the list is Untitled Goose Game, which received a score of 9. According to the psychologist, the game involves playing as a goose that disrupts the daily routine of villagers, and its comedic situations, such as stealing a hat, are intended to elicit laughter. The shorter length of the title was cited as the reason it did not achieve a perfect 10. Three of the nine evaluated games were awarded a perfect score of 10, though their titles were not disclosed in the summary."
       },
       "es": {
-        "title": "Nuevo 'Grand Theft Auto VI' Incluye Elementos de Juego Centrados en Relaciones",
-        "description": "Los jugadores indican que, aproximadamente una hora después de iniciar la partida del recién lanzado 'Grand Theft Auto VI', se encuentran con una t...",
-        "fullContent": "Los jugadores indican que, aproximadamente una hora después de iniciar la partida del recién lanzado 'Grand Theft Auto VI', se encuentran con una trama en la que el protagonista masculino, Jason, realiza acciones dirigidas a mejorar el hogar para su novia. Entre las acciones descritas se encuentran la compra de flores para ella antes de su liberación de la prisión y la provisión de ropa adecuada.\n\nEl título también mantiene los elementos tradicionales de la franquicia, como transacciones de drogas, violencia a gran escala, robos y misiones de disparos. Además de estas actividades, el juego presenta objetivos orientados a la relación que resaltan la lealtad, el autocuidado y la comunicación. Los jugadores obtienen puntos por decisiones como elegir un batido de proteína en lugar de una cerveza, descansar y tomarse de la mano con la pareja. La presencia de mecánicas que buscan evaluar o fomentar habilidades de empatía ha sido señalada como una característica presente en videojuegos anteriores, incluso cuando sus narrativas incluyen contenido violento."
+        "title": "Psicólogo califica nueve videojuegos para la depresión, tres obtienen puntuación perfecta",
+        "description": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntu...",
+        "fullContent": "Un psicólogo que habitualmente evalúa videojuegos desde la perspectiva de la salud mental publicó un nuevo Reel en Instagram en el que asignó puntuaciones a nueve títulos que considera potencialmente útiles para personas que atraviesan una depresión. Cada juego fue valorado según tres criterios: facilidad para comenzar, medida de ayuda y experiencia global. El psicólogo explicó que su método se basa en la activación conductual, una técnica terapéutica que promueve actividades que generan alegría, sentido de logro y conexión social. Los videojuegos se agruparon en tres secciones: los que generan sensaciones positivas, los que brindan pequeñas victorias y los que favorecen la sensación de conexión.\n\nEl primer juego mencionado en la lista es Untitled Goose Game, al que se le otorgó una puntuación de 9. Según el psicólogo, el juego consiste en controlar a una oca que altera la rutina diaria de los habitantes de un pueblo, y situaciones como robar un sombrero están diseñadas para provocar risa. La duración más corta del título se citó como la razón por la que no alcanzó la puntuación máxima de 10. Tres de los nueve juegos evaluados recibieron una puntuación perfecta de 10, aunque sus nombres no se especificaron en el resumen."
+      }
+    },
+    {
+      "id": "dc537699ee7eefee4e36734594993a1b",
+      "tag": "NEWS",
+      "slug": "mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york",
+      "url": "https://www.godzgames.com/noticias/mas-de-6000-en-videojuegos-y-joyas-robados-de-una-vivienda-en-el-condado-de-york/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795679144321_403.jpg",
+      "link": "https://local21news.com/news/local/over-6000-worth-of-video-games-jewelry-stolen-from-york-county-home-red-lion-pa-pennsylvania-nintendo-switch-console-police-investigation",
+      "en": {
+        "title": "More Than $6,000 in Video Games and Jewelry Stolen from York County Home",
+        "description": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue i...",
+        "fullContent": "York County, Pennsylvania – State police reported that a burglary took place on November 10 at approximately 3 p.m. at a residence on West Avenue in Red Lion. The incident resulted in the theft of video games and jewelry valued at over $6,000.\n\nPennsylvania State Troopers are conducting an investigation into the case. No details regarding potential suspects have been released. The troopers listed the stolen items as video games and various pieces of jewelry."
+      },
+      "es": {
+        "title": "Más de $6,000 en videojuegos y joyas robados de una vivienda en el condado de York",
+        "description": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p...",
+        "fullContent": "York County, Pensilvania – La Policía Estatal informó que una vivienda en West Avenue, Red Lion, fue objeto de un allanamiento alrededor de las 3 p.m. del 10 de noviembre. En el robo se sustrajeron videojuegos y joyas cuyo valor supera los $6,000.\n\nLos patrulleros estatales de Pensilvania están investigando el hecho. No se ha divulgado información sobre posibles sospechosos. Según los oficiales, los objetos robados incluyen videojuegos y diversas piezas de joyería."
       }
     }
   ]
