@@ -1,8 +1,98 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-27T07:45:10.059Z",
+  "lastUpdated": "2026-11-27T20:57:16.510Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "187d8eff69c8c89b22ded5a9d855d9c2",
+      "tag": "NEWS",
+      "slug": "todos-los-juegos-de-gta-clasificados",
+      "url": "https://www.godzgames.com/noticias/todos-los-juegos-de-gta-clasificados/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795765493088_491.jpg",
+      "link": "https://www.rollingstone.com/culture/rs-gaming-lists/gta-grand-theft-auto-games-ranked-1235661232/",
+      "en": {
+        "title": "All GTA Games Ranked",
+        "description": "Grand Theft Auto debuted in 1997 on PC and PlayStation, quickly achieving commercial success and later becoming a widely recognized entertainment b...",
+        "fullContent": "Grand Theft Auto debuted in 1997 on PC and PlayStation, quickly achieving commercial success and later becoming a widely recognized entertainment brand. The series expanded throughout the early 2000s and, as of this year, its latest installment, GTA VI, recorded first‑day revenues of $3.79 billion, surpassing the launch earnings of any other game or film and equating to the gross domestic product of a small nation.\n\nThe franchise is noted for its open‑world design, cinematic presentation, and player choice, elements that have been referenced by developers of subsequent titles across various genres. Appearances resembling the series are also common in movies and television programs that depict video‑game play. Politicians and advocacy groups have repeatedly cited the games in discussions about societal impact, highlighting themes such as violence and sexual content. The titles include scenarios involving criminal actions, while also portraying aspects of American culture, including themes of greed and hypocrisy, and presenting the concept of the American Dream as a pursuit that can be forced."
+      },
+      "es": {
+        "title": "Todos los juegos de GTA clasificados",
+        "description": "Grand Theft Auto se lanzó en 1997 para PC y PlayStation, logrando rápidamente un éxito comercial y convirtiéndose posteriormente en una marca de en...",
+        "fullContent": "Grand Theft Auto se lanzó en 1997 para PC y PlayStation, logrando rápidamente un éxito comercial y convirtiéndose posteriormente en una marca de entretenimiento ampliamente reconocida. La serie se expandió durante los primeros años del 2000 y, a partir de este año, su última entrega, GTA VI, registró ingresos del primer día de 3.790 millones de dólares, superando los ingresos de lanzamiento de cualquier otro juego o película y equivalentes al producto interno bruto de una nación pequeña.\n\nLa franquicia se destaca por su diseño de mundo abierto, su presentación cinematográfica y la libertad de elección del jugador, características que han sido citadas por desarrolladores de títulos posteriores en distintos géneros. Representaciones similares a la serie son comunes en películas y programas de televisión que muestran la jugabilidad de videojuegos. Políticos y grupos de defensa han mencionado repetidamente los juegos en debates sobre su impacto social, señalando temas como la violencia y el contenido sexual. Los títulos incluyen escenarios que involucran acciones delictivas, al tiempo que retratan aspectos de la cultura estadounidense, entre ellos la codicia y la hipocresía, y presentan el concepto del Sueño Americano como una meta que puede ser perseguida por la fuerza."
+      }
+    },
+    {
+      "id": "b21ce9f5a1c94e8ea6220b09f344e6aa",
+      "tag": "NEWS",
+      "slug": "el-ceo-de-taketwo-strauss-zelnick-dirige-su-rutina-matutina-de-entrenamiento",
+      "url": "https://www.godzgames.com/noticias/el-ceo-de-taketwo-strauss-zelnick-dirige-su-rutina-matutina-de-entrenamiento/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795765496559_717.jpg",
+      "link": "https://www.cnn.com/2026/11/26/business/strauss-zelnick-gta-vi-the-program",
+      "en": {
+        "title": "Take‑Two CEO Strauss Zelnick Leads Early Morning Workout Routine",
+        "description": "Strauss Zelnick, 69, chief executive of Take‑Two Interactive, arrived at a New York City gym at 6:30 a.m. for a strength‑training session with the ...",
+        "fullContent": "Strauss Zelnick, 69, chief executive of Take‑Two Interactive, arrived at a New York City gym at 6:30 a.m. for a strength‑training session with the Program, the exercise group he founded. He inspected each station to verify that the weights, repetitions and timing matched the circuit he had designed the night before.\n\nZelnick, who remained slim into his thirties, has become a regular fitness practitioner, working out twice a day and using the sessions as business and mentoring meetings. The author, who has known Zelnick for 25 years, began training with him and the Program in recent years.\n\nThe source notes that Zelnick’s emphasis on thoroughness is reflected in Take‑Two’s development schedule for Grand Theft Auto VI. The previous entry in the series was released 13 years ago, and the project has undergone three public delays, accompanied by investor and fan reactions, as the company seeks to deliver a product described as “exceptional.”"
+      },
+      "es": {
+        "title": "El CEO de Take‑Two, Strauss Zelnick, dirige su rutina matutina de entrenamiento",
+        "description": "Strauss Zelnick, de 69 años, director ejecutivo de Take‑Two Interactive, llegó a un gimnasio de la ciudad de Nueva York a las 6:30 a.m. para una se...",
+        "fullContent": "Strauss Zelnick, de 69 años, director ejecutivo de Take‑Two Interactive, llegó a un gimnasio de la ciudad de Nueva York a las 6:30 a.m. para una sesión de entrenamiento de fuerza con el Program, el grupo de ejercicio que él fundó. Inspeccionó cada estación para confirmar que los pesos, repeticiones y tiempos coincidían con el circuito que había diseñado la noche anterior.\n\nZelnick, que se mantuvo delgado hasta sus treinta años, se ha convertido en un practicante habitual de la actividad física, entrenando dos veces al día y utilizando esas sesiones como reuniones de negocio y mentoría. El autor, que conoce a Zelnick desde hace 25 años, comenzó a entrenar con él y con el Program en los últimos años.\n\nLa fuente indica que la atención de Zelnick a la exhaustividad se refleja en el calendario de desarrollo de Grand Theft Auto VI por parte de Take‑Two. La entrega anterior de la serie se realizó hace 13 años, y el proyecto ha experimentado tres retrasos públicos, junto con reacciones de inversionistas y fanáticos, mientras la compañía busca entregar un producto descrito como “excepcional”."
+      }
+    },
+    {
+      "id": "43d8251dc22046ff4633e3602a010e37",
+      "tag": "NEWS",
+      "slug": "la-experta-en-ciudades-virtuales-emma-fraser-explica-el-realismo-de-la-version-de-florida-en-gta-vi",
+      "url": "https://www.godzgames.com/noticias/la-experta-en-ciudades-virtuales-emma-fraser-explica-el-realismo-de-la-version-de-florida-en-gta-vi/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795765502247_835.jpg",
+      "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "en": {
+        "title": "Virtual city expert Emma Fraser explains realism in GTA VI's Florida setting",
+        "description": "The article reports that Emma Fraser, a specialist in virtual city design, explained the elements that contribute to the realistic representation o...",
+        "fullContent": "The article reports that Emma Fraser, a specialist in virtual city design, explained the elements that contribute to the realistic representation of Florida in Rockstar Games' upcoming open‑world title, Grand Theft Auto VI. Fraser described the design choices, environmental details, and mapping techniques employed by Rockstar to recreate the state's landscape and urban areas.\n\nThe piece also includes standard platform notices stating that posts from the topic and from the author will be added to users' daily email digests and homepage feeds."
+      },
+      "es": {
+        "title": "La experta en ciudades virtuales Emma Fraser explica el realismo de la versión de Florida en GTA VI",
+        "description": "El artículo indica que Emma Fraser, especialista en diseño de ciudades virtuales, explicó los elementos que aportan al realismo de la representació...",
+        "fullContent": "El artículo indica que Emma Fraser, especialista en diseño de ciudades virtuales, explicó los elementos que aportan al realismo de la representación de Florida en el próximo título de mundo abierto de Rockstar Games, Grand Theft Auto VI. Fraser describió las decisiones de diseño, los detalles ambientales y las técnicas de cartografía que Rockstar utilizó para recrear el paisaje y las áreas urbanas del estado.\n\nEl texto también incluye avisos habituales de la plataforma que señalan que las publicaciones del tema y del autor se añadirán a los resúmenes diarios por correo electrónico y al feed de la página principal."
+      }
+    },
+    {
+      "id": "ac85f4de5e89ab1c442335fbb25fb282",
+      "tag": "NEWS",
+      "slug": "encuesta-muestra-que-el-66-de-jugadores-de-gta-vi-prefieren-misiones-opcionales-de-tareas-domesticas-mientras-varias-personalidades-en-linea-critican-el-contenido",
+      "url": "https://www.godzgames.com/noticias/encuesta-muestra-que-el-66-de-jugadores-de-gta-vi-prefieren-misiones-opcionales-de-tareas-domesticas-mientras-varias-personalidades-en-linea-critican-el-contenido/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795765506624_749.jpg",
+      "link": "https://www.yahoo.com/lifestyle/articles/young-americans-agree-gta-vi-113000582.html",
+      "en": {
+        "title": "Poll shows 66% of GTA VI players favor optional chore missions, while several online personalities criticize the content",
+        "description": "A poll of American players of Grand Theft Auto VI indicates that 66% consider the game's optional chore missions to improve the overall experience....",
+        "fullContent": "A poll of American players of Grand Theft Auto VI indicates that 66% consider the game's optional chore missions to improve the overall experience. These missions include activities such as buying groceries for a girlfriend, purchasing flowers, and assisting with apartment redecorating.\n\nOn November 18, the day before the game's release, streamer Braden Peters, known online as Clavicular, posted on X that he viewed the game as emasculating and that half of the missions involve \"jestermaxing\" and \"simping\" for women. The following day, podcaster Myron Gaines posted a comment linking the game's direction to political correctness, inclusivity and feminism, and noted that the protagonist appears to be influenced by his girlfriend. Streamer Zack Hoyt, known as Asmongold, expressed during a live broadcast that he would need to watch television with a character named Lucia, perform tasks such as foot rubs, and consider buying tampons.\n\nA user on X shared a screenshot of a mission titled \"Flowers for a Lady,\" which requires the player to arrange a flower delivery for Lucia, and described the game as \"woke slop\" and suggested it was created by women. The term \"jestermaxxing,\" as defined in looksmaxxing forums, refers to acting clownish around women to compensate for perceived deficiencies."
+      },
+      "es": {
+        "title": "Encuesta muestra que el 66% de jugadores de GTA VI prefieren misiones opcionales de tareas domésticas, mientras varias personalidades en línea critican el contenido",
+        "description": "Una encuesta realizada entre jugadores estadounidenses de Grand Theft Auto VI indica que el 66% considera que las misiones opcionales de tareas dom...",
+        "fullContent": "Una encuesta realizada entre jugadores estadounidenses de Grand Theft Auto VI indica que el 66% considera que las misiones opcionales de tareas domésticas mejoran la experiencia del juego. Estas misiones incluyen actividades como comprar víveres para una novia, adquirir flores y ayudar a redecorar un apartamento.\n\nEl 18 de noviembre, un día antes del lanzamiento del juego, el streamer Braden Peters, conocido como Clavicular, publicó en X que percibía el juego como emasculador y que la mitad de las misiones implican \"jestermaxing\" y \"simping\" para mujeres. Al día siguiente, el podcaster Myron Gaines publicó un comentario relacionando la dirección del juego con la corrección política, la inclusión y el feminismo, y señaló que el protagonista parece estar influenciado por su novia. El streamer Zack Hoyt, conocido como Asmongold, expresó durante una transmisión en vivo que tendría que ver televisión con un personaje llamado Lucia, realizar acciones como masajearle los pies y considerar la compra de tampones.\n\nUn usuario de X compartió una captura de pantalla de una misión titulada \"Flores para una Dama\", en la que el jugador debe organizar una entrega de flores para Lucia, y describió el juego como \"woke slop\" y sugirió que fue creado por mujeres. El término \"jestermaxxing\", según los foros de looksmaxxing, se define como actuar de forma bufonesca alrededor de mujeres para compensar supuestas carencias."
+      }
+    },
+    {
+      "id": "7e7a16099019e236a6ced2bf0def3302",
+      "tag": "NEWS",
+      "slug": "computer-video-games-realiza-una-reestructuracion-editorial-en-1995",
+      "url": "https://www.godzgames.com/noticias/computer-video-games-realiza-una-reestructuracion-editorial-en-1995/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795765509924_699.jpg",
+      "link": "https://www.timeextension.com/features/the-quest-to-save-computer-and-video-games-the-uks-first-games-magazine",
+      "en": {
+        "title": "Computer & Video Games undergoes editorial overhaul in 1995",
+        "description": "In early summer 1995, a journalist presented a proposal to assume an editorial position at Computer & Video Games (CVG) after being encouraged by c...",
+        "fullContent": "In early summer 1995, a journalist presented a proposal to assume an editorial position at Computer & Video Games (CVG) after being encouraged by colleague Tom Guise, indicating an intended partnership. At that time, CVG was identified as the world’s oldest games magazine and had previously introduced the publication Mean Machines. By 1995, its monthly circulation had fallen to approximately 25,000 copies, a reduction from the more than 100,000 copies reported in the mid‑1980s. Competing titles included Nintendo Magazine System, Official SEGA, CU Amiga, and Future’s EDGE, while EMAP had paired CVG with the music monthly Q.\n\nFollowing the resignation of the sales and marketing manager, the editorial team was restructured. The author, Tom Guise, and contributor Ed Lomas were assembled from other magazines within the same building. Graham Taylor, the EMAP Images manager, was on a two‑week holiday and left instructions to implement a comprehensive redesign, which the team interpreted as a mandate for a full overhaul."
+      },
+      "es": {
+        "title": "Computer & Video Games realiza una reestructuración editorial en 1995",
+        "description": "A principios del verano de 1995, un periodista presentó una propuesta para ocupar un puesto editorial en Computer & Video Games (CVG) tras ser inci...",
+        "fullContent": "A principios del verano de 1995, un periodista presentó una propuesta para ocupar un puesto editorial en Computer & Video Games (CVG) tras ser incitado por su colega Tom Guise, indicando la intención de una colaboración. En ese momento, CVG se describía como la revista de videojuegos más antigua del mundo y había sido la creadora de la publicación Mean Machines. Para 1995, su tirada mensual había descendido a alrededor de 25.000 ejemplares, comparado con más de 100.000 ejemplares en la mitad de los años 80. Entre sus competidores se encontraban Nintendo Magazine System, Official SEGA, CU Amiga y EDGE de Future, mientras EMAP había asociado a CVG con la revista mensual de música Q.\n\nTras la renuncia del responsable de ventas y marketing, el equipo editorial fue reorganizado. El autor, Tom Guise y el colaborador Ed Lomas fueron incorporados desde otras revistas del mismo edificio. Graham Taylor, director de EMAP Images, estaba de vacaciones durante dos semanas y dejó instrucciones para llevar a cabo una revisión completa, lo que el equipo interpretó como una orden para una reestructuración integral."
+      }
+    },
     {
       "id": "86fe936a02fada05ea78ab6194848495",
       "tag": "NEWS",
