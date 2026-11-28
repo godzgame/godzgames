@@ -1,8 +1,80 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-11-27T20:57:16.510Z",
+  "lastUpdated": "2026-11-28T07:13:27.925Z",
   "description": "Historical archive of all GodZGames news articles",
   "articles": [
+    {
+      "id": "e8d9b909b3582e96a7f969762b10bc53",
+      "tag": "NEWS",
+      "slug": "grand-theft-auto-vi-genera-3800-millones-en-su-primer-dia-13-anos-despues-del-anterior",
+      "url": "https://www.godzgames.com/noticias/grand-theft-auto-vi-genera-3800-millones-en-su-primer-dia-13-anos-despues-del-anterior/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795813027717_731.jpg",
+      "link": "https://www.vox.com/podcasts/511783/grand-theft-auto-vi-video-game-industry-ai",
+      "en": {
+        "title": "Grand Theft Auto VI generates $3.8 billion on first day, 13 years after previous installment",
+        "description": "Grand Theft Auto VI launched last week, arriving 13 years after the prior entry in the series. Rockstar Games reported that the title earned approx...",
+        "fullContent": "Grand Theft Auto VI launched last week, arriving 13 years after the prior entry in the series. Rockstar Games reported that the title earned approximately $3.8 billion in its first day of sales, a figure that exceeds the total worldwide box‑office revenue of Avengers: Endgame. Development of the game lasted more than eight years, and Rockstar's workforce grew to over 4,700 employees worldwide during that period.\n\nThe game is set in Leonida, a fictional representation of Florida that includes a recreation of Vice City, the series’ version of Miami. Players control a couple, Jason and Lucia, who are depicted as trying to support their young family while engaging in the series’ traditional criminal activities. The narrative emphasizes maintaining their relationship alongside mission objectives.\n\nTo discuss the release, the commercial performance, and broader industry considerations, Today, Explained co‑host Sean Rameswaram interviewed video‑game journalist Chris Plante, host of the Post Games podcast. The conversation covered the development timeline, prospects for future downloadable content, and the context of industry challenges such as layoffs and the emergence of generative AI."
+      },
+      "es": {
+        "title": "Grand Theft Auto VI genera 3.800 millones en su primer día, 13 años después del anterior",
+        "description": "Grand Theft Auto VI se lanzó la semana pasada, 13 años después de la entrega anterior de la saga. Rockstar Games informó que el juego obtuvo alrede...",
+        "fullContent": "Grand Theft Auto VI se lanzó la semana pasada, 13 años después de la entrega anterior de la saga. Rockstar Games informó que el juego obtuvo alrededor de 3.800 millones de dólares en su primer día de ventas, cifra que supera la recaudación total en taquilla mundial de Avengers: Endgame. El desarrollo duró más de ocho años y la plantilla de Rockstar aumentó a más de 4.700 empleados en todo el mundo durante ese proceso.\n\nEl título se sitúa en Leonida, una representación ficticia de Florida que incluye Vice City, la versión de la serie de Miami. Los jugadores controlan a una pareja, Jason y Lucia, que intentan mantener a su familia mientras participan en actividades criminales típicas de la franquicia. La narrativa destaca la importancia de mantener su relación junto a los objetivos de misión.\n\nPara abordar el lanzamiento, el desempeño comercial y el contexto más amplio de la industria, el co‑presentador de Today, Explained, Sean Rameswaram, entrevistó al periodista de videojuegos Chris Plante, anfitrión del podcast Post Games. La charla incluyó la trayectoria de desarrollo, la posibilidad de contenido descargable futuro y los desafíos actuales del sector, como los despidos y la aparición de la inteligencia artificial generativa."
+      }
+    },
+    {
+      "id": "2c5479bc96b2994034bca637712aa3a9",
+      "tag": "NEWS",
+      "slug": "canciones-de-la-banda-sonora-de-gta-6-entran-en-la-lista-de-singles-del-reino-unido",
+      "url": "https://www.godzgames.com/noticias/canciones-de-la-banda-sonora-de-gta-6-entran-en-la-lista-de-singles-del-reino-unido/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795813030781_896.jpg",
+      "link": "https://www.bbc.com/news/articles/ckp80d8vz1ego",
+      "en": {
+        "title": "GTA 6 soundtrack tracks enter UK Singles Chart",
+        "description": "Grand Theft Auto 6 has generated significant online activity since its launch last week. The official soundtrack of the game includes the single \"F...",
+        "fullContent": "Grand Theft Auto 6 has generated significant online activity since its launch last week. The official soundtrack of the game includes the single \"Flower In A Hurricane\" by Justice featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard, which reached number three on the United Kingdom's Official Singles Chart. A new track recorded for the game, \"Go Easy\" by Dua Lipa, entered the chart at number 21.\n\nSeven additional songs recorded for GTA 6 by artists such as Lana Del Rey, Travis Scott and Morgan Wallen also appear within the top 100 positions. Video game music has previously topped the UK chart when Robbie Williams' \"It’s Only Us\", recorded for the FIFA 2000 soundtrack, reached number one."
+      },
+      "es": {
+        "title": "Canciones de la banda sonora de GTA 6 entran en la lista de singles del Reino Unido",
+        "description": "Grand Theft Auto 6 ha generado una notable presencia en línea desde su lanzamiento la semana pasada. La banda sonora oficial del juego incluye el s...",
+        "fullContent": "Grand Theft Auto 6 ha generado una notable presencia en línea desde su lanzamiento la semana pasada. La banda sonora oficial del juego incluye el sencillo \"Flower In A Hurricane\" de Justice con la participación de Tame Impala, SZA y King Gizzard & The Lizard Wizard, que alcanzó el número tres en la Official Singles Chart del Reino Unido. Un tema nuevo grabado para el juego, \"Go Easy\" de Dua Lipa, debutó en la posición 21.\n\nSiete canciones adicionales grabadas para GTA 6 por artistas como Lana Del Rey, Travis Scott y Morgan Wallen también se encuentran dentro de los primeros 100 puestos. La música de videojuegos ha encabezado previamente la lista británica cuando \"It’s Only Us\" de Robbie Williams, compuesta para la banda sonora de FIFA 2000, llegó al número uno."
+      }
+    },
+    {
+      "id": "b5c0bf042cf13e83df0081f84f7be399",
+      "tag": "NEWS",
+      "slug": "10-ofertas-de-videojuegos-de-20-o-menos-durante-las-rebajas-de-black-friday",
+      "url": "https://www.godzgames.com/noticias/10-ofertas-de-videojuegos-de-20-o-menos-durante-las-rebajas-de-black-friday/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795813033942_144.jpg",
+      "link": "https://www.ign.com/articles/excellent-game-deals-for-20-dollars-or-less-in-black-friday-sales",
+      "en": {
+        "title": "10 Video Game Discounts of $20 or Less Available During Black Friday Sale",
+        "description": "Black Friday promotions this year include a range of video game discounts across several retailers. This report lists ten titles that are priced at...",
+        "fullContent": "Black Friday promotions this year include a range of video game discounts across several retailers. This report lists ten titles that are priced at $20 or less.\n\nFor PlayStation 5, Final Fantasy VII Rebirth and Elden Ring are each listed at $15, while the 2024 release Silent Hill 2, Metaphor: ReFantazio and Death Stranding Director’s Cut are each priced at $20. On Nintendo Switch, Final Fantasy VII Remake Intergrade is offered for $20. For Xbox Series X, Borderlands 4 and Sonic Racing: CrossWorlds are both priced at $20; the same two titles are also available for PlayStation 5, with Borderlands 4 listed at $15 on that platform.\n\nResident Evil titles are also included: Resident Evil Village for PS5 is $18, Resident Evil 4 remake is $14, and the remakes of Resident Evil 2, Resident Evil 3 and Resident Evil 7 are each $13. The article notes that additional offers above $20 are covered in a separate list of the 30 best Black Friday gaming deals. The piece is authored by freelancer Hannah Hoolihan, who writes with the commerce team at IGN."
+      },
+      "es": {
+        "title": "10 Ofertas de videojuegos de $20 o menos durante las rebajas de Black Friday",
+        "description": "Las promociones de Black Friday de este año incluyen una variedad de descuentos en videojuegos en varios minoristas. Este informe enumera diez títu...",
+        "fullContent": "Las promociones de Black Friday de este año incluyen una variedad de descuentos en videojuegos en varios minoristas. Este informe enumera diez títulos cuyo precio es de $20 o menos.\n\nPara PlayStation 5, Final Fantasy VII Rebirth y Elden Ring aparecen a $15 cada uno, mientras que Silent Hill 2 (versión 2024), Metaphor: ReFantazio y Death Stranding Director’s Cut están a $20 cada uno. En Nintendo Switch, Final Fantasy VII Remake Intergrade se ofrece a $20. En Xbox Series X, Borderlands 4 y Sonic Racing: CrossWorlds están a $20; los mismos dos títulos también están disponibles para PlayStation 5, con Borderlands 4 a $15 en esa plataforma.\n\nLos títulos de Resident Evil también están incluidos: Resident Evil Village para PS5 cuesta $18, el remake de Resident Evil 4 cuesta $14, y los remakes de Resident Evil 2, Resident Evil 3 y Resident Evil 7 están a $13 cada uno. El artículo indica que otras ofertas superiores a $20 se detallan en una lista separada de las 30 mejores ofertas de videojuegos de Black Friday. El texto está escrito por la freelancer Hannah Hoolihan, quien colabora con el equipo de comercio de IGN."
+      }
+    },
+    {
+      "id": "57020d7fd73ccf417e633dd99c1568d9",
+      "tag": "NEWS",
+      "slug": "descuentos-de-50-en-paquetes-de-nintendo-switch-2-para-black-friday",
+      "url": "https://www.godzgames.com/noticias/descuentos-de-50-en-paquetes-de-nintendo-switch-2-para-black-friday/",
+      "image": "https://raw.githubusercontent.com/godzgame/godzgames/main/public/uploads/news_1795813036414_735.jpg",
+      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
+      "en": {
+        "title": "Nintendo Switch 2 Bundles Discounted by $50 for Black Friday",
+        "description": "Nintendo typically maintains stable prices for its first‑party titles, but several Black Friday promotions have been identified for official Ninten...",
+        "fullContent": "Nintendo typically maintains stable prices for its first‑party titles, but several Black Friday promotions have been identified for official Nintendo Switch 2 bundles, Switch 2 games, and legacy Switch titles. The offers are available on the official Nintendo Store and are expected to appear at major retail chains. The Legend of Zelda: Ocarina of Time is not included in the current list, and additional deals will be added as they become available.\n\nThe primary bundle highlighted combines a Nintendo Switch 2 console, a complete download of Mario Kart World, and a 90‑day Nintendo Switch Online Individual Membership. The package is priced at $500, representing a $50 reduction from the standard price.\n\nA second bundle also includes a Nintendo Switch 2 console and a 90‑day Nintendo Switch Online Individual Membership, paired with the Nintendo Switch Sports Resort game. The announcement was updated on 27 November to incorporate more third‑party games, accessories, and verified pricing."
+      },
+      "es": {
+        "title": "Descuentos de $50 en paquetes de Nintendo Switch 2 para Black Friday",
+        "description": "Nintendo suele mantener precios estables para sus títulos de primera parte, pero se han detectado varias promociones de Black Friday para paquetes ...",
+        "fullContent": "Nintendo suele mantener precios estables para sus títulos de primera parte, pero se han detectado varias promociones de Black Friday para paquetes oficiales de Nintendo Switch 2, juegos para Switch 2 y títulos originales de Switch. Las ofertas están disponibles en la tienda oficial de Nintendo y se espera que aparezcan en los principales minoristas. The Legend of Zelda: Ocarina of Time no está incluido en la lista actual, y se agregarán más ofertas a medida que aparezcan.\n\nEl paquete principal combina una consola Nintendo Switch 2, una descarga completa de Mario Kart World y una suscripción individual de Nintendo Switch Online de 90 días. El conjunto tiene un precio de $500, lo que supone una reducción de $50 respecto al precio habitual.\n\nOtro paquete incluye también una consola Nintendo Switch 2 y una suscripción individual de Nintendo Switch Online de 90 días, junto con el juego Nintendo Switch Sports Resort. La información se actualizó el 27 de noviembre para añadir más juegos de terceros, accesorios y precios verificados."
+      }
+    },
     {
       "id": "187d8eff69c8c89b22ded5a9d855d9c2",
       "tag": "NEWS",
